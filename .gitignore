@@ -40,8 +40,6 @@ linkedin-session*
 *.jpeg
 *.gif
 *.webp
-!assets/*.png
-!assets/*.jpg
 
 # ===================
 # DEPENDENCIES & BUILDS
@@ -80,15 +78,3 @@ Thumbs.db
 
 # Claude (local settings)
 .claude/
-
-# ===================
-# KEEP THESE
-# ===================
-# Keep structure folders
-agents/
-assets/
-content/
-scripts/
-series/
-output/
-projects/
