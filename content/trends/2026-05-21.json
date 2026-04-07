@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-21",
+  "week": "2026-W21",
+  "trending": [
+    {"rank": 1, "topic": "Mandalorian & Grogu — TOMORROW May 22 PREMIERE (FINAL COUNTDOWN)", "platform": "TikTok / YouTube / Instagram", "hashtags": ["#mandalorian", "#grogu", "#starwars", "#mando2026", "#may22", "#starwarstok", "#disneyplus"], "potential_views": "100M+", "competition": "low", "content_pillar": "trending_aesthetic"},
+    {"rank": 2, "topic": "Graduation Aftermath — Month 2 of Job Searching", "platform": "TikTok / YouTube / Twitter", "hashtags": ["#newgrad2026", "#CareerTok", "#jobmarket2026", "#classof2026", "#graduation2026", "#month2", "#genzcareer"], "potential_views": "50M+", "competition": "medium", "content_pillar": "motivation"},
+    {"rank": 3, "topic": "'Becoming Unrecognizable' — Summer Body Season Peak", "platform": "TikTok / Instagram / YouTube", "hashtags": ["#becomingunrecognizable", "#summerbody", "#summerprep2026", "#glowup2026", "#6weekchallenge"], "potential_views": "30M+", "competition": "low", "content_pillar": "hot_girl_fitness"},
+    {"rank": 4, "topic": "Summer Aesthetic — FULLY ACTIVE (Beach/Outdoor/Pool)", "platform": "TikTok / Instagram / YouTube", "hashtags": ["#summervibes", "#summer2026", "#beachaesthetic", "#poolday", "#summertok", "#beachvibes"], "potential_views": "30M+", "competition": "low", "content_pillar": "trending_aesthetic"},
+    {"rank": 5, "topic": "Microshifting — First-Mover Window CLOSING", "platform": "TikTok / YouTube Shorts", "hashtags": ["#microshifting", "#productivitytok", "#flexibleschedule", "#genzwork", "#sidehustle"], "potential_views": "20M+", "competition": "low", "content_pillar": "tech_ai"},
+    {"rank": 6, "topic": "Gen Z 'Romanticizing' Their 9-5 — Ongoing Coping Trend", "platform": "TikTok / YouTube", "hashtags": ["#romanticizeyourlife", "#9to5life", "#officevibes", "#genzwork", "#worklifebalance"], "potential_views": "20M+", "competition": "low", "content_pillar": "lifestyle"},
+    {"rank": 7, "topic": "UGC / Side Hustle Content — Continued Evergreen", "platform": "TikTok / YouTube", "hashtags": ["#ugc", "#sidehustle2026", "#contentcreator", "#genzfinance", "#extracash"], "potential_views": "15M+", "competition": "low", "content_pillar": "tech_ai"},
+    {"rank": 8, "topic": "TikTok Lock In Culture — 'Irreplaceable Instinct'", "platform": "TikTok / YouTube Shorts", "hashtags": ["#lockin", "#hygiene", "#realtalk", "#grounded", "#disciplineera"], "potential_views": "25M+", "competition": "medium", "content_pillar": "motivation"},
+    {"rank": 9, "topic": "Mandalorian Premiere Watch Party Content — May 22-24", "platform": "TikTok / YouTube / Twitter", "hashtags": ["#mandalorian", "#grogu", "#mando2026", "#starwarspremiere", "#disneyplus"], "potential_views": "40M+", "competition": "very low", "content_pillar": "trending_aesthetic"},
+    {"rank": 10, "topic": "Memorial Day Weekend Preview — May 23-26", "platform": "TikTok / Instagram / YouTube", "hashtags": ["#memorialdayweekend", "#summervibes", "#holidayweekend", "#summertok", "#beachvibes"], "potential_views": "25M+", "competition": "very low", "content_pillar": "trending_aesthetic"}
+  ],
+  "sources": ["TikTok @mando2026", "NYT Mar 24 2026", "Guardian Jan 6 2026", "LinkedIn Mar 19 2026", "HeyOrca May 2026 Social Media Calendar"],
+  "w22_anchors": {
+    "memorial_day": "May 25 (US) — biggest summer kickoff holiday",
+    "mandalorian_reactions": "May 22 premiere — reactions through May 26",
+    "microshifting_deadline": "Publish by May 30 or miss first-mover window",
+    "gen_z_job_crisis": "Month 2-3 grads — maximum pain continues",
+    "summer_aesthetic": "Fully active beach/outdoor/pool — peak algorithm favor"
+  }
+}

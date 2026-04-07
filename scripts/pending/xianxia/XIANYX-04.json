@@ -1,0 +1,201 @@
+﻿{
+  "id": "XIANYX-04",
+  "title": "Thanh Van Mon Episode 1: The Butterfly's Prison",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 1,
+  "audience": "Fans of Chinese fantasy, cultivation/xianxia drama viewers, 18-35 demographic who enjoy ethereal beauty, butterfly/moth symbolism, tragic transformation, and visually stunning Coachella-aesthetic fantasy storytelling",
+  "tone": "Ethereal, melancholic, hauntingly beautiful, dreamy, bittersweet, atmospheric, visually lush",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "In the cultivation world, disciples seek power, immortality, and supremacy. But the most powerful force was always the one they refused to see — the trapped soul begging to be set free.",
+    "story_arc": "Beautiful bamboo prison → The caged butterfly awakens → The forbidden discovery → A soul weeps inside the jade → The first flutter",
+    "emotion": "Melancholic beauty → Haunting stillness → Wonder and unease → Pity and recognition → Quiet determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide establishing shot — a young man stands at the edge of an impossibly beautiful bamboo forest valley at dawn. Pale blue-green morning mist drifts between towering bamboo stalks that rise endlessly upward. Dew glistens on every leaf. A single ray of golden sunlight breaks through the canopy, illuminating floating blue-white motes of spiritual dust. He wears simple white inner robes beneath light blue sect robes — disciple rank. He is beautiful androgynous, delicate features, long lashes, sorrowful dark eyes that hold ancient weariness despite his youth. He stares upward at the bamboo canopy, trapped in this beautiful prison. Camera: extreme wide establishing shot, slow dolly in through the bamboo toward him. 6 seconds.",
+      "camera": "Dolly in — extreme wide through bamboo to him, 6s",
+      "narration": "In the great Azure Bamboo Valley, where the air itself tasted of spiritual power, the sect's most talented disciples came to ascend. But no one ever spoke of the ones who came to suffer.",
+      "sfx": "Bamboo creaking gently, dew dripping from leaves, soft wind through hollow bamboo stalks, distant bell, breathing slowly"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — his fingers hover over a pendant hanging at his chest. A small irregular jade disc, cloudy pale blue-green like bamboo sap, with a single trapped butterfly perfectly preserved inside — blue with silver-white wing edges, impossibly alive-looking. This is his only possession from before the sect took him in. The butterfly inside has not moved in all the years he has worn it. He holds it gently. His thumb traces the jade. His eyes are distant, remembering. Who gave this to him? Why can he never remove it? Camera: close-up, his fingers on the jade pendant, soft light passing through it making the butterfly glow faintly. Slow push in. 6 seconds.",
+      "camera": "Push in — close-up on jade pendant and butterfly, 6s",
+      "narration": "His only belonging — a jade pendant with a butterfly frozen in time. She had given it to him the day they were separated. And every night since, he had whispered the same question into the silence.",
+      "sfx": "Soft jade chiming very faintly as fingers touch it, breath close to microphone, silence except for wind through bamboo, heartbeat"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — flashback overlay: two children run through a bamboo forest in summer sunlight. A girl slightly older than a boy, her hand holding his. Both in simple white robes. The girl stops, kneels, picks something from the forest floor — a blue butterfly that had been trapped in a spider web. She frees it gently. It rests on her fingertip, wings slowly opening and closing. She smiles — the most peaceful, beautiful smile. She places the butterfly in his small hands and closes his fingers around it gently. Then she looks up at him with tears in her eyes — they are being taken away. Present: he opens his eyes in the bamboo valley, the jade pendant glowing faintly on his chest. Camera: flashback medium shot of children, then dissolve/cut to present close-up on glowing pendant. 6 seconds.",
+      "camera": "Flashback dissolve + present glow, 6s",
+      "narration": "She had freed the butterfly from its web — and they had taken her from him. Fifteen years he had carried this jade. Fifteen years the butterfly inside had been waiting.",
+      "sfx": "Children's laughter fading, wind rustling bamboo, single tear, jade resonance chime, butterfly wing flutter"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme close-up — the jade pendant at his chest suddenly pulses with deep blue-green light. The butterfly inside the jade begins to move — its wings flutter slowly, then faster. The jade grows warm. He gasps, clutches it to his chest. Through the jade, a vision: a woman's ethereal spirit form — translucent, beautiful, wearing ancient flowing blue robes — looks directly at him with ancient sad eyes. Her lips move: 'You finally called.' She is not alive. She is a trapped ancient cultivator who transferred her soul into the butterfly at the moment of her execution. She has been waiting. Camera: extreme close-up on jade pendant with butterfly moving inside, then ethereal spirit vision overlay of the trapped woman. 6 seconds.",
+      "camera": "Extreme close-up jade + spirit vision overlay, 6s",
+      "narration": "The butterfly's wings stirred for the first time in fifteen years. And through the jade, a voice he had waited half his life to hear whispered three words: You finally called.",
+      "sfx": "Jade resonance chime intensifying, butterfly wings beating faster, deep bass ethereal hum, wind rushing, gasp of shock"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Medium shot — tears stream silently down his face. He is not sad — he is overwhelmed. Relief. After fifteen years of loneliness. A presence he can feel. A reason he was never truly alone. He holds the jade pendant to his forehead, eyes closed, weeping quietly. Around him in the bamboo forest, the spiritual motes of light swirl and converge, drawn to the jade like iron to a magnet. A single blue butterfly — a real one — lands on his shoulder, wings slowly opening and closing. The jade glows steady and warm. He opens his eyes — filled with tears but burning with new purpose. Camera: medium shot, slow push in from weeping to his tear-filled eyes of resolve, real butterfly on shoulder, bamboo motes swirling around him. 6 seconds.",
+      "camera": "Push in — weeping to resolved tear-filled eyes, butterfly and light motes, 6s",
+      "narration": "She had been with him all along. Trapped between worlds. Waiting for him to be strong enough to hear her. And now — after fifteen years of silence — she would teach him everything she knew.",
+      "sfx": "Soft bamboo wind settling to peace, jade steady warm hum, single real butterfly wing flutter on shoulder, tear drop on silk, resolve-filled breath inhale"
+    }
+  ],
+  "audio": {
+    "narration": "In the great Azure Bamboo Valley, where the air itself tasted of spiritual power, the sect's most talented disciples came to ascend. But no one ever spoke of the ones who came to suffer. His only belonging — a jade pendant with a butterfly frozen in time. She had given it to him the day they were separated. And every night since, he had whispered the same question into the silence. She had freed the butterfly from its web — and they had taken her from him. Fifteen years he had carried this jade. Fifteen years the butterfly inside had been waiting. The butterfly's wings stirred for the first time in fifteen years. And through the jade, a voice he had waited half his life to hear whispered three words: You finally called. She had been with him all along. Trapped between worlds. Waiting for him to be strong enough to hear her. And now — after fifteen years of silence — she would teach him everything she knew.",
+    "narration_duration": 28,
+    "bg_music": "Ethereal xianxia soundtrack, soft bamboo flute melody, gentle guqin strings, distant female vocal hum, spiritual resonance chimes, dawn ambience, melancholic beauty transitioning to quiet resolve, 70 BPM dreamy and haunting",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "bamboo creaking and dew dripping",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "jade chiming and heartbeat",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "children laughter fading and butterfly wing flutter",
+        "volume": 0.6
+      },
+      {
+        "time": 18,
+        "sound": "jade resonance intensifying and ethereal hum",
+        "volume": 0.7
+      },
+      {
+        "time": 24,
+        "sound": "bamboo wind settling and butterfly wing on shoulder",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide shot — beautiful bamboo forest valley at dawn. Pale blue-green morning mist drifts between towering bamboo stalks. Dew glistens on every leaf. A single ray of golden sunlight breaks through the canopy. A young man with delicate androgynous features, long lashes, sorrowful dark eyes, wearing simple white and light blue disciple robes stands looking upward at the bamboo canopy. Camera: extreme wide establishing shot, slow dolly in through the bamboo toward him. [Dolly in — extreme wide through bamboo to him]"
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — his fingers hover over a jade pendant at his chest. A small cloudy pale blue-green jade disc with a perfectly preserved blue butterfly with silver-white wing edges trapped inside. The jade glows faintly with soft light passing through it. His thumb traces the jade. Sorrowful dark eyes, distant memory. Camera: close-up, slow push in on jade pendant and butterfly. [Push in — close-up on jade pendant and butterfly]"
+    },
+    {
+      "shot": 3,
+      "prompt": "Flashback: two children in simple white robes running through sunlit bamboo forest. An older girl gently frees a blue butterfly from a spider web, places it in the younger boy's hands. She smiles peacefully, then looks at him with tears as they are separated. Present: young man opens his eyes in misty bamboo valley, jade pendant glowing faintly. Camera: flashback medium shot of children, dissolve to present close-up on glowing pendant. [Flashback dissolve + present glow]"
+    },
+    {
+      "shot": 4,
+      "prompt": "Extreme close-up — jade pendant pulsing with deep blue-green light, butterfly wings fluttering inside jade. A translucent woman in ancient flowing blue robes — ethereal spirit — looks directly out with sad ancient eyes, her lips parted. Camera: extreme close-up on jade pendant with butterfly moving, then ethereal spirit vision overlay. [Extreme close-up jade + spirit vision overlay]"
+    },
+    {
+      "shot": 5,
+      "prompt": "Medium shot — tears stream silently down his face as he holds the jade pendant to his forehead, eyes closed. A single real blue butterfly lands on his shoulder, wings slowly opening. Spiritual motes of light swirl around him in the bamboo forest. He opens his tear-filled eyes — resolved, purposeful. Camera: medium shot, slow push in from weeping to tear-filled determined eyes, real butterfly on shoulder, light motes swirling. [Push in — weeping to resolved tear-filled eyes]"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 1: Nhà Tù Của Bướm | Xianxia Việt Sub 🦋",
+    "youtube_description": "Episode 1 of Thanh Van Mon (The Blue Butterfly Chronicles). She freed the butterfly from its web — and they took her from him. Fifteen years he carried the jade. Fifteen years she waited inside it. A trapped soul. An ancient power. And the teacher he never knew he had.\n\n🔥 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 2 — The Spirit Teacher Awakens\n#xianxia #thanhvanmon #bluebutterfly #chinesefantasy #cultivation #coachella #ethereal #beautiful #tragic #mystery #fantasy",
+    "youtube_tags": [
+      "xianxia",
+      "chinese fantasy",
+      "thanh van mon",
+      "blue butterfly",
+      "cultivation",
+      "coachella aesthetic",
+      "ethereal beauty",
+      "tragic",
+      "jade pendant",
+      "spirit teacher",
+      "bamboo forest",
+      "beautiful fantasy",
+      "epic fantasy",
+      "mysterious",
+      "melancholic"
+    ],
+    "tiktok_caption": "Cô giải thoát một con bướm khỏi mạng nhện... và mọi thứ đã thay đổi 🦋 15 năm sau, cô nhận ra... | Xianxia Việt Sub #xianxia #phimviet",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "male_youthful_sad (MiniMax speech-02-hd, speed 1.0, reverb, melancholic then quietly determined tone)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide shot — beautiful bamboo forest valley at dawn. Pale blue-green mist between towering bamboo stalks. Dew on leaves. Golden sunlight through canopy. A young man with delicate androgynous features, sorrowful dark eyes, wearing white and light blue disciple robes standing at the bamboo edge. Camera: extreme wide establishing shot, slow dolly in through bamboo toward him. Shot 2: Close-up — fingers hovering over a jade pendant at chest. Cloudy pale blue-green jade disc with a blue butterfly with silver-white wing edges trapped inside, glowing faintly. Thumb tracing jade. Sorrowful eyes, distant memory. Camera: close-up, slow push in on pendant and butterfly. Shot 3: Flashback: two children in white robes in sunlit bamboo. Older girl frees blue butterfly from spider web, places it in younger boy's hands. She smiles, then looks at him with tears. Present: young man in misty bamboo valley, jade glowing. Camera: flashback medium shot, dissolve to present glowing pendant. Shot 4: Extreme close-up — jade pendant pulsing blue-green light, butterfly wings fluttering inside. Translucent woman in ancient flowing blue robes — spirit — looking directly out with sad eyes. Camera: extreme close-up jade + spirit overlay. Shot 5: Medium shot — tears on his face, holding jade to forehead. A real blue butterfly lands on his shoulder. Spiritual light motes swirl around him. He opens tear-filled resolved eyes. Camera: push in from weeping to determined tear-filled eyes, butterfly and light motes.",
+  "visual_scene": "Beautiful Azure Bamboo Valley at dawn, pale blue-green mist between towering bamboo stalks, golden sunlight breaking through canopy, dew glistening. A young man with delicate androgynous features, sorrowful dark eyes, white and light blue disciple robes. A cloudy pale blue-green jade pendant at his chest with a blue and silver butterfly preserved inside, glowing softly. Two children in white robes in a sunlit bamboo flashback. A translucent ethereal woman in ancient flowing blue robes visible through the jade. A real blue butterfly on his shoulder. Spiritual blue-white light motes swirling in the bamboo forest. Cinematic portrait 9:16 vertical framing. Ethereally beautiful, melancholic, haunting, dreamy atmosphere.",
+  "specific_details": {
+    "subject": "Young man, 17-21 years old, delicate androgynous beauty, long lashes, refined facial features, thin build, sorrowful dark eyes holding ancient weariness beneath youthful appearance, strong jaw with soft edges, lean athletic but fragile-looking build",
+    "outfit_exact": "White inner robe with light blue outer sect disciple robes, simple leather belt, bare feet or light cloth shoes, hair in a high topknot with a simple bamboo pin, jade pendant hanging at chest on a silver chain, elegant and refined despite simple robes",
+    "setting_details": "Azure Bamboo Valley at dawn, towering bamboo forest with blue-green mist, dew-covered leaves, golden sunlight rays through canopy, spiritual motes of blue-white light floating in the air, ancient sect buildings glimpsed through distant bamboo, flashback in warm summer sunlight",
+    "face_expression": "Shot 1: Melancholic beauty, looking upward at bamboo with sorrow. Shot 2: Tender remembrance, thumb tracing jade pendant with longing. Shot 3: Flashback — peaceful smile freeing butterfly, then present grief. Shot 4: Shock and tears, eyes wide as spirit appears. Shot 5: Weeping quietly, then tear-filled resolved determined eyes",
+    "body_movement": "Shot 1: Standing still at bamboo edge, looking up. Shot 2: Fingers hovering then touching jade pendant. Shot 3: Flashback — running through bamboo, kneeling to free butterfly. Present — eyes snapping open. Shot 4: Gasping, clutching jade to chest. Shot 5: Holding jade to forehead, eyes closed weeping, real butterfly landing on shoulder",
+    "camera": "Shot 1: Dolly in (extreme wide through bamboo to him). Shot 2: Push in (close-up jade and butterfly). Shot 3: Flashback dissolve + present glow. Shot 4: Extreme close-up jade + spirit overlay. Shot 5: Push in (weeping to resolved tear-filled eyes)"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, dark scenes or night time, harsh lighting, plastic-looking skin, smiling expression, dull grey colors, brown bamboo, landscape orientation, battle scenes, blood or violence, fire or red tones",
+  "thumbnail_idea": "A beautiful young man with delicate androgynous features, sorrowful dark eyes, in white and light blue robes, holding a glowing pale blue-green jade pendant with a blue butterfly inside, standing in a misty blue-green bamboo forest at dawn with golden sunlight — title THANH VAN MON EP.1 in elegant silver-blue font on dark blue background",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "thanh van mon",
+    "blue butterfly",
+    "cultivation",
+    "coachella aesthetic",
+    "ethereal beauty",
+    "tragic",
+    "jade pendant",
+    "spirit teacher",
+    "bamboo forest",
+    "beautiful fantasy",
+    "epic fantasy",
+    "mysterious",
+    "melancholic"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-02T02:20:00Z",
+  "local_path": "output/xianxia/XIANYX-04.mp4",
+  "produced_at": "2026-04-03T01:00:19.913ZZ",
+  "tiktok_status": "uploaded",
+  "tiktok_uploaded_at": "2026-04-03T01:04:43.665Z",
+  "publishedAt": "2026-04-03T05:53:57.642Z",
+  "tiktok_url": "/@fai20128/video/7624406869611793685",
+  "caption": "Cô giải thoát một con bướm khỏi mạng nhện... và mọi thứ đã thay đổi 🦋 15 năm sau, cô nhận ra... | Xianxia Việt Sub #xianxia #phimviet",
+  "videoFile": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-04.mp4"
+}

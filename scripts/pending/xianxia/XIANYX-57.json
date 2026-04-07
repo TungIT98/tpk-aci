@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-57",
+  "title": "Ha Tien Du Episode 7: The New Disciples",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 7,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Dark mentorship, forbidden teaching, growing power, conspiracy deepening",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Elder brought two more like him. Discarded. Forgotten. Hungry.",
+    "story_arc": "Two new faces revealed → Secret training begins → Serpent energy shared → Three disciples bound → The Elder's true plan hinted",
+    "emotion": "Surprise → Wariness → Alliance → Shared hunger → Ominous understanding",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the same hidden tower chamber at night. Ha Tien Du descends stone stairs. At the bottom: two figures in the shadows. One is a young woman with a scar across her face, eyes full of cold rage. The other is a thin boy, barely thirteen, with a completely shaved head and burn scars. All three wear torn gray robes. All three have black energy barely visible under their skin. Camera: wide shot — descending to reveal the three discarded disciples. 6 seconds.",
+      "camera": "Wide shot — descending stairs, reveal of three discarded disciples in shadow, 6s",
+      "narration": "He was not the Elder's only weapon. There were two others.",
+      "sfx": "Stone footsteps echoing, wind through chamber, breathing of three people, distant thunder"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the three discarded disciples face each other. The scarred woman speaks first: 'They killed my family.' The young boy: 'They burned my village.' Ha Tien Du listens. Then: 'They made me carry water for seven years.' The woman and boy look at him. A moment of shared understanding. The Elder's voice echoes from above: 'Now — you will learn together.' Camera: medium shot — three faces, shared rage and purpose, Elder's voice echoing. 6 seconds.",
+      "camera": "Medium — three faces, shared understanding, Elder's voice from above, 6s",
+      "narration": "Discarded by the sect. Gathered by the Elder. United by revenge.",
+      "sfx": "Three voices speaking softly, echoing Elder voice, three heartbeats syncing"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium close-up — the Elder descends from above, his blue robes flowing. He raises both hands. Three streams of black energy flow from his palms — one to each disciple. The energy enters their bodies through their foreheads, spiraling down into their cores. All three writhe slightly. The scarred woman gasps. The boy grits his teeth. Ha Tien Du's black eye glows brighter. Camera: medium shot — Elder's power flowing to three disciples simultaneously. 6 seconds.",
+      "camera": "Medium — three black energy streams entering three disciples, power transfer, 6s",
+      "narration": "The Elder shared his own serpent energy. Binding them tighter than any oath.",
+      "sfx": "Energy flowing, gasps of pain, Elder's chanting, three bodies absorbing power"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up extreme — all three disciples kneel in a triangle formation. Their hands form a mudra — three fingers touching, one pointing up. Black energy connects them in a triangular web. Each face shows the same expression: loyalty mixed with terror. The scarred woman's black veins are on her neck. The boy's are on his chest. Ha Tien Du's cover half his face. Camera: close-up top-down — triangle formation, energy web connecting three, three faces. 6 seconds.",
+      "camera": "Top-down close-up — triangle formation, energy web connecting them, three faces, 6s",
+      "narration": "Three serpents. One master. One purpose.",
+      "sfx": "Energy humming, three breaths in unison, Elder's distant laughter, deep bass"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — the Elder stands above them on a stone platform. The three disciples kneel below. The Elder's shadow stretches across all three. He speaks: 'The sect made you worthless. Now — you will make yourselves priceless.' Black energy erupts from the three disciples simultaneously — pillars of dark power shooting upward. The tower shakes. The Elder smiles. Camera: wide shot — Elder on platform, three pillars of dark energy, his triumphant smile. 6 seconds.",
+      "camera": "Wide shot — Elder above, three pillars of dark energy, tower shaking, 6s",
+      "narration": "Three discarded disciples. One forbidden path. And a sect that had no idea what was coming.",
+      "sfx": "Energy pillars erupting, tower shaking, Elder's cold declaration, dark orchestral finale"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-57.mp4",
+  "produced_at": "2026-04-05T14:03:08.363Z",
+  "publishedAt": "2026-04-06T01:26:18.157Z",
+  "tiktok_url": "https://www.tiktok.com/tiktokstudio/upload"
+}

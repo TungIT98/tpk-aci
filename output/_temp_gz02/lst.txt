@@ -1,0 +1,4 @@
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_gz02/clip1_t.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_gz02/clip2_t.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_gz02/clip3_t.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_gz02/clip4_t.mp4'

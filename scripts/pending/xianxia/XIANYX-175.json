@@ -1,0 +1,182 @@
+﻿{
+  "id": "XIANYX-175",
+  "title": "Ha Tien Du Episode 35: The Last Bridge",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 35,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The bridge was almost gone. The void descended. And Luân — with nothing left — became the bridge one final time.",
+    "story_arc": "Weakness → Void weapon → Bridge renewed → Final stand → Held",
+    "emotion": "Revelation → Wonder → Grief → Clarity → Cold determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide — the shadow entity, weakened by the Water of Origin, retreats. Luân holds the glowing water in both hands — and it shows him EVERYTHING. A montage of visions: the shadow's birth, the first water, the first darkness, how they were once the same being. He sees the truth. Camera: wide, vision montage radiating from the water, shadow retreating, Luân absorbing cosmic truth. 6 seconds.",
+      "camera": "Wide — vision montage of shadow's birth, first water, first darkness, Luân absorbing cosmic truth, shadow retreating, 6s",
+      "narration": "The Water of Origin showed him everything. How light and shadow were once the same being — before the first division. Before the first loneliness. Before the first choice.",
+      "sfx": "Vision whoosh, ancient cosmic sound, water humming, shadow retreating roar, mystical orchestral"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the vision clarifies. The shadow entity was once a WATER SPIRIT — the first water spirit. Separated from its source, it had become corrupted by loneliness. It was not evil. It was grieving. Luân's tears fall into the water. Camera: extreme close-up, his tear falling into the Water of Origin, the water responding, understanding blooming in his eyes. 6 seconds.",
+      "camera": "Extreme close-up — tear falling into Water of Origin, water responding, shadow's true origin as first water spirit revealed, 6s",
+      "narration": "The shadow was not evil. It was the first water spirit — separated from its origin, alone for eons, grieving so long it had forgotten why. And Luân's tears — the first genuine compassion it had received in millennia — began to heal it.",
+      "sfx": "Tear dropping, water rippling, ancient spirit's distant cry, emotional swell, understanding strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide — his mother's spirit materializes beside him. She places her hand over his on the Water of Origin. 'It is not a weapon,' she says. 'It is a bridge. Like you.' Together, Luân and his mother raise the Water of Origin toward the shadow entity. Camera: wide, mother's spirit materializing, her hand on his, water raised toward shadow entity, transcendent moment. 6 seconds.",
+      "camera": "Wide — mother's spirit materializing, her hand on his, water raised toward shadow entity, transcendent moment, 6s",
+      "narration": "She had been waiting in the Water of Origin — not as a ghost but as a memory. And now she helped him do what she had never been able to: heal the first darkness with the first light.",
+      "sfx": "Mother's spirit materializing, water humming, her calm voice, transcendent orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — the Water of Origin flows toward the shadow entity — not attacking but EMBRACING. The shadow stops fighting. It opens. It accepts the water back into itself. The two begin to MERGE — light and dark together. The shadow's thousand screaming voices become one: a sigh of relief older than time. Camera: wide cinematic, light and dark merging, shadow becoming whole, ancient spirit's relief. 6 seconds.",
+      "camera": "Wide cinematic — light and dark merging, shadow entity accepting water back, thousand voices becoming one sigh of relief, 6s",
+      "narration": "It did not want to conquer. It wanted to come home. And when the Water of Origin opened its arms — the shadow entity walked into them. And for the first time in ten thousand years — it was whole.",
+      "sfx": "Merging sound, ancient relief sigh, light and dark swirling, spiritual orchestral crescendo"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — the merged entity — no longer shadow, no longer just water, but both — transforms into a PEACEFUL GUARDIAN SPIRIT. It bows to Luân and his mother. Then it dissolves into a million drops of light that scatter across the dragon realm — blessing every drop of water, every river, every raincloud. Camera: full-body, peaceful guardian spirit blessing the realm, Luân and mother watching, tears. 6 seconds.",
+      "camera": "Full-body cinematic — merged entity becoming peaceful guardian spirit, bowing, dissolving into million light drops blessing the realm, 6s",
+      "narration": "The first water spirit had come home. And in gratitude, it blessed every drop of water in the realm — so that no darkness would ever consume a world again.",
+      "sfx": "Spirit dissolving into light, million drops scattering, blessing sound, ethereal choir, tearful emotional finale"
+    }
+  ],
+  "audio": {
+    "narration": "The Water of Origin showed him everything. How light and shadow were once the same being — before the first division. Before the first loneliness. Before the first choice. The shadow was not evil. It was the first water spirit — separated from its origin, alone for eons, grieving so long it had forgotten why. And Luân's tears — the first genuine compassion it had received in millennia — began to heal it. She had been waiting in the Water of Origin — not as a ghost but as a memory. And now she helped him do what she had never been able to: heal the first darkness with the first light. It did not want to conquer. It wanted to come home. And when the Water of Origin opened its arms — the shadow entity walked into them. And for the first time in ten thousand years — it was whole. The first water spirit had come home. And in gratitude, it blessed every drop of water in the realm — so that no darkness would ever consume a world again.",
+    "narration_duration": 28,
+    "bg_music": "Deeply emotional Chinese orchestral, reconciliation theme, first water spirit healing, mother and son, transcendent 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Vision whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Tear dropping",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Mother's spirit materializing",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Merging sound",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Spirit dissolving into light",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide — the shadow entity, weakened by the Water of Origin, retreats. Luân holds the glowing water in both hands — and it shows him EVERYTHING. A montage of visions: the shadow's birth, the first water, the first darkness, how they were once the same being. He sees the truth. Camera: wide, vision montage radiating from the water, shadow retreating, Luân absorbing cosmic truth. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the vision clarifies. The shadow entity was once a WATER SPIRIT — the first water spirit. Separated from its source, it had become corrupted by loneliness. It was not evil. It was grieving. Luân's tears fall into the water. Camera: extreme close-up, his tear falling into the Water of Origin, the water responding, understanding blooming in his eyes. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide — his mother's spirit materializes beside him. She places her hand over his on the Water of Origin. 'It is not a weapon,' she says. 'It is a bridge. Like you.' Together, Luân and his mother raise the Water of Origin toward the shadow entity. Camera: wide, mother's spirit materializing, her hand on his, water raised toward shadow entity, transcendent moment. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — the Water of Origin flows toward the shadow entity — not attacking but EMBRACING. The shadow stops fighting. It opens. It accepts the water back into itself. The two begin to MERGE — light and dark together. The shadow's thousand screaming voices become one: a sigh of relief older than time. Camera: wide cinematic, light and dark merging, shadow becoming whole, ancient spirit's relief. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — the merged entity — no longer shadow, no longer just water, but both — transforms into a PEACEFUL GUARDIAN SPIRIT. It bows to Luân and his mother. Then it dissolves into a million drops of light that scatter across the dragon realm — blessing every drop of water, every river, every raincloud. Camera: full-body, peaceful guardian spirit blessing the realm, Luân and mother watching, tears. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Episode 35: The Last Bridge | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Ha Tien Du Episode 35: The Last Bridge. The bridge was almost gone. The void descended. And Luân — with nothing left — became the bridge one final time.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #hatiendu #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "water of origin",
+      "shadow healed",
+      "luân's mother",
+      "first water spirit",
+      "reconciliation",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "The bridge was almost gone. The void descended. And Luân — with nothing left — became the bridge one final time. ⚔️🔥 Ha Tien Du Episode 35: The Last Bridge | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide — the shadow entity, weakened by the Water of Origin, retreats. Luân holds the glowing water in both hands — and it shows him EVERYTHING. A montage of visions: the shadow's birth, the first water, the first darkness, how they were once the same being. He sees the truth. Camera: wide, vision montage radiating from the water, shadow retreating, Luân absorbing cosmic truth. 6 seconds. Shot 2: Close-up — the vision clarifies. The shadow entity was once a WATER SPIRIT — the first water spirit. Separated from its source, it had become corrupted by loneliness. It was not evil. It was grieving. Luân's tears fall into the water. Camera: extreme close-up, his tear falling into the Water of Origin, the water responding, understanding blooming in his eyes. 6 seconds. Shot 3: Wide — his mother's spirit materializes beside him. She places her hand over his on the Water of Origin. 'It is not a weapon,' she says. 'It is a bridge. Like you.' Together, Luân and his mother raise the Water of Origin toward the shadow entity. Camera: wide, mother's spirit materializing, her hand on his, water raised toward shadow entity, transcendent moment. 6 seconds. Shot 4: Wide cinematic — the Water of Origin flows toward the shadow entity — not attacking but EMBRACING. The shadow stops fighting. It opens. It accepts the water back into itself. The two begin to MERGE — light and dark together. The shadow's thousand screaming voices become one: a sigh of relief older than time. Camera: wide cinematic, light and dark merging, shadow becoming whole, ancient spirit's relief. 6 seconds. Shot 5: Full-body cinematic — the merged entity — no longer shadow, no longer just water, but both — transforms into a PEACEFUL GUARDIAN SPIRIT. It bows to Luân and his mother. Then it dissolves into a million drops of light that scatter across the dragon realm — blessing every drop of water, every river, every raincloud. Camera: full-body, peaceful guardian spirit blessing the realm, Luân and mother watching, tears. 6 seconds.",
+  "visual_scene": "Wide — the shadow entity, weakened by the Water of Origin, retreats. Luân holds the glowing water in both hands — and it shows him EVERYTHING. A montage of visions: the shadow's birth, the first water, the first darkness, how they were once the same being. He sees the truth. Camera: wide, vision montage radiating from the water, shadow retreating, Luân absorbing cosmic truth. 6 seconds. Close-up — the vision clarifies. The shadow entity was once a WATER SPIRIT — the first water spirit. Separated from its source, it had become corrupted by loneliness. It was not evil. It was grieving. Luân's tears fall into the water. Camera: extreme close-up, his tear falling into the Water of Origin, the water responding, understanding blooming in his eyes. 6 seconds. Wide — his mother's spirit materializes beside him. She places her hand over his on the Water of Origin. 'It is not a weapon,' she says. 'It is a bridge. Like you.' Together, Luân and his mother raise the Water of Origin toward the shadow entity. Camera: wide, mother's spirit materializing, her hand on his, water raised toward shadow entity, transcendent moment. 6 seconds. Wide cinematic — the Water of Origin flows toward the shadow entity — not attacking but EMBRACING. The shadow stops fighting. It opens. It accepts the water back into itself. The two begin to MERGE — light and dark together. The shadow's thousand screaming voices become one: a sigh of relief older than time. Camera: wide cinematic, light and dark merging, shadow becoming whole, ancient spirit's relief. 6 seconds. Full-body cinematic — the merged entity — no longer shadow, no longer just water, but both — transforms into a PEACEFUL GUARDIAN SPIRIT. It bows to Luân and his mother. Then it dissolves into a million drops of light that scatter across the dragon realm — blessing every drop of water, every river, every raincloud. Camera: full-body, peaceful guardian spirit blessing the realm, Luân and mother watching, tears. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 25: The Water of Origin's Final Secret",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "water of origin",
+    "shadow healed",
+    "luân's mother",
+    "first water spirit",
+    "reconciliation",
+    "chinese fantasy",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T13:48:36.452Z",
+  "tiktok_url": "/@fai20128/video/7625642475436199189"
+}

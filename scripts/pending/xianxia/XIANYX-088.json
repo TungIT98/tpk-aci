@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-088",
+  "title": "Tru Tien Episode 18: The Emperor Signs the Treaty",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 18,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The war ends. The Emperor signs a treaty of peace. She must decide: let her forgetting curse fade into history — or keep it alive to prevent every future war.",
+    "story_arc": "Treaty signed → Victory → New question → Witch's burden → Choice made",
+    "emotion": "Relief → Uncertainty → Moral dilemma → Weight → Purpose",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the imperial palace courtyard. The EMPEROR sits on the throne. The enemy general kneels. A treaty document is placed between them. Soldiers from both sides watch. It is quiet — an unnatural quiet after years of screaming. She watches from a rooftop. Camera: wide establishing, treaty ceremony, emperor and general, both armies watching, her rooftop vigil. 6 seconds.",
+      "camera": "Wide — imperial courtyard treaty ceremony, emperor and enemy general, document signing, both armies watching, her rooftop vigil, 6s",
+      "narration": "The war was ending. Not in fire — in ink. The emperor signed. The general knelt. And she — on the rooftop — held the curse that could make this peace last forever.",
+      "sfx": "Ink brush on paper, distant crowd murmur, her rooftop breath, silence after war, tension resolution"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the treaty is signed. Both armies lower their weapons. Soldiers embrace across lines. She watches — tears on her face. She has healed thousands. The grimoire is still in her hand. She could let the forgetting curse fade — or amplify it to prevent ALL future wars. Camera: medium, her tearful face, weapons lowered, grimoire in hand, let it fade or amplify, 6 seconds.",
+      "camera": "Medium — treaty signed, weapons lowered, soldiers embracing, her tearful face, grimoire in hand, let it fade or amplify, 6s",
+      "narration": "The war was over. She had healed thousands. And now she stood at the crossroads of every decision she had ever made — to let the forgetting curse fade, or to amplify it into a shield against every war that would ever come.",
+      "sfx": "Weapons clattering, soldier embrace, her tear, grimoire humming, moral tension, orchestral swell"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she reads the grimoire's final words on the forgetting curse page: 'This curse feeds on MEMORY. Amplify it — and you carry the memory of ALL future wars as well as past ones. Every war fought after this — you will relive.' She stares. Camera: close-up on page, future wars warning, her horror dawning, cost revealed. 6 seconds.",
+      "camera": "Close-up — grimoire page warning, amplify means carrying ALL future wars too, her face of dawning horror, 6s",
+      "narration": "Amplify the forgetting curse — and she would carry the memory of every future war as well. Not just the last one. Every war that would ever come. Forever.",
+      "sfx": "Page turning, her sharp inhale, future wars warning, grimoire humming, horror revelation, dark bass"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — she stands on the palace wall at sunset, grimoire glowing faintly. Below: a world at peace. Children playing in a field where soldiers died. A widow laughing with a friend. These are the moments she saved. She must choose. Camera: wide, sunset, palace wall, peace below, children playing in former battlefield, widow laughing, beauty of peace. 6 seconds.",
+      "camera": "Wide — sunset, palace wall, grimoire glowing, peace below, children playing where soldiers died, widow laughing, beauty of saved moments, 6s",
+      "narration": "Below the palace wall — children played where soldiers had died. A widow laughed. These were the moments she had saved. And she had to decide: was this peace worth guarding forever — even at the cost of carrying every future war?",
+      "sfx": "Children laughing, wind, sunset warmth, widow's laugh, her breath, beauty of peace, orchestral swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she makes her decision. She does NOT amplify the curse — but she SEALS it into the grimoire for future witches. 'When the next war comes — and it will — there will be a witch to carry this burden.' She closes the grimoire. The peace below will last her lifetime. And the next witch will be chosen when the time comes. Camera: close-up, grimoire closing, sealing curse for future, decision made, peace below. 6 seconds.",
+      "camera": "Close-up — grimoire closing, sealing curse for future witches, 'the next war will come and there will be a witch', decision made, 6s",
+      "narration": "She chose not to carry every future war. She chose to let this peace live on its own terms — fragile, human, imperfect. And she sealed the forgetting curse for the next witch who would need it. When the next war came. And it would come.",
+      "sfx": "Grimoire closing, seal stamping, her relieved breath, wind across palace wall, hope and sorrow, resolved theme"
+    }
+  ],
+  "audio": {
+    "narration": "The war was ending. Not in fire — in ink. The emperor signed. The general knelt. And she — on the rooftop — held the curse that could make this peace last forever. The war was over. She had healed thousands. And now she stood at the crossroads of every decision she had ever made — to let the forgetting curse fade, or to amplify it into a shield against every war that would ever come. Amplify the forgetting curse — and she would carry the memory of every future war as well. Not just the last one. Every war that would ever come. Forever. Below the palace wall — children played where soldiers had died. A widow laughed. These were the moments she had saved. And she had to decide: was this peace worth guarding forever — even at the cost of carrying every future war? She chose not to carry every future war. She chose to let this peace live on its own terms — fragile, human, imperfect. And she sealed the forgetting curse for the next witch who would need it. When the next war came. And it would come.",
+    "narration_duration": 28,
+    "bg_music": "Bittersweet Chinese orchestral, treaty signing, peace and burden theme, sealing curse for future, decision resolved 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ink brush on paper",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Weapons clattering",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Page turning",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Children laughing",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Grimoire closing",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the imperial palace courtyard. The EMPEROR sits on the throne. The enemy general kneels. A treaty document is placed between them. Soldiers from both sides watch. It is quiet — an unnatural quiet after years of screaming. She watches from a rooftop. Camera: wide establishing, treaty ceremony, emperor and general, both armies watching, her rooftop vigil. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — the treaty is signed. Both armies lower their weapons. Soldiers embrace across lines. She watches — tears on her face. She has healed thousands. The grimoire is still in her hand. She could let the forgetting curse fade — or amplify it to prevent ALL future wars. Camera: medium, her tearful face, weapons lowered, grimoire in hand, let it fade or amplify, 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she reads the grimoire's final words on the forgetting curse page: 'This curse feeds on MEMORY. Amplify it — and you carry the memory of ALL future wars as well as past ones. Every war fought after this — you will relive.' She stares. Camera: close-up on page, future wars warning, her horror dawning, cost revealed. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — she stands on the palace wall at sunset, grimoire glowing faintly. Below: a world at peace. Children playing in a field where soldiers died. A widow laughing with a friend. These are the moments she saved. She must choose. Camera: wide, sunset, palace wall, peace below, children playing in former battlefield, widow laughing, beauty of peace. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she makes her decision. She does NOT amplify the curse — but she SEALS it into the grimoire for future witches. 'When the next war comes — and it will — there will be a witch to carry this burden.' She closes the grimoire. The peace below will last her lifetime. And the next witch will be chosen when the time comes. Camera: close-up, grimoire closing, sealing curse for future, decision made, peace below. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 18: Hoàng Đế Ký Hiệp Ước | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 18 of Tru Tien. The war ends. The Emperor signs a treaty. She must choose: amplify the forgetting curse to prevent ALL future wars — carrying the memory of every war to come. She decides NOT to. She seals it for the next witch who will need it.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "emperor signs treaty",
+      "peace declared",
+      "witch decision",
+      "carry future wars",
+      "sealed for next witch",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Chiến tranh kết thúc. Hoàng đế ký hiệp ước. Cô phải chọn: khuếch đại cấm chú quên lãng để ngăn CHIẾN TRANH TƯƠNG LAI — mang ký ức mọi cuộc chiến sắp tới. Cô quyết định KHÔNG. Cô niêm phong nó cho phù thủy TIẾP THEO ⚔️✨ Tập 18 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the imperial palace courtyard. The EMPEROR sits on the throne. The enemy general kneels. A treaty document is placed between them. Soldiers from both sides watch. It is quiet — an unnatural quiet after years of screaming. She watches from a rooftop. Camera: wide establishing, treaty ceremony, emperor and general, both armies watching, her rooftop vigil. 6 seconds. Shot 2: Medium shot — the treaty is signed. Both armies lower their weapons. Soldiers embrace across lines. She watches — tears on her face. She has healed thousands. The grimoire is still in her hand. She could let the forgetting curse fade — or amplify it to prevent ALL future wars. Camera: medium, her tearful face, weapons lowered, grimoire in hand, let it fade or amplify, 6 seconds. Shot 3: Close-up — she reads the grimoire's final words on the forgetting curse page: 'This curse feeds on MEMORY. Amplify it — and you carry the memory of ALL future wars as well as past ones. Every war fought after this — you will relive.' She stares. Camera: close-up on page, future wars warning, her horror dawning, cost revealed. 6 seconds. Shot 4: Wide shot — she stands on the palace wall at sunset, grimoire glowing faintly. Below: a world at peace. Children playing in a field where soldiers died. A widow laughing with a friend. These are the moments she saved. She must choose. Camera: wide, sunset, palace wall, peace below, children playing in former battlefield, widow laughing, beauty of peace. 6 seconds. Shot 5: Close-up — she makes her decision. She does NOT amplify the curse — but she SEALS it into the grimoire for future witches. 'When the next war comes — and it will — there will be a witch to carry this burden.' She closes the grimoire. The peace below will last her lifetime. And the next witch will be chosen when the time comes. Camera: close-up, grimoire closing, sealing curse for future, decision made, peace below. 6 seconds.",
+  "visual_scene": "Wide establishing — the imperial palace courtyard. The EMPEROR sits on the throne. The enemy general kneels. A treaty document is placed between them. Soldiers from both sides watch. It is quiet — an unnatural quiet after years of screaming. She watches from a rooftop. Camera: wide establishing, treaty ceremony, emperor and general, both armies watching, her rooftop vigil. 6 seconds. Medium shot — the treaty is signed. Both armies lower their weapons. Soldiers embrace across lines. She watches — tears on her face. She has healed thousands. The grimoire is still in her hand. She could let the forgetting curse fade — or amplify it to prevent ALL future wars. Camera: medium, her tearful face, weapons lowered, grimoire in hand, let it fade or amplify, 6 seconds. Close-up — she reads the grimoire's final words on the forgetting curse page: 'This curse feeds on MEMORY. Amplify it — and you carry the memory of ALL future wars as well as past ones. Every war fought after this — you will relive.' She stares. Camera: close-up on page, future wars warning, her horror dawning, cost revealed. 6 seconds. Wide shot — she stands on the palace wall at sunset, grimoire glowing faintly. Below: a world at peace. Children playing in a field where soldiers died. A widow laughing with a friend. These are the moments she saved. She must choose. Camera: wide, sunset, palace wall, peace below, children playing in former battlefield, widow laughing, beauty of peace. 6 seconds. Close-up — she makes her decision. She does NOT amplify the curse — but she SEALS it into the grimoire for future witches. 'When the next war comes — and it will — there will be a witch to carry this burden.' She closes the grimoire. The peace below will last her lifetime. And the next witch will be chosen when the time comes. Camera: close-up, grimoire closing, sealing curse for future, decision made, peace below. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 18: The Emperor Signs the Treaty",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "emperor signs treaty",
+    "peace declared",
+    "witch decision",
+    "carry future wars",
+    "sealed for next witch",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "GZ-03",
+  "title": "Stop Applying to Jobs — DM Your Way Into Companies",
+  "category": "career_strategy",
+  "channel": "GenZSuccess",
+  "audience": "18-28 year olds job hunting, LinkedIn users",
+  "tone": "High energy, direct, slightly rebellious, practical",
+  "platform": ["TikTok", "YouTube Shorts"],
+  "format": "45-60 seconds, 9:16 vertical",
+  "status": "production_ready",
+
+  "concept": {
+    "hook": "I never applied to a single job after my second year. Every opportunity came from a DM.",
+    "story_arc": "Hook → Why DMs work → The template → Timing → CTA",
+    "emotion": "Intrigue → Revelation → Confidence",
+    "duration_seconds": 52
+  },
+
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "Vertical. Person on couch, typing on LinkedIn, cup of coffee beside them. Phone screen shows a DM thread — the reply notification pops: 'Let's schedule a call.' Eyes widen. Slow smile. They sit up straight.",
+      "camera": "[Static vertical] Close-up face + phone screen",
+      "narration": "I never applied to a single job after my second year. Every opportunity came from a DM.",
+      "sfx": "LinkedIn notification sound, chair squeak, excited ambient"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 22,
+      "duration": 17,
+      "prompt": "Vertical infographic animation. Text appearing line by line: '70% of jobs are never posted.' 'The hidden job market = 2/3 of all hiring.' Arrows pointing from hidden pool to filled positions. Animated contrast: pile of rejected resumes vs one successful DM.",
+      "camera": "[Static vertical] Phone screen animation style",
+      "narration": "Seventy percent of jobs are never posted publicly. The hidden job market is accessed through relationships, not resumes. DMs work because 95% of candidates don't send them. When everyone else is uploading their resume into a black hole, you're standing out because you're a human — not a PDF.",
+      "sfx": "Data reveal animation sounds, notification ping"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 22,
+      "time_end": 40,
+      "duration": 18,
+      "prompt": "Vertical. Close-up phone screen showing LinkedIn DM being typed. Three-part template animates as it's typed: Part 1: 'Specific compliment on their work.' Part 2: 'Genuine question about their process.' Part 3: 'One sentence about what you bring.' All three highlighted. Clock overlay shows 'Sent: Tuesday 10:30am'.",
+      "camera": "[Push in] Zoom into phone screen as DM is typed",
+      "narration": "The template: specific compliment on their work, genuine question about their process, one sentence about what you bring. Three sentences. That's it. And timing matters — message decision-makers Tuesday through Thursday, 10am to noon. Higher response rate than mass outreach.",
+      "sfx": "Keyboard typing sounds, send button whoosh"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 40,
+      "time_end": 50,
+      "duration": 10,
+      "prompt": "Vertical direct to camera. Confident energy, person sits forward. Hand gestures. Follow button animation. Comment CTA.",
+      "camera": "[Static vertical] Direct to camera",
+      "narration": "Your resume gets you screened out. Your personality gets you hired in. Learn to communicate like a human. Drop a 'DM' in the comments if you want the full template. Follow for more career content.",
+      "sfx": "Follow notification, comment chime"
+    }
+  ],
+
+  "audio": {
+    "narration": "I never applied to a single job after my second year. Every opportunity came from a DM. Seventy percent of jobs are never posted publicly. The hidden job market is accessed through relationships, not resumes. DMs work because 95% of candidates don't send them. When everyone else is uploading their resume into a black hole, you're standing out because you're a human — not a PDF. The template: specific compliment on their work, genuine question about their process, one sentence about what you bring. Three sentences. That's it. And timing matters — message decision-makers Tuesday through Thursday, 10am to noon. Higher response rate than mass outreach. Your resume gets you screened out. Your personality gets you hired in. Learn to communicate like a human. Drop a DM in the comments if you want the full template. Follow for more career content.",
+    "narration_duration": 50,
+    "bg_music": "High energy lo-fi trap, confident 105 BPM",
+    "sfx": [
+      { "time": 2.0, "sound": "LinkedIn notification", "volume": 0.7 },
+      { "time": 10.0, "sound": "data animation reveal", "volume": 0.5 },
+      { "time": 28.0, "sound": "keyboard typing", "volume": 0.5 },
+      { "time": 45.0, "sound": "follow chime", "volume": 0.6 }
+    ]
+  },
+
+  "hailuo_prompts": [
+    { "shot": 1, "prompt": "Vertical. Person on couch, typing on LinkedIn, cup of coffee beside them. Phone screen shows a DM thread — the reply notification pops: Let's schedule a call. Eyes widen. Slow smile. They sit up straight. [Static vertical] Close-up face plus phone screen" },
+    { "shot": 2, "prompt": "Vertical infographic animation. Text appearing line by line: 70 percent of jobs are never posted. The hidden job market equals 2/3 of all hiring. Arrows pointing from hidden pool to filled positions. Animated contrast: pile of rejected resumes vs one successful DM. [Static vertical] Phone screen animation style" },
+    { "shot": 3, "prompt": "Vertical. Close-up phone screen showing LinkedIn DM being typed. Three-part template animates as it's typed: Part 1: Specific compliment on their work. Part 2: Genuine question about their process. Part 3: One sentence about what you bring. All three highlighted. Clock overlay shows Sent: Tuesday 10:30am. [Push in] Zoom into phone screen as DM is typed" },
+    { "shot": 4, "prompt": "Vertical direct to camera. Confident energy, person sits forward. Hand gestures. Follow button animation. Comment CTA. [Static vertical] Direct to camera" }
+  ],
+
+  "metadata": {
+    "youtube_title": "I Stopped Applying to Jobs — Here's How I Got Every Job Through LinkedIn DMs",
+    "youtube_description": "I never applied to a single job after year 2. Every opportunity came from a strategic LinkedIn DM. Here's why DMs work, the exact 3-sentence template, and when to send them for maximum response rates.\n\n📌 What you'll learn:\n- Why 70% of jobs are never posted publicly\n- The hidden job market and how to access it\n- The 3-sentence DM template that gets responses\n- Best timing: when to DM hiring managers\n\n💬 Drop 'DM' in the comments for the full template.",
+    "youtube_tags": ["LinkedIn", "job search", "career advice", "DM strategy", "hidden job market", "hiring", "Gen Z careers", "networking"],
+    "tiktok_caption": "70% of jobs are NEVER posted publicly 😱 I got every job through a LinkedIn DM. Here's my exact template 👇 #LinkedIn #jobsearch #careeradvice #hustle #DM #networking #GenZ",
+    "playlist": "Career & Hustle"
+  },
+
+  "production_notes": {
+    "shot_count": 4,
+    "total_duration_seconds": 50,
+    "voice": "male_energetic_young (MiniMax speech-02-hd, speed 1.1)",
+    "music_volume": 0.35,
+    "voice_volume": 1.0,
+    "aspect_ratio": "9:16 vertical only"
+  }
+}

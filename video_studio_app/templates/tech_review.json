@@ -1,0 +1,72 @@
+{
+  "name": "Tech Review",
+  "description": "Product review format — hook, unboxing, feature deep-dive, pros/cons, verdict. Best for gadget reviews, app reviews, tool comparisons, and 'should you buy this' content.",
+  "target_platform": "tiktok",
+  "voice_style": "informative, confident, slightly enthusiastic — speaks with authority but not overly salesy; natural pauses during product close-ups",
+  "music_mood": "clean electronic, tech ambient, modern corporate — modern and clean, not distracting",
+  "hashtag_suggestions": ["#tech", "#review", "#gadget", "#unboxing", "#techreview", "#fyp", "#productivityhacks", "#buildyourown"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "I spent $200 on this and I'm not giving it back. Here is the full review — the good, the bad, and whether it's actually worth it.",
+      "visual_prompt": "Product on table with dramatic lighting, price tag visible, person looking excited, camera orbiting product, unboxing teaser with hands reaching in",
+      "camera_movement": "medium shot, cinematic product reveal, slight orbit/pan around product",
+      "lighting_setup": "dramatic product lighting: dark background with single key light creating product highlight, tech aesthetic with slight blue tint, premium feel",
+      "hailuo_style_note": "Product on dark background with dramatic lighting is the universal tech review aesthetic; price tag visibility adds credibility",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 15,
+      "narration_prompt": "First impressions — the unboxing. It comes with the device, a charging cable, and minimal paperwork. No bloatware, which I appreciate. The build quality immediately feels premium.",
+      "visual_prompt": "Hands unboxing product in close-up, close-up shots of each item being revealed, packaging aesthetic, device powered on for first time, screen glow",
+      "camera_movement": "macro close-up on unboxing details, steady overhead or side angle, smooth transitions between items",
+      "lighting_setup": "clean bright overhead for unboxing, macro ring light for detail shots, product glow from screen as fill",
+      "hailuo_style_note": "Unboxing quality signals review credibility; macro detail shots on build quality make 'premium feel' tangible",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Key features. The battery life is genuinely impressive — I got 3 full workdays on a single charge. The interface is intuitive, and the app ecosystem is solid. My favorite feature is the quick-switch between modes.",
+      "visual_prompt": "Feature highlight graphics appearing on screen, person demonstrating each feature, battery icon filling up, app screenshots, side-by-side comparisons with previous model",
+      "camera_movement": "cut between person close-up and feature screen inserts, steady medium on person",
+      "lighting_setup": "balanced studio lighting on person, bright screen glow for app shots, clean white or dark background depending on app aesthetic",
+      "hailuo_style_note": "Feature graphics and screen inserts should match brand colors; clean cuts between person and screen maintain production rhythm",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 10,
+      "narration_prompt": "Here is the honest pros and cons list. Pros: battery, build quality, ease of use. Cons: price point, limited color options, no wireless charging.",
+      "visual_prompt": "Clean pros/cons list graphic appearing on screen, thumbs up icons on one side, thumbs down on other, person nodding, balanced expression",
+      "camera_movement": "medium close-up static on person, clean graphic overlay filling frame",
+      "lighting_setup": "clean two-point studio lighting, neutral tones, professional and balanced feel",
+      "hailuo_style_note": "Balanced lighting on pros/cons beat signals fairness and credibility; clean graphic with brand colors is key",
+      "transition": "fade"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 5,
+      "narration_prompt": "Verdict: if you can find it on sale, absolutely buy it. Full price — wait for a discount. Link in bio.",
+      "visual_prompt": "Person holding product up to camera, verdict text overlay 'BUY ON SALE', link icon in corner, final product beauty shot, confident nod",
+      "camera_movement": "medium close-up, product held up beside face, confident nod",
+      "lighting_setup": "product lit dramatically, person lit slightly dimmer so product is hero, warm verdict tone",
+      "hailuo_style_note": "Product is hero in verdict shot — it should be front and center, well-lit; person supports rather than dominates",
+      "transition": "fade_out"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Follow for more tech reviews. Comment below — what should I review next?",
+      "visual_prompt": "Person pointing at follow button, comment box on screen, person smiling, clean background",
+      "camera_movement": "medium close-up, friendly direct address",
+      "lighting_setup": "warm friendly light, inviting energy",
+      "hailuo_style_note": "Clean and simple CTA — don't oversell it, let the content speak for itself",
+      "transition": "fade_out"
+    }
+  ]
+}

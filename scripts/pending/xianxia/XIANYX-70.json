@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-70",
+  "title": "Trieu Tien Episode 20: The Dual Heir",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 20,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Epic finale, prophecy fulfilled, legendary standing, new legend begins",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The ancient prophecy spoke of two sisters who would unite heaven and earth. They were not sisters. They became something more.",
+    "story_arc": "Prophecy scroll revealed → Both hairpins unite → Full Dual Blade Requiem performed → Altar transforms → Standing as one legend",
+    "emotion": "Revelation → Wonder → Power → Transformation → Eternal unity",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect's secret archive at night. Ancient scrolls. The Sect Master unfolds a prophecy scroll, golden with age. Reads aloud: 'When two flowers bloom from one root — one crimson, one white — the heaven and earth shall be united. The dual heir shall appear when the moon bears twin lights.' Trieu Tien and Huong stand before him. Their hairpins — glowing together. Camera: wide shot — ancient archive, prophecy scroll, golden light, two women with glowing hairpins. 6 seconds.",
+      "camera": "Wide shot — archive, prophecy scroll glowing, golden ancient text, two glowing hairpins, 6s",
+      "narration": "The ancient prophecy — written three hundred years ago — described them exactly.",
+      "sfx": "Scroll unfurling, ancient paper crackling, his voice echoing, hairpins chiming"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Trieu Tien removes her crimson hairpin. Trieu Huong removes her white hairpin. They place them together — interlocked. The two hairpins merge into one dual-sided ornament — one side crimson phoenix, one side white crane. It floats between them. Then — flies to Trieu Tien's hair. She becomes the Dual Heir — both energies visible. Camera: close-up — both hairpins being removed, interlocked, merging, floating to her head, dual glow. 6 seconds.",
+      "camera": "Close-up — both hairpins merging, floating, attaching to her head, dual glow, 6s",
+      "narration": "Two hairpins became one. And the Dual Heir was complete.",
+      "sfx": "Hairpins clicking together, merging hum, float through air, attaching with chime"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — the sword altar transforms. When Trieu Tien touches the dual blade to the altar — light erupts from the stone. The altar doesn't crack — it blooms. Stone transforms into white jade and crimson crystal. Ancient symbols light up across the entire sect grounds. The dual energy flows through every building. The entire sect glows. Camera: wide shot — altar transforming to jade and crystal, entire sect glowing, light flowing through all buildings, wonder. 6 seconds.",
+      "camera": "Wide shot — altar blooming to jade/crystal, entire sect glowing, energy flowing everywhere, 6s",
+      "narration": "The entire sect was transformed. Heaven and earth — united at last.",
+      "sfx": "Stone transforming, light flowing through channels, jade forming, wind, epic orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium wide shot — Trieu Tien and Trieu Huong stand before the transformed altar. They raise their blades simultaneously. The Dual Blade Requiem — complete form. A massive crescent of white-crimson energy arcs toward the sky. The sky above — tears open. A pillar of golden light descends from the heavens. Both women stand in the light. Camera: medium wide — both raising blades, massive energy arc to sky, sky tearing, golden pillar descending. 6 seconds.",
+      "camera": "Medium wide — dual blade raise, energy arc to sky, sky tearing, golden pillar, 6s",
+      "narration": "Heaven itself answered. The prophecy — fulfilled.",
+      "sfx": "Energy arc whooshing, sky tearing, golden light descending, wind roaring, divine sound"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Extreme wide shot — the final scene. A vast aerial view of the entire sect — glowing white jade and crimson crystal. The army below — ten thousand soldiers kneeling in respect. The transformed sect blazing in golden light from above. In the center — two women standing. The Dual Heir. The Sword Saint's true legacy. The caption appears: 'The age of division — is over. The age of the Dual Heir — begins.' Camera: extreme wide aerial — transformed sect, kneeling army, two women as one legend. 6 seconds.",
+      "camera": "Extreme wide aerial — transformed sect, kneeling army, two women as legend, golden light, 6s",
+      "narration": "From two broken daughters — a whole legend was forged.",
+      "sfx": "Wind, distant army kneeling, golden light humming, epic final orchestral swell, silence"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-70.mp4",
+  "produced_at": "2026-04-05T14:09:54.107Z",
+  "publishedAt": "2026-04-06T01:43:31.069Z",
+  "tiktok_url": "/@fai20128/video/7625455584736824596"
+}

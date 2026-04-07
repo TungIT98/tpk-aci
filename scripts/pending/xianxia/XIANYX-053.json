@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-053",
+  "title": "Ha Tien Du Episode 3: The Sect That Walks on Water",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 3,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "She was not the only one who had learned to command the celestial waters. And the others had very different plans for the mortal world.",
+    "story_arc": "Arrival of rivals → Water-walking army → Training ground challenge → Flood unleashed → Standoff",
+    "emotion": "Tension → Fear → Confrontation → Power clash → Dark intent revealed",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing shot — a vast lake at dawn, perfectly calm like a mirror. An army of two hundred warriors in dark navy and black armor stands on the surface of the lake — not sinking. Their feet touch the water but do not break it. At their head, a cold beautiful woman in obsidian black Hanfu raises her hand and the entire lake ripples in response. She commands the water. Camera: wide establishing, slow pan across the army. 6 seconds.",
+      "camera": "Pan right — wide establishing, dark water-walking army on mirror lake, 6s",
+      "narration": "The Celestial Falls were not the only source of water magic. And the Shadow Sect had learned to weaponize it.",
+      "sfx": "Water rippling, army footsteps on water, ominous war drums, dark orchestral"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she stands alone on a rocky outcrop overlooking the lake. Her ice-blue Hanfu contrasts with the dark army below. She is young, outnumbered, but her expression is calm. She extends one hand toward the lake surface — a ripple of pale blue light meets the dark ripple. The two forces of water collide at the center of the lake in a visible clash of light. Camera: medium shot, focused on her hand extension and the water clash. 6 seconds.",
+      "camera": "Two-shot — her ice-blue light vs dark army's force meeting in the water, 6s",
+      "narration": "Two hundred warriors who could walk on water. One girl who could make it boil. She chose to make a point.",
+      "sfx": "Water clash boom, ice cracking, magical energy whoosh, tense strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up dramatic — the dark general raises both arms. The entire lake RISES behind her — a wall of water two hundred meters tall, frozen mid-air in the shape of a snarling dragon head. Thousands of liters suspended impossibly. The water army charges forward ON TOP of the frozen water wall. They run up the wall of ice toward her cliff. She stands her ground. Camera: extreme close-up on her face as the water dragon charges. 6 seconds.",
+      "camera": "Push in — her face as the frozen water dragon army charges toward her, 6s",
+      "narration": "They had come to flood the mortal world below. To wash it clean of what they called 'the unworthy.' She would not let a single drop fall.",
+      "sfx": "Water roaring, army charge, ice cracking, epic battle drums"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — she raises BOTH hands. From the cliff behind her, underground rivers EXPLODE upward — not one but TEN columns of boiling celestial water erupting like geysers. The boiling water cuts through the frozen dragon-wall like scissors through silk. Warriors fall. The water wall shatters. Steam and mist fill the entire lake. Camera: wide shot of ten water geysers erupting and shattering the army's formation. 6 seconds.",
+      "camera": "Wide — ten boiling geysers shattering the water dragon wall, epic aerial, 6s",
+      "narration": "She had learned from the river that remembered everything. And the river had remembered war. It had remembered cruelty. It had remembered what it was like to fight back.",
+      "sfx": "Boiling water explosion, ice shattering, warriors falling, epic orchestral climax"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body shot — steam clears. She stands on the cliff, steam swirling around her, both hands still raised. Below, the surviving water army retreats across the fractured lake surface. Her expression: fierce, no mercy, tears of fury on her cheeks. She lowers her hands slowly. The steam settles. Camera: full-body, cinematic push in from medium to fierce tearful close-up. 6 seconds. End on her face.",
+      "camera": "Push in — full body in steam to fierce tearful close-up, 6s",
+      "narration": "She had won this battle. But the war was just beginning. And they would return with ten times more.",
+      "sfx": "Steam settling, water dripping, wind, somber epic strings fading"
+    }
+  ],
+  "audio": {
+    "narration": "The Celestial Falls were not the only source of water magic. And the Shadow Sect had learned to weaponize it. Two hundred warriors who could walk on water. One girl who could make it boil. She chose to make a point. They had come to flood the mortal world below. To wash it clean of what they called 'the unworthy.' She would not let a single drop fall. She had learned from the river that remembered everything. And the river had remembered war. It had remembered cruelty. It had remembered what it was like to fight back. She had won this battle. But the war was just beginning. And they would return with ten times more.",
+    "narration_duration": 28,
+    "bg_music": "Epic battle Chinese orchestral, heavy drums and erhu, swelling strings, dark and intense 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Water rippling",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Water clash boom",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Water roaring",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Boiling water explosion",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Steam settling",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing shot — a vast lake at dawn, perfectly calm like a mirror. An army of two hundred warriors in dark navy and black armor stands on the surface of the lake — not sinking. Their feet touch the water but do not break it. At their head, a cold beautiful woman in obsidian black Hanfu raises her hand and the entire lake ripples in response. She commands the water. Camera: wide establishing, slow pan across the army. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she stands alone on a rocky outcrop overlooking the lake. Her ice-blue Hanfu contrasts with the dark army below. She is young, outnumbered, but her expression is calm. She extends one hand toward the lake surface — a ripple of pale blue light meets the dark ripple. The two forces of water collide at the center of the lake in a visible clash of light. Camera: medium shot, focused on her hand extension and the water clash. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up dramatic — the dark general raises both arms. The entire lake RISES behind her — a wall of water two hundred meters tall, frozen mid-air in the shape of a snarling dragon head. Thousands of liters suspended impossibly. The water army charges forward ON TOP of the frozen water wall. They run up the wall of ice toward her cliff. She stands her ground. Camera: extreme close-up on her face as the water dragon charges. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — she raises BOTH hands. From the cliff behind her, underground rivers EXPLODE upward — not one but TEN columns of boiling celestial water erupting like geysers. The boiling water cuts through the frozen dragon-wall like scissors through silk. Warriors fall. The water wall shatters. Steam and mist fill the entire lake. Camera: wide shot of ten water geysers erupting and shattering the army's formation. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body shot — steam clears. She stands on the cliff, steam swirling around her, both hands still raised. Below, the surviving water army retreats across the fractured lake surface. Her expression: fierce, no mercy, tears of fury on her cheeks. She lowers her hands slowly. The steam settles. Camera: full-body, cinematic push in from medium to fierce tearful close-up. 6 seconds. End on her face."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 3: Đạo Tràng Bước Trên Nước | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 3 of Ha Tien Du. An army that walks on water arrives to flood the mortal world. One girl stands between them and the world below.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 4\n#xianxia #ha tiendu #water battle #epic confrontation #army #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "water army",
+      "battle",
+      "flooding",
+      "epic confrontation",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Một đạo quân có thể bước trên mặt nước đến để hủy diệt thế giới phàm — cô gái duy nhất đứng chặn họ ⚔️🌊 Tập 3 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing shot — a vast lake at dawn, perfectly calm like a mirror. An army of two hundred warriors in dark navy and black armor stands on the surface of the lake — not sinking. Their feet touch the water but do not break it. At their head, a cold beautiful woman in obsidian black Hanfu raises her hand and the entire lake ripples in response. She commands the water. Camera: wide establishing, slow pan across the army. 6 seconds. Shot 2: Medium shot — she stands alone on a rocky outcrop overlooking the lake. Her ice-blue Hanfu contrasts with the dark army below. She is young, outnumbered, but her expression is calm. She extends one hand toward the lake surface — a ripple of pale blue light meets the dark ripple. The two forces of water collide at the center of the lake in a visible clash of light. Camera: medium shot, focused on her hand extension and the water clash. 6 seconds. Shot 3: Close-up dramatic — the dark general raises both arms. The entire lake RISES behind her — a wall of water two hundred meters tall, frozen mid-air in the shape of a snarling dragon head. Thousands of liters suspended impossibly. The water army charges forward ON TOP of the frozen water wall. They run up the wall of ice toward her cliff. She stands her ground. Camera: extreme close-up on her face as the water dragon charges. 6 seconds. Shot 4: Wide cinematic — she raises BOTH hands. From the cliff behind her, underground rivers EXPLODE upward — not one but TEN columns of boiling celestial water erupting like geysers. The boiling water cuts through the frozen dragon-wall like scissors through silk. Warriors fall. The water wall shatters. Steam and mist fill the entire lake. Camera: wide shot of ten water geysers erupting and shattering the army's formation. 6 seconds. Shot 5: Full-body shot — steam clears. She stands on the cliff, steam swirling around her, both hands still raised. Below, the surviving water army retreats across the fractured lake surface. Her expression: fierce, no mercy, tears of fury on her cheeks. She lowers her hands slowly. The steam settles. Camera: full-body, cinematic push in from medium to fierce tearful close-up. 6 seconds. End on her face.",
+  "visual_scene": "Wide establishing shot — a vast lake at dawn, perfectly calm like a mirror. An army of two hundred warriors in dark navy and black armor stands on the surface of the lake — not sinking. Their feet touch the water but do not break it. At their head, a cold beautiful woman in obsidian black Hanfu raises her hand and the entire lake ripples in response. She commands the water. Camera: wide establishing, slow pan across the army. 6 seconds. Medium shot — she stands alone on a rocky outcrop overlooking the lake. Her ice-blue Hanfu contrasts with the dark army below. She is young, outnumbered, but her expression is calm. She extends one hand toward the lake surface — a ripple of pale blue light meets the dark ripple. The two forces of water collide at the center of the lake in a visible clash of light. Camera: medium shot, focused on her hand extension and the water clash. 6 seconds. Close-up dramatic — the dark general raises both arms. The entire lake RISES behind her — a wall of water two hundred meters tall, frozen mid-air in the shape of a snarling dragon head. Thousands of liters suspended impossibly. The water army charges forward ON TOP of the frozen water wall. They run up the wall of ice toward her cliff. She stands her ground. Camera: extreme close-up on her face as the water dragon charges. 6 seconds. Wide cinematic — she raises BOTH hands. From the cliff behind her, underground rivers EXPLODE upward — not one but TEN columns of boiling celestial water erupting like geysers. The boiling water cuts through the frozen dragon-wall like scissors through silk. Warriors fall. The water wall shatters. Steam and mist fill the entire lake. Camera: wide shot of ten water geysers erupting and shattering the army's formation. 6 seconds. Full-body shot — steam clears. She stands on the cliff, steam swirling around her, both hands still raised. Below, the surviving water army retreats across the fractured lake surface. Her expression: fierce, no mercy, tears of fury on her cheeks. She lowers her hands slowly. The steam settles. Camera: full-body, cinematic push in from medium to fierce tearful close-up. 6 seconds. End on her face.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 3: The Sect That Walks on Water",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "water army",
+    "battle",
+    "flooding",
+    "epic confrontation",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

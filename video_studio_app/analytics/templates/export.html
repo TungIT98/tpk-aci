@@ -1,0 +1,156 @@
+{% extends "base.html" %}
+{% block title %}Export Reports{% endblock %}
+
+{% block content %}
+<div class="mb-4">
+    <h2 class="mb-0" style="color:#e2e8f0; font-weight:800;">
+        <i class="bi bi-download text-purple me-2"></i>Export Reports
+    </h2>
+    <p class="text-muted mb-0" style="font-size:0.85rem;">Download analytics data in CSV or JSON format</p>
+</div>
+
+<div class="row g-4">
+
+    <!-- ── Queue Export ──────────────────────────────────────────────────── -->
+    <div class="col-md-6 col-lg-4">
+        <div class="card h-100 p-3">
+            <div class="d-flex align-items-center gap-2 mb-3">
+                <div class="rounded-circle p-2" style="background:rgba(124,58,237,0.15);">
+                    <i class="bi bi-list-task" style="color:var(--brand-primary); font-size:1.2rem;"></i>
+                </div>
+                <div>
+                    <div style="font-weight:700; color:#e2e8f0;">Job Queue</div>
+                    <div style="font-size:0.75rem; color:#64748b;">All pipeline jobs</div>
+                </div>
+            </div>
+            <div class="row g-2 mb-3">
+                {% for label, count, color in [
+                    ('Pending', queue_stats.pending, '#f59e0b'),
+                    ('Processing', queue_stats.processing, '#3b82f6'),
+                    ('Done', queue_stats.done, '#10b981'),
+                    ('Failed', queue_stats.failed, '#ef4444'),
+                ] %}
+                <div class="col-6">
+                    <div class="text-center p-2 rounded" style="background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.05);">
+                        <div style="font-size:1.2rem; font-weight:700; color:{{ color }};">{{ count }}</div>
+                        <div style="font-size:0.68rem; color:#64748b; text-transform:uppercase;">{{ label }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div style="font-size:0.78rem; color:#64748b; margin-bottom:1rem;">
+                {{ queue_stats.total }} total jobs &bull; CSV format
+            </div>
+            <a href="/export/queue/csv" class="btn btn-outline-purple w-100">
+                <i class="bi bi-file-earmark-arrow-down me-1"></i> Download Queue CSV
+            </a>
+        </div>
+    </div>
+
+    <!-- ── Videos Export ──────────────────────────────────────────────────── -->
+    <div class="col-md-6 col-lg-4">
+        <div class="card h-100 p-3">
+            <div class="d-flex align-items-center gap-2 mb-3">
+                <div class="rounded-circle p-2" style="background:rgba(168,85,247,0.15);">
+                    <i class="bi bi-film" style="color:#a855f7; font-size:1.2rem;"></i>
+                </div>
+                <div>
+                    <div style="font-weight:700; color:#e2e8f0;">Videos</div>
+                    <div style="font-size:0.75rem; color:#64748b;">All uploaded videos</div>
+                </div>
+            </div>
+            <div class="row g-2 mb-3">
+                {% for label, count, color in [
+                    ('Total', video_stats.total, '#7c3aed'),
+                    ('Uploaded', video_stats.uploaded, '#10b981'),
+                    ('Views', video_stats.total_views, '#38bdf8'),
+                ] %}
+                <div class="col-4">
+                    <div class="text-center p-2 rounded" style="background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.05);">
+                        <div style="font-size:1.1rem; font-weight:700; color:{{ color }};">{{ "{:,}".format(count) }}</div>
+                        <div style="font-size:0.68rem; color:#64748b; text-transform:uppercase;">{{ label }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div style="font-size:0.78rem; color:#64748b; margin-bottom:1rem;">
+                Revenue: ${{ "%.2f"|format(video_stats.total_revenue) }} &bull; CSV format
+            </div>
+            <a href="/export/videos/csv" class="btn btn-outline-purple w-100">
+                <i class="bi bi-file-earmark-arrow-down me-1"></i> Download Videos CSV
+            </a>
+        </div>
+    </div>
+
+    <!-- ── Schedule Export ───────────────────────────────────────────────── -->
+    <div class="col-md-6 col-lg-4">
+        <div class="card h-100 p-3">
+            <div class="d-flex align-items-center gap-2 mb-3">
+                <div class="rounded-circle p-2" style="background:rgba(59,130,246,0.15);">
+                    <i class="bi bi-calendar3-week" style="color:#3b82f6; font-size:1.2rem;"></i>
+                </div>
+                <div>
+                    <div style="font-weight:700; color:#e2e8f0;">Schedule</div>
+                    <div style="font-size:0.75rem; color:#64748b;">Scheduled uploads</div>
+                </div>
+            </div>
+            <div class="row g-2 mb-3">
+                {% for label, count, color in [
+                    ('Scheduled', schedule_stats.scheduled, '#3b82f6'),
+                    ('Posted', schedule_stats.posted, '#10b981'),
+                    ('Missed', schedule_stats.missed, '#ef4444'),
+                    ('Cancelled', schedule_stats.cancelled, '#64748b'),
+                ] %}
+                <div class="col-6">
+                    <div class="text-center p-2 rounded" style="background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.05);">
+                        <div style="font-size:1.2rem; font-weight:700; color:{{ color }};">{{ count }}</div>
+                        <div style="font-size:0.68rem; color:#64748b; text-transform:uppercase;">{{ label }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div style="font-size:0.78rem; color:#64748b; margin-bottom:1rem;">
+                {{ schedule_stats.total }} total entries &bull; CSV format
+            </div>
+            <a href="/export/schedule/csv" class="btn btn-outline-purple w-100">
+                <i class="bi bi-file-earmark-arrow-down me-1"></i> Download Schedule CSV
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- ── Full JSON Export ──────────────────────────────────────────────────── -->
+<div class="row mt-4">
+    <div class="col-lg-6">
+        <div class="card p-3" style="border-color:rgba(124,58,237,0.4);">
+            <div class="d-flex align-items-center gap-2 mb-2">
+                <i class="bi bi-braces" style="color:var(--brand-primary); font-size:1.2rem;"></i>
+                <div>
+                    <div style="font-weight:700; color:#e2e8f0;">Full Analytics Export (JSON)</div>
+                    <div style="font-size:0.75rem; color:#64748b;">
+                        All queue, video, schedule & performance data in one file
+                    </div>
+                </div>
+            </div>
+            <p style="font-size:0.8rem; color:#64748b;">
+                Includes: queue jobs + stats, video stats + uploads, batch results, schedule entries, performance metrics.
+            </p>
+            <a href="/export/all/json" class="btn btn-primary w-100">
+                <i class="bi bi-download me-1"></i> Download Full JSON Export
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- ── Date range filter note ──────────────────────────────────────────── -->
+<div class="mt-4 p-3 rounded" style="background:rgba(124,58,237,0.05); border:1px solid rgba(124,58,237,0.15);">
+    <div style="font-size:0.82rem; color:#94a3b8;">
+        <i class="bi bi-info-circle me-1" style="color:var(--brand-primary);"></i>
+        <strong>Date filtering:</strong> To export a specific date range, use the CLI tools directly:
+        <code>python -m video_studio_app.job_queue</code>,
+        <code>python -m video_studio_app.scheduler</code>,
+        <code>python -m video_studio_app.performance_tracker</code>.
+        All support <code>--days N</code> and <code>--output</code> flags for filtered exports.
+    </div>
+</div>
+{% endblock %}

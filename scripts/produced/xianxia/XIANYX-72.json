@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-72",
+  "title": "Dau Pha Thuong Khau Episode 12: The Shadow Architect",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Mastermind revealed, conspiracy exposed, terrifying power, chess pieces revealed",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "The arena founder had died three hundred years ago. But the arena — was still following his plan.",
+    "story_arc": "Ancient records discovered → Founder's portrait revealed → Same face as current organizer → He is immortal → The three-hundred-year game",
+    "emotion": "Investigation → Shock → Recognition → Terror → Understanding",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the arena's secret archive. Ancient records, dust, cobwebs. Our fighter opens a chest. Inside: documents in ancient script. He translates slowly. Each page — a battle record. Fighters who won too many times — listed as 'processed.' He keeps reading. The same name appears on every page: 'Arena Founder — personally conducted processing.' Camera: wide shot — archive, ancient chest, documents, his translating face, growing horror. 6 seconds.",
+      "camera": "Wide shot — archive, ancient chest, records with same name, horror accumulating, 6s",
+      "narration": "Every legendary fighter who ever won too many times — had been processed.",
+      "sfx": "Pages turning, dust falling, his quiet translating, wind through archive, heartbeat"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium close-up — he pulls back a dusty curtain. A massive oil painting is revealed. A man in black robes, seated on a throne of bones. His face — cold, calculating, immortal. He stares at the painting. Then — in the corner of the room — a modern photograph falls from a file. He picks it up. His hands begin to shake. Same face. Same eyes. Exactly the same. Camera: close-up — oil painting revealed, his face, then photograph falling, same face in modern photo, shaking hands. 6 seconds.",
+      "camera": "Close-up — ancient painting, modern photograph, same face, shaking hands, 6s",
+      "narration": "The founder — painted three hundred years ago — had the same face as the current arena master.",
+      "sfx": "Curtain pulling, painting revealed, photograph falling, paper rustling, his sharp breath"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — a voice from behind. 'You found my archive.' He turns. The arena master stands in the doorway. He hasn't aged a day from the painting. Smiles. 'The Blood Arena Formation requires a vessel. An immortal vessel. I have spent three centuries — perfecting mine.' The air around him bends. Space warps. Our fighter is pushed back by pure spiritual pressure. Camera: extreme close-up — arena master in doorway, immortal smile, space bending around him, fighter pushed back. 6 seconds.",
+      "camera": "Extreme close-up — immortal appearing, space warping around him, fighter pushed back by pressure, 6s",
+      "narration": "Three hundred years. And the arena master had never aged a single day.",
+      "sfx": "Voice echoing, space warping sound, spiritual pressure, his feet skidding back, heartbeat"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — the arena master walks forward slowly. His footsteps make no sound. 'Every fighter in my arena — feeds the formation. Every death makes me stronger.' He raises one hand. A red energy web appears — the same pattern as the formation on floor twenty. 'One hundred more deaths. Then the god awakens. And I — become its vessel.' Our fighter is pinned against the wall. Camera: medium — arena master walking, red formation web in his hand, pinned fighter, immortal declaration. 6 seconds.",
+      "camera": "Medium — immortal walking, formation web in hand, fighter pinned, declaration of god vessel plan, 6s",
+      "narration": "A hundred more deaths. And the immortal would become a god.",
+      "sfx": "No footsteps, formation web appearing, his voice echoing, fighter pinned, wall cracking"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — our fighter speaks through the pressure. 'You killed thousands.' The arena master: 'I will kill millions. When the god wears my body — the world will kneel.' He releases the pressure. Our fighter slumps. The arena master walks past him, toward the archive exit. Speaks: 'Continue fighting in the arena. One hundred more matches. Then — we are done.' He vanishes. Our fighter is left alone. Terrified. Enraged. Camera: close-up — arena master vanishing, fighter slumped against wall, terror and rage on face. 6 seconds.",
+      "camera": "Close-up — immortal vanishing, fighter alone slumped, terror and rage mixed, 6s",
+      "narration": "One hundred matches left. One hundred fighters who would feed his god.",
+      "sfx": "Immortal vanishing, his breathing ragged, echo of his footsteps fading, rage building"
+    }
+  ]
+}

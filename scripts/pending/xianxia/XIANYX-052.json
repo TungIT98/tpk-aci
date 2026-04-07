@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-052",
+  "title": "Ha Tien Du Episode 2: The Waters That Remember",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 2,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The river remembered everything — every life it had touched, every secret whispered to its surface, every soul that had fallen within it.",
+    "story_arc": "River memory → Drowned palace → Her mother's ghost → The water speaks → Warning accepted",
+    "emotion": "Mystery → Wonder → Grief → Supernatural revelation → Grim resolve",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide aerial — the celestial waterfall at night. The UPWARD cascading water glows with bioluminescent blue-green light. Camera slow push in through the cascading water — we see THROUGH the water to what lies beneath: an ancient drowned palace of white marble columns and golden domes, perfectly preserved under the surface. Camera: extreme wide push in through water to the palace. 6 seconds.",
+      "camera": "Push in — extreme wide through glowing cascade to drowned palace, 6s",
+      "narration": "The river remembered everything. Every life it had touched. Every secret whispered to its surface. Every soul that had fallen within it.",
+      "sfx": "Deep water ambience, ethereal echo, bioluminescent shimmer"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium underwater shot — she swims gracefully through the submerged palace, her ice-blue Hanfu flowing around her like a jellyfish. Fish of pure light swim alongside her. Ancient golden writing glows on marble walls. She reaches a throne room where a woman in royal robes sits frozen at a golden desk, ink brush still in hand. Her mother. Camera: medium underwater shot, slow pan across the throne room. 6 seconds.",
+      "camera": "Pan right — underwater palace throne room, frozen queen at desk, 6s",
+      "narration": "Her mother had died reaching for the truth. And in the river's memory, she had found her. Preserved. Waiting.",
+      "sfx": "Underwater ambient, bubble sounds, distant golden bell"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Extreme close-up — her mother's ghostly translucent hand reaches toward her face. The ghost's expression: loving, sorrowful. In the ghost's eyes we see visions — flash: a great war, a betrayal, a sealed door. The ghost mouths words: 'Do not open the door.' Tears stream down the living daughter's face underwater. Camera: extreme close-up, ghost hand touching her cheek, slow fade through visions. 6 seconds.",
+      "camera": "Close-up — ghost mother's touch and vision montage, 6s",
+      "narration": "Her mother's final message: a warning. A door that must remain sealed. And a truth so dangerous that the river itself had drowned to keep it hidden.",
+      "sfx": "Ghost whisper, vision whoosh, single tear underwater, mournful strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — the entire palace shakes. Ancient cracks spread across the marble. The water above churns. She gasps — the palace is collapsing back into darkness. She grabs her mother's frozen hand. The ghost transforms into glowing water that flows into her palm. A surge of power — her entire body glows blue-white. Camera: wide shot of palace crumbling, her silhouette glowing at the center. 6 seconds.",
+      "camera": "Pull back — palace collapsing, her hand absorbing glowing water, 6s",
+      "narration": "Her mother had dissolved into the water rather than be forgotten. And in that water lived her final gift: power enough to seal the door — forever.",
+      "sfx": "Palace crumbling, water surging, spirit energy explosion, epic bass boom"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she bursts through the surface of the waterfall, gasping. She is changed — her eyes glow faintly blue, her Hanfu glitters with water-light. She stands on the cliff, trembling but determined. Behind her the palace below has vanished into perfect darkness. She looks toward the mortal world below with new purpose. Camera: full-body shot, slow cinematic push in to glowing-eyed close-up. 6 seconds. End on her face.",
+      "camera": "Push in — full body emerging from waterfall to determined glowing-eyed face, 6s",
+      "narration": "She emerged from the depths carrying her mother's soul like a lantern in the dark. The door must never open. And she would make sure of it.",
+      "sfx": "Water splash, wind, heartbeat, epic xianxia soundtrack swell"
+    }
+  ],
+  "audio": {
+    "narration": "The river remembered everything. Every life it had touched. Every secret whispered to its surface. Every soul that had fallen within it. Her mother had died reaching for the truth. And in the river's memory, she had found her. Preserved. Waiting. Her mother's final message: a warning. A door that must remain sealed. And a truth so dangerous that the river itself had drowned to keep it hidden. Her mother had dissolved into the water rather than be forgotten. And in that water lived her final gift: power enough to seal the door — forever. She emerged from the depths carrying her mother's soul like a lantern in the dark. The door must never open. And she would make sure of it.",
+    "narration_duration": 28,
+    "bg_music": "Mystical Chinese orchestral, guzheng and dizi flute leading, mournful yet epic, ethereal 75 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Deep water ambience",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Underwater ambient",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Ghost whisper",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Palace crumbling",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Water splash",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide aerial — the celestial waterfall at night. The UPWARD cascading water glows with bioluminescent blue-green light. Camera slow push in through the cascading water — we see THROUGH the water to what lies beneath: an ancient drowned palace of white marble columns and golden domes, perfectly preserved under the surface. Camera: extreme wide push in through water to the palace. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium underwater shot — she swims gracefully through the submerged palace, her ice-blue Hanfu flowing around her like a jellyfish. Fish of pure light swim alongside her. Ancient golden writing glows on marble walls. She reaches a throne room where a woman in royal robes sits frozen at a golden desk, ink brush still in hand. Her mother. Camera: medium underwater shot, slow pan across the throne room. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Extreme close-up — her mother's ghostly translucent hand reaches toward her face. The ghost's expression: loving, sorrowful. In the ghost's eyes we see visions — flash: a great war, a betrayal, a sealed door. The ghost mouths words: 'Do not open the door.' Tears stream down the living daughter's face underwater. Camera: extreme close-up, ghost hand touching her cheek, slow fade through visions. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — the entire palace shakes. Ancient cracks spread across the marble. The water above churns. She gasps — the palace is collapsing back into darkness. She grabs her mother's frozen hand. The ghost transforms into glowing water that flows into her palm. A surge of power — her entire body glows blue-white. Camera: wide shot of palace crumbling, her silhouette glowing at the center. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she bursts through the surface of the waterfall, gasping. She is changed — her eyes glow faintly blue, her Hanfu glitters with water-light. She stands on the cliff, trembling but determined. Behind her the palace below has vanished into perfect darkness. She looks toward the mortal world below with new purpose. Camera: full-body shot, slow cinematic push in to glowing-eyed close-up. 6 seconds. End on her face."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 2: Dòng Sông Ký Ức | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 2 of Ha Tien Du. The river remembered everything — including her mother's ghost, drowned palace secrets, and a warning about a door that must never be opened.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 3\n#xianxia #ha tiendu #drowned palace #ghost #mystery #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "drowned palace",
+      "ghost mother",
+      "water memory",
+      "supernatural",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Dòng sông nhớ TẤT CẢ — ký ức, bí mật và linh hồn người mẹ đã chết vì bảo vệ cánh cửa cấm ⚔️🌊 Tập 2 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide aerial — the celestial waterfall at night. The UPWARD cascading water glows with bioluminescent blue-green light. Camera slow push in through the cascading water — we see THROUGH the water to what lies beneath: an ancient drowned palace of white marble columns and golden domes, perfectly preserved under the surface. Camera: extreme wide push in through water to the palace. 6 seconds. Shot 2: Medium underwater shot — she swims gracefully through the submerged palace, her ice-blue Hanfu flowing around her like a jellyfish. Fish of pure light swim alongside her. Ancient golden writing glows on marble walls. She reaches a throne room where a woman in royal robes sits frozen at a golden desk, ink brush still in hand. Her mother. Camera: medium underwater shot, slow pan across the throne room. 6 seconds. Shot 3: Extreme close-up — her mother's ghostly translucent hand reaches toward her face. The ghost's expression: loving, sorrowful. In the ghost's eyes we see visions — flash: a great war, a betrayal, a sealed door. The ghost mouths words: 'Do not open the door.' Tears stream down the living daughter's face underwater. Camera: extreme close-up, ghost hand touching her cheek, slow fade through visions. 6 seconds. Shot 4: Wide shot — the entire palace shakes. Ancient cracks spread across the marble. The water above churns. She gasps — the palace is collapsing back into darkness. She grabs her mother's frozen hand. The ghost transforms into glowing water that flows into her palm. A surge of power — her entire body glows blue-white. Camera: wide shot of palace crumbling, her silhouette glowing at the center. 6 seconds. Shot 5: Close-up — she bursts through the surface of the waterfall, gasping. She is changed — her eyes glow faintly blue, her Hanfu glitters with water-light. She stands on the cliff, trembling but determined. Behind her the palace below has vanished into perfect darkness. She looks toward the mortal world below with new purpose. Camera: full-body shot, slow cinematic push in to glowing-eyed close-up. 6 seconds. End on her face.",
+  "visual_scene": "Extreme wide aerial — the celestial waterfall at night. The UPWARD cascading water glows with bioluminescent blue-green light. Camera slow push in through the cascading water — we see THROUGH the water to what lies beneath: an ancient drowned palace of white marble columns and golden domes, perfectly preserved under the surface. Camera: extreme wide push in through water to the palace. 6 seconds. Medium underwater shot — she swims gracefully through the submerged palace, her ice-blue Hanfu flowing around her like a jellyfish. Fish of pure light swim alongside her. Ancient golden writing glows on marble walls. She reaches a throne room where a woman in royal robes sits frozen at a golden desk, ink brush still in hand. Her mother. Camera: medium underwater shot, slow pan across the throne room. 6 seconds. Extreme close-up — her mother's ghostly translucent hand reaches toward her face. The ghost's expression: loving, sorrowful. In the ghost's eyes we see visions — flash: a great war, a betrayal, a sealed door. The ghost mouths words: 'Do not open the door.' Tears stream down the living daughter's face underwater. Camera: extreme close-up, ghost hand touching her cheek, slow fade through visions. 6 seconds. Wide shot — the entire palace shakes. Ancient cracks spread across the marble. The water above churns. She gasps — the palace is collapsing back into darkness. She grabs her mother's frozen hand. The ghost transforms into glowing water that flows into her palm. A surge of power — her entire body glows blue-white. Camera: wide shot of palace crumbling, her silhouette glowing at the center. 6 seconds. Close-up — she bursts through the surface of the waterfall, gasping. She is changed — her eyes glow faintly blue, her Hanfu glitters with water-light. She stands on the cliff, trembling but determined. Behind her the palace below has vanished into perfect darkness. She looks toward the mortal world below with new purpose. Camera: full-body shot, slow cinematic push in to glowing-eyed close-up. 6 seconds. End on her face.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 2: The Waters That Remember",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "drowned palace",
+    "ghost mother",
+    "water memory",
+    "supernatural",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

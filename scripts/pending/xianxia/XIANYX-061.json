@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-061",
+  "title": "Trieu Tien Episode 11: The Blade That Chose Its Master",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The ancient sword had rejected everyone for three hundred years — until it sensed the blood of the Sword Saint flowing through her veins.",
+    "story_arc": "Sword altar awakening → Blood inheritance → Blade accepts her → Power surge → New enemies sense it",
+    "emotion": "Anticipation → Wonder → Power rush → Shock → Tension",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — she enters the inner sword chamber of the Taoist temple. Every sword on the walls vibrates — a chorus of ringing metal. At the center: the ancient sword her father died defending, still embedded in stone, now glowing faint crimson. She approaches slowly. The sword PULSES with light at her proximity. Camera: wide establishing, all swords vibrating, slow push in to the glowing ancient blade. 6 seconds.",
+      "camera": "Push in — inner sword chamber, all swords vibrating, ancient blade pulsing at her approach, 6s",
+      "narration": "In the deepest chamber of the temple, where her father had made his final stand, the ancient sword pulsed — recognizing the blood of the Sword Saint.",
+      "sfx": "Metal resonance, swords singing, wind through chamber, ancient bell"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — she places both hands on the hilt. The sword does not resist — it PULLS her hands. Crimson light races up her arms. Flash of vision: her father wielding the same blade against a thousand soldiers. The same pose. The same stance. She IS him in that moment. Tears stream down her face. Camera: extreme close-up, her hands on hilt, crimson light racing, father's vision. 6 seconds.",
+      "camera": "Close-up — hands on hilt, crimson light, father vision, inherited power, 6s",
+      "narration": "She had trained for this moment her entire life. And when the blade recognized her — she understood. She had not been training to become him. She had been training to become herself.",
+      "sfx": "Sword hum crescendo, vision whoosh, her breath, emotional orchestral swell"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — she WRENCHES the blade free. It comes out easily — as if it had been waiting. A shockwave of crimson light EXPLODES outward from the chamber. Temple walls crack. Roof tiles fly. She stands in the center, blade in hand, eyes glowing. She is the new Sword Saint. Camera: wide, explosion of crimson light, her silhouette with drawn blade. 6 seconds.",
+      "camera": "Wide — sword drawn, crimson shockwave exploding, temple cracking, new Sword Saint revealed, 6s",
+      "narration": "The blade had waited three hundred years for the right blood. It had found her. And the shockwave of its awakening had been felt — across the valley.",
+      "sfx": "Sword screech, explosion whoosh, shockwave, epic battle drums, triumphant strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — distant wide shot: enemy generals on a war mountaintop THREE LEAGUES away feel the shockwave. One of them — an old scarred warrior — drops his teacup. 'She's awakened the Crimson Blade,' he whispers. 'Then we kill her now,' says the young commander. They begin mobilizing. Camera: close-up on enemy generals, dramatic tension, mobilization begins. 6 seconds.",
+      "camera": "Close-up — distant generals feeling shockwave, 'kill her now' order, army mobilizing, 6s",
+      "narration": "Across the valley, her enemies felt the awakening. And they understood — if she mastered the blade, no army in the realm could stop her. She had to die tonight.",
+      "sfx": "Distant thunder, teacup shattering, war horns, ominous drums"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — she steps out of the temple chamber into the night. The blade glows crimson in her grip. She holds it differently than her father did — not like a warrior, but like a dancer. Like water. Beautiful and deadly. Cherry blossoms swirl in the shockwave's aftermath. Camera: full-body, new Sword Saint in moonlight, crimson blade glowing, cherry blossoms, cinematic. 6 seconds.",
+      "camera": "Full-body cinematic — new Sword Saint in moonlight, crimson blade, cherry blossoms, warrior-dancer stance, 6s",
+      "narration": "She was not her father's copy. She was his legacy — transformed. The Crimson Blade had chosen not just her blood. It had chosen her soul.",
+      "sfx": "Wind picking up, cherry blossoms swirling, blade hum, epic serene orchestral"
+    }
+  ],
+  "audio": {
+    "narration": "In the deepest chamber of the temple, where her father had made his final stand, the ancient sword pulsed — recognizing the blood of the Sword Saint. She had trained for this moment her entire life. And when the blade recognized her — she understood. She had not been training to become him. She had been training to become herself. The blade had waited three hundred years for the right blood. It had found her. And the shockwave of its awakening had been felt — across the valley. Across the valley, her enemies felt the awakening. And they understood — if she mastered the blade, no army in the realm could stop her. She had to die tonight. She was not her father's copy. She was his legacy — transformed. The Crimson Blade had chosen not just her blood. It had chosen her soul.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese battle orchestral, heavy drums, crimson light theme, triumphant yet tense 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Metal resonance",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Sword hum crescendo",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Sword screech",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Distant thunder",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Wind picking up",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — she enters the inner sword chamber of the Taoist temple. Every sword on the walls vibrates — a chorus of ringing metal. At the center: the ancient sword her father died defending, still embedded in stone, now glowing faint crimson. She approaches slowly. The sword PULSES with light at her proximity. Camera: wide establishing, all swords vibrating, slow push in to the glowing ancient blade. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — she places both hands on the hilt. The sword does not resist — it PULLS her hands. Crimson light races up her arms. Flash of vision: her father wielding the same blade against a thousand soldiers. The same pose. The same stance. She IS him in that moment. Tears stream down her face. Camera: extreme close-up, her hands on hilt, crimson light racing, father's vision. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — she WRENCHES the blade free. It comes out easily — as if it had been waiting. A shockwave of crimson light EXPLODES outward from the chamber. Temple walls crack. Roof tiles fly. She stands in the center, blade in hand, eyes glowing. She is the new Sword Saint. Camera: wide, explosion of crimson light, her silhouette with drawn blade. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — distant wide shot: enemy generals on a war mountaintop THREE LEAGUES away feel the shockwave. One of them — an old scarred warrior — drops his teacup. 'She's awakened the Crimson Blade,' he whispers. 'Then we kill her now,' says the young commander. They begin mobilizing. Camera: close-up on enemy generals, dramatic tension, mobilization begins. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — she steps out of the temple chamber into the night. The blade glows crimson in her grip. She holds it differently than her father did — not like a warrior, but like a dancer. Like water. Beautiful and deadly. Cherry blossoms swirl in the shockwave's aftermath. Camera: full-body, new Sword Saint in moonlight, crimson blade glowing, cherry blossoms, cinematic. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 11: Thanh Kiếm Chọn Chủ Nhân | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 11 of Trieu Tien. The ancient Crimson Blade — rejected by all for three hundred years — recognizes the blood of the Sword Saint in her veins and accepts her as its new master.\n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 12\n#xianxia #trieu tien #crimson blade #sword saint #awakening #epic",
+    "youtube_tags": [
+      "xianxia",
+      "trie u tien",
+      "crimson blade",
+      "sword saint",
+      "awakening",
+      "enemy mobilizing",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Thanh kiếm cổ đại bỏ qua tất cả trong 300 năm — cuối cùng NHẬN RA cô và chọn cô làm chủ nhân mới ⚔️🔥 Tập 11 Trieu Tien #xianxia #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — she enters the inner sword chamber of the Taoist temple. Every sword on the walls vibrates — a chorus of ringing metal. At the center: the ancient sword her father died defending, still embedded in stone, now glowing faint crimson. She approaches slowly. The sword PULSES with light at her proximity. Camera: wide establishing, all swords vibrating, slow push in to the glowing ancient blade. 6 seconds. Shot 2: Close-up — she places both hands on the hilt. The sword does not resist — it PULLS her hands. Crimson light races up her arms. Flash of vision: her father wielding the same blade against a thousand soldiers. The same pose. The same stance. She IS him in that moment. Tears stream down her face. Camera: extreme close-up, her hands on hilt, crimson light racing, father's vision. 6 seconds. Shot 3: Wide cinematic — she WRENCHES the blade free. It comes out easily — as if it had been waiting. A shockwave of crimson light EXPLODES outward from the chamber. Temple walls crack. Roof tiles fly. She stands in the center, blade in hand, eyes glowing. She is the new Sword Saint. Camera: wide, explosion of crimson light, her silhouette with drawn blade. 6 seconds. Shot 4: Close-up — distant wide shot: enemy generals on a war mountaintop THREE LEAGUES away feel the shockwave. One of them — an old scarred warrior — drops his teacup. 'She's awakened the Crimson Blade,' he whispers. 'Then we kill her now,' says the young commander. They begin mobilizing. Camera: close-up on enemy generals, dramatic tension, mobilization begins. 6 seconds. Shot 5: Full-body cinematic — she steps out of the temple chamber into the night. The blade glows crimson in her grip. She holds it differently than her father did — not like a warrior, but like a dancer. Like water. Beautiful and deadly. Cherry blossoms swirl in the shockwave's aftermath. Camera: full-body, new Sword Saint in moonlight, crimson blade glowing, cherry blossoms, cinematic. 6 seconds.",
+  "visual_scene": "Wide establishing — she enters the inner sword chamber of the Taoist temple. Every sword on the walls vibrates — a chorus of ringing metal. At the center: the ancient sword her father died defending, still embedded in stone, now glowing faint crimson. She approaches slowly. The sword PULSES with light at her proximity. Camera: wide establishing, all swords vibrating, slow push in to the glowing ancient blade. 6 seconds. Close-up — she places both hands on the hilt. The sword does not resist — it PULLS her hands. Crimson light races up her arms. Flash of vision: her father wielding the same blade against a thousand soldiers. The same pose. The same stance. She IS him in that moment. Tears stream down her face. Camera: extreme close-up, her hands on hilt, crimson light racing, father's vision. 6 seconds. Wide cinematic — she WRENCHES the blade free. It comes out easily — as if it had been waiting. A shockwave of crimson light EXPLODES outward from the chamber. Temple walls crack. Roof tiles fly. She stands in the center, blade in hand, eyes glowing. She is the new Sword Saint. Camera: wide, explosion of crimson light, her silhouette with drawn blade. 6 seconds. Close-up — distant wide shot: enemy generals on a war mountaintop THREE LEAGUES away feel the shockwave. One of them — an old scarred warrior — drops his teacup. 'She's awakened the Crimson Blade,' he whispers. 'Then we kill her now,' says the young commander. They begin mobilizing. Camera: close-up on enemy generals, dramatic tension, mobilization begins. 6 seconds. Full-body cinematic — she steps out of the temple chamber into the night. The blade glows crimson in her grip. She holds it differently than her father did — not like a warrior, but like a dancer. Like water. Beautiful and deadly. Cherry blossoms swirl in the shockwave's aftermath. Camera: full-body, new Sword Saint in moonlight, crimson blade glowing, cherry blossoms, cinematic. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Trieu Tien Episode 11: The Blade That Chose Its Master",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "trie u tien",
+    "crimson blade",
+    "sword saint",
+    "awakening",
+    "enemy mobilizing",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

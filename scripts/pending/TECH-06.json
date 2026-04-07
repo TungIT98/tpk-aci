@@ -1,0 +1,32 @@
+﻿{
+  "id": "TECH-06",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "Claude không chỉ là ChatGPT bản nhái — 3 tính năng này khiến tôi chuyển sang dùng luôn",
+  "script": "Tôi đã dùng ChatGPT 2 năm. Nhưng tháng rồi tôi chuyển sang Claude và không quay lại. Claude đọc và phân tích tài liệu dài 500 trang chỉ trong 10 giây. Claude viết văn bản mạch lạc, tự nhiên không thua nhà văn. Và tính năng quan trọng nhất: Claude không dễ bị hallucination như ChatGPT — nó liên tục kiểm chứng thông tin. Đây là lý do 2026 là năm của Claude.",
+  "prompt_for_hailuo": "Sleek minimalist workspace, a person reading through hundreds of glowing document pages that flow like a river of light around them [Wide establishing shot]. A sophisticated AI humanoid silhouette made of white and gold light stands in the center, gentle warm glow radiating outward [Close up AI figure]. Documents reorganizing themselves into a clear summary mind map floating in the air [Top down aerial shot]. Elegant white and gold ambient lighting, dark sophisticated background, floating document particles, cinematic feel, 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "claude",
+    "ai",
+    "chatbot",
+    "comparison",
+    "productivity",
+    "tech",
+    "writing"
+  ],
+  "thumbnail_idea": "Person surrounded by flowing document light river, gold AI figure in center",
+  "visual_scene": "A sleek minimalist dark workspace. A person sits reading as hundreds of glowing document pages flow like a luminous river of light around them, each page tagged with golden data points. Wide establishing shot captures the scale — documents everywhere. In the center of the room, a sophisticated AI humanoid figure made entirely of white and gold light stands with gentle warm glow radiating outward, almost translucent. Close up on the AI figure's serene face. The documents suddenly reorganize themselves in mid-air, flowing into a clear hierarchical mind map with summary nodes, floating like a holographic constellation. Top-down aerial shot shows the mind map forming perfectly above the desk. Elegant white and gold ambient lighting contrasts with the dark sophisticated background, floating document particles drifting through the scene. Portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Person surrounded by hundreds of glowing flowing document pages in a luminous light river, sophisticated AI humanoid figure made of white and gold light standing in center with warm glow radiating outward, documents reorganizing into a holographic mind map floating above desk, elegant white and gold ambient lighting, dark sophisticated background, floating document particles, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-06.mp4",
+  "produced_at": "2026-03-30T16:16:57.264Z",
+  "updatedAt": "2026-03-30T16:21:38.356Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:27:21.587Z",
+  "tiktok_url": "/@fai20128/video/7625204045149474068"
+}

@@ -1,0 +1,2 @@
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/pexels_clips/WC03_fix_1_34466883.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/pexels_clips/WC03_fix_2_35117249.mp4'

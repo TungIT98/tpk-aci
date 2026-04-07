@@ -1,0 +1,32 @@
+{
+  "id": "PW-06",
+  "channel": "Productivity Worker",
+  "title": "The Real Reason You Can't Focus After Lunch (It's Not About Food)",
+  "script": "There's a 2pm crash sitting on you right now and it's not about what you ate. It's biology. Scientists call it the postprandial dip — your brain genuinely loses capacity in the early afternoon, combining with a natural circadian low point. Fighting through it costs you hours of low-quality work. The fix? Don't push through. Take a 10-minute walk, do your hardest task first thing in the morning, and save administrative work for the dip. Work with your biology, not against it.",
+  "prompt_for_hailuo": "Person at desk at 2pm rubbing eyes, looking at screen with confusion [Medium shot]. Transition: brain cross-section graphic overlay [Static]. Person stands, stretches, walks to window with coffee [Tracking shot following person]. Cut back to desk: same person, now energized, typing rapidly [Push in on hands/keyboard]. Clock showing 2pm morphs to 4pm with output visible [Montage of completed work]. Modern office, afternoon light, warm tones, professional setting, cinematic cut.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "afternoon productivity",
+    "post-lunch energy",
+    "focus tips",
+    "energy management",
+    "work science"
+  ],
+  "thumbnail_idea": "Person rubbing eyes at desk with clock showing 2pm, '2PM CRASH IS REAL' overlay",
+  "status": "published",
+  "uploaded_at": null,
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "qc_notes": "REGENERATED via Pexels pipeline (2026-03-30). Previous video was duplicate cached Hailuo demo. New video: Pexels stock footage (portrait, 1080x1920) + ElevenLabs Liam TTS. Uploaded via TikTok browser automation.",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T08:00:00Z",
+  "video_path": "output_topic/videos/PW-06.mp4",
+  "generated_at": "2026-03-30T01:25:26Z",
+  "youtube_url": null,
+  "note": "Pexels pipeline used because Hailuo was returning duplicate cached video. Video: 1.25MB, 5s, 1080x1920 portrait. Browser upload blocked - manual upload required.",
+  "visual_scene": "A modern home office desk setup at 2pm in the early afternoon with warm natural light streaming through a window. Young woman with loose messy bun and comfortable oversized cardigan sitting at her desk staring at her laptop screen, rubbing her temples with visible fatigue and mild frustration, a half-finished coffee cup and snack wrappers on the desk. Scene dissolves to a simple clean medical brain cross-section graphic overlay — stylized illustration showing afternoon energy dip labeled 'Circadian Low + Postprandial Effect' — appearing briefly on screen. She stands abruptly from her desk with determination, stretching her arms above her head, walking toward a bright window with a fresh coffee cup, taking a sip and looking out at the view with renewed clarity and calm. Modern home office, warm natural afternoon light, energy renewal atmosphere, cinematic.",
+  "specific_details": "Young woman with a loose messy bun and comfortable oversized cardigan sitting at a modern home office desk at 2pm in the early afternoon with warm natural light streaming through a window, staring at her laptop screen with visible fatigue and mild frustration while rubbing her temples, half-finished coffee cup and snack wrappers on the desk; scene showing a stylized medical brain cross-section graphic overlay illustrating the afternoon energy dip labeled 'Circadian Low + Postprandial Effect'; she stands abruptly from the desk with determination stretching arms above her head and walks toward a bright window with a fresh coffee cup taking a sip and looking out at the view with renewed clarity and calm, set in a modern home office desk setup with warm natural afternoon light and clean bright windows, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, harsh fluorescent office lighting, dark dim interior, outdoor scene, bright sunny midday full sun",
+  "produced_at": "2026-03-31T05:38:48.840Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

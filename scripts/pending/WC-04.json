@@ -1,0 +1,30 @@
+{
+  "id": "WC-04",
+  "channel": "World Cup",
+  "title": "The Flag Wave That Gave Me Chills 🏳️🏳️⚽",
+  "script": "80,000 flags wave as one. Every color, every country, every dream — all in the same stadium, all at the same time. You look around and see faces painted, jerseys on, hearts open. For 90 minutes, the world becomes one team. This is what the World Cup really is. Not just a game. A feeling you carry with you forever.",
+  "prompt_for_hailuo": "Young woman with long dark hair, face painted in national colors, wearing her team jersey, standing in packed World Cup stadium surrounded by a sea of waving flags [Static shot, wide aerial-ish angle showing ocean of flags and fans]. She raises her large national flag high, waving it with both hands as the crowd roars [Tracking shot following her arms raising the flag upward]. The sea of flags ripples in a wave across the entire stadium [Push in on her face, emotional, eyes scanning the breathtaking view]. Second clip: she turns to the camera, eyes glistening, smiling with pure joy and pride [Tracking shot turning to face camera directly]. Flags fill the frame, fireworks explode above, stadium lights blazing [Pull out to reveal the full majestic stadium panorama]. Live World Cup stadium, golden hour or floodlit night, emotional cinematic atmosphere, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "worldcup",
+    "football",
+    "flags",
+    "stadium",
+    "unity",
+    "soccer",
+    "worldcup2026"
+  ],
+  "thumbnail_idea": "Woman waving enormous flag in packed stadium, flags as far as the eye can see, emotional close-up",
+  "visual_scene": "Packed World Cup stadium at golden hour transitioning to floodlit night, aerial mid-angle showing a sea of thousands of waving flags in every color, faces painted in national designs, fans shoulder to shoulder in national jerseys. Young woman with long dark hair, face painted in national colors, wearing her team jersey, standing in the crowd raising a large national flag high with both hands as the stadium roars. Fireworks exploding above the stands, stadium floodlights blazing against the evening sky. Close emotional portrait of her scanning the breathtaking ocean of flags, eyes glistening with pride. Stadium panorama fills frame as flags ripple in a wave across the entire crowd, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, empty stadium, few flags, daytime flat lighting",
+  "specific_details": "Young woman with long dark hair, face painted in national colors, wearing her team jersey, standing in a packed World Cup stadium crowd raising a large national flag high with both hands as 80,000 flags ripple in a synchronized wave across the entire stadium, fireworks exploding above the stands and stadium floodlights blazing against the evening sky, scanning the breathtaking ocean of flags with glistening eyes of pride, turning to face the camera directly with pure joy, set at a packed World Cup stadium transitioning from golden hour to floodlit night.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-27T09:00:00Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "tiktok_uploaded_at": "2026-03-30T04:18:44.605Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\WC-04.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

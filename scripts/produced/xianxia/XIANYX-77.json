@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-77",
+  "title": "Dau Pha Thuong Khau Episode 17: The Immortal Trembles",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 17,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Reversal, power draining, immortal fear, epic climax building",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "For three hundred years, the arena master had drained lives from the formation. Today — the formation drained him.",
+    "story_arc": "Reversal activates → Arena master feels drain → Formation reverses → Three centuries of stolen power flowing back → The immortal's fear",
+    "emotion": "Reversal → Shock → Fear → Rage → Desperate counter-attack",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the arena floor. The formation beneath turns from blood red to burning gold — visible through every crack in the sand. The arena master freezes mid-step. His eyes go WIDE. He feels it: three centuries of stolen life force — draining OUT of him, back toward the formation center twenty floors below. His robes flutter with the reversal. Camera: wide shot — arena floor turning gold from red, arena master frozen mid-step, eyes wide, his spiritual energy draining visibly from his body. 6 seconds.",
+      "camera": "Wide — arena floor turning gold from red, arena master frozen mid-step, eyes wide, three centuries of stolen energy draining from him, 6s",
+      "narration": "The formation had been designed to drain the helpless. And for three centuries — it had fed him without question. But a willing death at the center changed everything.",
+      "sfx": "Formation roar reversing from blood-red to golden with supernatural thunder, arena master gasping, his spiritual energy draining with audible whoosh, sand hissing as gold spreads, crowd above screaming"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the arena master staggers. He slams both hands into the sand — trying to anchor himself to the formation. But the reversal is absolute. Golden light races up his arms — from the sand into his body — then OUT — back toward the center. His white hair — which had been young for three centuries — begins to grey at the roots. His ageless face shows lines for the first time. He is three hundred years old — and the formation is finally collecting its debt. Camera: medium — arena master staggering, slamming hands into sand, hair greying at roots, lines appearing on ageless face, three hundred years of age returning. 6 seconds.",
+      "camera": "Medium — arena master staggering, hair greying at roots, lines appearing on ageless face, three hundred years of age returning, golden reversal light, 6s",
+      "narration": "Three hundred years. Three centuries of stolen youth, stolen lives, stolen time — all draining back to the formation that had fed his immortality. And the debt was coming due.",
+      "sfx": "His hands slamming into sand, hair greying with soft crackle, lines appearing with sound of age returning, formation drain roar, sand cracking beneath him, his sharp terrified gasp"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — the arena master's face: TERROR. Pure, absolute terror. He who had killed ten thousand. He who had built an empire of blood. He who had been a god for three centuries — now feeling death approach. 'NO!' he screams. He raises both hands to the sky — and the formation ERUPTS. The entire arena floor turns blood red again — he is forcing all remaining power to fight the reversal. Camera: extreme close-up — arena master's face of terror, his scream echoing, both hands raised to sky, formation erupting blood red again, fighting the reversal. 6 seconds.",
+      "camera": "Extreme close-up — arena master's face of terror, scream echoing, both hands raised, formation erupting blood red fighting reversal, 6s",
+      "narration": "He fought. Three centuries of accumulated power — fighting the one willing death that had started the reversal. And for thirty seconds — the arena floor became a battlefield between one man's will to live — and three hundred years of justice.",
+      "sfx": "His scream echoing through arena, formation roaring blood red and golden clashing, sand exploding upward, crowd above screaming in terror, his hands shaking as he fights the reversal, supernatural wind"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — the thirty Silence fighters surge forward. Not to attack — to ANCHOR. They form a circle around the arena master — pressing their scarred hands into the sand — connecting to the formation — feeding it with their own willing presence. The reversal strengthens. Golden light ERUPTS — tearing the blood red from the sand. The arena master SCREAMS — the formation choosing the willing sacrifice over him. Camera: medium — thirty scarred fighters pressing hands into sand forming circle around arena master, golden light erupting, blood red tearing away, arena master screaming. 6 seconds.",
+      "camera": "Medium — thirty scarred fighters pressing hands into sand forming circle, golden light erupting, blood red tearing away, arena master screaming, 6s",
+      "narration": "The Silence had survived three hundred years by learning the formation's truth: it could not resist willing sacrifice. And now — thirty willing hands pressed into the sand — giving the reversal the strength to win.",
+      "sfx": "Thirty fighters pressing into sand simultaneously, golden light roaring with triumph, blood red shrieking as it tears away, arena master screaming in defeat, crowd above stunned silent"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — the arena master collapses to his knees. Three hundred years of age crashed into him at once. His body — ancient. His robes — now grey. His face — the face of a man who had lived for three centuries and wasted every moment. He stares at his withered hands. 'I was going to be a god,' he whispers. 'I was going to — ' His voice breaks. The formation beneath him goes pure gold. Camera: wide shot — arena master collapsed on knees, ancient and withered, formation pure gold beneath him, thirty fighters standing in circle around him, crowd above watching in stunned silence, the reversal complete. 6 seconds.",
+      "camera": "Wide — arena master collapsed on knees ancient and withered, formation pure gold beneath him, thirty fighters in circle, crowd above stunned silent, reversal complete, 6s",
+      "narration": "Three centuries of blood. Ten thousand deaths. One willing sacrifice. And the arena master — who had been a god for three hundred years — knelt on his own arena floor, ancient, alone, finished.",
+      "sfx": "His knees hitting sand, three hundred years of age crashing in with groan, his whisper breaking: I was going to be a god, formation humming pure gold, wind returning, crowd above silent, thirty fighters breathing"
+    }
+  ]
+}

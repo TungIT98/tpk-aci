@@ -1,0 +1,32 @@
+﻿{
+  "id": "HGF-09",
+  "category": "hot_girl_fitness",
+  "channel": "HotGirlFitness",
+  "title": "Tại sao tập sáng thay đổi mọi thứ — 5 lý do khoa học",
+  "script": "Lý do 1: Cortisol cao nhất tự nhiên vào buổi sáng — tập lúc này đốt mỡ cực hiệu quả. Lý do 2: Testosterone buổi sáng hỗ trợ xây dựng cơ. Lý do 3: Tập sáng tạo thói quen — không bỏ được vì cả ngày chưa bận. Lý do 4: Endorphin buổi sáng set mood cả ngày — productivity tăng 20%. Lý do 5: Giấc ngủ sâu hơn — tập sáng = ngủ ngon hơn đêm đó. Nghiên cứu từ British Journal of Sports Medicine chứng minh: người tập sáng giảm cân nhanh hơn 20% so với tập chiều/tối. Không phải tin đồn — đây là khoa học.",
+  "prompt_for_hailuo": "Sunrise golden hour, fit girl running outdoors on empty city street, long shadow stretching behind her [Wide cinematic shot]. Morning gym: girl lifting weights with soft natural light streaming through gym windows [Medium shot]. Morning sunrise city skyline with silhouette of girl doing yoga on rooftop [Aerial drone shot]. Endorphin brain diagram animation: brain lighting up with happy hormones [Close up animated graphic]. Evening scene: girl sleeping deeply and peacefully, moonlight through window [Soft dreamy shot]. Early morning alarm clock 5AM [Macro close-up]. Warm golden sunrise light, empowering cold morning air atmosphere, cinematic portrait 9:16.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "hot_girl",
+    "fitness",
+    "morning_workout",
+    "motivation",
+    "science",
+    "habits",
+    "health",
+    "vietnam"
+  ],
+  "thumbnail_idea": "Sunrise silhouette of girl running — golden hour light, morning workout scene",
+  "visual_scene": "A breathtaking split-journey sequence starting with a brilliant golden sunrise over a Vietnamese city skyline, silhouette of a fit athletic girl running alone on an empty tree-lined morning street, her long shadow stretching dramatically behind her in the warm dawn light. Then switching to a bright modern gym interior with soft natural morning light streaming through floor-to-ceiling windows, the same girl performing weight training with perfect form and focused expression. Then a serene rooftop scene with the city skyline at dawn, the girl doing yoga in silhouette against the colorful sunrise sky. An animated graphic overlay shows an endorphin brain diagram with the brain lighting up with warm glowing happy hormones. Finally a peaceful bedroom scene with moonlight through sheer curtains, the girl sleeping deeply and contentedly. A 5AM alarm clock glowing in the corner. Warm golden tones, empowering cold morning air atmosphere, cinematic portrait 9:16.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, dimly lit gym, hot sweaty afternoon gym, sad tired mood, crowded gym",
+  "specific_details": "Golden sunrise over Vietnamese city skyline, fit athletic girl running alone on empty tree-lined morning street with long dramatic shadow in warm dawn light, bright modern gym interior with morning light through floor-to-ceiling windows doing weight training, serene rooftop yoga silhouette against colorful sunrise, animated endorphin brain graphic lighting up with glowing hormones, peaceful bedroom sleeping deeply with moonlight through sheer curtains, 5AM alarm clock glowing, warm golden tones, empowering cold morning atmosphere, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:44:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HGF-09.mp4",
+  "produced_at": "2026-04-01T04:50:00.000Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:01:40.873Z",
+  "tiktok_url": "/@fai20128/video/7625197430895545620"
+}

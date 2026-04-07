@@ -1,0 +1,149 @@
+{
+  "id": "GZ-05",
+  "title": "The 'Rich Person' Money Habits That Take 5 Minutes a Day",
+  "category": "personal_finance",
+  "channel": "GenZSuccess",
+  "audience": "18-28 year olds, early career earners, money-awkward Gen Z",
+  "tone": "High energy, relatable, slightly confrontational about bad habits, practical",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "45-60 seconds, 9:16 vertical",
+  "concept": {
+    "hook": "I spent $400 a month on coffee and didn't realize I was poor until I did this 5-minute math.",
+    "story_arc": "Hook → Track fun spending → 24-hour rule → Name your savings → CTA",
+    "emotion": "Mild shock → Practical optimism",
+    "duration_seconds": 52
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "Vertical. Person holding a large coffee cup, looking confused. Transition to phone screen showing spending tracker app. Numbers appearing: '$8 coffee x 50 days = $400/month.' Calculator icon. Coffee cup lowers slowly. Expression shifts from confusion to realization.",
+      "camera": "[Push in] From coffee cup to phone screen with the math",
+      "narration": "I spent 400 dollars a month on coffee. And I didn't realize I was slowly becoming broke until I did this five-minute math.",
+      "sfx": "Coffee cup on desk thunk, calculator beeps, realization sound"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 22,
+      "duration": 17,
+      "prompt": "Vertical infographic. Three rules appearing one by one. Rule 1: Piggy bank icon labeled 'TRACK YOUR FUN SPENDING — NOT YOUR BUDGET.' Red circle around 'fun spending'. Rule 2: Hourglass icon labeled '24-HOUR RULE.' '$50+ purchase? Wait one night.' Rule 3: Savings account icon labeled 'NAME YOUR SAVINGS.' 'Trip fund, upgrade fund — saving feels like progress, not sacrifice.' Each rule animates in with a satisfying pop.",
+      "camera": "[Static vertical] Phone screen infographic animation",
+      "narration": "Wealth isn't about how much you earn. It's about three daily behaviors. Rule one: track your fun spending — not your full budget. Awareness alone reduces it by 23 percent without restricting yourself. You don't need a spreadsheet. Just one number: how much you spent on non-essentials this week. Rule two: the 24-hour rule. Before any purchase over 50 dollars, wait one full night. Most impulse buys disappear by morning.",
+      "sfx": "App notification pings, piggy bank clink, checkmark sound"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 22,
+      "time_end": 38,
+      "duration": 16,
+      "prompt": "Vertical split. Left: impulse buy scene — person buys expensive sneakers, guilt expression. Right: same $200 → investment app showing growing graph. Piggy bank → investment portfolio transition. Arrow labeled '23% reduced spending without restriction.' Chart showing growth over time.",
+      "camera": "[Static split vertical]",
+      "narration": "Rule three: automate savings last. Save after expenses — not before. And name your savings account something exciting. 'Trip to Japan fund.' 'My first investment.' 'Weekend escape fund.' Saving feels like sacrifice when it's vague. It feels like progress when it has a name and a purpose. That's how wealthy people think about money.",
+      "sfx": "Money transfer swoosh, investment growth chime"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 38,
+      "time_end": 50,
+      "duration": 12,
+      "prompt": "Vertical direct to camera. Confident, energetic, relatable. Coffee shop background. Person smiles, delivers final line with energy. Follow button animation. Comment CTA.",
+      "camera": "[Static vertical] Direct to camera, high energy",
+      "narration": "Five minutes a day on your finances equals five hours a year of clarity. Your future self will thank you. Drop a 'CLARITY' in the comments. Follow for weekly money breakdowns that actually apply to your life.",
+      "sfx": "Energy swell, follow chime"
+    }
+  ],
+  "audio": {
+    "narration": "I spent 400 dollars a month on coffee. And I didn't realize I was slowly becoming broke until I did this five-minute math. Wealth isn't about how much you earn. It's about three daily behaviors. Rule one: track your fun spending — not your full budget. Awareness alone reduces it by 23 percent without restricting yourself. You don't need a spreadsheet. Just one number: how much you spent on non-essentials this week. Rule two: the 24-hour rule. Before any purchase over 50 dollars, wait one full night. Most impulse buys disappear by morning. Rule three: automate savings last. Save after expenses — not before. And name your savings account something exciting. 'Trip to Japan fund.' 'My first investment.' 'Weekend escape fund.' Saving feels like sacrifice when it's vague. It feels like progress when it has a name and a purpose. That's how wealthy people think about money. Five minutes a day on your finances equals five hours a year of clarity. Your future self will thank you. Drop a CLARITY in the comments. Follow for weekly money breakdowns that actually apply to your life.",
+    "narration_duration": 50,
+    "bg_music": "Upbeat lo-fi hip hop, confident 100 BPM",
+    "sfx": [
+      {
+        "time": 3,
+        "sound": "calculator beep",
+        "volume": 0.6
+      },
+      {
+        "time": 8,
+        "sound": "piggy bank clink",
+        "volume": 0.5
+      },
+      {
+        "time": 20,
+        "sound": "money transfer swoosh",
+        "volume": 0.6
+      },
+      {
+        "time": 45,
+        "sound": "follow chime",
+        "volume": 0.6
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Vertical. Person holding a large coffee cup, looking confused. Transition to phone screen showing spending tracker app. Numbers appearing: 8 dollars coffee times 50 days equals 400 dollars per month. Calculator icon. Coffee cup lowers slowly. Expression shifts from confusion to realization. [Push in] From coffee cup to phone screen with the math"
+    },
+    {
+      "shot": 2,
+      "prompt": "Vertical infographic. Three rules appearing one by one. Rule 1: Piggy bank icon labeled Track your fun spending — not your budget. Rule 2: Hourglass icon labeled 24-hour rule. Rule 3: Savings account icon labeled Name your savings. Each rule animates in with a satisfying pop. [Static vertical] Phone screen infographic animation"
+    },
+    {
+      "shot": 3,
+      "prompt": "Vertical split. Left: impulse buy scene — person buys expensive sneakers, guilt expression. Right: same 200 dollars going into investment app showing growing graph. Piggy bank to investment portfolio transition. Chart showing growth over time. [Static split vertical]"
+    },
+    {
+      "shot": 4,
+      "prompt": "Vertical direct to camera. Confident, energetic, relatable. Coffee shop background. Person smiles, delivers final line with energy. Follow button animation. Comment CTA. [Static vertical] Direct to camera, high energy"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "I Spent $400/Month on Coffee Without Realizing It (5-Minute Money Fix)",
+    "youtube_description": "I didn't know I was slowly going broke until I did this 5-minute math. Three daily money habits that wealthy people use — that take less than 5 minutes a day.\n\n📌 What you'll learn:\n- The 'fun spending tracker' method (awareness = 23% reduction without restriction)\n- The 24-hour rule to eliminate impulse buys\n- How to name your savings accounts to make saving feel like progress\n- Why wealthy people think differently about money\n\n💬 Drop 'CLARITY' in the comments.",
+    "youtube_tags": [
+      "personal finance",
+      "money habits",
+      "Gen Z finance",
+      "savings",
+      "budgeting tips",
+      "wealth mindset",
+      "financial literacy",
+      "investing for beginners"
+    ],
+    "tiktok_caption": "I spent $400/month on COFFEE without realizing I was slowly going broke 😱 3 daily money habits that rich people use — 5 min a day 👇 #money #personalfinance #savings #wealth #GenZfinance #budgeting #investing",
+    "playlist": "Money & Hustle"
+  },
+  "production_notes": {
+    "shot_count": 4,
+    "total_duration_seconds": 50,
+    "voice": "male_energetic_young (MiniMax speech-02-hd, speed 1.1)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "moved_to_pending": "2026-03-30T11:44:08.579Z",
+  "prompt_for_hailuo": "Vertical. Person holding a large coffee cup, looking confused. Transition to phone screen showing spending tracker app. Numbers appearing: 8 dollars coffee times 50 days equals 400 dollars per month. Calculator icon. Expression shifts from confusion to realization. [Push in] From coffee cup to phone screen with the math. | Vertical infographic. Three rules appearing one by one with icons. Rule 1: Piggy bank. Rule 2: Hourglass 24-hour rule. Rule 3: Savings account. Each animates with a satisfying pop. [Static vertical] Phone screen infographic animation. | Vertical split. Left: impulse buy — expensive sneakers, guilt expression. Right: same 200 dollars going into investment app showing growing graph. [Static split vertical]. | Vertical direct to camera. Confident, energetic, relatable. Coffee shop background. [Static vertical] Direct to camera, high energy.",
+  "visual_scene": "A bright modern coffee shop or living room with natural light streaming through large windows. A young person in their early-to-mid 20s holds a large takeaway coffee cup looking puzzled and slightly worried, then transitions to staring at a phone screen showing a spending tracker app with the math appearing: '$8 x 50 days = $400/month' — their expression shifting from confusion to dawning realization and alarm. Later scenes show animated phone infographics with financial icons appearing sequentially, a split-screen comparison of impulse spending versus smart investment, all in the same bright energetic setting. Portrait 9:16 vertical, relatable and empowering atmosphere.",
+  "specific_details": "A young person in their early-to-mid 20s with casual stylish attire holding a large takeaway coffee cup, first looking genuinely confused and slightly worried, then transitioning to a phone screen showing a spending tracker or banking app with glowing numbers appearing: '$8 coffee × 50 days = $400/month' with a calculator icon — expression shifting from confusion to realization of financial impact. Later: phone screen showing animated financial infographic icons appearing one by one, portrait 9:16 framing throughout, bright natural light.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions beyond production overlays, logos or watermarks, still or static frame, landscape orientation, dark or moody atmosphere, sad or distressed mood",
+  "thumbnail_idea": "Person staring at coffee cup then at phone showing spending math — '$400/month on COFFEE' text overlay in shock red",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\GZ-05.mp4",
+  "generated_video": "C:/tmp/openclaw/uploads/GZ-05-FINAL.mp4",
+  "final_file": "C:/tmp/openclaw/uploads/GZ-05-FINAL.mp4",
+  "video_size": "2.0MB",
+  "generated_at": "2026-03-31T03:30:00.000Z",
+  "status": "pending",
+  "upload_status": "manual_required",
+  "notes": "Generated via Pexels+gTTS pipeline. Wake event TKP-926.",
+  "produced_at": "2026-03-31T09:50:00.000Z",
+  "production_method": "Pexels+gTTS fallback (Hailuo unavailable)",
+  "qc_status": null
+}

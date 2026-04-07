@@ -1,0 +1,89 @@
+{
+  "id": "TN-03",
+  "episode": "03",
+  "series": "Tien Nghich",
+  "channel": "Xianxia Fantasy",
+  "title": "The Promise of Three Lives",
+  "script": "Three lifetimes. Three promises. And one love that even death couldn't break. In the first life, he gave her everything. In the second, she waited. In the third, they finally found each other.",
+  "clips": [
+    {
+      "clip_id": "TN-03-01",
+      "scene": "Hook - The Letter",
+      "prompt_for_hailuo": "Young beautiful Chinese woman in elegant green silk hanfu, long black hair with jade hairpin, standing alone in ancient misty bamboo forest at night, moonlight filtering through bamboo canopy, holding a faded old letter, tears on cheeks, melancholic atmosphere, cinematic lighting, 9:16 portrait, slow motion",
+      "prompt_for_pexels": "beautiful woman bamboo forest moonlight night tears elegant",
+      "script_text": "Three lifetimes. Three promises. And one love that even death couldn't break."
+    },
+    {
+      "clip_id": "TN-03-02",
+      "scene": "The Sacrifice",
+      "prompt_for_hailuo": "Young handsome Chinese warrior in ancient silver armor kneeling before his beloved in a misty mountain landscape, placing a jade sword hilt in her hands as a promise, golden dramatic light breaking through clouds, epic romantic scene, cinematic, 9:16 portrait",
+      "prompt_for_pexels": "warrior ancient armor misty mountain golden light romantic",
+      "script_text": "In the first life, he gave her everything. His sword. His name. His final breath."
+    },
+    {
+      "clip_id": "TN-03-03",
+      "scene": "The Betrayal",
+      "prompt_for_hailuo": "Young beautiful woman in white mourning hanfu standing at edge of dark misty cliff, vast abyss below, dark stormy sky with lightning, white silk robes billowing dramatically in wind, tears streaming, dark romantic atmosphere, tragic cinematic scene, 9:16 portrait",
+      "prompt_for_pexels": "woman cliff stormy sky lightning dark dramatic tragic",
+      "script_text": "In the second life, she waited. But heaven demanded a different price."
+    },
+    {
+      "clip_id": "TN-03-04",
+      "scene": "The Reunion",
+      "prompt_for_hailuo": "Two ethereal spirit forms reaching for each other in a field of glowing blue spiritual flowers, warm golden light surrounding them, ancient Chinese fantasy atmosphere, souls merging, ethereal glow, emotional reunion scene, cinematic slow motion, 9:16 portrait",
+      "prompt_for_pexels": "two spirits spiritual flowers golden light ethereal fantasy",
+      "script_text": "In the third life... they finally found each other. But would heaven let them stay?"
+    },
+    {
+      "clip_id": "TN-03-05",
+      "scene": "Outro - Subscribe",
+      "prompt_for_hailuo": "Two silhouettes walking together through misty ancient bamboo forest at night, moonlight casting silver light, ethereal glow surrounding them, one in white robes one in dark robes, walking away into the mist, bittersweet romantic ending, cinematic, 9:16 portrait",
+      "prompt_for_pexels": "two silhouettes bamboo forest moonlight mist ethereal romantic",
+      "script_text": "Tru Tiên — when love transcends three lifetimes. Follow for the next chapter!"
+    }
+  ],
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "orientation": "vertical",
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "romance",
+    "tragedy",
+    "three lifetimes"
+  ],
+  "status": "published",
+  "created_by": "Nova",
+  "created_at": "2026-03-30T09:15:00Z",
+  "prompt_for_hailuo": "Young man in simple grey robes offering a single white flower to a beautiful woman in pink Hanfu under a cherry blossom tree [Medium shot]. Scene shifts: autumn mountain temple, woman in white standing alone in rain before a grave [Wide shot]. Final scene: misty ancient bridge in spring, two people slowly reaching for each other's hands [Slow motion close-up]. Ancient Chinese cultivation world, soft pink and white, cherry blossoms falling, autumn rain, mist, ethereal atmosphere, cinematic, portrait 9:16.",
+  "visual_scene": "A mystical ancient Chinese cultivation mountain garden bathed in soft spring moonlight, a single ancient cherry blossom tree in full bloom with petals falling slowly through the air like snow. Young male cultivator in simple grey robes kneeling before a beautiful young woman in flowing pale pink Hanfu embroidered with silver flowers, holding out a single white flower toward her with gentle eyes full of devotion, cherry blossom petals caught in their hair and clothing. She reaches out slowly with a trembling hand, tears of joy forming, a soft warm smile breaking across her face as moonlight illuminates them both. Scene dissolves into autumn — a desolate mountain temple courtyard drenched in heavy rain, bare dark tree branches, and a grave marker made of white stone covered in fallen red leaves. The same woman now wearing elegant flowing white mourning robes standing perfectly still before the grave, rain streaming down her face mixing with tears, her expression hollow and ancient, holding a single wilted flower, the weight of centuries of waiting visible in her eyes. Scene dissolves to spring — a misty ancient stone bridge arching over a still koi pond full of pink lotus flowers, fireflies glowing softly in the dawn mist. The same two people standing on opposite ends of the bridge in flowing cultivation robes, looking at each other with recognition across lifetimes, slowly extending their hands toward each other across the bridge as a single cherry blossom petal falls between their outstretched fingers in ultra slow motion. Ancient Chinese cultivation world, soft ethereal atmosphere, alternating seasons, ultra slow motion, cinematic.",
+  "specific_details": "Young male cultivator in simple grey robes kneeling before a beautiful young woman in flowing pale pink Hanfu embroidered with silver flowers under a single ancient cherry blossom tree in a mystical mountain garden bathed in soft spring moonlight, holding out a single white flower with gentle devoted eyes, petals falling around them; then the same woman in elegant flowing white mourning robes standing perfectly still before a grave marker in heavy autumn rain at a desolate mountain temple courtyard with bare tree branches and red fallen leaves, rain streaming down her face and tears of centuries of waiting in her hollow ancient eyes; then both in flowing cultivation robes standing at opposite ends of a misty ancient stone bridge arching over a still koi pond with pink lotus flowers, slowly extending hands toward each other as a single cherry blossom petal falls between their outstretched fingers in ultra slow motion, set across three cultivation world lifetimes in spring moonlight, autumn rain, and misty spring dawn, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, modern clothing, urban setting, bright harsh sunlight, saturated cartoon colors, flat lighting",
+  "tiktok_seo": {
+    "title": "Three Lives. Three Promises. One Love Death Couldn't Break 💔 #xianxia #reincarnation",
+    "hook_line": "First life: he gave her everything. Second life: she waited. Third life: they finally found each other.",
+    "description": "First life: he gave her everything. Second life: she waited. Third life: they finally found each other.\n\nThe most emotional arc yet 😢\n\n#xianxia #reincarnation #cultivation #forbiddenlove #tragiclove #waited1000years #destiny #chinesemythology #love #fyp",
+    "hashtags": [
+      "#xianxia",
+      "#cultivation",
+      "#chinesemythology",
+      "#reincarnation",
+      "#forbiddenlove",
+      "#tragiclove",
+      "#waited1000years",
+      "#destiny",
+      "#chinesefantasy",
+      "#love",
+      "#fyp"
+    ],
+    "sound": "Emotional Chinese instrumental",
+    "thumbnail_overlay": "THREE LIVES | THREE PROMISES | ONE LOVE",
+    "optimized_at": "2026-03-30"
+  },
+  "published_at": "2026-03-30T13:55:50.838Z",
+  "published_path": "C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/tien-nghich/TN-03",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TN-03.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z"
+}

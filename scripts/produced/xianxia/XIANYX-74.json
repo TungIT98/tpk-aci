@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-74",
+  "title": "Dau Pha Thuong Khau Episode 14: The Underground Village",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 14,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Discovery, desperate hope, underground resistance, tension and solidarity",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "Twenty floors below the arena — there were people who had been living in the darkness for generations. Waiting.",
+    "story_arc": "Escaping the archive → Descending deeper → Underground village discovered → The resistance revealed → An unlikely alliance",
+    "emotion": "Fear → Descent → Wonder → Recognition → Desperate hope",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — a secret passage behind the archive wall. Our fighter smashes through a hidden panel, tumbling into a narrow stone corridor. Behind him, the arena master's spiritual pressure slams into the corridor walls. He runs. Stone corridors branching in every direction — he chooses the deepest path. Red formation light pulses along the walls. He runs downward — stairs, always downward. Camera: wide shot — fighter running through narrow stone corridors, red formation light pulsing, always descending deeper. 6 seconds.",
+      "camera": "Wide — running through stone corridors, red formation light pulsing, always descending, 6s",
+      "narration": "He ran downward — into the darkness beneath the arena. Because the one thing the arena master could not follow was the one path he had not sealed: deeper.",
+      "sfx": "Footsteps thundering on stone, his ragged breathing, formation hum reverberating through walls, stone crumbling behind him from spiritual pressure, echo of pursuit"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — floor twenty-five. The stairs end. He emerges into an impossible space: a vast underground cavern stretching beyond sight. And built into the cavern walls — a village. Hundreds of stone homes carved into rock, connected by narrow paths. Firelight from a hundred cooking fires illuminates the cavern ceiling. People — men, women, children — living in the darkness below the arena. They have been here for generations. All of them stare at him. Camera: wide shot — vast underground cavern, hundreds of stone homes carved into walls, cooking fires, hundreds of people staring at the stranger who has just arrived from above. 6 seconds.",
+      "camera": "Wide — underground cavern village, hundreds of stone homes, cooking fires, hundreds of people staring at newcomer, 6s",
+      "narration": "Twenty-five floors below the arena — a village. Hundreds of people living in the darkness beneath the Blood Arena. Descendants of those who had refused to fight — and been buried alive by the formation.",
+      "sfx": "Fire crackling from hundreds of fires, voices murmuring, children's cries, wind from the cavern's depth, his footsteps echoing, formation hum muffled far above"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — an elderly woman steps forward from the crowd. Her eyes are blind — clouded white. But she speaks with absolute clarity: 'You came from the formation chamber. We felt your footsteps on the stone — twelve hours ago.' She raises a hand — and the cavern FLOOR glows faintly red with formation energy — she can feel the formation through the stone. 'We are the Silence. We were buried here when we refused to fight. We have survived for three hundred years.' Camera: close-up on the elderly blind woman speaking, formation energy glowing faintly through cavern floor around her feet, her blind eyes seeing everything. 6 seconds.",
+      "camera": "Close-up — elderly blind woman stepping forward, formation energy glowing through cavern floor around her, blind eyes seeing, crowd watching, 6s",
+      "narration": "The Silence — the arena master's ancestors who had refused to feed the formation. Buried alive as punishment. And for three hundred years — they had survived by learning to FEEL the formation itself.",
+      "sfx": "Fire crackling, crowd murmuring, her voice calm and ancient, formation hum audible through cavern stone, her bare feet on glowing stone, breathing of the crowd"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium close-up — he holds up the ancient scroll — THE REVERSAL. 'I found the way to stop the formation,' he says. 'But I need someone willing to die at the center.' The blind woman goes still. The crowd goes still. A young man steps forward — a fighter's build, scars across his arms. 'My grandfather tried,' he says quietly. 'He was wrong about one thing.' The blind woman speaks: 'He thought he could force the reversal. But the formation requires a willing death. We have waited three hundred years for someone to choose it.' Camera: medium — him with scroll, young fighter stepping forward, blind woman speaking, the crowd watching in silence, formation glow beneath their feet. 6 seconds.",
+      "camera": "Medium — scroll with reversal, young fighter stepping forward, blind woman speaking, crowd silent, formation glow, 6s",
+      "narration": "Three hundred years the Silence had waited. Not for an army. Not for a hero. For one person willing to walk willingly into death — to reverse what three centuries of unwilling deaths had built.",
+      "sfx": "Scroll rustling, crowd breathing stopping, young fighter's footsteps, blind woman's ancient voice, formation hum pulsing, fire crackling stopping, silence of three hundred years"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — the young fighter pulls a worn knife from his belt. Not to attack — to show. 'I've carried this since I was twelve,' he says. 'My father gave it to me. He said: when the reversal comes — you will know.' He looks at our fighter. 'I am willing.' The blind woman nods. 'The formation must drain from below as it drains from above. We need you to fight — to give us the time. And when the moment comes — he will give the sacrifice.' Camera: extreme close-up — the worn knife, the young fighter's determined face, the blind woman's ancient nod, the formation glow intensifying beneath them. 6 seconds.",
+      "camera": "Extreme close-up — worn knife, young fighter's determined face, blind woman nodding, formation glow intensifying beneath, 6s",
+      "narration": "The reversal had two parts: a fighter to hold the formation's attention above — and a willing death at its heart below. And for three hundred years, the Silence had waited for the one who would choose it.",
+      "sfx": "Knife clinking softly, his breath steady with determination, formation hum rising, fire crackling, the word willing hanging in the cavern air, three hundred years of waiting ending"
+    }
+  ]
+}

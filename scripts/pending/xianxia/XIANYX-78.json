@@ -1,0 +1,154 @@
+﻿{
+  "id": "XIANYX-78",
+  "title": "Dau Pha Thuong Khau Episode 18: The Hidden Dou zun Master",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 18,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Hidden power revealed, grandfather reunion, emotional moment, new alliance",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The sect door opened. A white-haired old man in simple robes appeared. Xiao Yan froze. The old man looked at him — then spoke: 'Little Yan? Is that you?' Xiao Yan's grandfather. Hidden Dou Zun master.",
+    "story_arc": "Powerful cultivator arrives at sect → He senses Flame Emperor's fire → Revealed to be Xiao Yan's grandfather → Emotional reunion → Old grudge with elder Hai Kun exposed → Grandfather's power protects Xiao Yan",
+    "emotion": "Mystery → Recognition → Emotional reunion → Revelation → Protection",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect gate. A white-haired old man in simple gray robes walks in. His presence is serene but POWERFUL — the kind that makes even Dou Huang elders kneel. The sect master himself rushes out to greet him. Camera: wide — white-haired old man arriving, sect master rushing out, powerful serene presence, all bowing. 6 seconds.",
+      "camera": "Wide — white-haired old man with powerful serene presence arriving at sect gate, sect master rushing to greet, 6s",
+      "narration": "The old man walked in. And every cultivator in the sect — Dou Huang included — felt their knees want to bend.",
+      "sfx": "Powerful presence arriving, sect master's rush, disciples gasping, wind through robes, ancient power humming"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the old man's eyes scan the sect. They land on Xiao Yan. Something changes in his face. Recognition. His eyes fill with tears. 'Little Yan?' His voice breaks. Xiao Yan stares, frozen. Camera: medium — old man's eyes filling with tears, recognition of Xiao Yan, his voice breaking, emotional close-up. 6 seconds.",
+      "camera": "Medium — old man's tears filling eyes, recognition, broken voice calling 'Little Yan', emotional reunion moment, 6s",
+      "narration": "'Little Yan?' The old man who had never cried — tears filled his eyes. His grandson. Alive. After twenty years of thinking him dead.",
+      "sfx": "Emotional voice breaking, old man's tears, recognition silence, heart-wrenching pause, wind stopping"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan's hands shake. His father's words: 'Your grandfather left to protect our family. He's out there — alive.' The tears fall. He runs. Camera: close-up — Xiao Yan's shaking hands, tears falling, the realization hitting, then he RUNS toward the old man. 6 seconds.",
+      "camera": "Close-up — Xiao Yan's shaking hands and falling tears, running toward grandfather, emotional embrace incoming, 6s",
+      "narration": "The废物 who had never cried — wept. And then ran. Twenty years of thinking his family was gone. His grandfather was here.",
+      "sfx": "His weeping, footsteps running, crowd gasps, emotional reunion music building, heart beating faster"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Elder Hai Kun's face goes white with terror. He tries to run. The old man raises one hand WITHOUT looking. Hai Kun is FROZEN in place. The old man: 'You tried to kill my son. Now you tried to kill my grandson.' His voice is soft. But deadly. Camera: close-up — elder's white terror face, frozen in place, old man's soft deadly voice, hand raised without looking. 6 seconds.",
+      "camera": "Close-up — Hai Kun white with terror, frozen in place, old man's soft deadly voice, one hand raised without looking, 6s",
+      "narration": "The elder tried to run. A hand raised — without even looking. He was frozen. 'You tried to kill my son. Now my grandson.' The old man was done being patient.",
+      "sfx": "Frozen sound, old man's soft deadly voice, terror breathing, power aura pressing down, elder whimpering"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — the grandfather grandson embrace. Violet-blue flames surround them both — grandfather is immune. Elder Hai Kun frozen nearby. The sect watching in complete silence. Then Xiao Yan's grandfather speaks to Hai Kun: 'Leave. Tonight. Or I will end our line.' Camera: wide — embrace of grandfather and Xiao Yan with violet-blue flames, frozen elder, silent sect, ultimatum. 6 seconds.",
+      "camera": "Wide — grandfather-grandson embrace with violet-blue flames, frozen elder nearby, silent sect watching, ultimatum issued, 6s",
+      "narration": "The old man's ultimatum: leave tonight — or end their line. And with that embrace — Xiao Yan's power had just gained the greatest protector in the empire.",
+      "sfx": "Embrace moment, violet-blue flames circling, elder frozen in fear, old man's ultimatum, epic orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "The old man walked in. And every cultivator in the sect — Dou Huang included — felt their knees want to bend. 'Little Yan?' The old man who had never cried — tears filled his eyes. His grandson. Alive. After twenty years of thinking him dead. The废物 who had never cried — wept. And then ran. Twenty years of thinking his family was gone. His grandfather was here. The elder tried to run. A hand raised — without even looking. He was frozen. 'You tried to kill my son. Now my grandson.' The old man was done being patient. The old man's ultimatum: leave tonight — or end their line. And with that embrace — Xiao Yan's power had just gained the greatest protector in the empire.",
+    "narration_duration": 28,
+    "bg_music": "Emotional reunion Chinese orchestral, tears and recognition, protective ultimatum, grandfather-grandson bond 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Powerful presence arriving",
+        "volume": 0.4
+      },
+      {
+        "time": 6,
+        "sound": "Emotional voice breaking, tears",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Weeping, running footsteps",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Frozen sound, soft deadly voice",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Embrace, ultimatum, epic swell",
+        "volume": 0.6
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 18: Đại Lão Gia Gia Xuất Hiện | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 18 of Đấu Phá Thương Khung. A white-haired old man arrives at the sect — and every cultivator feels their knees want to bend. Hidden Dou Zun master. He recognizes Xiao Yan — his grandson, thought dead for twenty years. Then he freezes Elder Hai Kun with one hand and delivers his ultimatum: 'Leave tonight — or I will end our line.'",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "Xiao Yan grandfather",
+      "Dou Zun master",
+      "elder hai kun",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "CỤ GIÀ ĐẠI ĐẾ TUYỀN xuất hiện! Đệ tử Đấu Hoàng phải quỳ! Ông nhận ra Xiao Yan — cháu nội mất tích 20 năm! Trưởng Lão Hải Côn đóng băng bởi một tay... và nhận ultimatum 🔥 Tập 18",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Powerful serene old man arriving, grandfather-grandson recognition, emotional reunion, Hai Kun frozen by raised hand, embrace with violet-blue flames",
+  "specific_details": {
+    "subject": "Grandfather: white-haired old man, 70s, simple gray robes, kind but supremely powerful face, tears in eyes during recognition. Xiao Yan: black robes, running toward grandfather, crying. Elder Hai Kun: frozen in place, white face of terror.",
+    "outfit_exact": "Grandfather: simple gray robes with subtle powerful aura, white hair in ancient topknot, serene face that becomes deadly cold toward Hai Kun. Xiao Yan: black robes, violet-blue flames during embrace. Elder Hai Kun: dark elder robes, frozen terrified.",
+    "setting_details": "Sect gate entrance, main courtyard, sect disciples gathered, dramatic lighting from powerful aura, violet-blue flames during embrace",
+    "face_expression": "Grandfather: serene power → tears of recognition → soft deadly cold toward enemy. Xiao Yan: shock → tears → running embrace. Elder Hai Kun: white terror → frozen in fear",
+    "body_movement": "Grandfather: walking in power → embracing Xiao Yan → one hand raised to freeze Hai Kun. Xiao Yan: frozen → crying → running. Elder Hai Kun: trying to run → frozen → whimpering",
+    "camera": "Wide powerful arrival, medium emotional recognition, close-up tears and running, close-up frozen elder, wide embrace with ultimatum"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 18: Grandfather-grandson reunion — Dou Zun master meets Dou Wang Xiao Yan",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "Xiao Yan grandfather",
+    "Dou Zun master",
+    "reunion",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T16:10:00Z",
+  "publishedAt": "2026-04-06T02:51:03.744Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625463167941954836"
+}

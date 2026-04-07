@@ -1,0 +1,144 @@
+{
+  "id": "GZ-01",
+  "title": "I Made $10K Last Month From a Skill I Learned in 3 Months (Here's How)",
+  "category": "side_hustle",
+  "channel": "GenZSuccess",
+  "audience": "Ambitious 18-28 year olds, figuring out careers and finances",
+  "tone": "High energy, direct, trend-aware, hype best friend energy",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "45-60 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "I spent $0 on a course and made $10K in my fourth month using one skill I learned for free on YouTube.",
+    "story_arc": "Hook → Framework intro → 3 steps → CTA",
+    "emotion": "Intrigue → Hype → Motivation",
+    "duration_seconds": 50
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "TikTok-style vertical. Person sitting at coffee shop with laptop open, staring at phone screen showing a payment notification. Eyes widen. Slow smile. Hand covers mouth. Reaction shot — you can see the moment it hits. Lighting is natural coffee shop, warm tones.",
+      "camera": "[Static vertical] Close-up reaction face, phone screen visible",
+      "narration": "I spent zero dollars on a course. And I made ten thousand dollars in my fourth month using one skill I learned for free on YouTube.",
+      "sfx": "Payment notification 'ka-ching', dramatic reveal sound"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 20,
+      "duration": 15,
+      "prompt": "Vertical screen-share style animation. Three steps appear one by one with icons: 1. MAGNIFYING GLASS icon labeled 'Find the gap' — small businesses needing help. 2. LAPTOP icon labeled 'Learn free' — YouTube, Reddit, Notion. 3. PHONE icon labeled 'Sell now' — LinkedIn DM template.",
+      "camera": "[Static] Vertical phone-screen style animation",
+      "narration": "Not a get-rich-quick. A framework. Step one: find the gap. What do small businesses need that they can't do themselves? Websites, content, ads, admin work. Step two: learn it for free. All the information is on YouTube. Step three: sell before you're ready. Message 20 businesses on LinkedIn. One yes and you have a portfolio.",
+      "sfx": "TikTok transition sounds, app notification pings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 20,
+      "time_end": 38,
+      "duration": 18,
+      "prompt": "Split vertical — left: rejected job application. Right: LinkedIn DM reply notification. Hand types rapidly. Coffee shop background, energetic but focused. Overlays show: 1 application vs 1 DM response. Arrow pointing up.",
+      "camera": "[Static split vertical] Side-by-side comparison in vertical format",
+      "narration": "Your resume gets you screened out. Your personality gets you hired in. The hidden job market — 70% of jobs never get posted publicly — is accessed through relationships, not resumes. DMs work because 95% of candidates don't send them. Stand out by being a human, not a PDF.",
+      "sfx": "Rejection sound vs notification ping, keyboard typing energy"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 38,
+      "time_end": 48,
+      "duration": 10,
+      "prompt": "Vertical shot. Person standing, confident, direct to camera. Coffee shop behind them. Hand gesture: pointing at viewers. Eye contact, high energy. Follow button animation on screen edge.",
+      "camera": "[Static vertical] Direct to camera, high energy framing",
+      "narration": "The best time to start was three months ago. The second best time is right now. Drop a 'START' in the comments and I'll DM you the exact cold DM template I used. Follow for more hustle breakdowns.",
+      "sfx": "Energy swell, follow button notification chime"
+    }
+  ],
+  "audio": {
+    "narration": "I spent zero dollars on a course. And I made ten thousand dollars in my fourth month using one skill I learned for free on YouTube. Not a get-rich-quick. A framework. Step one: find the gap. What do small businesses need that they can't do themselves? Websites, content, ads, admin work. Step two: learn it for free. All the information is on YouTube. Step three: sell before you're ready. Message 20 businesses on LinkedIn. One yes and you have a portfolio. Your resume gets you screened out. Your personality gets you hired in. The hidden job market — 70% of jobs never get posted publicly — is accessed through relationships, not resumes. DMs work because 95% of candidates don't send them. Stand out by being a human, not a PDF. The best time to start was three months ago. The second best time is right now. Drop a START in the comments and I'll DM you the exact cold DM template I used. Follow for more hustle breakdowns.",
+    "narration_duration": 48,
+    "bg_music": "Upbeat lo-fi hip hop, high energy, confident 110 BPM",
+    "sfx": [
+      {
+        "time": 3,
+        "sound": "payment ka-ching",
+        "volume": 0.7
+      },
+      {
+        "time": 10,
+        "sound": "notification ping — positive",
+        "volume": 0.6
+      },
+      {
+        "time": 25,
+        "sound": "rejection buzz vs reply ping",
+        "volume": 0.5
+      },
+      {
+        "time": 40,
+        "sound": "follow notification chime",
+        "volume": 0.6
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "TikTok-style vertical. Person sitting at coffee shop with laptop open, staring at phone screen showing a payment notification. Eyes widen. Slow smile. Hand covers mouth. Reaction shot. Natural coffee shop lighting, warm tones. [Static vertical] Close-up reaction face, phone screen visible"
+    },
+    {
+      "shot": 2,
+      "prompt": "Vertical screen-share style animation. Three steps appear one by one with icons: 1. MAGNIFYING GLASS icon labeled Find the gap. 2. LAPTOP icon labeled Learn free. 3. PHONE icon labeled Sell now. [Static] Vertical phone-screen style animation"
+    },
+    {
+      "shot": 3,
+      "prompt": "Split vertical — left: rejected job application. Right: LinkedIn DM reply notification. Hand types rapidly. Coffee shop background, energetic but focused. Overlays show comparison. [Static split vertical] Side-by-side comparison in vertical format"
+    },
+    {
+      "shot": 4,
+      "prompt": "Vertical shot. Person standing, confident, direct to camera. Coffee shop behind them. Hand gesture pointing at viewers. Eye contact, high energy. Follow button animation on screen edge. [Static vertical] Direct to camera, high energy framing"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "I Made $10K From a Skill I Learned FREE on YouTube (Step-by-Step)",
+    "youtube_description": "Not a get-rich-quick story — a framework for building a freelance income FAST. I spent $0 on courses and made $10K in month 4 using skills I learned for free.\n\n📌 What you'll learn:\n- How to identify profitable skills without paying for courses\n- The free learning stack: YouTube + Reddit + Notion\n- How to sell before you're ready and build a portfolio fast\n- The hidden job market and how DMs access it\n\n💬 Drop 'START' in the comments — I'll DM you the exact cold DM template.",
+    "youtube_tags": [
+      "side hustle",
+      "freelance",
+      "make money online",
+      "LinkedIn",
+      "YouTube skills",
+      "passive income",
+      " Gen Z money",
+      "remote work"
+    ],
+    "tiktok_caption": "I spent $0 on courses and made $10K in month 4 😱 Here's the exact framework — thread 👇 #sidehustle #moneymotivation #freelancelife #LinkedIn #hustle #moneymindset",
+    "playlist": "Money & Hustle"
+  },
+  "production_notes": {
+    "shot_count": 4,
+    "total_duration_seconds": 48,
+    "voice": "male_energetic_young (MiniMax speech-02-hd, speed 1.1)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "moved_to_pending": "2026-03-30T11:44:08.576Z",
+  "prompt_for_hailuo": "Vertical TikTok-style. Person sitting at coffee shop with laptop open, staring at phone screen showing a payment notification. Eyes widen. Slow smile. Hand covers mouth. Reaction shot — you can see the moment it hits. Natural coffee shop lighting, warm tones. [Static vertical] Close-up reaction face, phone screen visible. | Vertical screen-share style animation. Three steps appear one by one with icons. [Static] Vertical phone-screen style animation. | Split vertical — left: rejected job application. Right: LinkedIn DM reply notification. Hand types rapidly. Coffee shop background, energetic but focused. [Static split vertical] Side-by-side comparison in vertical format. | Vertical shot. Person standing, confident, direct to camera. Coffee shop behind them. Hand gesture pointing at viewers. Eye contact, high energy. [Static vertical] Direct to camera, high energy framing.",
+  "visual_scene": "A stylish modern coffee shop with warm amber lighting, exposed brick walls, and floor-to-ceiling windows letting in golden afternoon light. A young ambitious person in their early 20s sits at a corner table with an open laptop and an iced coffee, staring at their phone screen with a shocked expression — eyes widening, a slow smile spreading across their face, hand rising to cover their mouth in disbelief as a payment notification glows on the screen. The background shows other customers working on laptops, blurred to keep focus on the subject. Later shots show the same person typing confidently at the laptop, standing and gesturing directly to camera with high energy, all set in the same warm coffee shop atmosphere. Cinematic portrait 9:16 vertical framing, empowering and aspirational mood.",
+  "specific_details": "A young ambitious person in their early-mid 20s with stylish casual attire sitting at a modern coffee shop corner table, open laptop displaying a spreadsheet or portfolio, iced coffee beside them, staring at a phone screen showing a glowing payment notification with a shocked and delighted expression — eyes wide, slow smile, hand over mouth. Later shots: confident direct-to-camera address with hand gestures pointing at viewer, eye contact, high energy. Warm amber coffee shop lighting, blurred background of other patrons, portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night atmosphere, dimly lit space, outdoor park, sad or depressed mood, low energy",
+  "thumbnail_idea": "Person staring at phone screen with eyes wide and hand over mouth in shock — 'I made $10K' text overlay on golden background",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "video_path": "output_topic/videos/GZ-01_10k-skill.mp4",
+  "generated_at": "2026-03-30T12:40:16.525Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "produced_at": "2026-03-31T05:38:48.840Z"
+}

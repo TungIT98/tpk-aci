@@ -1,0 +1,52 @@
+{
+  "name": "Storytime/Commentary",
+  "description": "First-person narrative storytelling with dramatic pacing, reaction cuts, and emotional beats. Ideal for personal stories, life lessons, and candid experiences.",
+  "target_platform": "tiktok",
+  "voice_style": "intimate, conversational, emotionally present — like confiding in a close friend; dynamic range from quiet to emphatic",
+  "music_mood": "cinematic underscore, emotional piano, ambient tension — music enters and exits with story beats",
+  "hashtag_suggestions": ["#storytime", "#story", "#relatable", "#life", "#reallife", "#mytruth", "#lessonslearned", "#personaldevelopment"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 4,
+      "narration_prompt": "I almost got fired two weeks before my wedding. Here's what my boss said to me that I've never forgotten.",
+      "visual_prompt": "Person sitting still looking directly at camera, slightly dramatic lighting, ambient background out of focus, confident eye contact",
+      "camera_movement": "static medium close-up, hold on direct eye contact, slight slow push-in on 'I've never forgotten'",
+      "lighting_setup": "single dramatic key light slightly above and to the side, deep shadows on opposite side, background completely dark or softly blurred",
+      "hailuo_style_note": "Dark cinematic setup signals 'this story matters'; direct eye contact and slow push-in builds anticipation without rushing",
+      "transition": "fade_in"
+    },
+    {
+      "type": "content",
+      "duration_sec": 25,
+      "narration_prompt": "It was 4pm on a Friday. I was packing up when my manager's Slack notification popped up. 'Can you stay back? Just 5 minutes.' Those five minutes lasted two hours.",
+      "visual_prompt": "Laptop screen with Slack notification, clock showing 4pm, person sitting down slowly, dark office with one overhead light on, chair creaking",
+      "camera_movement": "cut to screen insert, static hold on person sitting, slow zoom on clock, ambient office atmosphere shot",
+      "lighting_setup": "harsh single overhead office light creating dramatic shadows, cold blue screen glow, dark moody atmosphere",
+      "hailuo_style_note": "Screen insert + real-world atmosphere creates documentary realism; dark moody lighting mirrors emotional weight of the situation",
+      "transition": "slow_crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 25,
+      "narration_prompt": "She sat across from me and said: 'You're not failing at your job. You're failing at asking for help. And that's a skill — and skills can be learned.' I cried in the bathroom for ten minutes after.",
+      "visual_prompt": "Two-person conversation over desk (slightly off-center), close-up of person processing, moment of silence, tears welling up, face in hands",
+      "camera_movement": "two-shot framing, slow push-in to face close-up on tears welling, hold in darkness on face in hands beat",
+      "lighting_setup": "warm lamp on desk as sole light source for conversation, warm tones on face, shift to single backlight only during crying beat",
+      "hailuo_style_note": "Two-shot with warm desk lamp builds intimacy; tears beat deserves darkest/quietest lighting — let emotion breathe",
+      "transition": "soft_fade"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 6,
+      "narration_prompt": "I learned to ask for help that day. Not because I wanted to — but because I had to. It's still the hardest thing I do. Drop a comment — what's the lesson you learned the hard way?",
+      "visual_prompt": "Person looking at camera, softer expression, slight smile of reflection, comment section preview text overlaid, warm lighting returning",
+      "camera_movement": "slow return to same framing as intro shot, establishing visual bookend, warm direct address",
+      "lighting_setup": "warm soft lighting returning — same as intro but warmer, signaling emotional resolution",
+      "hailuo_style_note": "Return to intro framing is a powerful visual bookend; lighting warmth increase signals emotional resolution and growth",
+      "transition": "fade_out"
+    }
+  ]
+}

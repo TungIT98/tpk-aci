@@ -1,0 +1,288 @@
+{
+  "jobs": [
+    {
+      "job_id": "job_0001",
+      "script_path": "content/seo-briefs/PW-01.md",
+      "template": "storytime-commentary",
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": 2,
+      "status": "failed",
+      "created_at": "2026-03-25T04:58:58.773918+00:00",
+      "started_at": "2026-03-25T05:58:58.773918+00:00",
+      "completed_at": "2026-03-25T12:58:58.773918+00:00",
+      "error_message": "Simulated API timeout — MiniMax billing limit",
+      "retry_count": 1,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0002",
+      "script_path": "content/seo-briefs/PW-02.md",
+      "template": "listicle-top-10",
+      "platforms": [
+        "youtube"
+      ],
+      "scheduled_time": null,
+      "priority": 0,
+      "status": "processing",
+      "created_at": "2026-03-24T09:58:58.773918+00:00",
+      "started_at": "2026-03-25T16:31:58.773918+00:00",
+      "completed_at": null,
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0003",
+      "script_path": "content/seo-briefs/PW-03.md",
+      "template": "fitness_workout",
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": 0,
+      "status": "processing",
+      "created_at": "2026-03-23T06:58:58.773918+00:00",
+      "started_at": "2026-03-25T16:56:58.773918+00:00",
+      "completed_at": null,
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0004",
+      "script_path": "content/seo-briefs/PW-04.md",
+      "template": "before-after-transformation",
+      "platforms": [
+        "youtube",
+        "linkedin"
+      ],
+      "scheduled_time": null,
+      "priority": 2,
+      "status": "done",
+      "created_at": "2026-03-23T01:58:58.773918+00:00",
+      "started_at": "2026-03-25T11:58:58.773918+00:00",
+      "completed_at": "2026-03-25T04:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0005",
+      "script_path": "content/seo-briefs/PW-05.md",
+      "template": "genz_trend",
+      "platforms": [
+        "tiktok",
+        "instagram"
+      ],
+      "scheduled_time": null,
+      "priority": 1,
+      "status": "done",
+      "created_at": "2026-03-24T15:58:58.773918+00:00",
+      "started_at": "2026-03-25T15:58:58.773918+00:00",
+      "completed_at": "2026-03-25T11:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0006",
+      "script_path": "content/seo-briefs/PW-06.md",
+      "template": "fitness_workout",
+      "platforms": [
+        "tiktok",
+        "instagram"
+      ],
+      "scheduled_time": null,
+      "priority": -1,
+      "status": "done",
+      "created_at": "2026-03-23T07:58:58.773918+00:00",
+      "started_at": "2026-03-25T15:58:58.773918+00:00",
+      "completed_at": "2026-03-25T14:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0007",
+      "script_path": "content/seo-briefs/PW-07.md",
+      "template": "morning-routine",
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": 2,
+      "status": "done",
+      "created_at": "2026-03-24T04:58:58.773918+00:00",
+      "started_at": "2026-03-25T12:58:58.773918+00:00",
+      "completed_at": "2026-03-25T11:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0008",
+      "script_path": "content/seo-briefs/PW-08.md",
+      "template": "tech_review",
+      "platforms": [
+        "tiktok",
+        "instagram"
+      ],
+      "scheduled_time": null,
+      "priority": 0,
+      "status": "done",
+      "created_at": "2026-03-24T04:58:58.773918+00:00",
+      "started_at": "2026-03-25T04:58:58.773918+00:00",
+      "completed_at": "2026-03-25T12:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0009",
+      "script_path": "content/seo-briefs/PW-09.md",
+      "template": "listicle-top-10",
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": -1,
+      "status": "done",
+      "created_at": "2026-03-25T13:58:58.773918+00:00",
+      "started_at": "2026-03-24T17:58:58.773918+00:00",
+      "completed_at": "2026-03-25T15:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0010",
+      "script_path": "content/seo-briefs/PW-10.md",
+      "template": "productivity_quick_tips",
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": 0,
+      "status": "done",
+      "created_at": "2026-03-23T22:58:58.773918+00:00",
+      "started_at": "2026-03-25T13:58:58.773918+00:00",
+      "completed_at": "2026-03-25T09:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0011",
+      "script_path": "content/seo-briefs/PW-11.md",
+      "template": "productivity_quick_tips",
+      "platforms": [
+        "youtube",
+        "linkedin"
+      ],
+      "scheduled_time": null,
+      "priority": -1,
+      "status": "done",
+      "created_at": "2026-03-23T20:58:58.773918+00:00",
+      "started_at": "2026-03-25T09:58:58.773918+00:00",
+      "completed_at": "2026-03-25T10:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0012",
+      "script_path": "content/seo-briefs/PW-01.md",
+      "template": "travel_vlog",
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": 2,
+      "status": "failed",
+      "created_at": "2026-03-23T14:58:58.773918+00:00",
+      "started_at": "2026-03-24T19:58:58.773918+00:00",
+      "completed_at": "2026-03-25T12:58:58.773918+00:00",
+      "error_message": "Simulated API timeout — MiniMax billing limit",
+      "retry_count": 1,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0013",
+      "script_path": "content/seo-briefs/PW-02.md",
+      "template": "productivity_quick_tips",
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": 2,
+      "status": "processing",
+      "created_at": "2026-03-23T00:58:58.773918+00:00",
+      "started_at": "2026-03-25T16:48:58.773918+00:00",
+      "completed_at": null,
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0014",
+      "script_path": "content/seo-briefs/PW-03.md",
+      "template": "motivational_quote",
+      "platforms": [
+        "tiktok"
+      ],
+      "scheduled_time": null,
+      "priority": 2,
+      "status": "done",
+      "created_at": "2026-03-25T09:58:58.773918+00:00",
+      "started_at": "2026-03-25T01:58:58.773918+00:00",
+      "completed_at": "2026-03-25T10:58:58.773918+00:00",
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    },
+    {
+      "job_id": "job_0015",
+      "script_path": "content/seo-briefs/PW-04.md",
+      "template": "fitness_workout",
+      "platforms": [
+        "youtube",
+        "linkedin"
+      ],
+      "scheduled_time": null,
+      "priority": -1,
+      "status": "processing",
+      "created_at": "2026-03-25T10:58:58.773918+00:00",
+      "started_at": "2026-03-25T16:38:58.773918+00:00",
+      "completed_at": null,
+      "error_message": null,
+      "retry_count": 0,
+      "max_retries": 3,
+      "metadata": {}
+    }
+  ],
+  "next_id": 16
+}

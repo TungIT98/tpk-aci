@@ -1,0 +1,32 @@
+{
+  "id": "HGF-12",
+  "category": "hot_girl_fitness",
+  "channel": "HotGirlFitness",
+  "title": "Đi bộ vs Chạy bộ — Cái nào đốt mỡ tốt hơn? Câu trả lời không như bạn nghĩ",
+  "script": "Chạy bộ đốt 600-800 calorie mỗi giờ. Đi bộ nhanh chỉ đốt 300-400. Vậy chạy luôn thắng? Không đơn giản vậy. Chạy nhiều người ăn bù — cuối cùng không deficit. Đi bộ ít stress — duy trì được 6-7 ngày/tuần. Nghiên cứu Harvard: phụ nữ đi bộ nhanh 30 phút/ngày giảm 18% nguy cơ béo phì hơn người không tập. Cái nào tốt hơn? Câu trả lời: cái nào bạn DUY TRÌ được. Fitness không phải marathon. Là cuộc đua dài nhất đời bạn.",
+  "prompt_for_hailuo": "Split screen: fit girl running on treadmill at gym, heart rate monitor visible showing high calories [Right side, intense]. Fit girl power walking outdoors in park, relaxed smile, step counter showing 10,000 steps [Left side, sustainable]. Side-by-side calorie counter comparison appearing: 'Running: 600-800 cal/hr' vs 'Walking: 300-400 cal/hr' [Animated comparison]. Harvard research paper appearing with highlighted stat: '18% less obesity risk' [Document close-up]. Girl choosing to walk outdoors with friends, laughing and chatting [Wide shot]. Modern gym on right, beautiful morning park on left, warm natural lighting on left, cool gym lighting on right, cinematic portrait 9:16.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "hot_girl",
+    "fitness",
+    "running",
+    "walking",
+    "fat_loss",
+    "cardio",
+    "sustainability",
+    "science",
+    "vietnam"
+  ],
+  "thumbnail_idea": "Split screen: running intense vs walking relaxed — two fit girls, same destination",
+  "visual_scene": "A dynamic split-screen comparison scene showing two parallel fitness journeys side by side: on the left, a beautiful Vietnamese fitness girl power walking briskly through a lush green morning park with dappled sunlight, wearing casual athletic wear, a fitness tracker showing 10,000 steps completed, smiling and relaxed while chatting with friends; on the right, the same athletic girl doing an intense running session on a modern gym treadmill with a heart rate monitor displaying high calorie burn numbers, her expression focused and determined, sweat glistening. A dramatic animated calorie comparison counter appears in the center: running showing 600-800 cal/hr versus walking showing 300-400 cal/hr. Then a Harvard research paper appears with a highlighted finding: 18% less obesity risk. Finally, the walking scene wins as the girl chooses to walk outdoors with friends laughing and enjoying the morning. Warm natural morning park lighting on the left contrasts with cool blue gym lighting on the right, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, sad or struggling expression, hospital scene, fast food, people sitting on couch",
+  "specific_details": "Split-screen: power walking in lush morning park with dappled sunlight and friends laughing (left, relaxed, step counter 10,000) vs intense treadmill running in modern gym with heart rate monitor showing high calories (right, focused, sweat glistening), animated calorie counter center: 600-800 cal/hr running vs 300-400 cal/hr walking, Harvard paper with 18% obesity stat, walking outdoors with friends wins at end, warm natural park light left vs cool blue gym light right, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:44:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HGF-12.mp4",
+  "produced_at": "2026-03-30T16:24:03.511Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

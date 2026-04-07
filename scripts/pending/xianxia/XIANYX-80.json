@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-80",
+  "title": "Dau Pha Thuong Khau Episode 20: The Emperor Rises",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 20,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Season finale climax, legendary victory, enemy destroyed, legend born, epic ending",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The white-hot fire consumed Elder Hai Kun's army — nothing left but ash. When the flames cleared, Xiao Yan stood before the empire as something no one had been in centuries: the living Flame Emperor.",
+    "story_arc": "White-hot fire engulfs the army → Elder Hai Kun destroyed → Forty cultivators scattered → The empire learns what happened → Rumor spreads: the Flame Emperor lives → Xiao Yan stands alone at the peak — legend born",
+    "emotion": "Incredible power → Destruction → Shock → Rumor spreading → Legend formation → Epic ending",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Slow-motion wide shot — the white-hot fire ROLLS through the forty cultivators. They try to flee but the fire moves faster than thought. Elder Hai Kun screams — and is consumed. Nothing remains but a circle of ash around the sect gate. Camera: slow-motion wide — white-hot fire consuming cultivators, ash circle forming, sect gate untouched. 6 seconds.",
+      "camera": "Slow-motion wide — white-hot fire consuming 40 cultivators, Elder Hai Kun consumed, ash circle forming around sect gate, 6s",
+      "narration": "The white fire rolled through them. The elder's entire army — forty cultivators — erased in three seconds. A circle of ash where they had stood.",
+      "sfx": "Fire rolling, cultivators screaming, elder's final scream, fire consuming, silence settling, ash falling"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan's grandfather lowers his hand. He looks at his grandson with pride. 'You're ready.' He places his hand on Xiao Yan's shoulder. The two flames — violet-blue and gold — dance together one final time. Camera: close-up — grandfather's proud face, hand on shoulder, dual flames dancing together, proud father-son bond moment. 6 seconds.",
+      "camera": "Close-up — grandfather's proud face, hand on Xiao Yan's shoulder, dual flames dancing together, proud bond moment, 6s",
+      "narration": "'You're ready.' Two words. The proudest his grandfather had ever spoken. And with those words — his protection ended. Xiao Yan was on his own.",
+      "sfx": "Fire settling, grandfather's proud voice, dual flames dancing, wind clearing ash, emotional bond music"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — the sect courtyard. Disciples bow deeply to Xiao Yan. The sect master bows. 'The Flame Emperor's heir has returned.' Tears stream down their faces. Xiao Yan stands amid the bowing crowd, violet-blue flames at his feet. Camera: wide — all disciples and sect master bowing deeply, Xiao Yan standing with violet-blue flames, tears and pride, emperor recognized. 6 seconds.",
+      "camera": "Wide — all disciples bowing deeply to Xiao Yan, sect master bowing, tears and pride, standing with violet-blue flames, 6s",
+      "narration": "The entire sect bowed. 'The Flame Emperor's heir has returned.' His father had been vindicated. His family — honored.",
+      "sfx": "Deep bows, emotional voices, disciples weeping with pride, sect master's declaration, tears falling, wind in courtyard"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up montage — news spreading across the empire. Tavern conversations: 'Did you hear? The Flame Emperor's fire — someone HAS it!' Market whispers: 'Forty cultivators — turned to ASH!' Noble houses: 'Who IS this Xiao Yan?!' Camera: close-up montage — empire-wide reactions, tavern shock, market whispers, noble house meetings, rumor spreading across the land. 6 seconds.",
+      "camera": "Close-up montage — tavern conversations, market whispers, noble house meetings, empire-wide rumor spreading, 6s",
+      "narration": "The news spread like wildfire. Across taverns, markets, noble houses. The Flame Emperor's fire — someone had claimed it. And they had just erased forty cultivators.",
+      "sfx": "Tavern shock, market whispers, noble house gasps, rumor spreading, empire-wide buzz, news spreading music"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Epic wide shot — dawn. Xiao Yan stands alone on a mountain peak outside the sect. The sun rises behind him. Violet-blue flames rise from his body upward like wings. He looks toward the horizon. Voice: 'My father. I'll find the truth.' Camera: epic wide shot — dawn on mountain peak, sun rising behind Xiao Yan, violet-blue flame wings rising, emperor silhouette, legend begins. 6 seconds.",
+      "camera": "Epic wide shot — dawn on mountain peak, sun rising behind Xiao Yan, violet-blue flame wings rising from body, emperor silhouette, 6s",
+      "narration": "He stood on a mountain — at dawn. Fire wings rose from his body. And in that moment — the empire knew. The Flame Emperor had returned. And his name was Xiao Yan.",
+      "sfx": "Dawn wind, flame wings rising, his silent vow, epic orchestral finale, triumphant music swell, wind carrying forward"
+    }
+  ],
+  "audio": {
+    "narration": "The white fire rolled through them. The elder's entire army — forty cultivators — erased in three seconds. A circle of ash where they had stood. 'You're ready.' Two words. The proudest his grandfather had ever spoken. And with those words — his protection ended. Xiao Yan was on his own. The entire sect bowed. 'The Flame Emperor's heir has returned.' His father had been vindicated. His family — honored. The news spread like wildfire. Across taverns, markets, noble houses. The Flame Emperor's fire — someone had claimed it. And they had just erased forty cultivators. He stood on a mountain — at dawn. Fire wings rose from his body. And in that moment — the empire knew. The Flame Emperor had returned. And his name was Xiao Yan.",
+    "narration_duration": 28,
+    "bg_music": "Epic season finale Chinese orchestral, flame emperor theme, empire rumors spreading, dawn legend begins 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Fire rolling, cultivators consumed, ash falling",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Grandfather's proud voice, dual flames dancing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Deep bows, emotional declaration",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Tavern shock, empire rumor spreading",
+        "volume": 0.4
+      },
+      {
+        "time": 24,
+        "sound": "Dawn wind, flame wings, epic finale swell",
+        "volume": 0.6
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 20 FINAL: Hoàng Đế Trở Về | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Season Finale of Đấu Phá Thương Khung. The white-hot combined fire erases Elder Hai Kun's army of 40 in seconds. The sect bows to the Flame Emperor's heir. Across the empire: 'The Flame Emperor has returned.' At dawn on a mountain peak — fire wings rising — Xiao Yan vows to find the truth about his father. The legend begins.",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "flame emperor returns",
+      "season finale",
+      "Xiao Yan legend",
+      "forty cultivators destroyed",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "CUỐI MÙA! Lửa trắng-xanh THIÊU RỤI 40 TU SĨ trong 3 giây! Toàn bộ môn phái VÀNG rước! Đế chế truyền nhau: 'HOÀNG ĐẾ HỎA DIỆT ĐÃ TRỞ VỀ!' Bình minh, cánh lửa, huyền thoại bắt đầu 🔥 Tập 20 FINAL",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "White-hot fire consuming army, circle of ash, grandfather-grandson proud moment, entire sect bowing, empire rumor montage, dawn mountain peak with fire wings",
+  "specific_details": {
+    "subject": "Xiao Yan: black robes with violet-blue flame wings rising from body, standing at dawn on mountain peak, determined emperor's expression. Grandfather: gray robes, proud tears, hand on Xiao Yan's shoulder. Sect: all disciples and master bowing.",
+    "outfit_exact": "Xiao Yan: black robes with fire spirit pattern, violet-blue flame wings rising from shoulders/body, hair in high warrior bun, sun dawning behind him. Grandfather: simple gray robes, white hair, proud expression.",
+    "setting_details": "Sect gate with ash circle, sect courtyard, mountain peak at dawn, golden/orange dawn light, violet-blue flames, empire tavern/market/noble house montage",
+    "face_expression": "Xiao Yan: cold determination → pride → vow at dawn. Grandfather: deep pride and tears. Sect disciples: tears of joy and awe. Empire: shock and fear.",
+    "body_movement": "Grandfather: hand on shoulder → releasing his protection. Sect: all bowing deeply. Empire montage: conversations and whispers. Xiao Yan: standing at dawn → fire wings rising → looking toward horizon with vow",
+    "camera": "Slow-motion wide fire consumption, close-up proud moment, wide sect bowing, rapid montage reactions, epic wide dawn mountain finale"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 20 SEASON FINALE: Dawn on mountain peak — the Flame Emperor's heir stands with fire wings rising",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "flame emperor returns",
+    "season finale",
+    "Xiao Yan",
+    "grandfather",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T16:30:00Z",
+  "publishedAt": "2026-04-06T02:51:03.745Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625463879937690900"
+}

@@ -1,0 +1,178 @@
+﻿{
+  "id": "XIANYX-199",
+  "title": "Dau Pha Thuong Khau Episode 39: The Eternal Fire",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 39,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The Flame Emperor's fire — now in two children — spread across the world. Not as conquest — as warmth. Every cold night — lit.",
+    "story_arc": "Eternal fire → Warmth not conquest → Every cold night lit → Warm → Everywhere",
+    "emotion": "Desperation → Reversal → Combined attack → Victory → Saint retreating",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the Flame Emperor sealed tomb at midnight. Ancient seals glow with suppressed power. Xiao Yan approaches the sealed chamber.",
+      "camera": "Wide — ancient tomb glowing at midnight, Xiao Yan approaching, ominous atmosphere, 6s",
+      "narration": "The Flame Emperor had sealed his own memories three thousand years ago. Tonight — they broke free.",
+      "sfx": "Ancient seal humming, Xiao Yan's footsteps, ominous wind, tension drums"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the sealed memory vision bleeds through the ancient barrier. Young Flame Emperor's past revealed in fragments — a murdered family, a villain in the shadows.",
+      "camera": "Close-up — vision bleeding through seal, Flame Emperor's past in fragments, shocking truth emerging, 6s",
+      "narration": "Tonight, the seals broke. And what they showed shattered everything Xiao Yan believed about his mentor.",
+      "sfx": "Vision whoosh, barrier breaking, shocked breath, revelation sound, ancient truth"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — Xiao Yan's dou qi ERUPTS. Three thousand years of rage channeled into pure flame power. The tomb walls crack. He is transformed.",
+      "camera": "Wide — dou qi explosion from sealed memories, three thousand years of rage, Xiao Yan transformed, 6s",
+      "narration": "Three thousand years of rage — finally released. The heir had become something his mentor never dared to become.",
+      "sfx": "Dou qi explosion, ancient power roaring, rage channeling, epic orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the Sky Fortune Saint SENSES the power surge across the continent. His ancient eyes open. His face shows genuine fear for the first time in three thousand years.",
+      "camera": "Close-up — Sky Fortune Saint sensing power surge, first fear in 3000 years, ominous recognition, 6s",
+      "narration": "The god of fortune had not been afraid in three thousand years. Until tonight. Until the Flame Emperor's heir finally woke.",
+      "sfx": "Ancient fear rising, SFS sharp inhale, ominous bass, tension building strings"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Xiao Yan stands at the peak of the Flame Sect. Transformed. The Flame Emperor's heir — no longer an heir. An emperor. Heaven itself will learn to fear him.",
+      "camera": "Wide — transformed Xiao Yan at sect peak, heir becoming emperor, final defiant stance against heaven, 6s",
+      "narration": "The heir had become the emperor. And the god who murdered his mentor — had exactly one week to be afraid.",
+      "sfx": "Emperor aura, transformed stance, epic orchestral finale, resolve"
+    }
+  ],
+  "audio": {
+    "narration": "The Flame Emperor had sealed his own memories three thousand years ago. Tonight — they broke free. Tonight, the seals broke. And what they showed shattered everything Xiao Yan believed about his mentor. Three thousand years of rage — finally released. The heir had become something his mentor never dared to become. The god of fortune had not been afraid in three thousand years. Until tonight. Until the Flame Emperor's heir finally woke. The heir had become the emperor. And the god who murdered his mentor — had exactly one week to be afraid.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese battle orchestral, flame emperor theme, Sky Fortune Saint confrontation, 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ancient seal humming",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Vision whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Dou qi explosion",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Ancient fear rising",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Emperor aura",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the Flame Emperor sealed tomb at midnight. Ancient seals glow with suppressed power. Xiao Yan approaches the sealed chamber."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the sealed memory vision bleeds through the ancient barrier. Young Flame Emperor's past revealed in fragments — a murdered family, a villain in the shadows."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — Xiao Yan's dou qi ERUPTS. Three thousand years of rage channeled into pure flame power. The tomb walls crack. He is transformed."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the Sky Fortune Saint SENSES the power surge across the continent. His ancient eyes open. His face shows genuine fear for the first time in three thousand years."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide shot — Xiao Yan stands at the peak of the Flame Sect. Transformed. The Flame Emperor's heir — no longer an heir. An emperor. Heaven itself will learn to fear him."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Episode 39: The Eternal Fire | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Dau Pha Thuong Khau Episode 39: The Eternal Fire. The Flame Emperor's fire — now in two children — spread across the world. Not as conquest — as warmth. Every cold night — lit.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #dauphathuongkhau #epic",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "dptk",
+      "epic battle",
+      "chinese fantasy",
+      "cultivation"
+    ],
+    "tiktok_caption": "The Flame Emperor's fire — now in two children — spread across the world. Not as conquest — as warmth. Every cold night — lit. ⚔️🔥 Dau Pha Thuong Khau Episode 39: The Eternal Fire | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the Flame Emperor sealed tomb at midnight. Ancient seals glow with suppressed power. Xiao Yan approaches the sealed chamber. Shot 2: Close-up — the sealed memory vision bleeds through the ancient barrier. Young Flame Emperor's past revealed in fragments — a murdered family, a villain in the shadows. Shot 3: Wide cinematic — Xiao Yan's dou qi ERUPTS. Three thousand years of rage channeled into pure flame power. The tomb walls crack. He is transformed. Shot 4: Close-up — the Sky Fortune Saint SENSES the power surge across the continent. His ancient eyes open. His face shows genuine fear for the first time in three thousand years. Shot 5: Wide shot — Xiao Yan stands at the peak of the Flame Sect. Transformed. The Flame Emperor's heir — no longer an heir. An emperor. Heaven itself will learn to fear him.",
+  "visual_scene": "Wide establishing — the Flame Emperor sealed tomb at midnight. Ancient seals glow with suppressed power. Xiao Yan approaches the sealed chamber. Close-up — the sealed memory vision bleeds through the ancient barrier. Young Flame Emperor's past revealed in fragments — a murdered family, a villain in the shadows. Wide cinematic — Xiao Yan's dou qi ERUPTS. Three thousand years of rage channeled into pure flame power. The tomb walls crack. He is transformed. Close-up — the Sky Fortune Saint SENSES the power surge across the continent. His ancient eyes open. His face shows genuine fear for the first time in three thousand years. Wide shot — Xiao Yan stands at the peak of the Flame Sect. Transformed. The Flame Emperor's heir — no longer an heir. An emperor. Heaven itself will learn to fear him.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 29: Sky Fortune Saint Defeated",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "dptk",
+    "epic battle",
+    "chinese fantasy",
+    "cultivation",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T15:25:03.292Z",
+  "tiktok_url": "/@fai20128/video/7625667374670253332"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "HGF-01",
+  "category": "hot_girl_fitness",
+  "channel": "TikTok_Viral",
+  "title": "Cô gái từ bỏ gym suốt 2 năm — rồi body biến đổi không nhận ra",
+  "script": "Cô ấy từng nghĩ gym không dành cho mình. 2 năm không chạm tạ, đi làm về là ngồi lì, ăn uống thả ga. Rồi một ngày nhìn lại ảnh cũ — sốc. Không phải vì胖 lên. Mà vì cô đã từ bỏ phiên bản tốt nhất của chính mình. 90 ngày đầu tiên là dịch. Đau cơ, mệt, muốn bỏ. Nhưng cô không bỏ. Và giờ cô không nhận ra cô gái trong gương nữa rồi. Đây không phải câu chuyện về giảm cân. Đây là câu chuyện về việc lấy lại quyền kiểm soát.",
+  "prompt_for_hailuo": "Young woman looking at old gym photo on phone, shocked expression [Medium shot]. Flashback montage: lazy evenings on couch eating snacks [Wide shot, dim apartment]. Same woman waking up early, putting on gym shoes [Close up, determined face]. Gym workout: treadmill running, dumbbell curls, leg press [Tracking shots following movement]. Mirror selfie at gym showing subtle progress [Medium shot, confident smile]. Before/after transformation split screen on phone [Static overlay]. Modern gym with golden hour light, empowering atmosphere, cinematic portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "hot_girl",
+    "fitness",
+    "transformation",
+    "motivation",
+    "gym",
+    "before_after",
+    "vietnam"
+  ],
+  "thumbnail_idea": "Girl staring at old photo then at her current reflection — '2 năm thay đổi' text overlay",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T11:16:00Z",
+  "visual_scene": "A bright modern apartment living room in the early morning, soft golden sunrise light streaming through large windows illuminating a young Vietnamese woman in her late 20s sitting on a grey sofa holding her phone, staring at an old gym photo with a shocked and emotional expression, pizza boxes and snack wrappers visible on the coffee table, the contrast between her past lazy lifestyle and the new dawn light outside symbolizing change and transformation, empowering atmosphere, cinematic portrait 9:16.",
+  "specific_details": "A young Vietnamese woman in her late 20s sitting on a grey sofa in a bright modern apartment living room with soft golden sunrise light streaming through large windows illuminating her holding her phone and staring at an old gym transformation photo with a shocked emotional expression, pizza boxes and snack wrappers visible on the coffee table beside her, the scene contrasting her past lazy lifestyle with the new dawn light outside symbolizing transformation, set in a bright modern apartment with warm empowering atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night gym, dimly lit space, outdoor park, winter cold atmosphere, sad depressed mood",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HGF-01.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

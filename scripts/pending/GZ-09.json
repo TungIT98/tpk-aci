@@ -1,0 +1,39 @@
+{
+  "id": "GZ-09",
+  "channel": "Gen Z Success",
+  "title": "The Exact LinkedIn Post That Got Me 500+ Job Offers (Full Breakdown)",
+  "script": "I posted one LinkedIn post and woke up to 500 recruiter messages and job offers. Not because I'm special. Because I used a structure most job seekers completely ignore. Four parts. Part one: the hook — a controversial opinion or an unexpected result. Part two: a three-sentence story that builds credibility. Part three: the actual value people came for. Part four: a question that drives comments. Why does this work? Because the algorithm rewards engagement. And a question at the end is the easiest comment to leave. Stop writing your resume in your LinkedIn post. Write a story that makes recruiters come to you.",
+  "prompt_for_hailuo": "Person at laptop, screen shows LinkedIn post with 500+ reactions [Medium shot, excited]. Close-up: notification bell blowing up with recruiter messages [Push in on screen]. Same person typing the post, four-part structure visible [Tracking shot over shoulder on keyboard]. Transition: phone screen showing LinkedIn algorithm graphic: 'HOOK + STORY + VALUE + CTA' [Static overlay]. Person at desk looking at job offer on screen with wide eyes [Medium shot]. Person hits publish, leans back, smiles [Wide shot]. Coffee shop or modern office, bright energetic lighting, Gen Z aesthetic, dynamic camera.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "linkedin",
+    "job search",
+    "career tips",
+    "personal brand",
+    "linkedin networking"
+  ],
+  "thumbnail_idea": "Phone screen with LinkedIn post going viral, '500+ JOB OFFERS' notification visible, bold blue/yellow aesthetic",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T08:00:00Z",
+  "video_path": "output_topic/videos/GZ-09.mp4",
+  "cdn_url": "https://cdn.hailuoai.video/moss/prod/2026-03-29-17/video_agent/1774776897315287614-0_fd54af33.mp4",
+  "generated_at": "2026-03-29T09:45:00Z",
+  "uploaded_at": null,
+  "youtube_url": null,
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "blockers": [
+    "YouTube: Channel needs verification (daily upload limit reached)",
+    "TikTok: CORS blocks fetch() to external CDNs; OAuth not configured"
+  ],
+  "aspect_ratio_fixed": true,
+  "aspect_ratio_fixed_at": "2026-03-30T08:32:38+07:00",
+  "notes": "Audio muxed via gTTS+FFmpeg (2026-03-30). Final: C:/tmp/openclaw/uploads/GZ-09-FINAL.mp4",
+  "qc_status": "produced",
+  "visual_scene": "A bright modern home office setup in late afternoon warm golden hour light streaming through large windows, clean white desk, laptop open on a stand with LinkedIn visible on screen. Young confident woman with natural curly hair loosely tied back, wearing a cream knit sweater, sitting at her desk with a big excited grin, scrolling through hundreds of LinkedIn notification dots and recruiter messages — reaction visible on her face: disbelief turning to excitement. Close-up on laptop screen: LinkedIn post with a fire emoji reaction count climbing rapidly — 247 reactions, 89 comments — and a message notification reading '89 new recruiter messages.' Same woman typing the viral post with confident focused energy, fingers flying across keyboard, a sticky note on monitor reading 'Structure: Hook / Story / Value' visible. Final wide shot: same woman sitting back with a proud satisfied smile, arms crossed confidently, laptop screen glowing behind her showing continued notification growth. Modern home office, warm golden afternoon light, viral success atmosphere, cinematic.",
+  "specific_details": "Young confident woman with natural curly hair loosely tied back wearing a cream knit sweater sitting at a bright modern home office desk in late afternoon warm golden hour light with a clean white desk and laptop open on a stand showing a LinkedIn post with hundreds of notification dots and recruiter messages, big excited grin on her face as she scrolls through disbelief turning to excitement; close-up on the laptop screen showing the LinkedIn post with fire emoji reaction count climbing rapidly — 247 reactions, 89 comments — and a message notification for 89 new recruiter messages; same woman typing the viral post with confident focused energy and fingers flying across keyboard; final wide shot with her sitting back with a proud satisfied smile and arms crossed confidently, laptop screen glowing behind her showing continued notification growth, set in a bright modern home office with warm golden afternoon light streaming through large windows, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, fluorescent office lighting, messy cluttered desk, sad or anxious expression",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "produced_at": "2026-03-31T05:38:48.840Z"
+}

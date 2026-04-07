@@ -1,0 +1,89 @@
+{
+  "id": "TN-01",
+  "episode": "01",
+  "series": "Tien Nghich",
+  "channel": "Xianxia Fantasy",
+  "title": "When Heaven Denies You Everything, You Rewrite Destiny",
+  "script": "When heaven denies you everything, you don't kneel. You rise. In the world of cultivation, the strong rule and the weak perish. But one man refused to accept his fate. Born with a shattered spirit root, mocked by all, he discovered an ancient secret that would change everything. Today, we tell the story of a cultivator who went from trash to legend. Subscribe, because this journey is only beginning.",
+  "clips": [
+    {
+      "clip_id": "TN-01-01",
+      "scene": "Opening - The Rejected One",
+      "prompt_for_hailuo": "Young Chinese man in ancient robes kneeling in a dark courtyard, elders mocking him, snow falling, dramatic lighting, cinematic wuxia style, emotional atmosphere",
+      "prompt_for_pexels": "ancient chinese warrior warrior robes snow falling dramatic",
+      "script_text": "When heaven denies you everything, you don't kneel. You rise."
+    },
+    {
+      "clip_id": "TN-01-02",
+      "scene": "Discovery - The Ancient Secret",
+      "prompt_for_hailuo": "Mysterious ancient scroll glowing with golden light in a dark cave, dust particles floating, ethereal glow, cinematic wuxia fantasy",
+      "prompt_for_pexels": "ancient scroll golden light dust particles dark cave mystical",
+      "script_text": "Born with a shattered spirit root, mocked by all... he discovered an ancient secret."
+    },
+    {
+      "clip_id": "TN-01-03",
+      "scene": "Training - Breaking Through",
+      "prompt_for_hailuo": "Chinese martial artist in ancient robes breaking through a barrier of energy, dramatic pose, power explosion effect, wuxia fantasy style",
+      "prompt_for_pexels": "martial artist dramatic pose energy power explosion cinematic",
+      "script_text": "He trained in secret. Every wound made him stronger."
+    },
+    {
+      "clip_id": "TN-01-04",
+      "scene": "Return - The Revenge",
+      "prompt_for_hailuo": "Powerful cultivator walking through a grand hall, elders trembling and bowing, snow storm outside, dramatic lighting, wuxia revenge story",
+      "prompt_for_pexels": "powerful warrior grand hall dramatic lighting snow storm",
+      "script_text": "When he returned... nobody dared to look him in the eye."
+    },
+    {
+      "clip_id": "TN-01-05",
+      "scene": "Teaser - Subscribe",
+      "prompt_for_hailuo": "Mysterious figure silhouetted against a full moon, ancient Chinese temple in background, fog swirling, epic cinematic scene, wuxia fantasy",
+      "prompt_for_pexels": "silhouette full moon ancient temple fog dramatic epic",
+      "script_text": "This journey is only beginning. Subscribe and witness the rise."
+    }
+  ],
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "orientation": "vertical",
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "wuxia",
+    "cultivation",
+    "destiny",
+    "revenge"
+  ],
+  "thumbnail_idea": "Mysterious cultivator silhouetted against moon, golden energy surrounding him, 'WHEN HEAVEN DENIES YOU EVERYTHING' text overlay",
+  "status": "published",
+  "created_by": "Nova",
+  "created_at": "2026-03-30T02:10:00Z",
+  "prompt_for_hailuo": "Young male cultivator in black robes with long dark hair, standing in ruins of ancient sect temple at dusk [Wide establishing shot]. Close-up: glowing cracked spirit root in his chest pulsing dim blue [Macro close-up]. Scene shifts: ancient scroll burning with golden divine fire [Tracking shot]. Young male cultivator now standing in bright golden divine light, eyes glowing [Close-up]. Dramatic wide shot: figure surrounded by fire and mist, rising with power [Aerial drone shot, slow motion]. Ancient Chinese cultivation world, destroyed temple, mystical mist, dramatic golden and red fire glow, cinematic, portrait 9:16.",
+  "visual_scene": "A ruined ancient Chinese cultivation temple at dusk, shattered pillars covered in overgrown vines and moss, broken stone floors scattered with fallen leaves and spiritual debris. Dark misty atmosphere with faint blue spirit particles drifting slowly through the air. Young male cultivator with long disheveled dark hair and torn black robes standing alone in the temple ruins, head bowed in defeat, the faint outline of a cracked spirit root glowing dim blue beneath his chest robe. Close-up on his face: hollow eyes showing despair and humiliation. A glowing ancient scroll materializes from thin air, pages flipping on their own as golden divine fire erupts from within, illuminating the dark temple. The young cultivator looks up with shock as golden light engulfs him, his cracked spirit root now glowing brilliant gold as cracks seal one by one. His expression transforms from despair to fierce determination as power floods through him, eyes glowing with newly awakened divine golden light. Camera rises to aerial wide shot revealing the ruined temple bathed in golden divine fire, the cultivator standing in the center of a swirling vortex of golden spiritual energy and red flames, mist swirling around him as ancient runes glow beneath his feet. Ancient Chinese cultivation temple ruins, dramatic dusk atmosphere, golden divine fire and red flames, mystical blue spirit particles, slow-motion power awakening moment, cinematic.",
+  "specific_details": "Young male cultivator with long dark disheveled hair wearing torn black robes with gold trim, standing alone in the ruins of an ancient Chinese cultivation temple at dusk with a defeated posture and hollow despair-filled eyes, surrounded by shattered pillars covered in overgrown vines and broken stone floors scattered with fallen leaves, the faint outline of a cracked spirit root glowing dim blue beneath his chest robe, an ancient glowing scroll materializing from thin air with pages flipping on their own as golden divine fire erupts, golden light engulfing the temple and the cultivator's cracked spirit root glowing brilliant gold as cracks seal, eyes transforming from hollow despair to fierce determination with newly awakened divine golden light, set in a ruined ancient Chinese cultivation temple at dusk with dark misty atmosphere, faint blue spirit particles drifting, golden divine fire illuminating the darkness, red flames rising around him, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, modern clothing or street clothes, urban city setting, happy cheerful mood, sunset beach scene",
+  "tiktok_seo": {
+    "title": "When Heaven Denies You Everything, You Rewrite Destiny 🏴‍☠️ #xianxia #cultivation",
+    "hook_line": "Born with a shattered spirit root. Mocked by everyone. Then he found the ancient secret.",
+    "description": "They buried him. He rose. The journey from trash to legend begins 🐉\n\n#xianxia #cultivation #wuxia #chinesemythology #underdog #powerawakening #destiny #ancientsecrets #fyp",
+    "hashtags": [
+      "#xianxia",
+      "#wuxia",
+      "#cultivation",
+      "#chinesemythology",
+      "#chinesefantasy",
+      "#immortals",
+      "#destiny",
+      "#underdog",
+      "#powerawakening",
+      "#ancientsecrets",
+      "#fyp"
+    ],
+    "sound": "Epic Chinese instrumental / dramatic orchestral",
+    "thumbnail_overlay": "WHEN HEAVEN DENIES YOU EVERYTHING | SPIRIT ROOT SHATTERED",
+    "optimized_at": "2026-03-30"
+  },
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TN-01.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

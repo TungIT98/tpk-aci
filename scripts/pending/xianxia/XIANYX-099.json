@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-099",
+  "title": "Thanh Van Mon Episode 19: The Woman Who Watered the Dead",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 19,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "An old gardener appears — she has been tending the dead garden for sixty years. She offers her secret: how to keep it alive without erasing names.",
+    "story_arc": "The old gardener's arrival, Sixty years of secret tending, The well of living water, The alternative revealed, Acceptance",
+    "emotion": "Wonder, Grief, Revelation, Hope, Quiet determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Medium shot — the morning after the resurrection. She sits exhausted among the flowers. An old woman in simple brown robes kneels beside her, offering a cup of water. The old woman has the most peaceful face she has ever seen. The old woman: You did well. But you cannot keep doing this with seals and commands. You must learn to tend it. Camera: medium shot, exhausted her and serene old gardener, morning light, peace after chaos. 6 seconds.",
+      "camera": "Medium — exhausted her with serene old gardener, morning after resurrection, simple peace, 6s",
+      "narration": "After sixty years of secret tending, the old gardener had finally revealed herself. The garden could be kept alive without erasing names — if you knew how to water it.",
+      "sfx": "Morning birds returning, water pouring, gentle wind, peaceful strings, breath relief"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide shot — the old woman leads her to a hidden corner of the garden. A well — ancient, unmarked. The old woman draws a bucket. The water inside glows faintly silver — not from magic but from minerals, from time, from care. This is the well of living water. I have been drawing from it for sixty years. Camera: wide shot of the ancient unmarked well, old woman drawing glowing silver water, garden blooming around it. 6 seconds.",
+      "camera": "Wide — ancient unmarked well, old woman drawing glowing silver water, garden perfectly alive around it, 6s",
+      "narration": "Sixty years. Every day. Two buckets of living water poured onto the roots of the dead garden. Not to resurrect the dead — but to keep their names alive in the living plants above.",
+      "sfx": "Well rope creaking, water pouring, bucket splash, old woman humming, gentle bells"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the old woman shows her hands. They are burned — not from fire but from spiritual water, from sixty years of tending the boundary between living and dead. Erasure happens when people stop saying names out loud. The well water keeps the garden alive — but you must SAY the names. Every day. Every name. That's the secret no seal can replace. Camera: extreme close-up on burned gardener hands holding a seedling, her eyes. 6 seconds.",
+      "camera": "Extreme close-up — burned gardener hands planting seedling, eyes meeting, secret revealed, 6s",
+      "narration": "The secret was not a spell. It was not a seal. It was simpler and harder than both: say the names. Every day. Every name. Let no day pass where a name was not spoken.",
+      "sfx": "Seedling planting, soil settling, breath, soft bells, revelation tone"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — the old woman picks up a copper bell from her belt. She rings it once. Every flower in the garden turns toward the sound. When I die — and soon — you must take up the bell. And the well. And the saying of the names. She hands the bell to her. It is warm from sixty years of use. Camera: medium shot, bell passing from burned hands to her hands, all flowers turning toward them. 6 seconds.",
+      "camera": "Medium — copper bell passing from gardener to her, garden flowers turning toward bell, warmth passing, 6s",
+      "narration": "Sixty years of ringing that bell every morning. Sixty years of saying names so they would not be forgotten. Now the bell — and the duty — was hers.",
+      "sfx": "Bell ring, single clear note, flowers turning, wind, transfer of purpose, solemn strings"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — the old woman smiles and closes her eyes. She is done. She has waited sixty years for someone to pass the bell to. Her body does not fade — she simply becomes part of the garden, like a tree becoming soil. A single cherry blossom tree appears where she knelt. Camera: cinematic close-up on her peaceful face as she dissolves into cherry blossoms, then wide shot of the new tree blooming. 6 seconds. End on the new tree in full bloom.",
+      "camera": "Close-up to wide — old gardener peaceful passing, dissolving to cherry blossom tree blooming, bell in her hands, 6s",
+      "narration": "She did not die. She became the garden. And now the garden had a new keeper — and a new name-keeper. The cherry blossom tree was the first sign that the transition was complete.",
+      "sfx": "Last breath, cherry blossoms blooming, soft wind, bell in hand, peace, orchestral swell ending soft"
+    }
+  ],
+  "audio": {
+    "narration": "After sixty years of secret tending, the old gardener had finally revealed herself. The garden could be kept alive without erasing names — if you knew how to water it. Sixty years. Every day. Two buckets of living water poured onto the roots of the dead garden. Not to resurrect the dead — but to keep their names alive in the living plants above. The secret was not a spell. It was not a seal. It was simpler and harder than both: say the names. Every day. Every name. Let no day pass where a name was not spoken. Sixty years of ringing that bell every morning. Sixty years of saying names so they would not be forgotten. Now the bell — and the duty — was hers. She did not die. She became the garden. And now the garden had a new keeper — and a new name-keeper. The cherry blossom tree was the first sign that the transition was complete.",
+    "narration_duration": 28,
+    "bg_music": "Tender Chinese orchestral, gardener's hum, bell melody, sixty years of patience, peaceful transition 60 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Morning birds returning",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Well rope creaking",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Seedling planting",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Bell ring",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Last breath",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Medium shot — the morning after the resurrection. She sits exhausted among the flowers. An old woman in simple brown robes kneels beside her, offering a cup of water. The old woman has the most peaceful face she has ever seen. The old woman: You did well. But you cannot keep doing this with seals and commands. You must learn to tend it. Camera: medium shot, exhausted her and serene old gardener, morning light, peace after chaos. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide shot — the old woman leads her to a hidden corner of the garden. A well — ancient, unmarked. The old woman draws a bucket. The water inside glows faintly silver — not from magic but from minerals, from time, from care. This is the well of living water. I have been drawing from it for sixty years. Camera: wide shot of the ancient unmarked well, old woman drawing glowing silver water, garden blooming around it. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — the old woman shows her hands. They are burned — not from fire but from spiritual water, from sixty years of tending the boundary between living and dead. Erasure happens when people stop saying names out loud. The well water keeps the garden alive — but you must SAY the names. Every day. Every name. That's the secret no seal can replace. Camera: extreme close-up on burned gardener hands holding a seedling, her eyes. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Medium shot — the old woman picks up a copper bell from her belt. She rings it once. Every flower in the garden turns toward the sound. When I die — and soon — you must take up the bell. And the well. And the saying of the names. She hands the bell to her. It is warm from sixty years of use. Camera: medium shot, bell passing from burned hands to her hands, all flowers turning toward them. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — the old woman smiles and closes her eyes. She is done. She has waited sixty years for someone to pass the bell to. Her body does not fade — she simply becomes part of the garden, like a tree becoming soil. A single cherry blossom tree appears where she knelt. Camera: cinematic close-up on her peaceful face as she dissolves into cherry blossoms, then wide shot of the new tree blooming. 6 seconds. End on the new tree in full bloom."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 19: Người Phụ Nữ Tưới Nước Người Chết | Xianxia Việt Sub ⚔️🌿",
+    "youtube_description": "Episode 19 of Thanh Van Mon. An old gardener who has tended the dead garden for sixty years reveals herself. The secret of keeping the garden alive without erasing names: a well of living water and the daily ringing of a bell while saying every name out loud. She becomes the garden's new keeper.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 20 — The New Spring of Thanh Van Mon (Season Finale)\n#xianxia #thanhvanmon #old gardener #name keeper #living water #bell of remembrance #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "old gardener",
+      "well of living water",
+      "name keeper",
+      "bell of remembrance",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Bà góa phụ chăm vườn suốt 60 năm tiết lộ bí mật: giếng nước sống và TIẾNG CHUÔNG gọi tên mỗi ngày. Cô nhận lấy chuông. Khu vườn có người giữ mới 🌿⚔️ Tập 19 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Medium shot — the morning after the resurrection. She sits exhausted among the flowers. An old woman in simple brown robes kneels beside her, offering a cup of water. The old woman has the most peaceful face she has ever seen. The old woman: You did well. But you cannot keep doing this with seals and commands. You must learn to tend it. Camera: medium shot, exhausted her and serene old gardener, morning light, peace after chaos. 6 seconds. Shot 2: Wide shot — the old woman leads her to a hidden corner of the garden. A well — ancient, unmarked. The old woman draws a bucket. The water inside glows faintly silver — not from magic but from minerals, from time, from care. This is the well of living water. I have been drawing from it for sixty years. Camera: wide shot of the ancient unmarked well, old woman drawing glowing silver water, garden blooming around it. 6 seconds. Shot 3: Close-up — the old woman shows her hands. They are burned — not from fire but from spiritual water, from sixty years of tending the boundary between living and dead. Erasure happens when people stop saying names out loud. The well water keeps the garden alive — but you must SAY the names. Every day. Every name. That's the secret no seal can replace. Camera: extreme close-up on burned gardener hands holding a seedling, her eyes. 6 seconds. Shot 4: Medium shot — the old woman picks up a copper bell from her belt. She rings it once. Every flower in the garden turns toward the sound. When I die — and soon — you must take up the bell. And the well. And the saying of the names. She hands the bell to her. It is warm from sixty years of use. Camera: medium shot, bell passing from burned hands to her hands, all flowers turning toward them. 6 seconds. Shot 5: Close-up — the old woman smiles and closes her eyes. She is done. She has waited sixty years for someone to pass the bell to. Her body does not fade — she simply becomes part of the garden, like a tree becoming soil. A single cherry blossom tree appears where she knelt. Camera: cinematic close-up on her peaceful face as she dissolves into cherry blossoms, then wide shot of the new tree blooming. 6 seconds. End on the new tree in full bloom.",
+  "visual_scene": "Medium shot — the morning after the resurrection. She sits exhausted among the flowers. An old woman in simple brown robes kneels beside her, offering a cup of water. The old woman has the most peaceful face she has ever seen. The old woman: You did well. But you cannot keep doing this with seals and commands. You must learn to tend it. Camera: medium shot, exhausted her and serene old gardener, morning light, peace after chaos. 6 seconds. Wide shot — the old woman leads her to a hidden corner of the garden. A well — ancient, unmarked. The old woman draws a bucket. The water inside glows faintly silver — not from magic but from minerals, from time, from care. This is the well of living water. I have been drawing from it for sixty years. Camera: wide shot of the ancient unmarked well, old woman drawing glowing silver water, garden blooming around it. 6 seconds. Close-up — the old woman shows her hands. They are burned — not from fire but from spiritual water, from sixty years of tending the boundary between living and dead. Erasure happens when people stop saying names out loud. The well water keeps the garden alive — but you must SAY the names. Every day. Every name. That's the secret no seal can replace. Camera: extreme close-up on burned gardener hands holding a seedling, her eyes. 6 seconds. Medium shot — the old woman picks up a copper bell from her belt. She rings it once. Every flower in the garden turns toward the sound. When I die — and soon — you must take up the bell. And the well. And the saying of the names. She hands the bell to her. It is warm from sixty years of use. Camera: medium shot, bell passing from burned hands to her hands, all flowers turning toward them. 6 seconds. Close-up — the old woman smiles and closes her eyes. She is done. She has waited sixty years for someone to pass the bell to. Her body does not fade — she simply becomes part of the garden, like a tree becoming soil. A single cherry blossom tree appears where she knelt. Camera: cinematic close-up on her peaceful face as she dissolves into cherry blossoms, then wide shot of the new tree blooming. 6 seconds. End on the new tree in full bloom.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 19: The Woman Who Watered the Dead",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "old gardener",
+    "well of living water",
+    "name keeper",
+    "bell of remembrance",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

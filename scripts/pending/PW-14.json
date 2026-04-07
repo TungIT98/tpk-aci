@@ -1,0 +1,31 @@
+﻿{
+  "id": "PW-14",
+  "category": "productivity",
+  "channel": "Productivity Worker",
+  "title": "The Body Language Signal That Makes You Look Unconfident (Stop Doing This)",
+  "script": "Crossing your arms in a meeting doesn't just signal defensiveness — it actually makes you think less clearly. Research from Harvard shows that expansive postures increase testosterone and lower cortisol before high-stakes situations. The single worst body language habit costing you credibility: the self-touch夹 — touching your neck, hair, or face while speaking. It screams 'please validate me.' Instead, keep your hands visible and open. Palms slightly up signals openness and honesty. Palms down signals authority. Make the switch today.",
+  "prompt_for_hailuo": "Professional in boardroom, nervously touches neck mid-sentence [Medium shot]. Arrow graphic circles self-touch gestures. Same professional adopts open palms-up posture confidently [Same framing]. Hands visible on table, strong eye contact, commanding presence [Close-up then medium]. Split screen comparison: unconfident vs confident body language [Side by side graphic]. Modern corporate boardroom, glass walls, professional lighting, clean aesthetic, portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "body language",
+    "confidence",
+    "presentation skills",
+    "professional",
+    "career",
+    "nonverbal"
+  ],
+  "thumbnail_idea": "Split screen: crossed arms vs open palms — 'WHICH ONE ARE YOU?' text overlay",
+  "visual_scene": "Modern glass-walled corporate boardroom, natural light streaming through floor-to-ceiling windows. Professional woman in sharp blazer sits at a conference table. She touches her neck nervously while speaking — a self-soothing gesture circled by a subtle red graphic arrow. Transition: the same woman, same room, same meeting moment — but now her hands rest open and visible on the table, palms slightly up, strong steady eye contact. Her posture is upright and expanded. A green checkmark pulses over the confident version. Split-screen comparison shows the contrast dramatically. Clean corporate aesthetic, cinematic lighting, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, casual outdoor scene, dim moody lighting, informal setting, exaggerated theatrical gestures",
+  "specific_details": "Professional woman in a tailored blazer in a modern glass-walled corporate boardroom, nervously touching her neck in one frame, transitioning to the same woman with hands open and visible on the conference table, palms slightly up, strong confident posture, split-screen comparison showing the contrast between self-touch and open-palm confidence, professional corporate lighting, portrait 9:16.",
+  "status": "published",
+  "published_at": "2026-03-30T13:50:00Z",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T10:09:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\PW-14.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:22:54.035Z",
+  "tiktok_url": "/@fai20128/video/7625202902293990677"
+}

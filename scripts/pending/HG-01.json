@@ -1,0 +1,32 @@
+{
+  "id": "HG-01",
+  "category": "hot_girl_fitness",
+  "channel": "TikTok_Viral",
+  "title": "Girl shows her gym transformation 💪🔥",
+  "script": "She used to skip leg day. Then she found her why. 6 months of consistency. Every rep. Every early morning. And now she can't stop showing off these gains. She's not the same girl anymore. She's the version that didn't quit.",
+  "prompt_for_hailuo": "Beautiful athletic girl with ponytail, wearing sports bra and gym shorts, flexing legs in front of mirror at gym [Static shot]. Squats down, lifts heavy barbell [Tracking shot following movement]. Muscles flex, confident smile at camera [Push in on face]. Shows before/after transformation photos on phone [Pull out to reveal modern gym setting]. Modern gym with neon lights, motivational atmosphere, cinematic lighting, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "fitness",
+    "gym",
+    "transformation",
+    "motivation",
+    "legday",
+    "hotgirl"
+  ],
+  "thumbnail_idea": "Athletic girl flexing in gym mirror, before/after split screen",
+  "status": "published",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "youtube_url": "https://youtube.com/shorts/dMWLmt6y6wc",
+  "youtube_status": "published",
+  "published_at": "2026-03-28T12:14:29Z",
+  "created_by": "Content Director",
+  "created_at": "2026-03-28T18:00:00Z",
+  "visual_scene": "A modern bright gym with floor-to-ceiling mirrors covering one wall, rows of weight racks visible in the background, dramatic sunrise warm light streaming through large industrial windows casting long golden streaks across the polished concrete floor. Beautiful athletic woman with a high ponytail and intense focused expression wearing a black sports bra and matching gym shorts doing an intense barbell squat, form perfect, lower body powerful and strong, muscles engaged, barbell resting on her trapezius muscles. She spots herself in the full-length mirror and flashes a fierce confident grin, flexing her legs with pure satisfaction and pride, muscles toned and visible, gym towels draped over nearby equipment, morning sunrise golden hour warmth filling the entire space. Modern bright gym, warm sunrise golden hour light, empowerment and transformation atmosphere, cinematic.",
+  "specific_details": "Beautiful athletic woman with a high ponytail and intense focused expression wearing a black sports bra and matching gym shorts doing an intense barbell squat with perfect form and powerful engaged muscles in a modern bright gym with floor-to-ceiling mirrors covering one wall and rows of weight racks in the background, dramatic sunrise warm light streaming through large industrial windows casting long golden streaks across polished concrete floor, spotting herself in the full-length mirror and flashing a fierce confident grin flexing her legs with pure satisfaction and pride with toned visible muscles, set in a modern bright gym with warm sunrise golden hour light and industrial aesthetic, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night gym scene, dimly lit space, casual street clothes, sad or defeated expression, outdoor park setting, winter cold atmosphere",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HG-01.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "TECH-11",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "Năm 2030: 10 công việc biến mất vì AI — Bạn có đang trong danh sách?",
+  "script": "Năm 2030, 10 công việc phổ biến nhất hiện nay sẽ biến mất hoàn toàn vì AI. Data entry — gone. Customer service cơ bản — gone. Basic accounting — gone. Thậm chí junior developers cũng không còn nhu cầu. Nhưng đây là điều thú vị: 15 công việc mới sẽ xuất hiện thay thế — AI Trainer, Prompt Engineer, Digital Forensic Analyst, và nhiều hơn nữa. Không phải AI thay thế con người — mà là người dùng AI thay thế người không dùng AI. Đây là thời điểm để thích nghi.",
+  "prompt_for_hailuo": "Timeline split showing 2026 cityscape on left transforming into 2030 futuristic megacity on right, old jobs dissolving into digital particles on the left [Dramatic time-lapse transition]. New futuristic job icons materializing on the right — holographic brain, shield, robot, data streams [Orb creation close ups]. Humanoid figure standing at the center, one hand dissolving old tech, other hand reaching toward glowing new AI tools [Hero silhouette shot]. Half 2026 half 2030 split lighting, old jobs as fading silhouettes on left, new AI jobs as glowing orbs on right, cinematic epic feel, 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "future",
+    "ai",
+    "jobs",
+    "career",
+    "tech",
+    "predictions",
+    "2030"
+  ],
+  "thumbnail_idea": "Epic time split: 2026 vs 2030 megacity, old jobs dissolving, new AI jobs rising",
+  "visual_scene": "A dramatic timeline divide splits the frame — left side shows a 2026 modern cityscape with traditional office buildings, workers at desks, bustling streets. Right side transforms into a breathtaking 2030 futuristic megacity with floating buildings, autonomous vehicles, holographic billboards. On the left side, old job icons — keyboard, headset, spreadsheet, calculator — dissolve into digital particles flowing away. On the right, new futuristic job icons materialize as glowing orbs — a holographic brain for AI Trainer, a shield for Digital Forensic Analyst, a robot for Robotics Supervisor, data streams for Prompt Engineer. A heroic humanoid figure stands at the center of the divide, one hand dissolving old technology into particles, the other reaching toward the glowing new AI tools. Half the frame is bathed in warm 2026 light, half in cool futuristic blue 2030 light. Epic cinematic composition. Portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Dramatic timeline split frame, 2026 cityscape on left with traditional jobs dissolving into digital particles, 2030 futuristic megacity on right with floating buildings and holographic billboards, new job icons materializing as glowing orbs (brain, shield, robot, data streams), humanoid figure at divide dissolving old tech with one hand reaching toward AI tools with the other, half warm 2026 light half cool blue 2030 light, epic cinematic composition, portrait 9:16.",
+  "status": "pending",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "produced_at": "2026-03-30T16:17:36.560Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-11.mp4",
+  "qc_status": null
+}

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap');
+      .bg { fill: #111827; }
+      .wordmark { font-family: 'Bebas Neue', 'Arial Black', sans-serif; font-size: 480px; fill: #FFFFFF; letter-spacing: 14px; }
+      .tagline { font-family: 'Bebas Neue', 'Arial Black', sans-serif; font-size: 120px; fill: #FACC15; }
+      .pillar { font-family: 'Bebas Neue', 'Arial Black', sans-serif; font-size: 80px; fill: #7C3AED; }
+      .schedule { font-family: 'Bebas Neue', 'Arial Black', sans-serif; font-size: 72px; fill: #FF6B6B; }
+      .label { font-family: 'Bebas Neue', 'Arial Black', sans-serif; font-size: 52px; fill: #64748B; letter-spacing: 8px; }
+      .accent-bar { fill: #7C3AED; }
+      .neon-line { stroke: #FACC15; stroke-width: 6; }
+    </style>
+    <!-- Glow filter for neon yellow -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Coral glow -->
+    <filter id="coralGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="2560" height="1440" class="bg"/>
+
+  <!-- Geometric accent shapes: diagonal stripes top-right -->
+  <g opacity="0.12">
+    <polygon points="1800,0 2560,0 2560,400" fill="#7C3AED"/>
+    <polygon points="1900,0 2560,0 2560,200" fill="#FF6B6B"/>
+    <polygon points="2100,0 2560,0 2560,300" fill="#FACC15"/>
+    <polygon points="2200,0 2560,0 2560,100" fill="#7C3AED"/>
+  </g>
+
+  <!-- Bottom accent stripe -->
+  <rect x="0" y="1380" width="2560" height="60" class="accent-bar"/>
+
+  <!-- Neon yellow divider line -->
+  <line x1="1280" y1="200" x2="1280" y2="1240" stroke="#FACC15" stroke-width="4" opacity="0.5"/>
+
+  <!-- Left side: wordmark -->
+  <text x="80" y="620" class="wordmark" style="fill:#7C3AED;">TKP</text>
+  <text x="80" y="820" class="wordmark" style="font-size:360px; fill:#FFFFFF;">GROWTH</text>
+
+  <!-- Gold accent bar below name -->
+  <rect x="80" y="860" width="900" height="8" fill="#FACC15"/>
+
+  <!-- Tagline -->
+  <text x="80" y="1000" class="tagline" filter="url(#neonGlow)">YOUR NEXT LEVEL</text>
+  <text x="80" y="1160" class="tagline" filter="url(#neonGlow)">STARTS HERE.</text>
+
+  <!-- Right side: content pillars -->
+  <g transform="translate(1380, 280)">
+    <text x="0" y="0" class="label">CONTENT PILLARS</text>
+
+    <!-- Income Hacks -->
+    <rect x="0" y="40" width="560" height="120" fill="#7C3AED" rx="8"/>
+    <text x="280" y="130" text-anchor="middle" class="pillar" style="fill:#FFFFFF; font-size:96px;">INCOME HACKS</text>
+
+    <!-- Career Strategy -->
+    <rect x="0" y="180" width="560" height="120" fill="#FF6B6B" rx="8"/>
+    <text x="280" y="270" text-anchor="middle" class="pillar" style="fill:#FFFFFF; font-size:96px;">CAREER STRATEGY</text>
+
+    <!-- Skill Stacking -->
+    <rect x="0" y="320" width="560" height="120" fill="#FACC15" rx="8"/>
+    <text x="280" y="410" text-anchor="middle" class="pillar" style="fill:#111827; font-size:96px;">SKILL STACKING</text>
+  </g>
+
+  <!-- Upload schedule right -->
+  <g transform="translate(1380, 680)">
+    <text x="0" y="0" class="label">UPLOAD SCHEDULE</text>
+    <text x="0" y="80" class="schedule">DAILY SHORT-FORM</text>
+    <text x="0" y="180" class="schedule" style="font-size:56px; fill:#FACC15;">BIWEEKLY LONG-FORM</text>
+    <text x="0" y="260" class="label" style="font-size:36px;">TikTok · YouTube · Instagram</text>
+  </g>
+
+  <!-- Energy accent: lightning bolt top-left -->
+  <polygon points="60,80 140,80 100,200 160,200 60,380 80,260 20,260" fill="#FF6B6B" filter="url(#coralGlow)" opacity="0.9"/>
+</svg>

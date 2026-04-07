@@ -1,0 +1,89 @@
+{
+  "id": "TN-04",
+  "episode": "04",
+  "series": "Tien Nghich",
+  "channel": "Xianxia Fantasy",
+  "title": "The Forbidden Technique",
+  "script": "The sect that would kill for this technique... and die to protect it. A forbidden technique, hidden for a thousand years. One glimpse... and your fate is sealed.",
+  "clips": [
+    {
+      "clip_id": "TN-04-01",
+      "scene": "Hook - The Gate",
+      "prompt_for_hailuo": "Young beautiful Chinese woman in elegant blue-green silk robes standing at the gate of an ancient secluded mountain sect, clouds swirling mist around her feet, cherry blossom petals falling, ethereal green energy, mysterious atmosphere, cinematic, 9:16 portrait",
+      "prompt_for_pexels": "beautiful woman mountain gate clouds cherry blossoms mysterious",
+      "script_text": "The sect that would kill for this technique... and die to protect it."
+    },
+    {
+      "clip_id": "TN-04-02",
+      "scene": "The Secret Scroll",
+      "prompt_for_hailuo": "Ancient glowing scroll radiating bright green energy in a dark hidden underground chamber, young woman reaching for it with trembling hands, shadows of mysterious watchers lurking in background corners, tense atmosphere, cinematic lighting, 9:16 portrait",
+      "prompt_for_pexels": "ancient scroll glowing green dark chamber mysterious hidden",
+      "script_text": "A forbidden technique, hidden for a thousand years. One glimpse... and your fate is sealed."
+    },
+    {
+      "clip_id": "TN-04-03",
+      "scene": "The Chase",
+      "prompt_for_hailuo": "Young beautiful woman in blue-green robes running through ancient dark bamboo corridor, pursuers in black robes chasing behind her, green spiritual energy exploding from her palms, cherry blossom petals flying, tense chase scene, cinematic, 9:16 portrait",
+      "prompt_for_pexels": "woman running bamboo corridor energy explosion chase scene",
+      "script_text": "She stole the scroll. Now the entire sect hunts her... and the technique hunts her soul."
+    },
+    {
+      "clip_id": "TN-04-04",
+      "scene": "The Price",
+      "prompt_for_hailuo": "Extreme close up of beautiful young woman face contorting in pain and power, green glowing veins appearing under pale skin, eyes turning luminous supernatural green, ancient energy coursing through her, dramatic cinematic lighting, dark background, 9:16 portrait",
+      "prompt_for_pexels": "close up woman face green energy glowing dramatic dark",
+      "script_text": "The technique chose her. But mastery of this art... demands everything."
+    },
+    {
+      "clip_id": "TN-04-05",
+      "scene": "Outro - Power",
+      "prompt_for_hailuo": "Beautiful woman in blue-green robes standing in mountain storm, massive swirling green energy vortex surrounding her, lightning striking the sky behind her, fallen disciples scattered at her feet, absolute power revealed, epic cinematic, 9:16 portrait",
+      "prompt_for_pexels": "woman power storm lightning green energy epic cinematic",
+      "script_text": "The forbidden technique is hers. The sect that wronged her... will fall. Subscribe now!"
+    }
+  ],
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "orientation": "vertical",
+  "tags": [
+    "xianxia",
+    "forbidden technique",
+    "power",
+    "revenge",
+    "sect"
+  ],
+  "status": "published",
+  "created_by": "Nova",
+  "created_at": "2026-03-30T09:15:00Z",
+  "prompt_for_hailuo": "Elder in dark crimson robes unveiling ancient scroll glowing with red light [Wide shot]. Close-up: forbidden technique characters burning in red light [Macro close-up]. Scene shifts: young male cultivator in ruined temple, glowing blue energy erupting around him [Tracking shot]. Final: temple walls cracking, golden light exploding outward [Wide shot, slow motion]. Ancient Chinese cultivation world, dark crimson and deep blue, ancient temple, forbidden power, cinematic, portrait 9:16.",
+  "visual_scene": "A vast dark ancient cultivation library inside a mountain temple, thousands of scrolls lining towering stone shelves that disappear into shadow above. An elder robed in dark crimson with silver hair tied back in a severe bun, standing before a sealed black stone cabinet, placing a glowing crimson token on its surface — the cabinet doors crack open revealing a single ancient scroll bound in black leather that pulses with visible waves of dark red energy. Close-up on the scroll's surface: ancient Chinese characters glowing blood red, pulsing like a heartbeat, as if alive and aware. Scene shifts to an ancient ruined outdoor temple courtyard at night, a young male cultivator with long black hair and simple dark robes standing in the center, eyes glowing pure white as intense blue spiritual energy erupts from his body in spiraling columns冲向天空, ancient cracked stone floor beneath him glowing with golden ritual circles. The energy pulses outward — temple walls crack and crumble, ancient pillars topple, dust and golden light exploding outward in a massive shockwave as he floats slightly above ground in a full lotus position surrounded by a sphere of blinding blue and gold light. Ancient Chinese cultivation world, ruined outdoor temple, intense blue and gold energy, dark crimson library, dramatic atmospheric lighting, cinematic.",
+  "specific_details": "An elder in dark crimson robes with silver hair standing in a vast dark ancient cultivation library before a sealed black stone cabinet containing a single ancient scroll bound in black leather that pulses with visible waves of dark red energy, the character glowing blood red on the scroll's surface; then a young male cultivator with long black hair in simple dark robes standing in the center of an ancient ruined outdoor temple courtyard at night, eyes glowing pure white as intense blue spiritual energy erupts from his body in spiraling columns reaching to the sky and golden ritual circles glow on the cracked stone floor beneath him, floating slightly above ground surrounded by a sphere of blinding blue and gold light as the temple walls crack and crumble and golden light explodes outward in a massive shockwave, set in a dark ancient cultivation library with towering stone shelves and a ruined outdoor temple courtyard at night with atmospheric mist, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight, modern clothing, happy cheerful mood, beach or tropical setting, flat overcast lighting",
+  "tiktok_seo": {
+    "title": "The Sect Would Kill for This Technique... And Die to Protect It ⚔️ #xianxia #cultivation",
+    "hook_line": "Hidden for a thousand years. One glimpse... and your fate is sealed.",
+    "description": "Hidden for a thousand years. One glimpse... and your fate is sealed.\n\nThe most dangerous arc begins 🗡️\n\n#xianxia #cultivation #wuxia #ancientsecrets #sectwar #destiny #chinesemythology #forbidden #mystery #fyp",
+    "hashtags": [
+      "#xianxia",
+      "#wuxia",
+      "#cultivation",
+      "#chinesemythology",
+      "#ancientsecrets",
+      "#sectwar",
+      "#destiny",
+      "#forbidden",
+      "#mystery",
+      "#chinesefantasy",
+      "#fyp"
+    ],
+    "sound": "Tense mystery Chinese instrumental",
+    "thumbnail_overlay": "THE FORBIDDEN TECHNIQUE | 1000 YEARS HIDDEN",
+    "optimized_at": "2026-03-30"
+  },
+  "published_at": "2026-03-30T13:55:50.839Z",
+  "published_path": "C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/tien-nghich/TN-04",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TN-04.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z"
+}

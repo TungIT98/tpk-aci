@@ -1,0 +1,97 @@
+{
+  "id": "GZ-05",
+  "title": "The 'Rich Person' Money Habits That Take 5 Minutes a Day",
+  "category": "personal_finance",
+  "channel": "GenZSuccess",
+  "audience": "18-28 year olds, early career earners, money-awkward Gen Z",
+  "tone": "High energy, relatable, slightly confrontational about bad habits, practical",
+  "platform": ["TikTok", "YouTube Shorts"],
+  "format": "45-60 seconds, 9:16 vertical",
+  "status": "production_ready",
+
+  "concept": {
+    "hook": "I spent $400 a month on coffee and didn't realize I was poor until I did this 5-minute math.",
+    "story_arc": "Hook → Track fun spending → 24-hour rule → Name your savings → CTA",
+    "emotion": "Mild shock → Practical optimism",
+    "duration_seconds": 52
+  },
+
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "Vertical. Person holding a large coffee cup, looking confused. Transition to phone screen showing spending tracker app. Numbers appearing: '$8 coffee x 50 days = $400/month.' Calculator icon. Coffee cup lowers slowly. Expression shifts from confusion to realization.",
+      "camera": "[Push in] From coffee cup to phone screen with the math",
+      "narration": "I spent 400 dollars a month on coffee. And I didn't realize I was slowly becoming broke until I did this five-minute math.",
+      "sfx": "Coffee cup on desk thunk, calculator beeps, realization sound"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 22,
+      "duration": 17,
+      "prompt": "Vertical infographic. Three rules appearing one by one. Rule 1: Piggy bank icon labeled 'TRACK YOUR FUN SPENDING — NOT YOUR BUDGET.' Red circle around 'fun spending'. Rule 2: Hourglass icon labeled '24-HOUR RULE.' '$50+ purchase? Wait one night.' Rule 3: Savings account icon labeled 'NAME YOUR SAVINGS.' 'Trip fund, upgrade fund — saving feels like progress, not sacrifice.' Each rule animates in with a satisfying pop.",
+      "camera": "[Static vertical] Phone screen infographic animation",
+      "narration": "Wealth isn't about how much you earn. It's about three daily behaviors. Rule one: track your fun spending — not your full budget. Awareness alone reduces it by 23 percent without restricting yourself. You don't need a spreadsheet. Just one number: how much you spent on non-essentials this week. Rule two: the 24-hour rule. Before any purchase over 50 dollars, wait one full night. Most impulse buys disappear by morning.",
+      "sfx": "App notification pings, piggy bank clink, checkmark sound"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 22,
+      "time_end": 38,
+      "duration": 16,
+      "prompt": "Vertical split. Left: impulse buy scene — person buys expensive sneakers, guilt expression. Right: same $200 → investment app showing growing graph. Piggy bank → investment portfolio transition. Arrow labeled '23% reduced spending without restriction.' Chart showing growth over time.",
+      "camera": "[Static split vertical]",
+      "narration": "Rule three: automate savings last. Save after expenses — not before. And name your savings account something exciting. 'Trip to Japan fund.' 'My first investment.' 'Weekend escape fund.' Saving feels like sacrifice when it's vague. It feels like progress when it has a name and a purpose. That's how wealthy people think about money.",
+      "sfx": "Money transfer swoosh, investment growth chime"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 38,
+      "time_end": 50,
+      "duration": 12,
+      "prompt": "Vertical direct to camera. Confident, energetic, relatable. Coffee shop background. Person smiles, delivers final line with energy. Follow button animation. Comment CTA.",
+      "camera": "[Static vertical] Direct to camera, high energy",
+      "narration": "Five minutes a day on your finances equals five hours a year of clarity. Your future self will thank you. Drop a 'CLARITY' in the comments. Follow for weekly money breakdowns that actually apply to your life.",
+      "sfx": "Energy swell, follow chime"
+    }
+  ],
+
+  "audio": {
+    "narration": "I spent 400 dollars a month on coffee. And I didn't realize I was slowly becoming broke until I did this five-minute math. Wealth isn't about how much you earn. It's about three daily behaviors. Rule one: track your fun spending — not your full budget. Awareness alone reduces it by 23 percent without restricting yourself. You don't need a spreadsheet. Just one number: how much you spent on non-essentials this week. Rule two: the 24-hour rule. Before any purchase over 50 dollars, wait one full night. Most impulse buys disappear by morning. Rule three: automate savings last. Save after expenses — not before. And name your savings account something exciting. 'Trip to Japan fund.' 'My first investment.' 'Weekend escape fund.' Saving feels like sacrifice when it's vague. It feels like progress when it has a name and a purpose. That's how wealthy people think about money. Five minutes a day on your finances equals five hours a year of clarity. Your future self will thank you. Drop a CLARITY in the comments. Follow for weekly money breakdowns that actually apply to your life.",
+    "narration_duration": 50,
+    "bg_music": "Upbeat lo-fi hip hop, confident 100 BPM",
+    "sfx": [
+      { "time": 3.0, "sound": "calculator beep", "volume": 0.6 },
+      { "time": 8.0, "sound": "piggy bank clink", "volume": 0.5 },
+      { "time": 20.0, "sound": "money transfer swoosh", "volume": 0.6 },
+      { "time": 45.0, "sound": "follow chime", "volume": 0.6 }
+    ]
+  },
+
+  "hailuo_prompts": [
+    { "shot": 1, "prompt": "Vertical. Person holding a large coffee cup, looking confused. Transition to phone screen showing spending tracker app. Numbers appearing: 8 dollars coffee times 50 days equals 400 dollars per month. Calculator icon. Coffee cup lowers slowly. Expression shifts from confusion to realization. [Push in] From coffee cup to phone screen with the math" },
+    { "shot": 2, "prompt": "Vertical infographic. Three rules appearing one by one. Rule 1: Piggy bank icon labeled Track your fun spending — not your budget. Rule 2: Hourglass icon labeled 24-hour rule. Rule 3: Savings account icon labeled Name your savings. Each rule animates in with a satisfying pop. [Static vertical] Phone screen infographic animation" },
+    { "shot": 3, "prompt": "Vertical split. Left: impulse buy scene — person buys expensive sneakers, guilt expression. Right: same 200 dollars going into investment app showing growing graph. Piggy bank to investment portfolio transition. Chart showing growth over time. [Static split vertical]" },
+    { "shot": 4, "prompt": "Vertical direct to camera. Confident, energetic, relatable. Coffee shop background. Person smiles, delivers final line with energy. Follow button animation. Comment CTA. [Static vertical] Direct to camera, high energy" }
+  ],
+
+  "metadata": {
+    "youtube_title": "I Spent $400/Month on Coffee Without Realizing It (5-Minute Money Fix)",
+    "youtube_description": "I didn't know I was slowly going broke until I did this 5-minute math. Three daily money habits that wealthy people use — that take less than 5 minutes a day.\n\n📌 What you'll learn:\n- The 'fun spending tracker' method (awareness = 23% reduction without restriction)\n- The 24-hour rule to eliminate impulse buys\n- How to name your savings accounts to make saving feel like progress\n- Why wealthy people think differently about money\n\n💬 Drop 'CLARITY' in the comments.",
+    "youtube_tags": ["personal finance", "money habits", "Gen Z finance", "savings", "budgeting tips", "wealth mindset", "financial literacy", "investing for beginners"],
+    "tiktok_caption": "I spent $400/month on COFFEE without realizing I was slowly going broke 😱 3 daily money habits that rich people use — 5 min a day 👇 #money #personalfinance #savings #wealth #GenZfinance #budgeting #investing",
+    "playlist": "Money & Hustle"
+  },
+
+  "production_notes": {
+    "shot_count": 4,
+    "total_duration_seconds": 50,
+    "voice": "male_energetic_young (MiniMax speech-02-hd, speed 1.1)",
+    "music_volume": 0.35,
+    "voice_volume": 1.0,
+    "aspect_ratio": "9:16 vertical only"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": "TKP Video Pipeline - Cloud Version",
+  "nodes": [
+    {
+      "id": "schedule-trigger",
+      "name": "Daily 8AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [100, 300],
+      "parameters": {
+        "rule": {
+          "kind": "schedule",
+          "expression": "0 8 * * *"
+        }
+      }
+    },
+    {
+      "id": "read-script",
+      "name": "Read Script",
+      "type": "n8n-nodes-base.readBinaryFile",
+      "typeVersion": 1,
+      "position": [350, 300],
+      "parameters": {
+        "filePath": "/scripts/pending/VID-001.json"
+      }
+    },
+    {
+      "id": "call-openclaw",
+      "name": "Call OpenClaw - Generate Video",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [600, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:18789/webhook/tkp-video",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "action",
+              "value": "generate_video"
+            },
+            {
+              "name": "script_id",
+              "value": "={{ JSON.parse($binary.data).id }}"
+            },
+            {
+              "name": "prompt",
+              "value": "={{ JSON.parse($binary.data).prompt_for_hailuo }}"
+            }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "discord-success",
+      "name": "Discord - Success",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [850, 200],
+      "parameters": {
+        "webhook": {
+          "url": "YOUR_DISCORD_WEBHOOK"
+        },
+        "text": "🎬 Video Generated!\n\nScript: {{ JSON.parse($binary.data).id }}"
+      }
+    },
+    {
+      "id": "discord-fail",
+      "name": "Discord - Failed",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [850, 400],
+      "parameters": {
+        "webhook": {
+          "url": "YOUR_DISCORD_WEBHOOK"
+        },
+        "text": "❌ Video Generation Failed"
+      }
+    }
+  ],
+  "connections": {
+    "Daily 8AM": {
+      "main": [[{"node": "Read Script", "type": "main", "index": 0}]]
+    },
+    "Read Script": {
+      "main": [[{"node": "Call OpenClaw - Generate Video", "type": "main", "index": 0}]]
+    },
+    "Call OpenClaw - Generate Video": {
+      "main": [
+        [{"node": "Discord - Success", "type": "main", "index": 0}],
+        [{"node": "Discord - Failed", "type": "main", "index": 0}]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

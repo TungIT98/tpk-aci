@@ -1,0 +1,162 @@
+﻿{
+  "id": "PW-03",
+  "title": "The Sunday Night Ritual That Makes Monday Mornings Effortless",
+  "category": "routine_design",
+  "channel": "ProductivityWorker",
+  "audience": "Office workers 25-40, professionals seeking Monday clarity",
+  "tone": "Warm, calm authority, supportive",
+  "platform": [
+    "YouTube",
+    "TikTok"
+  ],
+  "format": "60-90 seconds, 16:9 and 9:16",
+  "status": "published",
+  "concept": {
+    "hook": "What separates people who dread Mondays from those who dominate them? It happens the night before.",
+    "story_arc": "Hook → The ritual concept → Brain dump (5min) → Outfit + bag (5min) → 3 priorities (10min) → Transformation → CTA",
+    "emotion": "Anticipation, calm confidence",
+    "duration_seconds": 78
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 4,
+      "duration": 4,
+      "prompt": "Sunday evening. Person sits at a clean desk, journal open, pen in hand. Warm golden hour light through window. They look calm, purposeful. Close-up on their focused expression. A soft clock shows 7pm.",
+      "camera": "[Push in] Slow zoom from wide room shot to focused face",
+      "narration": "What separates people who dread Mondays from those who dominate them? It happens the night before.",
+      "sfx": "Soft evening ambient, pen writing sound"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 4,
+      "time_end": 22,
+      "duration": 18,
+      "prompt": "Timelapse-style sequence: Person rapidly writing in journal, stress lines on face gradually smoothing out. Close-up of journal page filling with tasks, worries, commitments. Hand sweeps across page — releasing. Camera stays on face as tension visibly melts.",
+      "camera": "[Tracking shot] Smooth left-to-right tracking as journal fills",
+      "narration": "The first step is a brain dump. Take five minutes and write every unfinished task, every worry, every commitment onto paper. Don't organize. Don't prioritize. Just get it out of your head and onto the page. Your brain stops holding on when it knows the information is saved somewhere.",
+      "sfx": "Gentle pen writing, paper rustling"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 22,
+      "time_end": 38,
+      "duration": 16,
+      "prompt": "Quick montage: clothes laid out on bed, bag packed by the door, laptop charger in bag. Everything is ready. Person walks through apartment — everything is in its place. Clean, calm, ready.",
+      "camera": "[Tilt down] Each item — clothes, bag, workspace — snapping into place",
+      "narration": "Step two: outfit and bag. Lay out Monday's clothes and pack your bag. This eliminates ten decisions before they even happen. Each morning decision drains willpower. The less you have to think about in the morning, the more thinking power you have for what actually matters.",
+      "sfx": "Zippers, drawer closing, soft thud of bag being set down"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 38,
+      "time_end": 58,
+      "duration": 20,
+      "prompt": "Person writes three items on a notepad and places it beside the bed. Close-up on the notepad: '1. Client presentation, 2. Finish report, 3. Call mom.' They read it once, nod, and smile. Phone alarm set for 6:30am rings.",
+      "camera": "[Push in] Camera closes in on the three priorities as person reads them",
+      "narration": "Step three: three priorities. In ten minutes, identify the three most important outcomes for your week. Write them somewhere visible — beside your bed, on your bathroom mirror, as your phone wallpaper. When Monday starts with clarity, you don't start reactive. You start dominant.",
+      "sfx": "Pen writing, alarm clock ringtone (gentle)"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 58,
+      "time_end": 72,
+      "duration": 14,
+      "prompt": "Monday morning. Sunrise through window. Same person, calm expression, coffee in hand. Wide establishing shot — they walk out the door with confidence, bag packed, outfit ready, shoulders back. Golden morning light.",
+      "camera": "[Pull out] Wide establishing shot, morning sun flares gently",
+      "narration": "Twenty minutes Sunday saves two hours of Monday morning scrambling. Your future Monday self will walk out that door with clarity and confidence — because you did the work the night before. Subscribe for more science-backed productivity routines.",
+      "sfx": "Morning birds, door closing gently, ambient swell"
+    }
+  ],
+  "audio": {
+    "narration": "What separates people who dread Mondays from those who dominate them? It happens the night before. The first step is a brain dump. Take five minutes and write every unfinished task, every worry, every commitment onto paper. Don't organize. Don't prioritize. Just get it out of your head and onto the page. Your brain stops holding on when it knows the information is saved somewhere. Step two: outfit and bag. Lay out Monday's clothes and pack your bag. This eliminates ten decisions before they even happen. Each morning decision drains willpower. The less you have to think about in the morning, the more thinking power you have for what actually matters. Step three: three priorities. In ten minutes, identify the three most important outcomes for your week. Write them somewhere visible — beside your bed, on your bathroom mirror, as your phone wallpaper. When Monday starts with clarity, you don't start reactive. You start dominant. Twenty minutes Sunday saves two hours of Monday morning scrambling. Your future Monday self will walk out that door with clarity and confidence — because you did the work the night before. Subscribe for more science-backed productivity routines.",
+    "narration_duration": 72,
+    "bg_music": "Warm acoustic guitar, gentle piano, morning sunrise atmosphere, 80 BPM",
+    "sfx": [
+      {
+        "time": 2,
+        "sound": "pen writing on journal",
+        "volume": 0.5
+      },
+      {
+        "time": 10,
+        "sound": "paper flip/sweep",
+        "volume": 0.4
+      },
+      {
+        "time": 22,
+        "sound": "zipper",
+        "volume": 0.5
+      },
+      {
+        "time": 50,
+        "sound": "alarm clock gentle ring",
+        "volume": 0.5
+      },
+      {
+        "time": 62,
+        "sound": "morning birds chirping",
+        "volume": 0.3
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Sunday evening. Person sits at a clean desk, journal open, pen in hand. Warm golden hour light through window. They look calm, purposeful. Close-up on their focused expression. A soft clock shows 7pm. [Push in] Slow zoom from wide room shot to focused face"
+    },
+    {
+      "shot": 2,
+      "prompt": "Timelapse-style sequence: Person rapidly writing in journal, stress lines on face gradually smoothing out. Close-up of journal page filling with tasks, worries, commitments. Hand sweeps across page — releasing. Camera stays on face as tension visibly melts. [Tracking shot] Smooth left-to-right tracking as journal fills"
+    },
+    {
+      "shot": 3,
+      "prompt": "Quick montage: clothes laid out on bed, bag packed by the door, laptop charger in bag. Everything is ready. Person walks through apartment — everything is in its place. Clean, calm, ready. [Tilt down] Each item — clothes, bag, workspace — snapping into place"
+    },
+    {
+      "shot": 4,
+      "prompt": "Person writes three items on a notepad and places it beside the bed. Close-up on the notepad: 1. Client presentation, 2. Finish report, 3. Call mom. They read it once, nod, and smile. Phone alarm set for 6:30am rings. [Push in] Camera closes in on the three priorities as person reads them"
+    },
+    {
+      "shot": 5,
+      "prompt": "Monday morning. Sunrise through window. Same person, calm expression, coffee in hand. Wide establishing shot — they walk out the door with confidence, bag packed, outfit ready, shoulders back. Golden morning light. [Pull out] Wide establishing shot, morning sun flares gently"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "The Sunday Night Ritual That Makes Monday Mornings Effortless (20-Minute Routine)",
+    "youtube_description": "What separates people who dread Mondays from those who dominate them? It happens the night before. In 20 minutes on Sunday night, you can eliminate Monday morning decision fatigue and start the week with clarity and confidence.\n\n📌 What you'll learn:\n- The 5-minute brain dump that frees cognitive RAM\n- Why laying out clothes saves 10 decisions worth of willpower\n- The 3-priority method for week-starting clarity\n- A complete 20-minute Sunday ritual you can start tonight\n\n⏱️ Timestamps:\n00:00 — Hook\n00:04 — Brain dump (5 min)\n00:22 — Outfit + bag prep (5 min)\n00:38 — 3 priorities (10 min)\n00:58 — Monday transformation\n\n🔔 Subscribe for more weekly productivity science.",
+    "youtube_tags": [
+      "sunday reset",
+      "morning routine",
+      "weekly planning",
+      "productivity habits",
+      "monday motivation",
+      "routine",
+      "self improvement"
+    ],
+    "tiktok_caption": "20 min Sunday night = Monday morning DOMINANCE 🗓️ Brain dump → outfit prep → 3 priorities. Do this tonight. #sundayroutine #mondaymotivation #productivity #habits #planning",
+    "playlist": "Productivity Fundamentals"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 72,
+    "voice": "male_calm_professional (MiniMax speech-02-hd)",
+    "music_volume": 0.25,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 and 16:9"
+  },
+  "moved_to_pending": "2026-03-30T11:44:08.581Z",
+  "prompt_for_hailuo": "Sunday evening. Person sits at a clean desk, journal open, pen in hand. Warm golden hour light through window. They look calm, purposeful. Close-up on focused expression. Soft clock shows 7pm. [Push in] Slow zoom from wide room shot to focused face. | Timelapse-style sequence: Person rapidly writing in journal, stress lines on face gradually smoothing out. Close-up of journal page filling with tasks. Hand sweeps across page — releasing. Camera stays on face as tension visibly melts. [Tracking shot] Smooth left-to-right tracking as journal fills. | Quick montage: clothes laid out on bed, bag packed by the door, laptop charger in bag. Everything is ready. Person walks through apartment — everything in its place. Clean, calm, ready. [Tilt down] Each item snapping into place. | Person writes three items on a notepad and places it beside the bed. Close-up on notepad: 1. Client presentation, 2. Finish report, 3. Call mom. They read it once, nod, and smile. [Push in] Camera closes in on the three priorities as person reads them. | Monday morning. Sunrise through window. Same person, calm expression, coffee in hand. Wide establishing shot — they walk out the door with confidence, bag packed, outfit ready, shoulders back. Golden morning light. [Pull out] Wide establishing shot, morning sun flares gently.",
+  "visual_scene": "A warm and inviting modern apartment on a Sunday evening bathed in soft golden hour light streaming through windows. A person sits at a clean wooden desk with a journal open and pen in hand, writing with a calm and purposeful expression, golden sunlight warming their face. The scene shows a smooth timelapse of journal pages filling with tasks as tension visibly melts from the person's face, then quick montage shots of clothes neatly laid out on a bed, a bag packed by the door with laptop charger inside, everything in perfect order — the apartment is clean and serene. Monday morning arrives with golden sunrise light: the same person walks confidently out the front door with a packed bag and ready outfit, coffee in hand, shoulders back with visible calm determination. Portrait 9:16 vertical framing, warm and empowering mood.",
+  "specific_details": "A person in their late 20s to mid 30s wearing casual comfortable evening clothes sitting at a clean wooden desk in a warm Sunday evening-lit apartment, journal open on the desk with a quality pen, golden hour sunlight streaming through large windows warming their face as they write with a calm focused expression — later shown in quick succession: clothes neatly folded on the bed, a bag packed and sitting by the door with a laptop charger visible, everything in the apartment clean and in its place, then Monday morning: same person standing at the doorway with a travel mug of coffee in hand, wearing their prepared outfit, walking out confidently into golden morning sunlight, portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions beyond production overlays, logos or watermarks, still or static frame, landscape orientation, dark night atmosphere, messy or chaotic apartment, cold or clinical lighting",
+  "thumbnail_idea": "Person writing in journal Sunday evening with golden sunset light — '20 min Sunday = dominant Monday' text overlay",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "video_path": "output/videos/PW-03.mp4",
+  "produced_at": "2026-03-31T04:20:21Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:13:29.405Z",
+  "tiktok_url": "/@fai20128/video/7625200617388100885"
+}

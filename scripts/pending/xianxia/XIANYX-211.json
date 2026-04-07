@@ -1,0 +1,178 @@
+﻿{
+  "id": "XIANYX-211",
+  "title": "Thanh Van Mon Episode 31: The Divine Seal Cracks",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 31,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Glory City's divine seals — that had held for a thousand years — began to crack. Something ancient was about to return.",
+    "story_arc": "Seals crack → Thousand years held → Ancient returning → About to happen → Urgent",
+    "emotion": "Awe → Ancient power → Trembling → Channeling → Dragon rising",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — Glory City at sunrise. The Sacred Dragon Sect ancient seals BREAK simultaneously. Ancient dragon power that slept for a thousand years ERUPTS from the city center.",
+      "camera": "Wide — Glory City at sunrise, dragon seals breaking, ancient power awakening, breathtaking scale, 6s",
+      "narration": "The dragon technique had been sleeping for a thousand years. Tonight — it woke. And Glory City was never the same.",
+      "sfx": "Ancient dragon power humming, sunrise light, seals breaking, awakening mystical sound"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the hero in battle. Time fractures around her hands — literally. She reaches out and REWINDS a killing blow. The attack reverses. The enemy stares in horror.",
+      "camera": "Close-up — hero in battle, time fracturing around hands, rewinding a killing blow, time power first manifest, 6s",
+      "narration": "Time. She could REWIND it. And in rewinding a single moment — she changed everything that followed.",
+      "sfx": "Time fracturing sound, rewind whoosh, battle reversing, power manifest, mystical orchestral swell"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — the demon dimension gate CRACKS open above Glory City. Black chaos pours through like inverted water. The sky over Glory City becomes a window to hell.",
+      "camera": "Wide — demon gate cracking open above Glory City, chaos pouring through, city screaming, terrifying scale, 6s",
+      "narration": "The demon dimension had been sealed since the wars of gods. Until tonight. Until the gate chose Glory City to end.",
+      "sfx": "Gate cracking, chaos roaring, Glory City screaming, ominous orchestral, world shuddering"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the ancient dragon FALLS. His scales going dark. His thousand-year-old eyes find the hero. 'Protect them,' he whispers. And he dies — giving her everything he ever was.",
+      "camera": "Close-up — ancient dragon dying, scales dimming, final words 'protect them', hero weeping, 6s",
+      "narration": "The dragon who had guided her since episode one was gone. And in his death — she inherited ten thousand years of dragon wisdom.",
+      "sfx": "Dragon falling, final whisper, hero weeping, inheritance sound, emotional orchestral swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — the hero RISES as a GOD. Heaven opens above Glory City. She ascends through the divine realm. The divine council watches in absolute silence as a mortal becomes one of them.",
+      "camera": "Wide — hero ascending as god, heaven opening, divinity achieved, divine council watching, transcendent finale, 6s",
+      "narration": "The girl from Glory City had become a god. And heaven itself — could not argue.",
+      "sfx": "Heaven opening, ascension sound, divinity achieved, divine council silent, transcendent finale"
+    }
+  ],
+  "audio": {
+    "narration": "The dragon technique had been sleeping for a thousand years. Tonight — it woke. And Glory City was never the same. Time. She could REWIND it. And in rewinding a single moment — she changed everything that followed. The demon dimension had been sealed since the wars of gods. Until tonight. Until the gate chose Glory City to end. The dragon who had guided her since episode one was gone. And in his death — she inherited ten thousand years of dragon wisdom. The girl from Glory City had become a god. And heaven itself — could not argue.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese divine orchestral, dragon awakening, time regression, divine tournament, 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ancient dragon power humming",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Time fracturing sound",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Gate cracking",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Dragon falling",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Heaven opening",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — Glory City at sunrise. The Sacred Dragon Sect ancient seals BREAK simultaneously. Ancient dragon power that slept for a thousand years ERUPTS from the city center."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the hero in battle. Time fractures around her hands — literally. She reaches out and REWINDS a killing blow. The attack reverses. The enemy stares in horror."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — the demon dimension gate CRACKS open above Glory City. Black chaos pours through like inverted water. The sky over Glory City becomes a window to hell."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the ancient dragon FALLS. His scales going dark. His thousand-year-old eyes find the hero. 'Protect them,' he whispers. And he dies — giving her everything he ever was."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — the hero RISES as a GOD. Heaven opens above Glory City. She ascends through the divine realm. The divine council watches in absolute silence as a mortal becomes one of them."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Episode 31: The Divine Seal Cracks | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Thanh Van Mon Episode 31: The Divine Seal Cracks. Glory City's divine seals — that had held for a thousand years — began to crack. Something ancient was about to return.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #thanhvanmon #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "tvm",
+      "epic battle",
+      "chinese fantasy",
+      "cultivation"
+    ],
+    "tiktok_caption": "Glory City's divine seals — that had held for a thousand years — began to crack. Something ancient was about to return. ⚔️🔥 Thanh Van Mon Episode 31: The Divine Seal Cracks | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — Glory City at sunrise. The Sacred Dragon Sect ancient seals BREAK simultaneously. Ancient dragon power that slept for a thousand years ERUPTS from the city center. Shot 2: Close-up — the hero in battle. Time fractures around her hands — literally. She reaches out and REWINDS a killing blow. The attack reverses. The enemy stares in horror. Shot 3: Wide cinematic — the demon dimension gate CRACKS open above Glory City. Black chaos pours through like inverted water. The sky over Glory City becomes a window to hell. Shot 4: Close-up — the ancient dragon FALLS. His scales going dark. His thousand-year-old eyes find the hero. 'Protect them,' he whispers. And he dies — giving her everything he ever was. Shot 5: Wide cinematic — the hero RISES as a GOD. Heaven opens above Glory City. She ascends through the divine realm. The divine council watches in absolute silence as a mortal becomes one of them.",
+  "visual_scene": "Wide establishing — Glory City at sunrise. The Sacred Dragon Sect ancient seals BREAK simultaneously. Ancient dragon power that slept for a thousand years ERUPTS from the city center. Close-up — the hero in battle. Time fractures around her hands — literally. She reaches out and REWINDS a killing blow. The attack reverses. The enemy stares in horror. Wide cinematic — the demon dimension gate CRACKS open above Glory City. Black chaos pours through like inverted water. The sky over Glory City becomes a window to hell. Close-up — the ancient dragon FALLS. His scales going dark. His thousand-year-old eyes find the hero. 'Protect them,' he whispers. And he dies — giving her everything he ever was. Wide cinematic — the hero RISES as a GOD. Heaven opens above Glory City. She ascends through the divine realm. The divine council watches in absolute silence as a mortal becomes one of them.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 21: Sacred Dragon Sect Technique Awakens",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "tvm",
+    "epic battle",
+    "chinese fantasy",
+    "cultivation",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T15:47:34.849Z",
+  "tiktok_url": "/@fai20128/video/7625671576326819093"
+}

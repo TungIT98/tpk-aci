@@ -1,0 +1,193 @@
+﻿{
+  "id": "XIANYX-01",
+  "title": "Trieu Tien Episode 1: The Sword Saint's Daughter",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 1,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "She is all that remains between a thousand soldiers and a temple older than the dynasty.",
+    "story_arc": "Establishing beauty → Mist-wrapped temple → The hairpin revelation → Army arrives → Final resolve",
+    "emotion": "Wonder → Serenity → Sorrow → Tension → Heroic resolve",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide establishing shot. A lone young woman stands at the very top of a thousand-step stone staircase leading up to an ancient Taoist temple perched on a cloud-wrapped mountain peak. She wears a flowing crimson Hanfu with gold embroidery at the hems and sleeves, a phoenix gold hairpin crowning her long black hair. Cherry blossom petals drift in slow motion around her. She turns slowly toward the camera. Mist curls around the stone steps below. Dawn light breaks through clouds. Camera: extremely slow push in from extreme wide to full-body shot. 6 seconds.",
+      "camera": "Push in — extreme wide to full-body, 6s",
+      "narration": "In the final age of the Nine Heavens, when sects fell and dynasties burned, there was one last temple standing on the sacred peak.",
+      "sfx": "Soft wind through ancient pines, distant bell tolling, cherry blossom petal flutter"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — pan right following her as she walks through the temple courtyard. Ancient stone lanterns glow with soft firelight. Incense smoke drifts. She passes beneath a moon gate into a sacred inner courtyard. A massive ancient sword is embedded vertically in a stone altar — untouched for generations. Her crimson sleeve brushes against it as she passes. Camera: medium shot, slow pan right tracking her movement, following her path through the moon gate. 6 seconds.",
+      "camera": "Pan right — tracking shot following her through moon gate, 6s",
+      "narration": "The Sword Saint's daughter had never been meant to wield the blade. She was meant to live a quiet life of study and tea. But fate had other plans.",
+      "sfx": "Silk sleeve rustle, footstep on ancient stone, faint sword hum resonance, distant wind chime"
+    },
+    {
+      "shot_number": 3,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up dramatic — her fingers gently lift the phoenix gold hairpin from her hair. Gold filigree, jade inset eyes, pheasant feather. She holds it before her face. Her eyes are calm but glistening. In the hairpin's reflection, we briefly glimpse a vision: a man in white — her father — raising a sword. She exhales slowly. Tears shimmer but do not fall. Camera: extreme close-up, hold steady, slight slow push in on her face and the hairpin. 6 seconds.",
+      "camera": "Push in — close-up to extreme close-up, 6s",
+      "narration": "Her father's last gift. A phoenix hairpin, forged with his last breath. Each feather — a promise. Each jade eye — a memory.",
+      "sfx": "Delicate gold jewelry chime, single tear of water hitting silk fabric, breath exhale"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot from the temple steps looking outward — hundreds of soldiers in black armor and iron helmets are marching up the misty mountain path. Banners with a crimson sun emblem. A war drum pounds in the distance. The army's shadow creeps up the stone steps. Smoke rises from torches. She stands at the top of the steps alone. Camera: wide establishing shot, slow pan right from the army to her solitary silhouette. 6 seconds.",
+      "camera": "Pan right — wide shot, army marching to solitary figure, 6s",
+      "narration": "A thousand soldiers marching under a blood-red sky. One woman in crimson, standing alone. No army. No sect. Just her.",
+      "sfx": "War drums pounding in deep bass, iron boots on stone, marching formation, wind howl, battle horns"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body shot — she places the phoenix hairpin back into her long black hair with ceremonial precision. She straightens, lifts her chin. The wind picks up, whipping her crimson Hanfu and black hair outward behind her. Cherry blossoms swirl violently around her as spiritual energy visibly ripples around her body — golden light forming a faint aura. She turns to face the army. Her expression: calm, resolved, heartbreakingly beautiful. Camera: full-body shot, slow push in from medium to close-up, 6 seconds. End on her face.",
+      "camera": "Push in — full body to close-up face, 6s",
+      "narration": "She was not her father's warrior. But she was his blood. And blood always remembers the blade.",
+      "sfx": "Spiritual energy whoosh, wind intensifying, silk whipping, cherry blossoms swirling, climactic drum beat"
+    }
+  ],
+  "audio": {
+    "narration": "In the final age of the Nine Heavens, when sects fell and dynasties burned, there was one last temple standing on the sacred peak. The Sword Saint's daughter had never been meant to wield the blade. She was meant to live a quiet life of study and tea. But fate had other plans. Her father's last gift. A phoenix hairpin, forged with his last breath. Each feather — a promise. Each jade eye — a memory. A thousand soldiers marching under a blood-red sky. One woman in crimson, standing alone. No army. No sect. Just her. She was not her father's warrior. But she was his blood. And blood always remembers the blade.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese orchestral xianxia soundtrack, erhu and guzheng leading, swelling strings, dramatic and melancholic 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "ancient temple bell toll",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "silk sleeve rustle and footstep",
+        "volume": 0.4
+      },
+      {
+        "time": 12,
+        "sound": "delicate gold jewelry chime",
+        "volume": 0.6
+      },
+      {
+        "time": 18,
+        "sound": "war drums pounding",
+        "volume": 0.8
+      },
+      {
+        "time": 24,
+        "sound": "spiritual energy whoosh + wind intensifying",
+        "volume": 0.9
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide establishing shot. A lone young woman stands at the very top of a thousand-step stone staircase leading up to an ancient Taoist temple perched on a cloud-wrapped mountain peak. She wears a flowing crimson Hanfu with gold embroidery at the hems and sleeves, a phoenix gold hairpin crowning her long black hair. Cherry blossom petals drift in slow motion around her. She turns slowly toward the camera. Mist curls around the stone steps below. Dawn light breaks through clouds. Camera: extremely slow push in from extreme wide to full-body shot. [Push in — extreme wide to full-body]"
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — pan right following her as she walks through the temple courtyard. Ancient stone lanterns glow with soft firelight. Incense smoke drifts. She passes beneath a moon gate into a sacred inner courtyard. A massive ancient sword is embedded vertically in a stone altar. Her crimson sleeve brushes against it as she passes. Camera: medium shot, slow pan right tracking her movement through the moon gate. [Pan right — tracking shot]"
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up dramatic — her fingers gently lift the phoenix gold hairpin from her hair. Gold filigree, jade inset eyes, pheasant feather. She holds it before her face. Her eyes are calm but glistening. Tears shimmer but do not fall. Camera: extreme close-up, hold steady, slight slow push in on her face and the hairpin. [Push in — close-up to extreme close-up]"
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot from the temple steps looking outward — hundreds of soldiers in black armor and iron helmets are marching up the misty mountain path. Banners with a crimson sun emblem. A war drum pounds in the distance. She stands at the top of the steps alone. Camera: wide establishing shot, slow pan right from the army to her solitary silhouette. [Pan right — wide shot, army to solitary figure]"
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body shot — she places the phoenix hairpin back into her long black hair with ceremonial precision. She straightens, lifts her chin. The wind picks up, whipping her crimson Hanfu and black hair outward behind her. Cherry blossoms swirl violently around her as golden spiritual aura ripples around her body. She turns to face the army. Her expression: calm, resolved, heartbreakingly beautiful. Camera: full-body shot, slow push in from medium to close-up. End on her face. [Push in — full body to close-up face]"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 1: Huyết Chủ Nhân Tề | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 1 of Trieu Tien. She is all that remains between a thousand soldiers and a temple older than the dynasty. A young woman in crimson Hanfu with a phoenix gold hairpin stands alone at an ancient mist-wrapped temple as an enemy army marches up the sacred mountain. \n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 2 — The Blade Awakens\n#xianxia #chinesefantasy #wuxia #crimsonhanfu #phoenixhairpin #ancienttemple #chinesetemple #fantasyedit #dramatic #epic",
+    "youtube_tags": [
+      "xianxia",
+      "chinese fantasy",
+      "wuxia",
+      "crimson hanfu",
+      "phoenix hairpin",
+      "ancient temple",
+      "chinese drama",
+      "fantasy",
+      "epic",
+      "dramatic",
+      "beautiful woman",
+      "sword saint",
+      "trieu tien"
+    ],
+    "tiktok_caption": "Cô là tất cả những gì đứng giữa 1000 binh lính và một ngôi đền cổ xưa ⚔️🔥 Tập 1 Trieu Tien | Xianxia Việt Sub #xianxia #phimviet #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide establishing shot. A lone young woman stands at the very top of a thousand-step stone staircase leading up to an ancient Taoist temple perched on a cloud-wrapped mountain peak. She wears a flowing crimson Hanfu with gold embroidery at the hems and sleeves, a phoenix gold hairpin crowning her long black hair. Cherry blossom petals drift in slow motion around her. She turns slowly toward the camera. Mist curls around the stone steps below. Dawn light breaks through clouds. Camera: extremely slow push in from extreme wide to full-body shot. Shot 2: Medium shot — pan right following her as she walks through the temple courtyard. Ancient stone lanterns glow with soft firelight. Incense smoke drifts. She passes beneath a moon gate into a sacred inner courtyard. A massive ancient sword is embedded vertically in a stone altar. Her crimson sleeve brushes against it as she passes. Camera: medium shot, slow pan right tracking her movement through the moon gate. Shot 3: Close-up dramatic — her fingers gently lift the phoenix gold hairpin from her hair. Gold filigree, jade inset eyes, pheasant feather. She holds it before her face. Her eyes are calm but glistening. Tears shimmer but do not fall. Camera: extreme close-up, hold steady, slight slow push in on her face and the hairpin. Shot 4: Wide shot from the temple steps looking outward — hundreds of soldiers in black armor and iron helmets are marching up the misty mountain path. Banners with a crimson sun emblem. A war drum pounds in the distance. She stands at the top of the steps alone. Camera: wide establishing shot, slow pan right from the army to her solitary silhouette. Shot 5: Full-body shot — she places the phoenix hairpin back into her long black hair with ceremonial precision. She straightens, lifts her chin. The wind picks up, whipping her crimson Hanfu and black hair outward behind her. Cherry blossoms swirl violently around her as golden spiritual aura ripples around her body. She turns to face the army. Her expression: calm, resolved, heartbreakingly beautiful. Camera: full-body shot, slow push in from medium to close-up. End on her face.",
+  "visual_scene": "An ancient Taoist temple perched atop a cloud-wrapped thousand-step mountain peak, surrounded by floating cherry blossom petals and curling mist. Dawn light breaks through golden clouds. Stone lanterns glow with ethereal firelight. A moon gate opens into a sacred inner courtyard where an ancient sword stands embedded in a stone altar. Below, hundreds of soldiers in black armor march up the misty path under crimson sun banners. A young woman in flowing crimson Hanfu with gold embroidery and a phoenix hairpin stands alone at the top of the stairs, cherry blossoms swirling around her as golden spiritual energy ripples into existence around her body. Cinematic portrait 9:16 vertical framing. Heroic yet deeply melancholic atmosphere.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing crimson Hanfu with gold embroidery phoenix patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Phoenix gold hairpin (jin chao) with jade inset eyes and pheasant feather crowning her long black hair in an elaborate updo",
+    "setting_details": "Ancient Taoist temple at mountain peak, thousand-step stone staircase, stone lanterns, moon gate, incense smoke, embedded altar sword, dawn light, mist and clouds",
+    "face_expression": "Shot 1: Serene, contemplative. Shot 3: Nostalgic, glistening eyes, tears not falling. Shot 5: Calm, resolved, beautiful determination",
+    "body_movement": "Shot 1: Standing at top of stairs, slow turn to camera. Shot 2: Walking gracefully through courtyard, silk sleeve brushing altar sword. Shot 3: Fingers lifting hairpin, holding before face. Shot 4: Standing alone on top step. Shot 5: Placing hairpin back, straightening, turning to face army, wind whipping hair and Hanfu outward",
+    "camera": "Scene 1: Push in (extreme wide to full body). Scene 2: Pan right tracking. Scene 3: Push in (close-up to extreme close-up). Scene 4: Pan right (army to solitary figure). Scene 5: Push in (full body to face close-up)"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Young woman in crimson Hanfu standing alone at the top of a thousand-step staircase, cherry blossoms swirling around her, enemy army visible below in the mist — title 'TRIEU TIEN EP.1' in gold on dark background",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "wuxia",
+    "crimson hanfu",
+    "phoenix hairpin",
+    "ancient temple",
+    "sword saint",
+    "beautiful woman",
+    "epic",
+    "dramatic",
+    "fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-01T16:59:30Z",
+  "tiktok_uploaded_at": "2026-04-03T01:13:45.556Z",
+  "tiktok_status": "uploaded",
+  "videoFile": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-01.mp4",
+  "produced_at": "2026-04-03T01:11:48.470ZZ",
+  "caption": "Cô là tất cả những gì đứng giữa 1000 binh lính và một ngôi đền cổ xưa ⚔️🔥 Tập 1 Trieu Tien | Xianxia Việt Sub #xianxia #phimviet #cổtrang",
+  "publishedAt": "2026-04-03T05:50:58.838Z",
+  "tiktok_url": "/@fai20128/video/7624406109977152788"
+}

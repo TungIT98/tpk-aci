@@ -1,0 +1,141 @@
+{
+  "id": "tpk-youtube-upload",
+  "name": "TPK Auto Post to YouTube",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "youtube-upload",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "id": "webhook-trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [100, 300],
+      "continueOnFail": false
+    },
+    {
+      "parameters": {
+        "mode": "watchFolder",
+        "folderToWatch": "C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/outputs",
+        "filePattern": "*/final.mp4",
+        "includeChildSubfolders": true,
+        "triggerOnStartup": true
+      },
+      "id": "watch-folder-trigger",
+      "name": "Watch Outputs Folder",
+      "type": "@n8n/n8n-nodes-base.filesTrigger",
+      "typeVersion": 1,
+      "position": [100, 500],
+      "continueOnFail": false
+    },
+    {
+      "parameters": {
+        "fileSelection": {
+          "mode": "selectFromPath",
+          "path": "={{ $json.videoPath || $json.filePath }}"
+        },
+        "options": {}
+      },
+      "id": "read-video",
+      "name": "Read Video File",
+      "type": "n8n-nodes-base.readBinaryFile",
+      "typeVersion": 1,
+      "position": [300, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract video ID from folder path\n// Supports both webhook trigger (videoPath) and watch-folder trigger (filePath)\nconst path = $input.first().json.videoPath || $input.first().json.filePath;\nconst fs = require('fs');\n\n// Extract video ID like WC-01, GZ-01\nconst match = path.match(/outputs\\\\/([^/]+)\\\\/final\\.mp4/);\nconst videoId = match ? match[1] : 'UNKNOWN';\n\n// Get folder path\nconst folder = path.replace(/\\\\\\\\/g, '/').replace(/\\\\/[^/]+$/, '');\n\n// Check if metadata was passed directly via webhook\nconst webhookTitle = $input.first().json.title;\nconst webhookDesc = $input.first().json.description;\nconst webhookTags = $input.first().json.tags;\n\nlet title = webhookTitle || `Video ${videoId}`;\nlet description = webhookDesc || '';\nlet tags = webhookTags || [];\n\n// If not from webhook, load from script JSON\nif (!webhookTitle) {\n  try {\n    const scriptPath = `C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/scripts/pending/${videoId}.json`;\n    if (fs.existsSync(scriptPath)) {\n      const script = JSON.parse(fs.readFileSync(scriptPath, 'utf8'));\n      title = script.title || title;\n      description = script.script || '';\n      tags = script.tags || [];\n\n      // Add hashtags to description\n      if (tags.length > 0) {\n        description += '\\n\\n' + tags.map(t => '#' + t).join(' ');\n      }\n    }\n  } catch (e) {\n    console.log('Could not load script:', e.message);\n  }\n}\n\nconst result = {\n  videoId: videoId,\n  folder: folder,\n  videoPath: path,\n  title: title,\n  description: description,\n  tags: tags,\n  platform: 'youtube',\n  status: 'pending'\n};\n\nreturn [{json: result}];"
+      },
+      "id": "extract-metadata",
+      "name": "Extract Metadata",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [500, 300]
+    },
+    {
+      "parameters": {
+        "operation": "upload",
+        "binaryData": true,
+        "binaryPropertyName": "data",
+        "title": "={{ $json.title }}",
+        "description": "={{ $json.description }}",
+        "tags": "={{ $json.tags }}",
+        "privacy": "public",
+        "additionalFields": {
+          "categoryId": "22"
+        }
+      },
+      "id": "youtube-upload",
+      "name": "YouTube Upload",
+      "type": "n8n-nodes-base.youtube",
+      "typeVersion": 1,
+      "position": [700, 300],
+      "credentials": {
+        "youtubeOAuth2Api": {
+          "id": "youtube-creds",
+          "name": "YouTube API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Log the upload result\nconst fs = require('fs');\nconst logPath = 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/logs/youtube_upload_log.json';\n\nconst input = $input.first().json;\nconst logEntry = {\n  timestamp: new Date().toISOString(),\n  videoId: input.videoId,\n  title: input.title,\n  status: 'uploaded',\n  videoUrl: input.videoUrl || input.id,\n  platform: 'youtube'\n};\n\ntry {\n  let logs = [];\n  if (fs.existsSync(logPath)) {\n    logs = JSON.parse(fs.readFileSync(logPath, 'utf8'));\n  }\n  logs.push(logEntry);\n  fs.writeFileSync(logPath, JSON.stringify(logs, null, 2));\n} catch (e) {}\n\n// Update script JSON with YouTube URL\ntry {\n  const scriptPath = `C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/scripts/pending/${input.videoId}.json`;\n  if (fs.existsSync(scriptPath)) {\n    const script = JSON.parse(fs.readFileSync(scriptPath, 'utf8'));\n    script.youtube_url = input.videoUrl || `https://youtube.com/shorts/${input.id}`;\n    script.youtube_uploaded_at = new Date().toISOString();\n    script.status = 'published';\n    fs.writeFileSync(scriptPath, JSON.stringify(script, null, 2));\n  }\n} catch (e) {\n  console.log('Could not update script:', e.message);\n}\n\nreturn [{json: logEntry}];"
+      },
+      "id": "log-result",
+      "name": "Log Result & Update Script",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "url": "http://localhost:3100/api/agents/e3aad368-fab1-4da3-b287-3a65802d84ff/heartbeat/invoke",
+        "method": "POST",
+        "options": {}
+      },
+      "id": "notify-pm",
+      "name": "Notify Production Manager",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1100, 300]
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [["Read Video File"]]
+    },
+    "Watch Outputs Folder": {
+      "main": [["Read Video File"]]
+    },
+    "Read Video File": {
+      "main": [["Extract Metadata"]]
+    },
+    "Extract Metadata": {
+      "main": [["YouTube Upload"]]
+    },
+    "YouTube Upload": {
+      "main": [["Log Result & Update Script"]]
+    },
+    "Log Result & Update Script": {
+      "main": [["Notify Production Manager"]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "staticData": null,
+  "tags": [],
+  "meta": {
+    "templateCredsSetupCompleted": false,
+    "templateId": null,
+    "templateName": null,
+    "templateDescription": null
+  },
+  "waitTill": null
+}

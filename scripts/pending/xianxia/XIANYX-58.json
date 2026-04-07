@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-58",
+  "title": "Ha Tien Du Episode 8: The First Blood",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 8,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Brutal, satisfying, dark revenge, power demonstrated",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The arrogant disciple who made him carry water — found him alone.",
+    "story_arc": "Disciple corners him → Insults and threats → Black energy flares → One strike → Blood on stone",
+    "emotion": "Tension → Insult → Hidden rage → Strike → Calm aftermath",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — a narrow alley between two sect buildings, night. The arrogant disciple from the tournament — the one whose water he carried — blocks the only exit. He has two companions. All three have cruel smiles. 'Thought you could just walk away after embarrassing us?' The disciple cracks his knuckles. Ha Tien Du stands with his back to the wall. No exit. Camera: wide shot — alley setting, three against one, tension. 6 seconds.",
+      "camera": "Wide shot — alley confrontation, three attackers, one trapped figure, 6s",
+      "narration": "Three weeks after the tournament. The same disciple cornered him. Alone.",
+      "sfx": "Footsteps approaching, disciple's cruel laugh, wind in the alley, his steady breathing"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the disciple grabs Ha Tien Du's collar, pulls him close. 'You're nothing. You'll always be nothing. I don't know how you got lucky in the tournament, but it won't happen again.' He spits at Ha Tien Du's feet. His companions laugh. Ha Tien Du's face — completely expressionless. His sleeves hang down, hiding his hands. The black energy is building. Camera: medium close-up — disciple gripping collar, his expressionless face, hidden hands. 6 seconds.",
+      "camera": "Close-up — collar grab, expressionless face, hidden hands with building energy, 6s",
+      "narration": "He didn't respond. He never responded. That was the most terrifying thing.",
+      "sfx": "Collar grabbing sound, spitting, mocking laughter, his silence, heartbeat building"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — Ha Tien Du's hand, hidden in his sleeve. Black energy coils around his fingers like a living serpent. It pulses. Grows. The sleeve begins to smoke with dark energy. His expression remains blank. The disciple is still yelling, unaware. Camera: close-up — black energy coiling on hand through sleeve, smoke rising, blank face. 6 seconds.",
+      "camera": "Extreme close-up — black energy coiling, smoke rising, his blank face, 6s",
+      "narration": "Then his hand moved. And everything changed.",
+      "sfx": "Energy coiling like a snake, his heartbeat audible, disciple still laughing"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Ha Tien Du's sleeve flies open. His black-veined hand shoots out. His palm strikes the disciple's chest. Black energy EXPLODES at the point of contact. The disciple's eyes go wide — completely white. His body freezes. Then — a massive shockwave of black energy bursts outward from the point of impact. The two companions are thrown back against the walls. The disciple hangs limp in Ha Tien Du's grip. Camera: close-up — palm strike, black energy explosion, two companions flying back. 6 seconds.",
+      "camera": "Close-up — palm strike, black energy explosion, shockwave, 6s",
+      "narration": "One strike. His chest didn't just break. It imploded.",
+      "sfx": "Thunderous impact, disciple's gasp, companions crashing, shockwave whoosh"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Medium shot — Ha Tien Du holds the disciple by the throat with one hand. The disciple is barely alive — broken, bloody, barely breathing. Ha Tien Du's face: completely calm. Almost peaceful. He looks at the disciple's terrified eyes. Speaks for the first time: 'I carried your water.' Then he drops him. Blood pools on the stone. Ha Tien Du walks away, black energy still swirling on his hand. Camera: medium — calm face, dropping the broken disciple, walking away through blood. 6 seconds.",
+      "camera": "Medium — calm face, dropping broken disciple, walking through blood in darkness, 6s",
+      "narration": "He dropped him. Walked away. And left the sect's next generation bleeding on the stone.",
+      "sfx": "Body dropping, blood pooling, his footsteps walking away, dark wind rising"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-58.mp4",
+  "produced_at": "2026-04-05T14:03:47.062Z",
+  "publishedAt": "2026-04-06T01:27:44.206Z",
+  "tiktok_url": "/@fai20128/video/7625451544225385748"
+}

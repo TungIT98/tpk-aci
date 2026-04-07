@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-87",
+  "title": "Tru Tien Episode 17: The Monarch Awakens",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 17,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Transcendence, power awakening, legendary moment, underdog becomes legend",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Jin-Woo absorbed the Ant King's power completely. His presence SURGED. The shadow monarchs — who had watched through the shadows for centuries — recognized him. 'The Shadow Monarch. He has RETURNED.'",
+    "story_arc": "Jin-Woo absorbs the Ant King completely → His power transcends S-rank → Shadow monarchs recognize him → 'The Shadow Monarch has returned' → Jin-Woo's status updates → He opens his true potential",
+    "emotion": "Absorption → Transcendence → Recognition → Revelation → Status update → Legendary awakening",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme close-up — Jin-Woo's finger descends. Shadow energy ERUPTS from his fingertip. The Ant King looks up — and has one moment of recognition. 'Wait — you're —' CAMERA: extreme close-up — shadow energy erupting from finger, Ant King's face showing recognition and then instant death, last word cut off. 6 seconds.",
+      "camera": "Extreme close-up — shadow energy erupting from Jin-Woo's fingertip, Ant King's face showing recognition and instant death, 6s",
+      "narration": "The finger descended. The Ant King had one moment to recognize what was coming — and then it was over.",
+      "sfx": "Shadow energy erupting, Ant King recognition gasp, instant death, shadow explosion, power consuming, silence"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the Ant King's power FLOWS into Jin-Woo. Black energy spirals into him. His body convulses — not in pain but in TRANSFORMATION. His presence doubles, triples. His shadow grows massive. Camera: medium — Ant King's power flowing into Jin-Woo, black energy spiraling, transformation convulsing, shadow growing massive, presence multiplying. 6 seconds.",
+      "camera": "Medium — Ant King's power flowing into Jin-Woo, black energy spiraling in, transformation, shadow growing massive, 6s",
+      "narration": "The power flowed into him. Not just the Ant King's strength — its stolen centuries. Jin-Woo's presence tripled in seconds.",
+      "sfx": "Power flowing in, black energy spiraling, transformation sounds, presence multiplying, epic music building, shadow expanding"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — in the shadow realm, ancient shadow monarchs watch through Jin-Woo's shadow. Five enormous figures. Their eyes glow with recognition. 'The Shadow Monarch. He has RETURNED.' Camera: close-up — five ancient enormous shadow monarchs in shadow realm, their glowing eyes of recognition, ancient voices echoing, watching through Jin-Woo's shadow. 6 seconds.",
+      "camera": "Close-up — five ancient shadow monarchs in shadow realm, glowing eyes of recognition, ancient voices echoing, 6s",
+      "narration": "In the shadow realm — the ancient monarchs watched. Five figures who had ruled the shadows for centuries. 'The Shadow Monarch. He has returned.'",
+      "sfx": "Ancient voices echoing, shadow realm humming, monarchs' recognition, centuries of waiting fulfilled, ethereal music"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme close-up — Jin-Woo's status window OPENS. Lines of text stream past: 'Shadow Exchange — EVOLVED. Army Commander — EVOLVED. Shadow Absorption — NEW SKILL UNLOCKED.' His eyes glow white. Camera: extreme close-up — status window with streaming evolved skills text, Jin-Woo's shadow black eyes glowing pure white, transformation complete. 6 seconds.",
+      "camera": "Extreme close-up — status window with streaming evolved skills (Shadow Exchange, Army Commander, Shadow Absorption), white glowing eyes, 6s",
+      "narration": "His status updated. Shadow Exchange evolved. Army Commander evolved. New skill unlocked: Shadow Absorption. He had transcended S-rank.",
+      "sfx": "Status window opening, text streaming, skill evolutions, power confirmation, epic orchestral crescendo"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Jin-Woo stands alone in the emptied ant nest. His shadow army surrounds him — now stronger, larger. He looks at his hand. Shadow energy dances between his fingers. He whispers: 'Shadow Monarch.' Camera: wide — Jin-Woo standing alone in empty ant nest, stronger shadow army surrounding him, shadow energy dancing between fingers, 'Shadow Monarch' whisper, legendary ending. 6 seconds.",
+      "camera": "Wide — Jin-Woo standing alone in empty ant nest, stronger shadow army surrounding him, shadow energy dancing between fingers, legendary ending, 6s",
+      "narration": "He stood in the chamber where the Ant King had ruled for centuries. His shadow army surrounded him. He whispered one word. And in that moment — the world changed. The Shadow Monarch had returned.",
+      "sfx": "Shadow army surrounding, energy dancing between fingers, whisper of title, epic finale orchestral swell, chamber silence"
+    }
+  ],
+  "audio": {
+    "narration": "The finger descended. The Ant King had one moment to recognize what was coming — and then it was over. The power flowed into him. Not just the Ant King's strength — its stolen centuries. Jin-Woo's presence tripled in seconds. In the shadow realm — the ancient monarchs watched. Five figures who had ruled the shadows for centuries. 'The Shadow Monarch. He has returned.' His status updated. Shadow Exchange evolved. Army Commander evolved. New skill unlocked: Shadow Absorption. He had transcended S-rank. He stood in the chamber where the Ant King had ruled for centuries. His shadow army surrounded him. He whispered one word. And in that moment — the world changed. The Shadow Monarch had returned.",
+    "narration_duration": 28,
+    "bg_music": "Epic shadow monarch awakening Chinese-Korean orchestral, power transcendence, ancient monarchs recognition, legendary finale 120 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Shadow energy erupting, Ant King death",
+        "volume": 0.6
+      },
+      {
+        "time": 6,
+        "sound": "Power flowing in, transformation",
+        "volume": 0.6
+      },
+      {
+        "time": 12,
+        "sound": "Ancient voices, monarchs' recognition",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Status window, skill evolutions",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Shadow army surrounding, whisper of title, epic finale",
+        "volume": 0.6
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 17: Quân Vương Bóng Tối Thức Tỉnh | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 17 of Solo Leveling (Trừ Tiên). Jin-Woo destroys the Ant King and absorbs its power. His presence triples. In the shadow realm, five ancient shadow monarchs recognize him: 'The Shadow Monarch has returned.' His status updates: Shadow Exchange evolved, Army Commander evolved, Shadow Absorption unlocked. He whispers: 'Shadow Monarch.' The world changes.",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "Shadow Monarch",
+      "Ant King defeated",
+      "Jin-Woo awakening",
+      "shadow monarchs",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Jin-Woo TIÊU DIỆT Kiến Vương! Sức mạnh nạp vào người — KHÍ TÍNH NHÂN LÊN GẤP 3! 5 Vương Bóng Tối cổ đại NHẬN RA hắn: 'QUÂN VƯƠNG BÓNG TỐI ĐÃ TRỞ VỀ!' Status cập nhật: Shadow Exchange TIẾN HÓA! Hắn thì thầm: 'Quân Vương Bóng Tối...' 🔥 Tập 17",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Shadow eruption killing Ant King, power flowing into Jin-Woo, five ancient monarchs watching, status window with evolved skills, shadow army surrounding him",
+  "specific_details": {
+    "subject": "Jin-Woo: black hoodie and jeans, shadow black eyes now glowing pure white, shadow energy dancing between fingers, standing in empty nest. Five ancient monarchs: enormous shadowy silhouettes with glowing eyes in shadow realm.",
+    "outfit_exact": "Jin-Woo: black hoodie, shadow energy swirling around him, white glowing eyes, stronger aura. Ancient monarchs: enormous dark shadowy silhouettes with glowing ancient eyes.",
+    "setting_details": "Empty underground ant nest, shadow energy effects, shadow realm backdrop, status window holographic display",
+    "face_expression": "Jin-Woo: cold determination → transcendence → white glowing eyes → quiet power confidence. Ancient monarchs: recognition → awe → ancient power acknowledging new monarch.",
+    "body_movement": "Jin-Woo: finger descending → absorbing power → standing with shadow army → whispering title. Ancient monarchs: watching → bowing slightly → acknowledging.",
+    "camera": "Extreme close-up shadow eruption, medium power absorption, close-up ancient monarchs, extreme close-up status window, wide legendary ending"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright colors, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 17: The Shadow Monarch Awakens — white glowing eyes, shadow energy erupting",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "Shadow Monarch",
+    "Jin-Woo awakening",
+    "Ant King",
+    "shadow monarchs",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T17:40:00Z",
+  "publishedAt": "2026-04-06T01:46:24.658Z",
+  "tiktok_url": "/@fai20128/video/7625456323798387988"
+}

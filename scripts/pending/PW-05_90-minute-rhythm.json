@@ -1,0 +1,158 @@
+﻿{
+  "id": "PW-05",
+  "title": "The Evidence-Based 90-Minute Work Rhythm Top Performers Use",
+  "category": "ultradian_rhythms",
+  "channel": "ProductivityWorker",
+  "audience": "Office workers 25-40, knowledge workers seeking peak performance",
+  "tone": "Scientific, authoritative, aspirational",
+  "platform": [
+    "YouTube",
+    "TikTok"
+  ],
+  "format": "60-90 seconds, 16:9 and 9:16",
+  "status": "published",
+  "concept": {
+    "hook": "Your brain isn't designed to work for 8 straight hours. Ultradian rhythms explain why you crash at 2pm.",
+    "story_arc": "Hook → Ultradian rhythm science → Work in sprints → Break matters → CTA",
+    "emotion": "Recognition (oh that's why!), then empowerment",
+    "duration_seconds": 80
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "Person at desk at 9am looking fresh and energetic. Clock ticks rapidly — 9am to 2pm in 3 seconds. By 2pm, same person is slumped at desk, head in hands, energy visibly depleted. Overhead fluorescent light flickers slightly.",
+      "camera": "[Push in] Clock ticks, energy visibly depletes from face",
+      "narration": "Your brain isn't designed to work for 8 straight hours. You're not a machine. And that 2pm crash? It's not about lunch. It's biology.",
+      "sfx": "Clock ticking accelerating, energy whoosh down sound"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 28,
+      "duration": 23,
+      "prompt": "Clean animation: brain wave pattern scrolling across screen showing 90-minute cycles of high and low alertness. Sine wave labeled 'ULTRA-DIAN RHYTHM' cycles repeat 4 times across an 8-hour day. Each cycle has a 'high' peak and 'low' trough labeled. Text overlay explains.",
+      "camera": "[Static] Wide view of wave pattern filling the screen",
+      "narration": "Your brain operates in 90-minute cycles called ultradian rhythms. Think of them like shorter circadian rhythms. Every 90 minutes, your alertness naturally dips — your brain needs a reset. Athletes know this. They train in sprints, then rest. But most office workers ignore this signal and push through, producing low-quality work and burning out.",
+      "sfx": "Rhythmic pulse matching wave peaks, subtle electronic tone"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 28,
+      "time_end": 50,
+      "duration": 22,
+      "prompt": "Side-by-side comparison: Left — person grinding continuously 8 hours, productivity graph declining (flat line dropping). Right — person in 90-minute sprints with 20-minute breaks, productivity graph showing repeating peaks and recoveries. Timer overlay: 90:00 counting down on left, cycle arrows on right.",
+      "camera": "[Static split] Productivity graphs animating side by side",
+      "narration": "Work in sprints: 90 minutes of completely distraction-free focus — no email, no Slack, no phone. Then 20 minutes of true rest. No screens, no social media. Walking, stretching, staring out a window, making tea. This isn't a break from work — it's a break that makes your next work session twice as productive.",
+      "sfx": "Timer countdown beeps, productivity graph swoosh"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 50,
+      "time_end": 65,
+      "duration": 15,
+      "prompt": "Person on 20-minute break: walks outside, holds warm coffee, breathes deeply, looks at sky, stretches arms up. Natural outdoor setting, morning light. Expression transitions from focused tension to relaxed calm. Walking back to desk, refreshed.",
+      "camera": "[Tracking shot] Person walking through outdoor space, slow pan up to sky",
+      "narration": "The break is not optional. True breaks allow your prefrontal cortex to consolidate information and restore itself. You're not being lazy. You're refueling. Top performers don't work longer — they work in rhythms that match their biology.",
+      "sfx": "Wind, birds, footsteps on pavement, coffee cup set down"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 65,
+      "time_end": 76,
+      "duration": 11,
+      "prompt": "Split screen showing full day: left shows exhausted 8-hour grind with declining energy. Right shows structured sprint day — each 90-minute sprint punctuated by breaks, ending with higher energy than start. Subscribe animation.",
+      "camera": "[Static split] Full day energy comparison",
+      "narration": "Stop forcing 8-hour marathons. Work in 90-minute sprints and take real breaks. Your brain is not a machine — it's a biological system that performs best when you respect its rhythm. Subscribe for more performance science.",
+      "sfx": "Morning swell, calm ambient ending"
+    }
+  ],
+  "audio": {
+    "narration": "Your brain isn't designed to work for 8 straight hours. You're not a machine. And that 2pm crash? It's not about lunch. It's biology. Your brain operates in 90-minute cycles called ultradian rhythms. Think of them like shorter circadian rhythms. Every 90 minutes, your alertness naturally dips — your brain needs a reset. Athletes know this. They train in sprints, then rest. But most office workers ignore this signal and push through, producing low-quality work and burning out. Work in sprints: 90 minutes of completely distraction-free focus — no email, no Slack, no phone. Then 20 minutes of true rest. No screens, no social media. Walking, stretching, staring out a window, making tea. This isn't a break from work — it's a break that makes your next work session twice as productive. The break is not optional. True breaks allow your prefrontal cortex to consolidate information and restore itself. You're not being lazy. You're refueling. Top performers don't work longer — they work in rhythms that match their biology. Stop forcing 8-hour marathons. Work in 90-minute sprints and take real breaks. Your brain is not a machine — it's a biological system that performs best when you respect its rhythm. Subscribe for more performance science.",
+    "narration_duration": 76,
+    "bg_music": "Clean ambient electronic, scientific feel, rhythmic pulses at 90 BPM pattern, 70 BPM ambient sections",
+    "sfx": [
+      {
+        "time": 4,
+        "sound": "energy whoosh down",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "ultradian wave pulse",
+        "volume": 0.4
+      },
+      {
+        "time": 35,
+        "sound": "timer countdown beeps",
+        "volume": 0.5
+      },
+      {
+        "time": 50,
+        "sound": "outdoor ambient: wind, birds",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Person at desk at 9am looking fresh and energetic. Clock ticks rapidly — 9am to 2pm in 3 seconds. By 2pm, same person is slumped at desk, head in hands, energy visibly depleted. Overhead fluorescent light flickers slightly. [Push in] Clock ticks, energy visibly depletes from face"
+    },
+    {
+      "shot": 2,
+      "prompt": "Clean animation: brain wave pattern scrolling across screen showing 90-minute cycles of high and low alertness. Sine wave labeled ULTRA-DIAN RHYTHM cycles repeat 4 times across an 8-hour day. Each cycle has a high peak and low trough labeled. Text overlay explains. [Static] Wide view of wave pattern filling the screen"
+    },
+    {
+      "shot": 3,
+      "prompt": "Side-by-side comparison: Left — person grinding continuously 8 hours, productivity graph declining. Right — person in 90-minute sprints with 20-minute breaks, productivity graph showing repeating peaks and recoveries. Timer overlay: 90:00 counting down on left, cycle arrows on right. [Static split] Productivity graphs animating side by side"
+    },
+    {
+      "shot": 4,
+      "prompt": "Person on 20-minute break: walks outside, holds warm coffee, breathes deeply, looks at sky, stretches arms up. Natural outdoor setting, morning light. Expression transitions from focused tension to relaxed calm. Walking back to desk, refreshed. [Tracking shot] Person walking through outdoor space, slow pan up to sky"
+    },
+    {
+      "shot": 5,
+      "prompt": "Split screen showing full day: left shows exhausted 8-hour grind with declining energy. Right shows structured sprint day — each 90-minute sprint punctuated by breaks, ending with higher energy than start. Subscribe animation. [Static split] Full day energy comparison"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "The 90-Minute Work Rhythm That Doubles Your Output (Science of Ultradian Rhythms)",
+    "youtube_description": "Why do you crash at 2pm no matter how much coffee you drink? Ultradian rhythms. Your brain operates in 90-minute cycles of high and low alertness — just like athletes train. Here's how to use this biology to double your output.\n\n📌 What you'll learn:\n- The science of ultradian rhythms (90-minute brain cycles)\n- Why continuous work destroys afternoon productivity\n- The 90-minute sprint + 20-minute true break system\n- Why the break is the most important part\n\n🔔 Subscribe for more performance science.",
+    "youtube_tags": [
+      "ultradian rhythm",
+      "productivity",
+      "focus",
+      "work rhythm",
+      "athlete productivity",
+      "deep work",
+      "energy management",
+      "neuroscience"
+    ],
+    "tiktok_caption": "Why you crash at 2pm 😴 It's not lunch — it's BIOLOGY. 90-min ultradian rhythm. Work WITH your brain, not against it 🧠 #productivity #focus #neuroscience #workhacks #energymanagement",
+    "playlist": "Deep Work & Focus"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 76,
+    "voice": "male_calm_professional (MiniMax speech-02-hd)",
+    "music_volume": 0.25,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 and 16:9"
+  },
+  "moved_to_pending": "2026-03-30T11:44:08.582Z",
+  "prompt_for_hailuo": "Person at desk at 9am looking fresh and energetic. Clock ticks rapidly — 9am to 2pm in timelapse. By 2pm, same person is slumped at desk, head in hands, energy visibly depleted. Overhead fluorescent light flickers slightly. [Push in] Clock ticks, energy visibly depletes from face. | Clean animation: brain wave pattern scrolling across screen showing 90-minute cycles of high and low alertness. Sine wave labeled ULTRA-DIAN RHYTHM cycles repeat across an 8-hour day. Each cycle has a high peak and low trough labeled. [Static] Wide view of wave pattern filling the screen. | Side-by-side comparison: Left — person grinding continuously 8 hours, productivity graph declining. Right — person in 90-minute sprints with 20-minute breaks, productivity graph showing repeating peaks and recoveries. [Static split] Productivity graphs animating side by side. | Person on 20-minute break: walks outside, holds warm coffee, breathes deeply, looks at sky, stretches arms up. Natural outdoor setting, morning light. Expression transitions from focused tension to relaxed calm. [Tracking shot] Person walking through outdoor space, slow pan up to sky. | Split screen showing full day: left shows exhausted 8-hour grind with declining energy. Right shows structured sprint day — ending with higher energy than start. Subscribe animation. [Static split] Full day energy comparison.",
+  "visual_scene": "A professional office workspace at different times of day. At 9am a fresh and energized person sits at their desk with coffee, eyes bright and focused — then rapid timelapse clock ticking shows hours passing until 2pm when the same person is slumped at their desk with head in hands, energy visibly depleted, overhead fluorescent light flickering slightly. The scene contrasts this with clean animated brain wave graphics showing rhythmic sine wave patterns labeled 'ultradian rhythm' repeating across an 8-hour day, a split comparison of continuous grinding versus sprint-based productivity graphs, and the same person taking a rejuvenating outdoor break walking in natural morning light holding warm coffee, stretching arms up toward the sky with an expression of relief and calm. Scientific yet aspirational atmosphere. Portrait 9:16 vertical framing.",
+  "specific_details": "A professional in their late 20s to early 30s at a home office desk with a laptop and coffee mug, at 9am looking fresh-eyed and energized sitting upright with bright focused expression, then rapid timelapse transition showing a wall clock ticking through the hours until 2pm when the same person is slumped forward at the desk with head resting in hands, shoulders collapsed, eyes tired, overhead fluorescent or LED light visible in frame — contrasted with scenes of animated sine wave brain pattern graphics on screen labeled with peaks and troughs, outdoor break scene: same person walking outside in natural morning light holding a warm coffee mug, looking up at the sky with arms stretching upward and visibly relaxed calm expression, portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions beyond production overlays, logos or watermarks, still or static frame, landscape orientation, dark night atmosphere, overly clinical sterile laboratory environment",
+  "thumbnail_idea": "Split face: fresh energized morning vs slumped depleted afternoon — '90-min rhythm = no more 2pm crash' text overlay",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "video_path": "output/videos/PW-05.mp4",
+  "produced_at": "2026-03-31T04:20:21Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:15:27.630Z",
+  "tiktok_url": "/@fai20128/video/7625201110688664853"
+}

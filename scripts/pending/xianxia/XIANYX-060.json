@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-060",
+  "title": "Ha Tien Du Episode 10: The Girl Who Became the River",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 10,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "With the seal restored and the fire gone, she had done what her mother could not. She had brought peace. But peace, too, had a price.",
+    "story_arc": "Peace returns → City above water permanently → Her transformation begins → She merges with the river → Final scene",
+    "emotion": "Bittersweet peace → Acceptance → Transformation → Transcendence → Eternal",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide aerial dawn — the floating city is now WHOLE. The water has receded permanently. The entire magnificent city stands on dry land — golden roofs, white walls, markets bustling. For the first time in three thousand years, the city does not drown. Families embrace in the streets. Children run on ground that will never flood. Camera: extreme wide aerial, celebration, city finally dry. 6 seconds.",
+      "camera": "Extreme wide aerial — floating city now permanently above water, families celebrating, children running, 6s",
+      "narration": "For the first time in three thousand years, the city did not drown at dawn. And in the celebration — she felt the river call to her.",
+      "sfx": "Celebration drums, children laughing, city bells, joyful orchestral"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she stands at the edge of the now-quiet celestial waterfall. It flows normally now — downward, peacefully. She places both hands in the water. It hums. She smiles. She speaks aloud: 'I know what I have to do.' The water pulses in response — welcoming her. The waterfall had been waiting for its last guardian. Camera: medium, her hands in peaceful waterfall, acceptance in her eyes. 6 seconds.",
+      "camera": "Medium — hands in peaceful waterfall, 'I know what I have to do' acceptance, waterfall welcoming, 6s",
+      "narration": "The waterfall had raised her. Her mother had tended it. The ice boy had been born from it. And now — it was her turn to become it. To become the river itself.",
+      "sfx": "Waterfall gentle flow, her calm breath, water humming a tune, peaceful strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — she begins to dissolve. Not painfully — gracefully. Her feet become water. Her legs shimmer and dissolve into the river. She does not scream — she SMILES. She raises her arms as her body from the waist up becomes pure flowing light-water. She is becoming the river. Camera: wide, her graceful dissolution into light-water, arms raised, peaceful smile. 6 seconds.",
+      "camera": "Wide — graceful dissolution into light-water, arms raised, peaceful smile, becoming river, 6s",
+      "narration": "She dissolved into the river not in death — but in transformation. She became every waterfall, every stream, every raindrop that fell on both realms. She became everywhere.",
+      "sfx": "Water flowing, her voice saying 'I am here', ethereal choir, transformation whoosh"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme close-up — her face the last to dissolve. She looks upward at the sky, at the celestial realm above, at the world she saved. Her final tears fall — and each tear becomes a lotus flower floating downstream. Her eyes close. Her face dissolves into a smile and light. Camera: extreme close-up, her final tear becoming lotus flowers, peaceful dissolution. 6 seconds.",
+      "camera": "Extreme close-up — final tear becoming lotus flowers, peaceful smiling dissolution, 6s",
+      "narration": "Her last tears fell as lotus flowers. And wherever those flowers floated, the water was said to hold a piece of her — watching, protecting, blessing.",
+      "sfx": "Lotus blooming sound, water flowing, soft ethereal choir, tear drop"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Extreme wide aerial at sunset — the celestial waterfall is now a GUARDIAN SPIRIT — a massive woman made entirely of flowing water, standing eternal behind the city. She is beautiful, serene, powerful. Inside her water-body, the ice boy's frozen smiling face is visible at her heart. The fire man — in his own realm — looks up at the sky and nods once. Camera: extreme wide aerial, guardian waterfall spirit at sunset, ice boy at her heart, slow fade to stars. 6 seconds. End on the guardian spirit.",
+      "camera": "Extreme wide aerial — guardian waterfall spirit at sunset, ice boy at her heart, fire man nodding, fade to stars, 6s",
+      "narration": "She had become the river. He had become the seal. And together — they were the boundary between worlds. Watching. Protecting. Forever.",
+      "sfx": "Ethereal choir swell, water flowing eternal, stars appearing, epic emotional finale"
+    }
+  ],
+  "audio": {
+    "narration": "For the first time in three thousand years, the city did not drown at dawn. And in the celebration — she felt the river call to her. The waterfall had raised her. Her mother had tended it. The ice boy had been born from it. And now — it was her turn to become it. To become the river itself. She dissolved into the river not in death — but in transformation. She became every waterfall, every stream, every raindrop that fell on both realms. She became everywhere. Her last tears fell as lotus flowers. And wherever those flowers floated, the water was said to hold a piece of her — watching, protecting, blessing. She had become the river. He had become the seal. And together — they were the boundary between worlds. Watching. Protecting. Forever.",
+    "narration_duration": 28,
+    "bg_music": "Epic yet peaceful Chinese orchestral finale, erhu and guzheng duet, choir swell, tearful and transcendent 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Celebration drums",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Waterfall gentle flow",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Water flowing",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Lotus blooming sound",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Ethereal choir swell",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide aerial dawn — the floating city is now WHOLE. The water has receded permanently. The entire magnificent city stands on dry land — golden roofs, white walls, markets bustling. For the first time in three thousand years, the city does not drown. Families embrace in the streets. Children run on ground that will never flood. Camera: extreme wide aerial, celebration, city finally dry. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she stands at the edge of the now-quiet celestial waterfall. It flows normally now — downward, peacefully. She places both hands in the water. It hums. She smiles. She speaks aloud: 'I know what I have to do.' The water pulses in response — welcoming her. The waterfall had been waiting for its last guardian. Camera: medium, her hands in peaceful waterfall, acceptance in her eyes. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — she begins to dissolve. Not painfully — gracefully. Her feet become water. Her legs shimmer and dissolve into the river. She does not scream — she SMILES. She raises her arms as her body from the waist up becomes pure flowing light-water. She is becoming the river. Camera: wide, her graceful dissolution into light-water, arms raised, peaceful smile. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Extreme close-up — her face the last to dissolve. She looks upward at the sky, at the celestial realm above, at the world she saved. Her final tears fall — and each tear becomes a lotus flower floating downstream. Her eyes close. Her face dissolves into a smile and light. Camera: extreme close-up, her final tear becoming lotus flowers, peaceful dissolution. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Extreme wide aerial at sunset — the celestial waterfall is now a GUARDIAN SPIRIT — a massive woman made entirely of flowing water, standing eternal behind the city. She is beautiful, serene, powerful. Inside her water-body, the ice boy's frozen smiling face is visible at her heart. The fire man — in his own realm — looks up at the sky and nods once. Camera: extreme wide aerial, guardian waterfall spirit at sunset, ice boy at her heart, slow fade to stars. 6 seconds. End on the guardian spirit."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 10 Cuối: Cô Gái Trở Thành Dòng Sông | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 10 of Ha Tien Du — Series Finale. With the seal restored and peace finally achieved, she makes her final choice: to become the celestial river itself — a guardian spirit protecting both worlds forever.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series — END OF SERIES\n📌 Thanks for watching!\n#xianxia #ha tiendu #series finale #transformation #guardian spirit #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "transformation",
+      "becoming the river",
+      "bittersweet ending",
+      "guardian spirit",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô tan vào dòng sông — trở thành THỦY THẦN vĩnh cửu bảo vệ cả hai thế giới, mãi mãi cùng chàng trai băng tại trái tim mình ⚔️🌊 Tập Cuối Ha Tien Du #xianxia #cổtrang #seriefinale",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide aerial dawn — the floating city is now WHOLE. The water has receded permanently. The entire magnificent city stands on dry land — golden roofs, white walls, markets bustling. For the first time in three thousand years, the city does not drown. Families embrace in the streets. Children run on ground that will never flood. Camera: extreme wide aerial, celebration, city finally dry. 6 seconds. Shot 2: Medium shot — she stands at the edge of the now-quiet celestial waterfall. It flows normally now — downward, peacefully. She places both hands in the water. It hums. She smiles. She speaks aloud: 'I know what I have to do.' The water pulses in response — welcoming her. The waterfall had been waiting for its last guardian. Camera: medium, her hands in peaceful waterfall, acceptance in her eyes. 6 seconds. Shot 3: Wide cinematic — she begins to dissolve. Not painfully — gracefully. Her feet become water. Her legs shimmer and dissolve into the river. She does not scream — she SMILES. She raises her arms as her body from the waist up becomes pure flowing light-water. She is becoming the river. Camera: wide, her graceful dissolution into light-water, arms raised, peaceful smile. 6 seconds. Shot 4: Extreme close-up — her face the last to dissolve. She looks upward at the sky, at the celestial realm above, at the world she saved. Her final tears fall — and each tear becomes a lotus flower floating downstream. Her eyes close. Her face dissolves into a smile and light. Camera: extreme close-up, her final tear becoming lotus flowers, peaceful dissolution. 6 seconds. Shot 5: Extreme wide aerial at sunset — the celestial waterfall is now a GUARDIAN SPIRIT — a massive woman made entirely of flowing water, standing eternal behind the city. She is beautiful, serene, powerful. Inside her water-body, the ice boy's frozen smiling face is visible at her heart. The fire man — in his own realm — looks up at the sky and nods once. Camera: extreme wide aerial, guardian waterfall spirit at sunset, ice boy at her heart, slow fade to stars. 6 seconds. End on the guardian spirit.",
+  "visual_scene": "Wide aerial dawn — the floating city is now WHOLE. The water has receded permanently. The entire magnificent city stands on dry land — golden roofs, white walls, markets bustling. For the first time in three thousand years, the city does not drown. Families embrace in the streets. Children run on ground that will never flood. Camera: extreme wide aerial, celebration, city finally dry. 6 seconds. Medium shot — she stands at the edge of the now-quiet celestial waterfall. It flows normally now — downward, peacefully. She places both hands in the water. It hums. She smiles. She speaks aloud: 'I know what I have to do.' The water pulses in response — welcoming her. The waterfall had been waiting for its last guardian. Camera: medium, her hands in peaceful waterfall, acceptance in her eyes. 6 seconds. Wide cinematic — she begins to dissolve. Not painfully — gracefully. Her feet become water. Her legs shimmer and dissolve into the river. She does not scream — she SMILES. She raises her arms as her body from the waist up becomes pure flowing light-water. She is becoming the river. Camera: wide, her graceful dissolution into light-water, arms raised, peaceful smile. 6 seconds. Extreme close-up — her face the last to dissolve. She looks upward at the sky, at the celestial realm above, at the world she saved. Her final tears fall — and each tear becomes a lotus flower floating downstream. Her eyes close. Her face dissolves into a smile and light. Camera: extreme close-up, her final tear becoming lotus flowers, peaceful dissolution. 6 seconds. Extreme wide aerial at sunset — the celestial waterfall is now a GUARDIAN SPIRIT — a massive woman made entirely of flowing water, standing eternal behind the city. She is beautiful, serene, powerful. Inside her water-body, the ice boy's frozen smiling face is visible at her heart. The fire man — in his own realm — looks up at the sky and nods once. Camera: extreme wide aerial, guardian waterfall spirit at sunset, ice boy at her heart, slow fade to stars. 6 seconds. End on the guardian spirit.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 10: The Girl Who Became the River",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "transformation",
+    "becoming the river",
+    "bittersweet ending",
+    "guardian spirit",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-083",
+  "title": "Tru Tien Episode 13: The Man Who Lost His Wife's Name",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "She healed a soldier's wound and watched his pain disappear — then discovered he had been the one to KILL his own wife in the war. The curse does not erase guilt. It amplifies it.",
+    "story_arc": "Soldier healed → Memory released → Crime revealed → Pain multiplies → Curse malfunction",
+    "emotion": "Mercy → Shock → Horror → Rage → Curse failure",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Medium shot — she finds a wounded soldier collapsed on a battlefield road. His uniform is torn, his side bleeding from a spear wound. She kneels and places her hand over his wound. She SPEAKS the curse. The wound closes — his face relaxes. He looks up at her with relief. Camera: medium, her kneeling, hand on wound, curse speaking, relief on soldier's face. 6 seconds.",
+      "camera": "Two-shot — her kneeling, curse speaking, soldier's wound closing, relief on his face, 6s",
+      "narration": "She had healed so many by now that it felt almost routine. Hand on wound. Speak the curse. Watch the pain disappear. Except — this time — something went wrong.",
+      "sfx": "Spear wound closing with flesh sound, her curse speaking, soldier's relief exhale, wind on battlefield"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the soldier's face changes. The relief melts into HORROR. He SCREAMS — not in pain, but in grief. His hands claw at his face. 'HER FACE,' he screams. 'HER FACE.' He is seeing his wife's face. The curse did not just heal his wound — it RELEASED his memory. Camera: extreme close-up on soldier's screaming face, memory appearing in his eyes. 6 seconds.",
+      "camera": "Extreme close-up — soldier's face morphing from relief to horror, clawing his face, 'Her face' scream, released memory, 6s",
+      "narration": "The curse had not just healed his wound. It had released the memory it was attached to. And in that memory — he saw her face. His wife. The woman he had killed.",
+      "sfx": "Scream, flesh tearing sound, memory whoosh, his wife's name scream, horror bass"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium — she tries to grab his hands to heal him again. But the curse doesn't work on THIS kind of pain. 'I killed her,' he says calmly now, smiling. 'The curse gave me back my memory — and with it, the pain of what I did. I feel it TEN TIMES.' His smile is terrifying. She steps back. Camera: medium two-shot, his terrifying calm smile, her step back in horror, released guilt. 6 seconds.",
+      "camera": "Two-shot — soldier's terrifying calm smile, 'I killed her', her step back in horror, guilt amplified tenfold, 6s",
+      "narration": "I killed her. The curse had given him back his memory — and with it, the full weight of his guilt. Ten times amplified. His wife had been in the war zone. He had killed her himself.",
+      "sfx": "His calm speech, her sharp inhale, distant battlefield wind, horror strings building, revelation sting"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — the soldier walks calmly into the burning palace ruins. He turns back and says: 'The curse did not save me, witch. It damned me twice.' He walks into the flames. She tries to run after him — the grimoire RIPS a page. The curse is rejecting him. He is beyond saving. Camera: wide, burning palace, soldier walking into flames, grimoire page ripping, her reaching. 6 seconds.",
+      "camera": "Wide — soldier walking into burning palace, 'damned me twice', grimoire page ripping, her reaching, unable to save, 6s",
+      "narration": "The curse had not just failed him. It had made his guilt worse — and in doing so, had damned him twice over. Some pain could not be transferred. Some crimes could not be undone.",
+      "sfx": "Flames roaring, grimoire page ripping, his footsteps in fire, her scream, tragic orchestral swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she stands before the burning palace, grimoire in hand, the ripped page dissolving to ash in the wind. Her hands shake. She reads the curse's true nature now: it could heal WAR WOUNDS. But it could not heal the wounds of what war MADE people do. She looks at her blood-stained hands. Camera: close-up, blood-stained hands holding dissolving page, burning palace reflection, understanding horror. 6 seconds.",
+      "camera": "Close-up — blood-stained hands with dissolving ash page, burning palace reflection, understanding dawning, 6s",
+      "narration": "The curse could heal the wounds of war. But the war had made people into monsters. And those monsters — the curse could not save. It could only remind them of what they had done.",
+      "sfx": "Page dissolving, ash falling, her shaking breath, wind, dark revelation, somber strings"
+    }
+  ],
+  "audio": {
+    "narration": "She had healed so many by now that it felt almost routine. Hand on wound. Speak the curse. Watch the pain disappear. Except — this time — something went wrong. The curse had not just healed his wound. It had released the memory it was attached to. And in that memory — he saw her face. His wife. The woman he had killed. I killed her. The curse had given him back his memory — and with it, the full weight of his guilt. Ten times amplified. His wife had been in the war zone. He had killed her himself. The curse had not just failed him. It had made his guilt worse — and in doing so, had damned him twice over. Some pain could not be transferred. Some crimes could not be undone. The curse could heal the wounds of war. But the war had made people into monsters. And those monsters — the curse could not save. It could only remind them of what they had done.",
+    "narration_duration": 28,
+    "bg_music": "Dark tragic Chinese orchestral, guilt amplification theme, crime revelation, curse failure, war horror 70 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Spear wound closing with flesh sound",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Scream",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "His calm speech",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Flames roaring",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Page dissolving",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Medium shot — she finds a wounded soldier collapsed on a battlefield road. His uniform is torn, his side bleeding from a spear wound. She kneels and places her hand over his wound. She SPEAKS the curse. The wound closes — his face relaxes. He looks up at her with relief. Camera: medium, her kneeling, hand on wound, curse speaking, relief on soldier's face. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the soldier's face changes. The relief melts into HORROR. He SCREAMS — not in pain, but in grief. His hands claw at his face. 'HER FACE,' he screams. 'HER FACE.' He is seeing his wife's face. The curse did not just heal his wound — it RELEASED his memory. Camera: extreme close-up on soldier's screaming face, memory appearing in his eyes. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium — she tries to grab his hands to heal him again. But the curse doesn't work on THIS kind of pain. 'I killed her,' he says calmly now, smiling. 'The curse gave me back my memory — and with it, the pain of what I did. I feel it TEN TIMES.' His smile is terrifying. She steps back. Camera: medium two-shot, his terrifying calm smile, her step back in horror, released guilt. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — the soldier walks calmly into the burning palace ruins. He turns back and says: 'The curse did not save me, witch. It damned me twice.' He walks into the flames. She tries to run after him — the grimoire RIPS a page. The curse is rejecting him. He is beyond saving. Camera: wide, burning palace, soldier walking into flames, grimoire page ripping, her reaching. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she stands before the burning palace, grimoire in hand, the ripped page dissolving to ash in the wind. Her hands shake. She reads the curse's true nature now: it could heal WAR WOUNDS. But it could not heal the wounds of what war MADE people do. She looks at her blood-stained hands. Camera: close-up, blood-stained hands holding dissolving page, burning palace reflection, understanding horror. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 13: Người Đàn Ông Quên Tên Vợ | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 13 of Tru Tien. She heals a soldier's wound — and the curse releases his memory. He reveals: he killed his own wife in the war. The curse does not erase guilt. It AMPLIFIES it. He walks into the flames.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "soldier killed wife",
+      "curse amplifies guilt",
+      "crime revealed",
+      "war crime",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô chữa lành vết thương một binh sĩ — cấm chú GIẢI PHÓNG ký ức. Anh ta thú nhận: đã GIẾT vợ mình trong chiến tranh. Cấm chú KHÔNG xóa tội lỗi — nó KHUẾCH ĐẠI nó. Anh ta đi vào lửa ⚔️🔥 Tập 13 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Medium shot — she finds a wounded soldier collapsed on a battlefield road. His uniform is torn, his side bleeding from a spear wound. She kneels and places her hand over his wound. She SPEAKS the curse. The wound closes — his face relaxes. He looks up at her with relief. Camera: medium, her kneeling, hand on wound, curse speaking, relief on soldier's face. 6 seconds. Shot 2: Close-up — the soldier's face changes. The relief melts into HORROR. He SCREAMS — not in pain, but in grief. His hands claw at his face. 'HER FACE,' he screams. 'HER FACE.' He is seeing his wife's face. The curse did not just heal his wound — it RELEASED his memory. Camera: extreme close-up on soldier's screaming face, memory appearing in his eyes. 6 seconds. Shot 3: Medium — she tries to grab his hands to heal him again. But the curse doesn't work on THIS kind of pain. 'I killed her,' he says calmly now, smiling. 'The curse gave me back my memory — and with it, the pain of what I did. I feel it TEN TIMES.' His smile is terrifying. She steps back. Camera: medium two-shot, his terrifying calm smile, her step back in horror, released guilt. 6 seconds. Shot 4: Wide shot — the soldier walks calmly into the burning palace ruins. He turns back and says: 'The curse did not save me, witch. It damned me twice.' He walks into the flames. She tries to run after him — the grimoire RIPS a page. The curse is rejecting him. He is beyond saving. Camera: wide, burning palace, soldier walking into flames, grimoire page ripping, her reaching. 6 seconds. Shot 5: Close-up — she stands before the burning palace, grimoire in hand, the ripped page dissolving to ash in the wind. Her hands shake. She reads the curse's true nature now: it could heal WAR WOUNDS. But it could not heal the wounds of what war MADE people do. She looks at her blood-stained hands. Camera: close-up, blood-stained hands holding dissolving page, burning palace reflection, understanding horror. 6 seconds.",
+  "visual_scene": "Medium shot — she finds a wounded soldier collapsed on a battlefield road. His uniform is torn, his side bleeding from a spear wound. She kneels and places her hand over his wound. She SPEAKS the curse. The wound closes — his face relaxes. He looks up at her with relief. Camera: medium, her kneeling, hand on wound, curse speaking, relief on soldier's face. 6 seconds. Close-up — the soldier's face changes. The relief melts into HORROR. He SCREAMS — not in pain, but in grief. His hands claw at his face. 'HER FACE,' he screams. 'HER FACE.' He is seeing his wife's face. The curse did not just heal his wound — it RELEASED his memory. Camera: extreme close-up on soldier's screaming face, memory appearing in his eyes. 6 seconds. Medium — she tries to grab his hands to heal him again. But the curse doesn't work on THIS kind of pain. 'I killed her,' he says calmly now, smiling. 'The curse gave me back my memory — and with it, the pain of what I did. I feel it TEN TIMES.' His smile is terrifying. She steps back. Camera: medium two-shot, his terrifying calm smile, her step back in horror, released guilt. 6 seconds. Wide shot — the soldier walks calmly into the burning palace ruins. He turns back and says: 'The curse did not save me, witch. It damned me twice.' He walks into the flames. She tries to run after him — the grimoire RIPS a page. The curse is rejecting him. He is beyond saving. Camera: wide, burning palace, soldier walking into flames, grimoire page ripping, her reaching. 6 seconds. Close-up — she stands before the burning palace, grimoire in hand, the ripped page dissolving to ash in the wind. Her hands shake. She reads the curse's true nature now: it could heal WAR WOUNDS. But it could not heal the wounds of what war MADE people do. She looks at her blood-stained hands. Camera: close-up, blood-stained hands holding dissolving page, burning palace reflection, understanding horror. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 13: The Man Who Lost His Wife's Name",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "soldier killed wife",
+    "curse amplifies guilt",
+    "crime revealed",
+    "war crime",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "id": "PW-07",
+  "channel": "Productivity Worker",
+  "title": "Your Open Door Policy Is Killing Your Team's Productivity — Here's Why",
+  "script": "Your open door policy isn't making you approachable. It's making you and your team less productive. Here's why. Every time an employee can interrupt you at any moment, two things happen: you can't do your best thinking, and they learn to interrupt instead of solve problems independently. The fix isn't a closed door. It's a structure. Set two office hours per week — times when you're fully accessible. Block the rest for deep work. Tell your team this builds trust, not limits it. Closed doors aren't rejection. They're effectiveness. The best managers protect their own time so they can protect their team's time too.",
+  "prompt_for_hailuo": "Manager's open office door, stream of employees interrupting one after another [Wide shot, chaotic energy]. Manager at desk looking overwhelmed, head in hands [Medium shot]. Transition: same manager with door slightly closed, focused at laptop [Medium shot]. Calendar graphic showing 'OFFICE HOURS' blocks [Static overlay]. Manager in focused flow state at desk [Push in on face, calm]. Team member walks past closed door, nods approvingly [Wide tracking shot]. Same team in productive meeting with clear agenda [Cut to organized team, bright office]. Professional office, clean aesthetic, warm light, cinematic contrast between chaos and calm.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "management",
+    "productivity",
+    "leadership",
+    "open door policy",
+    "team productivity"
+  ],
+  "thumbnail_idea": "Manager overwhelmed at desk with open door vs calm focused manager with door closed, 'OPEN DOOR = LOWER OUTPUT' overlay",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T08:00:00Z",
+  "video_path": "output_topic/videos/PW-07.mp4",
+  "generated_at": "2026-03-30T01:30:12Z",
+  "uploaded_at": "2026-03-29T14:50:00Z",
+  "youtube_url": null,
+  "upload_note": "Posted via Hailuo share-to-TikTok (previous session). Note: This is the Hailuo-generated version without ElevenLabs TTS. Pexels version with Liam TTS exists at output_topic/videos/PW-07.mp4 but needs manual upload.",
+  "visual_scene": "A modern open-plan office with glass walls and low partitions — an executive's office with door wide open. A stream of employees interrupts one after another in rapid succession, a manager sitting at their desk looking increasingly overwhelmed, head dropping into hands in the final shot. Tracking shot follows the manager as they close the office door firmly, stand up and walk to a whiteboard to write a new 'Office Hours: 2-3pm Only' policy in bold marker. Wide shot reveals the transformed office: the same open-plan space now peaceful, employees working independently at desks with focus music playing, soft instrumental. The manager sits at their desk in calm focus, door now closed, working without interruption. Modern corporate office, transformation from chaos to calm, professional atmosphere, cinematic.",
+  "specific_details": "A manager sitting at their desk in a modern open-plan office with glass walls and low partitions and the door wide open as a stream of employees interrupts one after another in rapid succession, looking increasingly overwhelmed with head dropping into hands; tracking shot follows the manager closing the office door firmly and walking to a whiteboard to write a new policy in bold marker reading 'Office Hours: 2-3pm Only'; wide shot revealing the same open-plan office now transformed to peaceful productivity with employees working independently at desks in calm focus and soft instrumental music playing while the manager sits at their desk with the door now closed working without interruption, set in a modern open-plan corporate office with clean glass walls and professional atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright outdoor scene, cozy cafe, home living room, sad or depressed atmosphere, dark night interior",
+  "produced_at": "2026-03-31T05:38:48.840Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:16:56.699Z",
+  "tiktok_url": "/@fai20128/video/7625201363982568724"
+}

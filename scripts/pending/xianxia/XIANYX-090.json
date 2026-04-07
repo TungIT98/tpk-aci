@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-090",
+  "title": "Tru Tien Episode 20: The Girl Who Remembers for Everyone",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 20,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The forgetting curse backfires catastrophically. Every memory released by every person who accepted it — floods into her. She becomes the living library of a war everyone chose to forget. Season finale.",
+    "story_arc": "Curse backfires → All memories flood in → She becomes library → World forgets peacefully → She carries all alone → End",
+    "emotion": "Horror → Flood → Burden → Acceptance → Transcendence",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot at dawn — she stands in the village center. People are WAKING UP — but something is wrong. They look around with blank, peaceful smiles. They have forgotten. Soldiers. Widows. Children. All of them — blank. They do not remember the war. They do not remember their pain. And she — standing among them — SCREAMS. Camera: wide, village center, all people waking with blank peaceful smiles, forgetting complete, her scream at center. 6 seconds.",
+      "camera": "Wide — village center dawn, all people waking with blank peaceful smiles, forgetting complete, her scream at center, 6s",
+      "narration": "They had forgotten. All of them. Soldiers. Widows. Children. The war — the great wound of the world — had been forgotten. And she — the witch who carried memory — was the only one who remembered.",
+      "sfx": "Wake up murmur, blank smiles, her scream, wind, horror revelation, devastating orchestral swell"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme close-up — the curse FLOODS back to her. Every released memory — every soldier's death, every widow's grief, every child's fear — FLOWS into her like a river. Her eyes go white. Her body convulses. She falls. Ten thousand memories at once. Camera: extreme close-up, her face as thousands of memories flood in simultaneously, eyes going white, convulsing, falling. 6 seconds.",
+      "camera": "Extreme close-up — her face as memory flood hits, ten thousand memories at once, eyes white, convulsing, falling, 6s",
+      "narration": "Ten thousand memories. Ten thousand deaths. Ten thousand griefs. Every memory released by every person who had accepted the forgetting curse — came flooding back to her. ALL AT ONCE.",
+      "sfx": "Memory flood whoosh, ten thousand voices, her scream, body convulsing, falling sound, devastating horror"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — she lies on the ground in the village center. Around her, villagers go about their peaceful blank lives. A child plays where a soldier died. A widow hangs laundry where she once wept. The world is healed of its grief — and she lies broken among them. Camera: wide, her broken on ground, peaceful blank village around her, child playing where soldier died, widow hanging laundry, beauty and horror together. 6 seconds.",
+      "camera": "Wide — her broken on ground, peaceful blank village around her, child playing where soldier died, widow hanging laundry, beauty and horror, 6s",
+      "narration": "The world was healed. She could see it in every peaceful blank face. The war was truly over — because no one remembered it anymore. And she — alone — remembered it for all of them.",
+      "sfx": "Child playing, widow humming, her broken breath, wind, beauty of peace, horror of burden, devastating silence"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — she slowly stands. She is DIFFERENT now. Her eyes: deep, ancient, carrying ten thousand lifetimes of memory. She looks at the grimoire — it is empty. Every curse has been used. Every page — blank. She is the last page. Camera: close-up, her standing transformed, ancient eyes carrying ten thousand memories, grimoire empty and blank, 'I am the last page'. 6 seconds.",
+      "camera": "Close-up — transformed standing, ancient ten-thousand-memory eyes, grimoire empty blank pages, 'I am the last page', 6s",
+      "narration": "She was the last page. The grimoire had no more pages to fill — because she had become the living record of every curse ever cast. Every wound ever healed. Every grief ever carried. She was the library of a war everyone had chosen to forget.",
+      "sfx": "Her slow standing, ancient breath, pages turning blank, her 'I am the last page', silence, revelation"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic at sunset — she walks out of the village toward the forest road, grimoire tucked under her arm like an empty journal. Behind her: a peaceful world that has forgotten its worst moment. Ahead: she does not know. But she walks anyway. She will remember for everyone — and she will make it mean something. Camera: wide cinematic, sunset, her walking toward forest road, empty grimoire, peaceful world behind, unknown ahead, determination and transcendence. 6 seconds.",
+      "camera": "Wide cinematic — sunset, her walking toward forest road with empty grimoire, peaceful world behind, unknown ahead, determination and transcendence, 6s",
+      "narration": "She walked toward the forest road carrying ten thousand memories no one else would ever carry again. The price of the world's peace — was her solitude. And she bore it with her head high. She was the last witch. And she was the memory the world had chosen to keep.",
+      "sfx": "Footsteps on road, wind, sunset warmth, distant village life, her determined breath, epic and bittersweet, season finale theme"
+    }
+  ],
+  "audio": {
+    "narration": "They had forgotten. All of them. Soldiers. Widows. Children. The war — the great wound of the world — had been forgotten. And she — the witch who carried memory — was the only one who remembered. Ten thousand memories. Ten thousand deaths. Ten thousand griefs. Every memory released by every person who had accepted the forgetting curse — came flooding back to her. ALL AT ONCE. The world was healed. She could see it in every peaceful blank face. The war was truly over — because no one remembered it anymore. And she — alone — remembered it for all of them. She was the last page. The grimoire had no more pages to fill — because she had become the living record of every curse ever cast. Every wound ever healed. Every grief ever carried. She was the library of a war everyone had chosen to forget. She walked toward the forest road carrying ten thousand memories no one else would ever carry again. The price of the world's peace — was her solitude. And she bore it with her head high. She was the last witch. And she was the memory the world had chosen to keep.",
+    "narration_duration": 28,
+    "bg_music": "Epic bittersweet Chinese orchestral, living library theme, ten thousand memories, world peace vs solitary burden, season finale 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Wake up murmur",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Memory flood whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Child playing",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Her slow standing",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Footsteps on road",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot at dawn — she stands in the village center. People are WAKING UP — but something is wrong. They look around with blank, peaceful smiles. They have forgotten. Soldiers. Widows. Children. All of them — blank. They do not remember the war. They do not remember their pain. And she — standing among them — SCREAMS. Camera: wide, village center, all people waking with blank peaceful smiles, forgetting complete, her scream at center. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Extreme close-up — the curse FLOODS back to her. Every released memory — every soldier's death, every widow's grief, every child's fear — FLOWS into her like a river. Her eyes go white. Her body convulses. She falls. Ten thousand memories at once. Camera: extreme close-up, her face as thousands of memories flood in simultaneously, eyes going white, convulsing, falling. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide shot — she lies on the ground in the village center. Around her, villagers go about their peaceful blank lives. A child plays where a soldier died. A widow hangs laundry where she once wept. The world is healed of its grief — and she lies broken among them. Camera: wide, her broken on ground, peaceful blank village around her, child playing where soldier died, widow hanging laundry, beauty and horror together. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — she slowly stands. She is DIFFERENT now. Her eyes: deep, ancient, carrying ten thousand lifetimes of memory. She looks at the grimoire — it is empty. Every curse has been used. Every page — blank. She is the last page. Camera: close-up, her standing transformed, ancient eyes carrying ten thousand memories, grimoire empty and blank, 'I am the last page'. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic at sunset — she walks out of the village toward the forest road, grimoire tucked under her arm like an empty journal. Behind her: a peaceful world that has forgotten its worst moment. Ahead: she does not know. But she walks anyway. She will remember for everyone — and she will make it mean something. Camera: wide cinematic, sunset, her walking toward forest road, empty grimoire, peaceful world behind, unknown ahead, determination and transcendence. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 20 (Cuối Mùa): Cô Gái Nhớ Thay Mọi Người | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Season Finale of Tru Tien. The forgetting curse backfires. Every memory released by every person — FLOODS into her. Ten thousand deaths. Ten thousand griefs. All at once. She becomes the living library of a war everyone chose to forget. She walks toward the forest road alone — carrying everything.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "curse backfires",
+      "living library of war",
+      "everyone forgets",
+      "last witch",
+      "season finale",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cấm chú quên lãng quay ngược. Mọi ký ức được giải phóng — ÙA VÀO cô. Mười ngàn cái chết. Mười ngàn đau buồn. Tất cả cùng một lúc. Cô trở thành thư viện sống của một cuộc chiến mọi người chọn quên. Cô bước ra con đường rừng một mình — mang tất cả. Mùa 1 KẾT THÚC ⚔️✨ Tập 20 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot at dawn — she stands in the village center. People are WAKING UP — but something is wrong. They look around with blank, peaceful smiles. They have forgotten. Soldiers. Widows. Children. All of them — blank. They do not remember the war. They do not remember their pain. And she — standing among them — SCREAMS. Camera: wide, village center, all people waking with blank peaceful smiles, forgetting complete, her scream at center. 6 seconds. Shot 2: Extreme close-up — the curse FLOODS back to her. Every released memory — every soldier's death, every widow's grief, every child's fear — FLOWS into her like a river. Her eyes go white. Her body convulses. She falls. Ten thousand memories at once. Camera: extreme close-up, her face as thousands of memories flood in simultaneously, eyes going white, convulsing, falling. 6 seconds. Shot 3: Wide shot — she lies on the ground in the village center. Around her, villagers go about their peaceful blank lives. A child plays where a soldier died. A widow hangs laundry where she once wept. The world is healed of its grief — and she lies broken among them. Camera: wide, her broken on ground, peaceful blank village around her, child playing where soldier died, widow hanging laundry, beauty and horror together. 6 seconds. Shot 4: Close-up — she slowly stands. She is DIFFERENT now. Her eyes: deep, ancient, carrying ten thousand lifetimes of memory. She looks at the grimoire — it is empty. Every curse has been used. Every page — blank. She is the last page. Camera: close-up, her standing transformed, ancient eyes carrying ten thousand memories, grimoire empty and blank, 'I am the last page'. 6 seconds. Shot 5: Wide cinematic at sunset — she walks out of the village toward the forest road, grimoire tucked under her arm like an empty journal. Behind her: a peaceful world that has forgotten its worst moment. Ahead: she does not know. But she walks anyway. She will remember for everyone — and she will make it mean something. Camera: wide cinematic, sunset, her walking toward forest road, empty grimoire, peaceful world behind, unknown ahead, determination and transcendence. 6 seconds.",
+  "visual_scene": "Wide shot at dawn — she stands in the village center. People are WAKING UP — but something is wrong. They look around with blank, peaceful smiles. They have forgotten. Soldiers. Widows. Children. All of them — blank. They do not remember the war. They do not remember their pain. And she — standing among them — SCREAMS. Camera: wide, village center, all people waking with blank peaceful smiles, forgetting complete, her scream at center. 6 seconds. Extreme close-up — the curse FLOODS back to her. Every released memory — every soldier's death, every widow's grief, every child's fear — FLOWS into her like a river. Her eyes go white. Her body convulses. She falls. Ten thousand memories at once. Camera: extreme close-up, her face as thousands of memories flood in simultaneously, eyes going white, convulsing, falling. 6 seconds. Wide shot — she lies on the ground in the village center. Around her, villagers go about their peaceful blank lives. A child plays where a soldier died. A widow hangs laundry where she once wept. The world is healed of its grief — and she lies broken among them. Camera: wide, her broken on ground, peaceful blank village around her, child playing where soldier died, widow hanging laundry, beauty and horror together. 6 seconds. Close-up — she slowly stands. She is DIFFERENT now. Her eyes: deep, ancient, carrying ten thousand lifetimes of memory. She looks at the grimoire — it is empty. Every curse has been used. Every page — blank. She is the last page. Camera: close-up, her standing transformed, ancient eyes carrying ten thousand memories, grimoire empty and blank, 'I am the last page'. 6 seconds. Wide cinematic at sunset — she walks out of the village toward the forest road, grimoire tucked under her arm like an empty journal. Behind her: a peaceful world that has forgotten its worst moment. Ahead: she does not know. But she walks anyway. She will remember for everyone — and she will make it mean something. Camera: wide cinematic, sunset, her walking toward forest road, empty grimoire, peaceful world behind, unknown ahead, determination and transcendence. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 20: The Girl Who Remembers for Everyone",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "curse backfires",
+    "living library of war",
+    "everyone forgets",
+    "last witch",
+    "season finale",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

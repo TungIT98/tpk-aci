@@ -1,0 +1,33 @@
+﻿{
+  "id": "COM-03",
+  "category": "comedy",
+  "channel": "TikTok_Viral",
+  "title": "POV: Bạn vừa kết thúc interview và nhận ra mình đã fail hoàn toàn",
+  "script": "POV: Bạn vừa bước ra khỏi phòng interview. Cửa đóng lại. Và lúc đó — lúc đó — bạn NHỚ ra câu trả lời đúng. 'Ồ! Mình đáng lẽ phải nói về methodology và impact metrics!' Bạn đứng ngoài đường, nhìn lên trời, thở dài. Đời không như phim. Đời là những câu trả lời đến muộn 5 phút.",
+  "prompt_for_hailuo": "Young woman in professional blazer walking out of glass office building [Wide establishing shot]. Stops suddenly on sidewalk, face falls with regret [Medium shot]. Slaps forehead with hand dramatically [Close up face]. Looks up at sky, sighs deeply with comedic exaggeration [Wide shot]. Pulls out phone to text someone, expression of despair [Close up phone screen]. Walks away slowly head down, then suddenly smiles remembering better answer [Tracking shot]. Modern glass office building exterior, city street, sunny day contrasting with comedic despair, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "pov",
+    "interview",
+    "comedy",
+    "reallife",
+    "relatable",
+    "funny",
+    "jobsearch"
+  ],
+  "thumbnail_idea": "Woman slapping forehead on city sidewalk after interview, comedic despair, sunny day",
+  "visual_scene": "A young woman in a professional navy blazer and skirt walking confidently out of a sleek glass office building in the city. She stops suddenly on the busy sidewalk as the reality hits her, her face falling from confidence to regret in slow motion. She slaps her own forehead dramatically with both hands, eyes wide. She looks up at the sky and sighs deeply with exaggerated comedic despair, the irony of life written all over her face. She pulls out her phone to text a friend, her expression shifting between despair and dark humor. She walks away slowly with her head down, then suddenly stops and smiles brilliantly — remembering the perfect answer she should have given — before immediately frowning again accepting it won't matter. Modern glass office building exterior, busy city sidewalk, bright sunny day creating contrast with her internal comedic despair, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, rainy depressing atmosphere, gym or fitness setting, casual home setting",
+  "specific_details": "Young woman in professional navy blazer over a white blouse and knee-length skirt, walking confidently out of a sleek glass office building in a busy city, stopping suddenly on the sidewalk with a falling expression, slapping her forehead with both hands dramatically, looking up at the sky sighing deeply with exaggerated comedic despair, texting on her phone, walking away with head down then stopping to smile brilliantly before frowning again, modern city street with glass buildings and sunny day atmosphere.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\COM-03.mp4",
+  "produced_at": "2026-03-31T01:56:11.260Z",
+  "produced_by": "ceo-gen-wave2",
+  "generated_at": "2026-03-31T01:58:14.646223Z",
+  "local_file": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\COM-03.mp4",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T08:49:47.696Z",
+  "tiktok_url": "/@fai20128/video/7625194375802293525"
+}

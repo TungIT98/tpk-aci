@@ -1,0 +1,177 @@
+﻿{
+  "id": "XIANYX-145",
+  "title": "Tru Tien Episode 25: Shadow Throne Claimed",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 25,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The shadow throne had been waiting for its king for ten thousand years. Jeon Jin-Woo sat upon it — and the throne tested him with ten thousand years of accumulated shadow power.",
+    "story_arc": "Shadow throne reached → Throne tests him → Jeon Jin-Woo accepts → Power floods in → Crowned Monarch",
+    "emotion": "Awe → Test → Decision → Power → Crowning",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the shadow throne chamber deep underground. Absolute darkness older than light. The throne carved from living shadow. Jeon Jin-Woo approaches.",
+      "camera": "Wide — shadow throne chamber underground, absolute darkness, throne carved from living shadow, Jeon approaching, 6s",
+      "narration": "The Monarch of shadows had been waiting ten thousand years. Tonight — Jeon Jin-Woo finally heard the truth.",
+      "sfx": "Shadow chamber humming, ancient darkness, Jeon's careful footsteps, tension drums"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the shadow throne SPEAKS. A voice of ten thousand years of patience and loneliness: You are not fighting an enemy, Jeon Jin-Woo. You are meeting yourself.",
+      "camera": "Close-up — shadow throne speaking with ancient voice, Jeon Jin-Woo listening in shock, truth delivered, 6s",
+      "narration": "The demon king was not his enemy. He was his shadow — the dark reflection that had gained sentience when Jeon Jin-Woo's power grew strong enough.",
+      "sfx": "Ancient voice, shadow throne speaking, Jeon stunned, revelation sound, ancient truth"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — Jeon Jin-Woo vs his shadow clone. The demon king uses the perfected shadow clone technique. Mirror battle. Each move mirrored. Each counter perfect.",
+      "camera": "Wide — Jeon vs shadow clone, demon king's perfected shadow technique clashing, mirror battle, 6s",
+      "narration": "Shadow against shadow. The demon king's technique against Jeon Jin-Woo's. And only one could claim the throne that night.",
+      "sfx": "Shadow clash, mirror battle sounds, technique perfected, tension rising, epic orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the ice tribe princess at the collapsing gate. She makes her choice. She will seal the gate with her own life force — saving a thousand worlds and the man she loves.",
+      "camera": "Close-up — ice tribe princess at collapsing gate, choosing sacrifice, determined tearful face, 6s",
+      "narration": "She had loved him since episode one. Tonight — she chose to save him. And in that choice — she became eternal.",
+      "sfx": "Gate collapsing, princess choosing, sacrifice sound, emotional swell, her final breath"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — Jeon Jin-Woo on the shadow throne. Living darkness crowns him. The Monarch of shadows — reborn. Not a boy called trash. A king ten thousand years in the making.",
+      "camera": "Wide — shadow throne crowned, Jeon Jin-Woo as Monarch, living darkness crown, transcendent finale, 6s",
+      "narration": "The orphan who had been called trash had become the Monarch of shadows. And the first act of his reign — was to protect everyone he loved.",
+      "sfx": "Shadow crown forming, power flooding in, Monarch crowned, epic orchestral finale, resolve"
+    }
+  ],
+  "audio": {
+    "narration": "The Monarch of shadows had been waiting ten thousand years. Tonight — Jeon Jin-Woo finally heard the truth. The demon king was not his enemy. He was his shadow — the dark reflection that had gained sentience when Jeon Jin-Woo's power grew strong enough. Shadow against shadow. The demon king's technique against Jeon Jin-Woo's. And only one could claim the throne that night. She had loved him since episode one. Tonight — she chose to save him. And in that choice — she became eternal. The orphan who had been called trash had become the Monarch of shadows. And the first act of his reign — was to protect everyone he loved.",
+    "narration_duration": 28,
+    "bg_music": "Dark epic orchestral, shadow throne theme, demon king confrontation, 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Shadow chamber humming",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Ancient voice",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Shadow clash",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Gate collapsing",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Shadow crown forming",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the shadow throne chamber deep underground. Absolute darkness older than light. The throne carved from living shadow. Jeon Jin-Woo approaches."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the shadow throne SPEAKS. A voice of ten thousand years of patience and loneliness: You are not fighting an enemy, Jeon Jin-Woo. You are meeting yourself."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — Jeon Jin-Woo vs his shadow clone. The demon king uses the perfected shadow clone technique. Mirror battle. Each move mirrored. Each counter perfect."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the ice tribe princess at the collapsing gate. She makes her choice. She will seal the gate with her own life force — saving a thousand worlds and the man she loves."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — Jeon Jin-Woo on the shadow throne. Living darkness crowns him. The Monarch of shadows — reborn. Not a boy called trash. A king ten thousand years in the making."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 25: Shadow Throne Claimed | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 25 of Tru Tien. The shadow throne had been waiting for its king for ten thousand years. Jeon Jin-Woo sat upon it — and the throne tested him with ten thousand years of accumulated shadow power.\n\n⚔️ Tru Tien — Original Chinese Fantasy Series\n📌 Follow for next episode\n#xianxia #trutien #epic",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "tru",
+      "epic battle",
+      "chinese fantasy",
+      "cultivation"
+    ],
+    "tiktok_caption": "The shadow throne had been waiting for its king for ten thousand years. Jeon Jin-Woo sat upon it — and the throne tested him with ten thousand years of accumulated shadow power. ⚔️🔥 Tập 25 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the shadow throne chamber deep underground. Absolute darkness older than light. The throne carved from living shadow. Jeon Jin-Woo approaches. Shot 2: Close-up — the shadow throne SPEAKS. A voice of ten thousand years of patience and loneliness: You are not fighting an enemy, Jeon Jin-Woo. You are meeting yourself. Shot 3: Wide cinematic — Jeon Jin-Woo vs his shadow clone. The demon king uses the perfected shadow clone technique. Mirror battle. Each move mirrored. Each counter perfect. Shot 4: Close-up — the ice tribe princess at the collapsing gate. She makes her choice. She will seal the gate with her own life force — saving a thousand worlds and the man she loves. Shot 5: Wide cinematic — Jeon Jin-Woo on the shadow throne. Living darkness crowns him. The Monarch of shadows — reborn. Not a boy called trash. A king ten thousand years in the making.",
+  "visual_scene": "Wide establishing — the shadow throne chamber deep underground. Absolute darkness older than light. The throne carved from living shadow. Jeon Jin-Woo approaches. Close-up — the shadow throne SPEAKS. A voice of ten thousand years of patience and loneliness: You are not fighting an enemy, Jeon Jin-Woo. You are meeting yourself. Wide cinematic — Jeon Jin-Woo vs his shadow clone. The demon king uses the perfected shadow clone technique. Mirror battle. Each move mirrored. Each counter perfect. Close-up — the ice tribe princess at the collapsing gate. She makes her choice. She will seal the gate with her own life force — saving a thousand worlds and the man she loves. Wide cinematic — Jeon Jin-Woo on the shadow throne. Living darkness crowns him. The Monarch of shadows — reborn. Not a boy called trash. A king ten thousand years in the making.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 25: Shadow Throne Claimed",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "tru",
+    "epic battle",
+    "chinese fantasy",
+    "cultivation"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-06T04:30:00Z",
+  "publishedAt": "2026-04-06T15:34:33.400Z",
+  "tiktok_url": "/@fai20128/video/7625669834403040533"
+}

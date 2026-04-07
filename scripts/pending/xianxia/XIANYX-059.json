@@ -1,0 +1,175 @@
+{
+  "id": "XIANYX-059",
+  "title": "Ha Tien Du Episode 9: The Boy Who Became the Seal",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 9,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "To seal the breach between worlds, someone must become the seal. Someone must give up their life — and their death — forever.",
+    "story_arc": "Decision made → The ice boy volunteers → Her refusal → His goodbye → He becomes the seal",
+    "emotion": "Heroism → Conflict → Grief → Acceptance → Sacrifice",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the cracked seal on the lake bed still glowing fire-orange. She and the ice boy prepare. The fire man stands aside — his fire cooled, his rage gone. He had agreed to help repair the seal IF someone took his place. The original bargain. She looks at the ice boy with growing dread. Camera: wide establishing three figures at the cracked seal. 6 seconds.",
+      "camera": "Wide establishing — three figures at cracked seal, fire man standing aside, ominous preparation, 6s",
+      "narration": "The seal could be repaired. But someone had to take the fire enemy's place — had to become the seal itself. A living lock. Forever.",
+      "sfx": "Deep bass rumble, fire cooling hiss, ominous drums, tension"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the ice boy kneels before her. 'I was born from the waterfall,' he says. 'I was always meant to return to it.' She grabs his arm violently. 'No. We find another way.' He smiles sadly. 'There is no other way. There was never going to be another way. That is why your mother placed me here.' Camera: medium, emotional confrontation, his sad smile vs her desperate refusal. 6 seconds.",
+      "camera": "Close-up — desperate refusal vs sad acceptance, 'There was never another way' revelation, 6s",
+      "narration": "He had known since the moment her mother placed him in the waterfall. He had been born to die. Born to become the lock that kept the door closed — forever.",
+      "sfx": "Emotional strings, her desperate grip, his quiet acceptance, heartbreaking piano"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — he touches her face with ice-cold fingers. 'You gave me a name,' he says. 'You gave me a memory of what it felt like to be loved.' Ice crystals form on her cheeks — his tears frozen before they could fall. 'That is more than I ever expected to have.' Camera: extreme close-up on her ice-crystal tear-stained face, his frozen fingers on her cheek. 6 seconds.",
+      "camera": "Extreme close-up — ice crystal tears, his frozen fingers on her cheek, heartbreaking farewell, 6s",
+      "narration": "You gave me a name. In a lifetime of cold and water and waiting — she had given him the only warmth that mattered. And now he was leaving to protect that warmth forever.",
+      "sfx": "Ice crystallizing, soft exhale, single frozen tear dropping, mournful erhu"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — he walks to the center of the cracked seal. He raises his ice sword and drives it into his own chest. He does not die — he TRANSFORMS. His body becomes PURE living ice that spreads across the crack like frost on glass. The seal REFORMS — glowing brilliant blue-white. He becomes the seal. His face remains visible in the ice — smiling. Camera: wide cinematic, transformation, his smiling face in the reformed seal. 6 seconds.",
+      "camera": "Wide cinematic — ice boy transforming into living seal, blue-white reformation, his smiling face preserved, 6s",
+      "narration": "He became the lock. Not in death — but in eternal life. Frozen forever at the boundary between worlds. Watching over everything she had fought to protect. Smiling.",
+      "sfx": "Ice crystallizing epic, seal reforming whoosh, his quiet voice saying 'Thank you', choir swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body shot — she stands alone at the lake bed, now calm. The seal glows peacefully. His smiling face is frozen in the ice — beautiful, eternal. She touches the ice that holds him. It hums warm against her fingers. Above, the lake is calm. The fire man is gone — through the door to his home. She looks up toward the surface and the light above. Camera: full-body, her alone at the peaceful seal, slow cinematic push in. 6 seconds.",
+      "camera": "Push in — her alone at the peaceful seal, touching his frozen face, looking toward light above, 6s",
+      "narration": "He had become the waterfall's guardian — exactly as her mother had intended. And in that ice, he would watch over the bridge she had become. Forever.",
+      "sfx": "Water settling, seal humming peacefully, single breath, soft orchestral fade"
+    }
+  ],
+  "audio": {
+    "narration": "The seal could be repaired. But someone had to take the fire enemy's place — had to become the seal itself. A living lock. Forever. He had known since the moment her mother placed him in the waterfall. He had been born to die. Born to become the lock that kept the door closed — forever. You gave me a name. In a lifetime of cold and water and waiting — she had given him the only warmth that mattered. And now he was leaving to protect that warmth forever. He became the lock. Not in death — but in eternal life. Frozen forever at the boundary between worlds. Watching over everything she had fought to protect. Smiling. He had become the waterfall's guardian — exactly as her mother had intended. And in that ice, he would watch over the bridge she had become. Forever.",
+    "narration_duration": 28,
+    "bg_music": "Deeply tragic Chinese orchestral, erhu solo, ice hum, tearful crescendo then peaceful resolution 72 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Deep bass rumble",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Emotional strings",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Ice crystallizing",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Ice crystallizing epic",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Water settling",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the cracked seal on the lake bed still glowing fire-orange. She and the ice boy prepare. The fire man stands aside — his fire cooled, his rage gone. He had agreed to help repair the seal IF someone took his place. The original bargain. She looks at the ice boy with growing dread. Camera: wide establishing three figures at the cracked seal. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — the ice boy kneels before her. 'I was born from the waterfall,' he says. 'I was always meant to return to it.' She grabs his arm violently. 'No. We find another way.' He smiles sadly. 'There is no other way. There was never going to be another way. That is why your mother placed me here.' Camera: medium, emotional confrontation, his sad smile vs her desperate refusal. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — he touches her face with ice-cold fingers. 'You gave me a name,' he says. 'You gave me a memory of what it felt like to be loved.' Ice crystals form on her cheeks — his tears frozen before they could fall. 'That is more than I ever expected to have.' Camera: extreme close-up on her ice-crystal tear-stained face, his frozen fingers on her cheek. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — he walks to the center of the cracked seal. He raises his ice sword and drives it into his own chest. He does not die — he TRANSFORMS. His body becomes PURE living ice that spreads across the crack like frost on glass. The seal REFORMS — glowing brilliant blue-white. He becomes the seal. His face remains visible in the ice — smiling. Camera: wide cinematic, transformation, his smiling face in the reformed seal. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body shot — she stands alone at the lake bed, now calm. The seal glows peacefully. His smiling face is frozen in the ice — beautiful, eternal. She touches the ice that holds him. It hums warm against her fingers. Above, the lake is calm. The fire man is gone — through the door to his home. She looks up toward the surface and the light above. Camera: full-body, her alone at the peaceful seal, slow cinematic push in. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 9: Đứa Trẻ Trở Thành Niêm Phong | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 9 of Ha Tien Du. To repair the seal, someone must become it. The ice boy — her only friend, her companion — sacrifices himself to become the eternal lock between worlds.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 10\n#xianxia #ha tiendu #sacrifice #emotional climax #ice seal #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "sacrifice",
+      "ice boy becomes seal",
+      "emotional climax",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Anh ấy biến thành NIÊM PHONG — đông lạnh vĩnh viễn giữa hai thế giới, mãi mãi bảo vệ cô và dòng sông trời ⚔️🌊 Tập 9 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the cracked seal on the lake bed still glowing fire-orange. She and the ice boy prepare. The fire man stands aside — his fire cooled, his rage gone. He had agreed to help repair the seal IF someone took his place. The original bargain. She looks at the ice boy with growing dread. Camera: wide establishing three figures at the cracked seal. 6 seconds. Shot 2: Medium shot — the ice boy kneels before her. 'I was born from the waterfall,' he says. 'I was always meant to return to it.' She grabs his arm violently. 'No. We find another way.' He smiles sadly. 'There is no other way. There was never going to be another way. That is why your mother placed me here.' Camera: medium, emotional confrontation, his sad smile vs her desperate refusal. 6 seconds. Shot 3: Close-up — he touches her face with ice-cold fingers. 'You gave me a name,' he says. 'You gave me a memory of what it felt like to be loved.' Ice crystals form on her cheeks — his tears frozen before they could fall. 'That is more than I ever expected to have.' Camera: extreme close-up on her ice-crystal tear-stained face, his frozen fingers on her cheek. 6 seconds. Shot 4: Wide cinematic — he walks to the center of the cracked seal. He raises his ice sword and drives it into his own chest. He does not die — he TRANSFORMS. His body becomes PURE living ice that spreads across the crack like frost on glass. The seal REFORMS — glowing brilliant blue-white. He becomes the seal. His face remains visible in the ice — smiling. Camera: wide cinematic, transformation, his smiling face in the reformed seal. 6 seconds. Shot 5: Full-body shot — she stands alone at the lake bed, now calm. The seal glows peacefully. His smiling face is frozen in the ice — beautiful, eternal. She touches the ice that holds him. It hums warm against her fingers. Above, the lake is calm. The fire man is gone — through the door to his home. She looks up toward the surface and the light above. Camera: full-body, her alone at the peaceful seal, slow cinematic push in. 6 seconds.",
+  "visual_scene": "Wide establishing — the cracked seal on the lake bed still glowing fire-orange. She and the ice boy prepare. The fire man stands aside — his fire cooled, his rage gone. He had agreed to help repair the seal IF someone took his place. The original bargain. She looks at the ice boy with growing dread. Camera: wide establishing three figures at the cracked seal. 6 seconds. Medium shot — the ice boy kneels before her. 'I was born from the waterfall,' he says. 'I was always meant to return to it.' She grabs his arm violently. 'No. We find another way.' He smiles sadly. 'There is no other way. There was never going to be another way. That is why your mother placed me here.' Camera: medium, emotional confrontation, his sad smile vs her desperate refusal. 6 seconds. Close-up — he touches her face with ice-cold fingers. 'You gave me a name,' he says. 'You gave me a memory of what it felt like to be loved.' Ice crystals form on her cheeks — his tears frozen before they could fall. 'That is more than I ever expected to have.' Camera: extreme close-up on her ice-crystal tear-stained face, his frozen fingers on her cheek. 6 seconds. Wide cinematic — he walks to the center of the cracked seal. He raises his ice sword and drives it into his own chest. He does not die — he TRANSFORMS. His body becomes PURE living ice that spreads across the crack like frost on glass. The seal REFORMS — glowing brilliant blue-white. He becomes the seal. His face remains visible in the ice — smiling. Camera: wide cinematic, transformation, his smiling face in the reformed seal. 6 seconds. Full-body shot — she stands alone at the lake bed, now calm. The seal glows peacefully. His smiling face is frozen in the ice — beautiful, eternal. She touches the ice that holds him. It hums warm against her fingers. Above, the lake is calm. The fire man is gone — through the door to his home. She looks up toward the surface and the light above. Camera: full-body, her alone at the peaceful seal, slow cinematic push in. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 9: The Boy Who Became the Seal",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "sacrifice",
+    "ice boy becomes seal",
+    "emotional climax",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

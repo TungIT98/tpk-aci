@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "profiles": {
+    "productivity_primary": {
+      "voiceId": "ErXwobaYiN019pkycrre",
+      "name": "Antoni",
+      "provider": "elevenlabs",
+      "channel": "productivity",
+      "settings": {
+        "stability": 0.5,
+        "similarity": 0.75,
+        "speed": 1.0
+      },
+      "description": "Calm professional — authoritative but warm. Best for deep-work content."
+    },
+    "productivity_fallback": {
+      "voiceId": "21m00Tcm4TlvDq8ikWAM",
+      "name": "Rachel",
+      "provider": "elevenlabs",
+      "channel": "productivity",
+      "settings": {
+        "stability": 0.5,
+        "similarity": 0.75,
+        "speed": 1.0
+      },
+      "description": "Clear direct — instructional tone for productivity tips."
+    },
+    "growth_primary": {
+      "voiceId": "TX37GLJWiS1HyvCFBiYb",
+      "name": "Josh",
+      "provider": "elevenlabs",
+      "channel": "growth",
+      "settings": {
+        "stability": 0.35,
+        "similarity": 0.85,
+        "speed": 1.1
+      },
+      "description": "Energetic Gen Z — punchy, high-energy for growth/motivation content."
+    },
+    "growth_fallback": {
+      "voiceId": "EXAVITQu4vr4xnSD0c5L",
+      "name": "Sarah",
+      "provider": "elevenlabs",
+      "channel": "growth",
+      "settings": {
+        "stability": 0.35,
+        "similarity": 0.85,
+        "speed": 1.1
+      },
+      "description": "Warm relatable — expressive, good for storytelling and personal growth."
+    },
+    "cloned_voice": {
+      "voiceId": null,
+      "name": "Cloned Voice",
+      "provider": "elevenlabs_clone",
+      "channel": "auto",
+      "settings": {
+        "stability": 0.5,
+        "similarity": 0.75,
+        "speed": 1.0
+      },
+      "description": "Custom voice cloned from audio sample. Set voiceId via ELEVENLABS_VOICE_CLONE_ID in .env after running clone_voice()."
+    }
+  },
+  "sapi_voices": {
+    "productivity": "David",
+    "growth": "Zira"
+  }
+}

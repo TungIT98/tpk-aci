@@ -1,0 +1,31 @@
+{
+  "id": "TECH-03",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "AI nào mạnh hơn? Gemini vs ChatGPT — Kết quả bất ngờ",
+  "script": "Google Gemini vs OpenAI ChatGPT. Hai ông lớn AI tranh hùng năm 2026. Gemini xử lý hình ảnh cực nhanh, ChatGPT viết code siêu mượt. Nhưng khi tôi test cả hai với 10 task thực tế, kết quả khiến tôi phải thừa nhận: có một người chiến thắng rõ ràng — và đó không phải là người bạn nghĩ.",
+  "prompt_for_hailuo": "Two futuristic AI orbs floating in dark space, left orb glowing bright blue with Google colors, right orb glowing emerald green with ChatGPT aesthetic, energy beams clashing between them in a dark cosmic void [Dynamic collision shot]. Sparks and data streams exploding outward [Wide shot showing both orbs]. Particles reorganizing into a single glowing crown symbol [Close up dramatic reveal]. Dark cosmic void, volumetric lighting, dramatic red and gold accents on final reveal, cinematic atmosphere, 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "ai",
+    "gemini",
+    "chatgpt",
+    "comparison",
+    "google",
+    "openai",
+    "tech",
+    "chatbot"
+  ],
+  "thumbnail_idea": "Two glowing AI orbs clashing in cosmic space, blue vs green",
+  "visual_scene": "Two luminous AI orbs levitating in a vast dark cosmic void. The left orb pulses with Google blue and white chromatic energy, holographic Google logos flickering around it. The right orb radiates emerald green and white OpenAI-inspired light. An explosive collision of energy beams — blue vs green — erupts between them, sparks and data streams cascading outward into the void. A wide shot captures both orbs shaking from the impact. Slowly the particles reorganize themselves, coalescing into a single glowing crown symbol that emits warm gold and red light. Camera closes in dramatically on the crown as both orbs fade. Volumetric god-ray lighting, cinematic color grading, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Two luminous AI orbs levitating in dark cosmic void, left orb Google blue chromatic energy with holographic logos, right orb emerald green OpenAI energy, energy beams colliding between them with sparks and data streams cascading outward, particles reorganizing into glowing golden crown symbol, volumetric lighting with dramatic god rays, cinematic color grading, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-03.mp4",
+  "produced_at": "2026-03-30T16:16:34.028Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

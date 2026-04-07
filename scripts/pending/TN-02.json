@@ -1,0 +1,91 @@
+{
+  "id": "TN-02",
+  "episode": "02",
+  "series": "Tien Nghich",
+  "channel": "Xianxia Fantasy",
+  "title": "The Sect That Feared His Return",
+  "script": "The Azure Phoenix Sect thought they had buried him forever. They were wrong. With power stolen from legends, he walked back through those gates. Every disciple who laughed at him... every elder who turned away... they would all learn the price of underestimating a phoenix reborn from ashes. Today, he claims his throne.",
+  "clips": [
+    {
+      "clip_id": "TN-02-01",
+      "scene": "Opening - The Phoenix Gate",
+      "prompt_for_hailuo": "Young Chinese warrior standing at the entrance of a grand sect gate, phoenix symbols carved in stone, morning mist, epic wuxia cinematic",
+      "prompt_for_pexels": "ancient chinese warrior gate phoenix mist dramatic",
+      "script_text": "The Azure Phoenix Sect thought they had buried him forever. They were wrong."
+    },
+    {
+      "clip_id": "TN-02-02",
+      "scene": "Confrontation - Face the Elders",
+      "prompt_for_hailuo": "ancient chinese grand hall elders kneeling golden energy dramatic",
+      "prompt_for_pexels": "ancient chinese grand hall golden energy dramatic warriors",
+      "script_text": "Every elder who turned away... every disciple who laughed... they would all learn."
+    },
+    {
+      "clip_id": "TN-02-03",
+      "scene": "Power Display - Crushing the Arrogant",
+      "prompt_for_hailuo": "Massive energy wave exploding from a cultivator destroying pillars of a great hall, disciples flying backwards, epic wuxia battle scene",
+      "prompt_for_pexels": "energy wave destruction epic battle ancient china warriors",
+      "script_text": "The price of underestimating a phoenix reborn from ashes."
+    },
+    {
+      "clip_id": "TN-02-04",
+      "scene": "New Threat - The Sect Master",
+      "prompt_for_hailuo": "Sect master in elaborate ancient Chinese robes emerging from shadows, aura of terrifying power, dramatic lighting, wuxia villain",
+      "prompt_for_pexels": "ancient chinese villain dramatic lighting shadows powerful",
+      "script_text": "But even legends have masters. A new threat emerged from the shadows."
+    },
+    {
+      "clip_id": "TN-02-05",
+      "scene": "Teaser - The True Battle Begins",
+      "prompt_for_hailuo": "Two cultivators facing each other on cliff edge, storm clouds gathering, lightning striking behind them, epic wuxia confrontation",
+      "prompt_for_pexels": "cliff edge storm lightning dramatic battle ancient china",
+      "script_text": "The true battle begins. Subscribe and witness the war of heavens."
+    }
+  ],
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "orientation": "vertical",
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "wuxia",
+    "cultivation",
+    "revenge",
+    "sect war"
+  ],
+  "thumbnail_idea": "Phoenix rising from flames, golden light exploding, sect gate crumbling, 'THE SECT THAT FEARED HIS RETURN' text overlay",
+  "status": "published",
+  "created_by": "Nova",
+  "created_at": "2026-03-30T02:15:00Z",
+  "prompt_for_hailuo": "Young male cultivator with long white robes flowing, walking through ancient stone gate of sect temple [Wide tracking shot]. Close-up: glowing phoenix emblem appearing on his forehead [Push in]. Scene shifts: golden fire phoenix rising behind him [Tracking shot, slow motion]. Expression of cold revenge as he walks past terrified disciples [Close-up]. Dramatic wide shot: throne room with golden phoenix light flooding in [Wide shot]. Ancient Chinese sect temple, dramatic red and gold lighting, phoenix fire, cinematic, portrait 9:16.",
+  "visual_scene": "The grand stone gates of the Azure Phoenix Sect at dawn, morning mist rolling across ancient stone steps, massive pillars carved with phoenix motifs towering overhead. Young male cultivator with long black hair now streaked with white, wearing pristine flowing white robes embroidered with silver phoenix symbols, walks slowly through the gates with measured steps, an ancient jade token glowing in his hand. Camera pans up to his face: expression cold and emotionless, a faint smirk forming as terrified disciples step back in shock. Close-up on a young disciple's face: eyes wide with terror, stumbling backward. The young cultivator raises one hand, and golden fire erupts from his palm forming a massive phoenix silhouette rising into the dawn sky with a blinding flash, golden fire illuminating the entire ancient stone courtyard. Wide tracking shot follows him as he strides past rows of kneeling, trembling sect disciples, through grand red-lacquered corridors draped in morning mist. He stops before the great throne, turns, and sits down as golden phoenix fire engulfs the throne room in warm divine radiance, disciples bowing low in fear and reverence. Ancient Chinese sect temple architecture, dramatic dawn lighting, golden phoenix fire, morning mist, cold atmospheric mood, cinematic.",
+  "specific_details": "Young male cultivator with long black hair streaked with white wearing pristine flowing white robes embroidered with silver phoenix symbols, walking slowly through the grand stone gates of the Azure Phoenix Sect at dawn with a jade token glowing in his hand, cold emotionless expression with a faint smirk forming on his face as terrified disciples step back in shock, golden fire erupting from his palm forming a massive phoenix silhouette rising into the dawn sky, disciples trembling and kneeling as he strides past them through red-lacquered corridors draped in morning mist, sitting upon the great throne as golden phoenix fire floods the throne room in warm divine radiance, set in the grand ancient stone temple gates and corridors of the Azure Phoenix Sect at dawn with morning mist rolling across ancient stone steps and massive pillars carved with phoenix motifs, dramatic golden fire and red lacquered architecture, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight full sun, modern clothing, urban setting, warm cozy interior, happy cheerful mood, summer beach scene",
+  "tiktok_seo": {
+    "title": "The Sect That Feared His Return 🔥 #xianxia #wuxia #phoenixrising",
+    "hook_line": "They buried him. They laughed at his grave. The phoenix returned with fire they had never seen.",
+    "description": "They buried him. They laughed at his grave. The phoenix returned with fire they had never seen.\n\nPart 2 of the Tien Nghich saga 👊\n\n#xianxia #wuxia #cultivation #phoenixrising #revenge #sectwar #powerawakening #chinesemythology #ancientsecrets #fyp",
+    "hashtags": [
+      "#xianxia",
+      "#wuxia",
+      "#cultivation",
+      "#chinesemythology",
+      "#chinesefantasy",
+      "#phoenixrising",
+      "#revenge",
+      "#sectwar",
+      "#powerawakening",
+      "#ancientsecrets",
+      "#fyp"
+    ],
+    "sound": "Epic phoenix/flame theme",
+    "thumbnail_overlay": "THE SECT THAT FEARED HIS RETURN | PHOENIX RISING",
+    "optimized_at": "2026-03-30"
+  },
+  "published_at": "2026-03-30T13:55:50.835Z",
+  "published_path": "C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/tien-nghich/TN-02",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TN-02.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z"
+}

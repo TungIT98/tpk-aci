@@ -1,0 +1,179 @@
+﻿{
+  "id": "XIANYX-106",
+  "title": "Muc Than Ky Episode 16: The Girl Who Taught Him to Write Again",
+  "category": "xianxia",
+  "channel": "Muc Than Ky",
+  "series": "Muc Than Ky",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "After years of only writing prophecies, a girl teaches him to write for pleasure again. His calligraphy transforms — becoming beautiful instead of dangerous.",
+    "story_arc": "Meeting the girl → Learning to play → Beautiful characters emerge → Power transforms → Dangerous to beautiful",
+    "emotion": "Melancholy → Warmth → Wonder → Liberation → Joy",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — a small courtyard at sunset. Cherry blossoms drift in the evening breeze. A young woman in simple pale blue robes sits at a low writing desk, practicing calligraphy on ordinary paper. She is not writing prophecy — she is writing POETRY. Birds drawn to her ink. Camera: wide, sunset courtyard, girl writing poetry with birds watching, peaceful atmosphere. 6 seconds.",
+      "camera": "Wide — sunset courtyard, girl writing poetry with birds, cherry blossoms falling, peaceful, 6s",
+      "narration": "She was not a master. She was not trying to reshape the world. She was simply a girl who loved the way ink moved on paper — the way a single stroke could hold an entire feeling.",
+      "sfx": "Cherry blossom falling, bird chirp, paper rustling, evening wind, gentle string"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he passes the courtyard wall and stops. Through a gap in the wall he watches her write. She is laughing at something — she just wrote the character for 'butterfly' and accidentally made the wings too big. The character looks funny. She giggles. He stares. He has not seen someone LAUGH while writing in twenty years. Camera: medium through-wall shot, him watching her laugh at her own calligraphy mistake. 6 seconds.",
+      "camera": "Medium — through-wall shot, him watching her laugh at her butterfly character mistake, 6s",
+      "narration": "He watched her laugh at a crooked butterfly. And for the first time in twenty years, he wanted to write something that was not about power. He wanted to write something that made people smile.",
+      "sfx": "Her giggle, paper rustle, his quiet breath, evening birds, emotional strings swelling"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she notices him watching. She does not scold him — instead she beckons. She slides a fresh piece of paper toward him through the gap in the wall. She mouths the words: 'Write something you LIKE.' He stares at the blank paper. Camera: close-up on blank paper sliding toward him, his hesitant hand reaching out. 6 seconds.",
+      "camera": "Close-up — blank paper sliding through wall gap, his hesitant hand reaching, 6s",
+      "narration": "Write something you LIKE. He could not remember the last time anyone had asked him that. Every character he had written in twenty years had been a prophecy, a command, a burden. He picked up the brush.",
+      "sfx": "Paper sliding, his breath, evening wind, moment of quiet decision, gentle pluck string"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme close-up — his brush touches the paper. He hesitates. Then he begins to write. Not a command. Not a prophecy. He writes a poem — about cherry blossoms. About the way they fell without trying to land anywhere. His brush moves freely — no longer heavy with destiny. The characters he creates are BOLD and BEAUTIFUL — flowing, joyful, alive. Camera: extreme close-up on brush moving freely, joyful beautiful characters appearing on paper. 6 seconds.",
+      "camera": "Extreme close-up — brush moving freely writing cherry blossom poem, characters bold and beautiful, joyful, 6s",
+      "narration": "For the first time in twenty years, his brush was not a weapon. It was not a tool of fate. It was an instrument of joy. And the characters it produced — were the most beautiful he had ever written.",
+      "sfx": "Brush gliding freely, ink flowing, paper accepting ink, joyful breath, spring flute melody"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — he and the girl sit on opposite sides of the wall, writing together in the evening light. Their papers meet through the gap — his calligraphy side by side with hers. His characters: powerful, precise, transformative. Hers: simple, joyful, alive. Together they are complete. Camera: full-body cinematic, two writers on opposite sides of wall, papers meeting through gap, sunset light golden. 6 seconds. End on both their faces smiling.",
+      "camera": "Full-body — two writers on opposite sides of wall, papers meeting through gap, sunset golden light, smiling faces, 6s",
+      "narration": "She had taught him the one thing he had forgotten: that words did not only have the power to shape destiny. They had the power to bring joy. And in that evening light, separated by a wall but joined by ink — he was finally, fully human again.",
+      "sfx": "Two brushes writing together, papers meeting, evening wind, cherry blossoms falling, warm orchestral, peace"
+    }
+  ],
+  "audio": {
+    "narration": "She was not a master. She was not trying to reshape the world. She was simply a girl who loved the way ink moved on paper — the way a single stroke could hold an entire feeling. He watched her laugh at a crooked butterfly. And for the first time in twenty years, he wanted to write something that was not about power. He wanted to write something that made people smile. Write something you LIKE. He could not remember the last time anyone had asked him that. Every character he had written in twenty years had been a prophecy, a command, a burden. He picked up the brush. For the first time in twenty years, his brush was not a weapon. It was not a tool of fate. It was an instrument of joy. And the characters it produced — were the most beautiful he had ever written. She had taught him the one thing he had forgotten: that words did not only have the power to shape destiny. They had the power to bring joy. And in that evening light, separated by a wall but joined by ink — he was finally, fully human again.",
+    "narration_duration": 28,
+    "bg_music": "Warm gentle Chinese orchestral, spring atmosphere, emotional healing, writing joy, bittersweet warmth 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Cherry blossom falling",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Her giggle",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Paper sliding",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Brush gliding freely",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Two brushes writing together",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — a small courtyard at sunset. Cherry blossoms drift in the evening breeze. A young woman in simple pale blue robes sits at a low writing desk, practicing calligraphy on ordinary paper. She is not writing prophecy — she is writing POETRY. Birds drawn to her ink. Camera: wide, sunset courtyard, girl writing poetry with birds watching, peaceful atmosphere. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he passes the courtyard wall and stops. Through a gap in the wall he watches her write. She is laughing at something — she just wrote the character for 'butterfly' and accidentally made the wings too big. The character looks funny. She giggles. He stares. He has not seen someone LAUGH while writing in twenty years. Camera: medium through-wall shot, him watching her laugh at her own calligraphy mistake. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she notices him watching. She does not scold him — instead she beckons. She slides a fresh piece of paper toward him through the gap in the wall. She mouths the words: 'Write something you LIKE.' He stares at the blank paper. Camera: close-up on blank paper sliding toward him, his hesitant hand reaching out. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Extreme close-up — his brush touches the paper. He hesitates. Then he begins to write. Not a command. Not a prophecy. He writes a poem — about cherry blossoms. About the way they fell without trying to land anywhere. His brush moves freely — no longer heavy with destiny. The characters he creates are BOLD and BEAUTIFUL — flowing, joyful, alive. Camera: extreme close-up on brush moving freely, joyful beautiful characters appearing on paper. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — he and the girl sit on opposite sides of the wall, writing together in the evening light. Their papers meet through the gap — his calligraphy side by side with hers. His characters: powerful, precise, transformative. Hers: simple, joyful, alive. Together they are complete. Camera: full-body cinematic, two writers on opposite sides of wall, papers meeting through gap, sunset light golden. 6 seconds. End on both their faces smiling."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Muc Than Ky Tập 16: Cô Gái Dạy Anh Viết Lại | Xianxia Việt Sub ⚔️🖌️",
+    "youtube_description": "Episode 16 of Muc Than Ky. A girl teaches him to write for joy, not prophecy. After twenty years of writing destiny, he writes a poem about cherry blossoms — and his calligraphy transforms from dangerous to beautiful. The most powerful calligrapher in the empire, finally learning to smile.\n\n🖌️ Muc Than Ky — Original Chinese Fantasy Series\n📌 Follow for Episode 17 — The Blood Character War\n#xianxia #muc than ky #calligraphy joy #healing #beautiful writing #epic",
+    "youtube_tags": [
+      "xianxia",
+      "muc than ky",
+      "girl teaching calligraphy joy",
+      "writing for pleasure",
+      "beautiful characters",
+      "emotional healing",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô gái dạy anh viết vì NIỀM VUI, không phải vì định mệnh. Lần đầu tiên sau 20 năm, anh viết một bài thơ về hoa anh đào — và thư pháp của anh chuyển từ nguy hiểm thành ĐẸP ⚔️🖌️ Tập 16 Muc Than Ky #xianxia #cổtrang",
+    "playlist": "Muc Than Ky"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — a small courtyard at sunset. Cherry blossoms drift in the evening breeze. A young woman in simple pale blue robes sits at a low writing desk, practicing calligraphy on ordinary paper. She is not writing prophecy — she is writing POETRY. Birds drawn to her ink. Camera: wide, sunset courtyard, girl writing poetry with birds watching, peaceful atmosphere. 6 seconds. Shot 2: Medium shot — he passes the courtyard wall and stops. Through a gap in the wall he watches her write. She is laughing at something — she just wrote the character for 'butterfly' and accidentally made the wings too big. The character looks funny. She giggles. He stares. He has not seen someone LAUGH while writing in twenty years. Camera: medium through-wall shot, him watching her laugh at her own calligraphy mistake. 6 seconds. Shot 3: Close-up — she notices him watching. She does not scold him — instead she beckons. She slides a fresh piece of paper toward him through the gap in the wall. She mouths the words: 'Write something you LIKE.' He stares at the blank paper. Camera: close-up on blank paper sliding toward him, his hesitant hand reaching out. 6 seconds. Shot 4: Extreme close-up — his brush touches the paper. He hesitates. Then he begins to write. Not a command. Not a prophecy. He writes a poem — about cherry blossoms. About the way they fell without trying to land anywhere. His brush moves freely — no longer heavy with destiny. The characters he creates are BOLD and BEAUTIFUL — flowing, joyful, alive. Camera: extreme close-up on brush moving freely, joyful beautiful characters appearing on paper. 6 seconds. Shot 5: Full-body cinematic — he and the girl sit on opposite sides of the wall, writing together in the evening light. Their papers meet through the gap — his calligraphy side by side with hers. His characters: powerful, precise, transformative. Hers: simple, joyful, alive. Together they are complete. Camera: full-body cinematic, two writers on opposite sides of wall, papers meeting through gap, sunset light golden. 6 seconds. End on both their faces smiling.",
+  "visual_scene": "Wide shot — a small courtyard at sunset. Cherry blossoms drift in the evening breeze. A young woman in simple pale blue robes sits at a low writing desk, practicing calligraphy on ordinary paper. She is not writing prophecy — she is writing POETRY. Birds drawn to her ink. Camera: wide, sunset courtyard, girl writing poetry with birds watching, peaceful atmosphere. 6 seconds. Medium shot — he passes the courtyard wall and stops. Through a gap in the wall he watches her write. She is laughing at something — she just wrote the character for 'butterfly' and accidentally made the wings too big. The character looks funny. She giggles. He stares. He has not seen someone LAUGH while writing in twenty years. Camera: medium through-wall shot, him watching her laugh at her own calligraphy mistake. 6 seconds. Close-up — she notices him watching. She does not scold him — instead she beckons. She slides a fresh piece of paper toward him through the gap in the wall. She mouths the words: 'Write something you LIKE.' He stares at the blank paper. Camera: close-up on blank paper sliding toward him, his hesitant hand reaching out. 6 seconds. Extreme close-up — his brush touches the paper. He hesitates. Then he begins to write. Not a command. Not a prophecy. He writes a poem — about cherry blossoms. About the way they fell without trying to land anywhere. His brush moves freely — no longer heavy with destiny. The characters he creates are BOLD and BEAUTIFUL — flowing, joyful, alive. Camera: extreme close-up on brush moving freely, joyful beautiful characters appearing on paper. 6 seconds. Full-body cinematic — he and the girl sit on opposite sides of the wall, writing together in the evening light. Their papers meet through the gap — his calligraphy side by side with hers. His characters: powerful, precise, transformative. Hers: simple, joyful, alive. Together they are complete. Camera: full-body cinematic, two writers on opposite sides of wall, papers meeting through gap, sunset light golden. 6 seconds. End on both their faces smiling.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Muc Than Ky Episode 16: The Girl Who Taught Him to Write Again",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "muc than ky",
+    "girl teaching calligraphy joy",
+    "writing for pleasure",
+    "beautiful characters",
+    "emotional healing",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z",
+  "publishedAt": "2026-04-06T02:42:50.516Z",
+  "tiktok_url": "/@fai20128/video/7625470893803801876"
+}

@@ -1,0 +1,179 @@
+﻿{
+  "id": "XIANYX-105",
+  "title": "Muc Than Ky Episode 15: The Calligrapher's Final Exhibition",
+  "category": "xianxia",
+  "channel": "Muc Than Ky",
+  "series": "Muc Than Ky",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "He hosts a calligraphy exhibition. Every character he writes at the exhibition begins a chain of events that reshapes the empire.",
+    "story_arc": "Exhibition opens → First character painted → Chain reactions begin → Empire reshaped → Power of art revealed",
+    "emotion": "Anticipation → Wonder → Chaos → Transformation → Awe",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide aerial shot — the imperial exhibition hall, a vast open courtyard decorated with silk banners and cherry trees. Hundreds of scholars, officials, and generals fill the space. In the center: a massive blank white silk scroll — fifty feet tall. Red carpet. Golden frames empty, awaiting art. Camera: aerial wide of packed exhibition courtyard, slow push in toward the blank giant scroll. 6 seconds.",
+      "camera": "Push in — aerial wide of packed exhibition courtyard to the giant blank silk scroll, 6s",
+      "narration": "The Imperial Calligraphy Exhibition happened once every decade. This year, for the first time, the Ink Master had agreed to display his work. The empire held its breath.",
+      "sfx": "Crowd murmur, ceremonial drum, silk banners snapping, anticipation hum, string instrument"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he enters through a side door. He wears pure white scholar's robes — no color, no ornament. In his hand: a single brush. The crowd parts. He walks slowly toward the giant scroll. His face: calm, almost serene. Camera: medium, crowd parting, him walking toward scroll in white robes, slow cinematic. 6 seconds.",
+      "camera": "Tracking — medium tracking as crowd parts, him walking in white robes toward the scroll, 6s",
+      "narration": "He had not written for an audience in ten years. The last time he had written publicly, two provinces had flooded. Tonight, he would try something he had never done before. He would write what he FELT — not what he knew.",
+      "sfx": "Crowd silence, his footsteps on red carpet, his steady breath, brush held, heartbeat"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Extreme close-up — his brush touches the silk. He writes a single character: 'peace.' As soon as the ink touches the silk, the character LIFTS OFF — glowing white-gold — and shoots into the sky. Camera: extreme close-up on brush writing, character lifting off and shooting skyward, slow-motion effect. 6 seconds.",
+      "camera": "Extreme close-up — brush writing 'peace' on silk, character lifting off and shooting into sky, 6s",
+      "narration": "He wrote 'peace.' And somewhere across the empire — at that exact moment — a general lowered his sword. A war stopped. A treaty was signed. One character. One moment. One war ended.",
+      "sfx": "Brush on silk, character lifting whoosh, golden light trail, distant sword clattering, peace bells"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Cinematic montage / wide shot — rapid sequence: he writes 'rain' — distant drought-stricken fields receive instant downpour. He writes 'truth' — a corrupt minister's mask falls from his face. He writes 'hope' — a dying child's eyes open with renewed strength. Each character shoots from his brush into the sky, scattering across the empire. Camera: wide cinematic montage, character after character flying into the sky, empire responding. 6 seconds.",
+      "camera": "Wide montage — multiple characters flying into sky, empire responding: rain, truth revealed, hope restored, 6s",
+      "narration": "He wrote rain for the thirsty. Truth for the silenced. Hope for the dying. Each character was a decree — issued not by the emperor, but by the brush. And the empire obeyed.",
+      "sfx": "Multiple whoosh sounds, rain falling, mask falling, child's breath, empire responding, orchestral crescendo"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — he lowers his brush. The giant scroll is covered in flowing characters — a complete poem. The entire exhibition hall is silent. Every person stares at the scroll. Slowly, the characters begin to glow in sequence — and across the empire: war ends, prisons open, harvest fields turn golden. He looks at the sky. Camera: full-body at the scroll, characters glowing in sequence, slow orbit around him as empire transforms. 6 seconds.",
+      "camera": "Orbit — full-body at glowing scroll, empire transforming in background, him looking skyward, 6s",
+      "narration": "He had reshaped the empire in thirty seconds. Not with armies. Not with gold. With art. With a brush and a heart that finally understood the true power of the written word — that it could change the world — one character at a time.",
+      "sfx": "Scroll glowing sequence, empire transformation hum, wind across exhibition, epic orchestral finale, triumphant swell"
+    }
+  ],
+  "audio": {
+    "narration": "The Imperial Calligraphy Exhibition happened once every decade. This year, for the first time, the Ink Master had agreed to display his work. The empire held its breath. He had not written for an audience in ten years. The last time he had written publicly, two provinces had flooded. Tonight, he would try something he had never done before. He would write what he FELT — not what he knew. He wrote 'peace.' And somewhere across the empire — at that exact moment — a general lowered his sword. A war stopped. A treaty was signed. One character. One moment. One war ended. He wrote rain for the thirsty. Truth for the silenced. Hope for the dying. Each character was a decree — issued not by the emperor, but by the brush. And the empire obeyed. He had reshaped the empire in thirty seconds. Not with armies. Not with gold. With art. With a brush and a heart that finally understood the true power of the written word — that it could change the world — one character at a time.",
+    "narration_duration": 28,
+    "bg_music": "Epic triumphant Chinese orchestral, exhibition grandeur, character magic, empire transformation, inspiring 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Crowd murmur",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Crowd silence",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Brush on silk",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Multiple whoosh sounds",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Scroll glowing sequence",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide aerial shot — the imperial exhibition hall, a vast open courtyard decorated with silk banners and cherry trees. Hundreds of scholars, officials, and generals fill the space. In the center: a massive blank white silk scroll — fifty feet tall. Red carpet. Golden frames empty, awaiting art. Camera: aerial wide of packed exhibition courtyard, slow push in toward the blank giant scroll. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he enters through a side door. He wears pure white scholar's robes — no color, no ornament. In his hand: a single brush. The crowd parts. He walks slowly toward the giant scroll. His face: calm, almost serene. Camera: medium, crowd parting, him walking toward scroll in white robes, slow cinematic. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Extreme close-up — his brush touches the silk. He writes a single character: 'peace.' As soon as the ink touches the silk, the character LIFTS OFF — glowing white-gold — and shoots into the sky. Camera: extreme close-up on brush writing, character lifting off and shooting skyward, slow-motion effect. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Cinematic montage / wide shot — rapid sequence: he writes 'rain' — distant drought-stricken fields receive instant downpour. He writes 'truth' — a corrupt minister's mask falls from his face. He writes 'hope' — a dying child's eyes open with renewed strength. Each character shoots from his brush into the sky, scattering across the empire. Camera: wide cinematic montage, character after character flying into the sky, empire responding. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — he lowers his brush. The giant scroll is covered in flowing characters — a complete poem. The entire exhibition hall is silent. Every person stares at the scroll. Slowly, the characters begin to glow in sequence — and across the empire: war ends, prisons open, harvest fields turn golden. He looks at the sky. Camera: full-body at the scroll, characters glowing in sequence, slow orbit around him as empire transforms. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Muc Than Ky Tập 15: Triển Lãm Chữ Viết Cuối Cùng | Xianxia Việt Sub ⚔️🖌️",
+    "youtube_description": "Episode 15 of Muc Than Ky. He hosts a calligraphy exhibition. For the first time in ten years, he writes in public. Every character reshapes the empire — wars end, truth emerges, hope spreads. One brush. Thirty seconds. One poem that changed everything.\n\n🖌️ Muc Than Ky — Original Chinese Fantasy Series\n📌 Follow for Episode 16 — The Girl Who Taught Him to Write Again\n#xianxia #muc than ky #calligraphy exhibition #art changes empire #epic",
+    "youtube_tags": [
+      "xianxia",
+      "muc than ky",
+      "calligraphy exhibition",
+      "character reshaping empire",
+      "brush and ink",
+      "artistic power",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Anh tổ chức triển lãm thư pháp. Mỗi chữ anh viết đều thay đổi đế chế — chiến tranh kết thúc, sự thật hiện ra, hy vọng lan tỏa. Một bức tranh ⚔️🖌️ Tập 15 Muc Than Ky #xianxia #cổtrang",
+    "playlist": "Muc Than Ky"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide aerial shot — the imperial exhibition hall, a vast open courtyard decorated with silk banners and cherry trees. Hundreds of scholars, officials, and generals fill the space. In the center: a massive blank white silk scroll — fifty feet tall. Red carpet. Golden frames empty, awaiting art. Camera: aerial wide of packed exhibition courtyard, slow push in toward the blank giant scroll. 6 seconds. Shot 2: Medium shot — he enters through a side door. He wears pure white scholar's robes — no color, no ornament. In his hand: a single brush. The crowd parts. He walks slowly toward the giant scroll. His face: calm, almost serene. Camera: medium, crowd parting, him walking toward scroll in white robes, slow cinematic. 6 seconds. Shot 3: Extreme close-up — his brush touches the silk. He writes a single character: 'peace.' As soon as the ink touches the silk, the character LIFTS OFF — glowing white-gold — and shoots into the sky. Camera: extreme close-up on brush writing, character lifting off and shooting skyward, slow-motion effect. 6 seconds. Shot 4: Cinematic montage / wide shot — rapid sequence: he writes 'rain' — distant drought-stricken fields receive instant downpour. He writes 'truth' — a corrupt minister's mask falls from his face. He writes 'hope' — a dying child's eyes open with renewed strength. Each character shoots from his brush into the sky, scattering across the empire. Camera: wide cinematic montage, character after character flying into the sky, empire responding. 6 seconds. Shot 5: Full-body cinematic — he lowers his brush. The giant scroll is covered in flowing characters — a complete poem. The entire exhibition hall is silent. Every person stares at the scroll. Slowly, the characters begin to glow in sequence — and across the empire: war ends, prisons open, harvest fields turn golden. He looks at the sky. Camera: full-body at the scroll, characters glowing in sequence, slow orbit around him as empire transforms. 6 seconds.",
+  "visual_scene": "Wide aerial shot — the imperial exhibition hall, a vast open courtyard decorated with silk banners and cherry trees. Hundreds of scholars, officials, and generals fill the space. In the center: a massive blank white silk scroll — fifty feet tall. Red carpet. Golden frames empty, awaiting art. Camera: aerial wide of packed exhibition courtyard, slow push in toward the blank giant scroll. 6 seconds. Medium shot — he enters through a side door. He wears pure white scholar's robes — no color, no ornament. In his hand: a single brush. The crowd parts. He walks slowly toward the giant scroll. His face: calm, almost serene. Camera: medium, crowd parting, him walking toward scroll in white robes, slow cinematic. 6 seconds. Extreme close-up — his brush touches the silk. He writes a single character: 'peace.' As soon as the ink touches the silk, the character LIFTS OFF — glowing white-gold — and shoots into the sky. Camera: extreme close-up on brush writing, character lifting off and shooting skyward, slow-motion effect. 6 seconds. Cinematic montage / wide shot — rapid sequence: he writes 'rain' — distant drought-stricken fields receive instant downpour. He writes 'truth' — a corrupt minister's mask falls from his face. He writes 'hope' — a dying child's eyes open with renewed strength. Each character shoots from his brush into the sky, scattering across the empire. Camera: wide cinematic montage, character after character flying into the sky, empire responding. 6 seconds. Full-body cinematic — he lowers his brush. The giant scroll is covered in flowing characters — a complete poem. The entire exhibition hall is silent. Every person stares at the scroll. Slowly, the characters begin to glow in sequence — and across the empire: war ends, prisons open, harvest fields turn golden. He looks at the sky. Camera: full-body at the scroll, characters glowing in sequence, slow orbit around him as empire transforms. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Muc Than Ky Episode 15: The Calligrapher's Final Exhibition",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "muc than ky",
+    "calligraphy exhibition",
+    "character reshaping empire",
+    "brush and ink",
+    "artistic power",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z",
+  "publishedAt": "2026-04-06T02:41:29.487Z",
+  "tiktok_url": "/@fai20128/video/7625470569676295445"
+}

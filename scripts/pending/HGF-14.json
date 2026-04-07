@@ -1,0 +1,33 @@
+﻿{
+  "id": "HGF-14",
+  "category": "hot_girl_fitness",
+  "channel": "HotGirlFitness",
+  "title": "5 sai lầm người mới tập gym thường mắc — Số 3 khiến bạn chấn thương",
+  "script": "Sai lầm số 1: Tập quá nhiều ngày đầu — tập 7 ngày/tuần rồi bỏ hoàn toàn tuần sau. Sai lầm số 2: Tập Cardio trước khi tập sức — không xây được cơ vì đã mệt. Sai lầm số 3: Tập với form sai — đặc biệt squat và deadlift — dẫn đến chấn thương lưng trong 3 tháng đầu. Sai lầm số 4: Không ăn đủ protein — tập mà không có building block cho cơ. Sai lầm số 5: So sánh mình với người khác — họ có thể tập 5 năm rồi. Bắt đầu chậm. Học form đúng. Kiên nhẫn. Đây là marathon, không phải sprint.",
+  "prompt_for_hailuo": "Newbie girl at gym looking overwhelmed, surrounded by complex equipment [Wide shot, confused expression]. WRONG form montage: back arching on squat, bouncing at the bottom, half reps [Close up form mistakes]. CORRECT form: perfect barbell squat, straight back deadlift, full range hip thrust [Medium shot clean form]. Wrong foods: junk food binges after workouts, empty protein plate [Split screen graphic]. Comparison wrong: exhausted girl quitting vs patient girl progressing [Side by side]. Expert trainer correcting girl's form with hands-on guidance [Medium shot]. Modern bright gym, cool blue lighting, instructive documentary feel, cinematic portrait 9:16.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "hot_girl",
+    "fitness",
+    "beginner",
+    "gym_mistakes",
+    "form",
+    "tips",
+    "gym",
+    "advice",
+    "vietnam"
+  ],
+  "thumbnail_idea": "Newbie at gym looking overwhelmed — surrounded by machines, confused expression",
+  "visual_scene": "A modern bright gym with cool blue professional lighting and an instructive documentary atmosphere: a young Vietnamese beginner fitness girl standing in the middle of a gym floor surrounded by complex equipment looking visibly overwhelmed and confused, her eyes darting between different machines. A sequence of wrong form mistakes flash on screen: her back severely arching during a barbell squat, her knees caving inward, bouncing at the bottom of a squat instead of controlling the movement, doing half-reps on bicep curls. Then a corrective montage shows perfect form: a textbook barbell squat with a straight back and full depth, a clean deadlift with a neutral spine, a full range hip thrust. A split-screen graphic shows wrong post-workout nutrition: junk food binges and empty protein plates on the left versus a proper balanced protein-rich meal on the right. A side-by-side comparison shows an exhausted girl quitting in frustration on the left versus a patient focused girl progressing week by week on the right. An expert trainer is shown giving hands-on form correction guidance to the beginner girl. Cool professional gym lighting throughout, instructive and empowering documentary feel, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark dingy gym, sad defeated expression throughout, outdoor park, beach, home workout setting, cartoon instructional graphics",
+  "specific_details": "Modern bright gym with cool blue lighting, overwhelmed Vietnamese beginner girl surrounded by complex equipment, wrong form mistakes: back arching on squat, knees caving, bouncing bottom of squat, half-reps on curls; correct form: textbook barbell squat full depth, clean deadlift neutral spine, full range hip thrust; split-screen junk food binge left vs proper protein meal right; exhausted quiter vs patient progress girl side-by-side; expert trainer hands-on form correction, instructive documentary atmosphere, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:44:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HGF-14.mp4",
+  "produced_at": "2026-04-01T04:50:00.000Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:04:40.176Z",
+  "tiktok_url": "/@fai20128/video/7625198191947861269"
+}

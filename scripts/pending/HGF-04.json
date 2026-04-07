@@ -1,0 +1,30 @@
+﻿{
+  "id": "HGF-04",
+  "category": "hot_girl_fitness",
+  "channel": "TikTok_Viral",
+  "title": "Sau sinh 6 tháng — cô gái này lấy lại body bikini không cần nhịn ăn",
+  "script": "Sau khi sinh, tôi nặng 72kg. Mọi người nói hãy kiên nhẫn. Nhưng tôi không muốn chờ đợi. Tôi bắt đầu tập từ tuần thứ 6 sau sinh — tập đúng cách, không nhịn ăn, không thực phẩm bổ sung lạ. 6 tháng sau, tôi mặc bikini đi biển. Không phải vì áp lực phải đẹp. Mà vì tôi muốn cảm nhận lại cơ thể của chính mình. Đây không phải câu chuyện giảm cân. Đây là câu chuyện về việc yêu bản thân ở mọi giai đoạn.",
+  "prompt_for_hailuo": "Young mother looking at reflection in mirror, touching her post-partum stomach with mixed emotion [Close up]. Transition: woman doing gentle post-partum exercises at home, then progressing to gym [Tracking montage]. Healthy nutritious meals being prepared: grilled chicken, vegetables, rice [Close up food]. Woman doing core exercises, visible progress in strength [Medium shot]. Beach scene: woman in bikini walking along shoreline, confident and happy [Wide shot, golden hour]. Before/after progress photos displayed on phone [Static overlay]. Warm beach aesthetic, empowering atmosphere, natural light, cinematic portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "hot_girl",
+    "postpartum",
+    "fitness",
+    "body_positive",
+    "mom_fitness",
+    "vietnam"
+  ],
+  "thumbnail_idea": "Mother in bikini on beach vs her reflection in mirror — '6 tháng sau sinh' text overlay",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T11:16:00Z",
+  "visual_scene": "A golden hour beach with a young Vietnamese mother in her late 20s wearing a white bikini walking along the shoreline with the ocean waves lapping at her feet, her stomach toned and defined, her expression radiating confidence and joy, long dark hair flowing in the sea breeze, the warm golden sunset light illuminating her skin creating a halo effect around her athletic figure, turquoise water stretching to the horizon, palm trees silhouetted against the orange sky, the scene celebrating postpartum fitness and body reclamation, portrait 9:16.",
+  "specific_details": "A young Vietnamese mother in her late 20s wearing a white bikini walking along the shoreline of a golden hour beach with the ocean waves lapping at her feet, her stomach toned and defined, her expression radiating confidence and joy with long dark hair flowing in the sea breeze, the warm golden sunset light illuminating her skin and creating a halo effect around her athletic figure with turquoise water stretching to the horizon and palm trees silhouetted against the orange sky, the scene celebrating postpartum fitness and body reclamation in warm cinematic golden hour light, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark gym interior, rainy weather, sad or depressed mood, winter cold, cluttered home interior",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HGF-04.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:00:11.815Z",
+  "tiktok_url": "/@fai20128/video/7625197034634628373"
+}

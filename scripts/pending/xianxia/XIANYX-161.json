@@ -1,0 +1,177 @@
+﻿{
+  "id": "XIANYX-161",
+  "title": "Muc Than Ky Episode 21: Five Elements Forbidden Floor",
+  "category": "xianxia",
+  "channel": "Muc Than Ky",
+  "series": "Muc Than Ky",
+  "episode": 21,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The forbidden floor of the Grand Library held the five elements — fire, water, earth, wind, thunder. Mo Fan descended alone to face what no one had conquered in ten thousand years.",
+    "story_arc": "Forbidden floor → Five elements locked → Mo Fan enters → Trial begins → First element",
+    "emotion": "Tension → Discovery → Entry → Trial → First element",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the forbidden floor of the Grand Library. Five massive locked doors, each glowing with elemental power: fire orange, water blue, earth brown, wind white, thunder purple.",
+      "camera": "Wide — forbidden floor, five locked element doors, Mo Fan standing before them, mysterious atmosphere, 6s",
+      "narration": "The forbidden floor held the five elements. One for each trial Mo Fan must pass alone — or die trying.",
+      "sfx": "Five doors humming, forbidden atmosphere, Mo Fan's footsteps, mystical tension building"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Mo Fan in the fire trial. The flames test not his power — but his HEART. Can he accept that transformation is not loss? That changing yourself is not dying?",
+      "camera": "Close-up — Mo Fan in fire trial, flames testing his heart, transformation understood, 6s",
+      "narration": "Fire was not destruction. It was TRANSFORMATION. And the first step in changing the world — was changing himself.",
+      "sfx": "Fire testing heart, transformation understanding, Mo Fan accepting, mystical whoosh, mastery sound"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — Mo Fan combines water and earth for the FIRST TIME IN HISTORY. MUD forms. STONE rises. Foundation and persistence united in a single technique.",
+      "camera": "Wide — water and earth combining, mud forming stone rising, foundation and persistence united, power building, 6s",
+      "narration": "No one had ever combined two elements like this. Fire could burn alone. Water could flow alone. But mud — mud could build worlds from nothing.",
+      "sfx": "Elements combining, mud forming, stone rising, power hum building, achievement orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the first Grand Architect's history appears in the Grand Library's light. Mo Fan sees his own FACE reflected in the Architect's memory. He IS the first Grand Architect reborn.",
+      "camera": "Close-up — first Architect history appearing, Mo Fan sees his own face as the first Architect, shocking revelation, 6s",
+      "narration": "The first Grand Architect. The one who built the world ten thousand years ago. And he — was Mo Fan himself, reborn. He was building his OWN world.",
+      "sfx": "History revealing, shocked recognition, first Architect face, revelation sound, ancient truth"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Mo Fan as Grand Architect. The five elements MERGE in his palms. Not mixing — TRANSCENDING. A NEW WORLD takes shape — from nothing. From his five-element palms, existence itself is born.",
+      "camera": "Wide — Grand Architect Mo Fan, five elements merged in palms, new world taking shape, transcendent finale, 6s",
+      "narration": "The orphan who had been told he was nothing had become the architect of worlds. And from his five-element palms — creation itself was born.",
+      "sfx": "Five elements merging, world forming in palms, creation sound, Grand Architect achieved, transcendent finale"
+    }
+  ],
+  "audio": {
+    "narration": "The forbidden floor held the five elements. One for each trial Mo Fan must pass alone — or die trying. Fire was not destruction. It was TRANSFORMATION. And the first step in changing the world — was changing himself. No one had ever combined two elements like this. Fire could burn alone. Water could flow alone. But mud — mud could build worlds from nothing. The first Grand Architect. The one who built the world ten thousand years ago. And he — was Mo Fan himself, reborn. He was building his OWN world. The orphan who had been told he was nothing had become the architect of worlds. And from his five-element palms — creation itself was born.",
+    "narration_duration": 28,
+    "bg_music": "Epic elemental orchestral, five elements theme, Grand Architect mystery, forbidden archive, 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Five doors humming",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Fire testing heart",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Elements combining",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "History revealing",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Five elements merging",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the forbidden floor of the Grand Library. Five massive locked doors, each glowing with elemental power: fire orange, water blue, earth brown, wind white, thunder purple."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — Mo Fan in the fire trial. The flames test not his power — but his HEART. Can he accept that transformation is not loss? That changing yourself is not dying?"
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — Mo Fan combines water and earth for the FIRST TIME IN HISTORY. MUD forms. STONE rises. Foundation and persistence united in a single technique."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the first Grand Architect's history appears in the Grand Library's light. Mo Fan sees his own FACE reflected in the Architect's memory. He IS the first Grand Architect reborn."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide shot — Mo Fan as Grand Architect. The five elements MERGE in his palms. Not mixing — TRANSCENDING. A NEW WORLD takes shape — from nothing. From his five-element palms, existence itself is born."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Muc Than Ky Tập 21: Five Elements Forbidden Floor | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 21 of Muc Than Ky. The forbidden floor of the Grand Library held the five elements — fire, water, earth, wind, thunder. Mo Fan descended alone to face what no one had conquered in ten thousand years.\n\n⚔️ Muc Than Ky — Original Chinese Fantasy Series\n📌 Follow for next episode\n#xianxia #mucthanky #epic",
+    "youtube_tags": [
+      "xianxia",
+      "muc than ky",
+      "mtk",
+      "epic battle",
+      "chinese fantasy",
+      "cultivation"
+    ],
+    "tiktok_caption": "The forbidden floor of the Grand Library held the five elements — fire, water, earth, wind, thunder. Mo Fan descended alone to face what no one had conquered in ten thousand years. ⚔️🔥 Tập 21 Muc Than Ky #xianxia #cổtrang",
+    "playlist": "Muc Than Ky"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the forbidden floor of the Grand Library. Five massive locked doors, each glowing with elemental power: fire orange, water blue, earth brown, wind white, thunder purple. Shot 2: Close-up — Mo Fan in the fire trial. The flames test not his power — but his HEART. Can he accept that transformation is not loss? That changing yourself is not dying? Shot 3: Wide cinematic — Mo Fan combines water and earth for the FIRST TIME IN HISTORY. MUD forms. STONE rises. Foundation and persistence united in a single technique. Shot 4: Close-up — the first Grand Architect's history appears in the Grand Library's light. Mo Fan sees his own FACE reflected in the Architect's memory. He IS the first Grand Architect reborn. Shot 5: Wide shot — Mo Fan as Grand Architect. The five elements MERGE in his palms. Not mixing — TRANSCENDING. A NEW WORLD takes shape — from nothing. From his five-element palms, existence itself is born.",
+  "visual_scene": "Wide establishing — the forbidden floor of the Grand Library. Five massive locked doors, each glowing with elemental power: fire orange, water blue, earth brown, wind white, thunder purple. Close-up — Mo Fan in the fire trial. The flames test not his power — but his HEART. Can he accept that transformation is not loss? That changing yourself is not dying? Wide cinematic — Mo Fan combines water and earth for the FIRST TIME IN HISTORY. MUD forms. STONE rises. Foundation and persistence united in a single technique. Close-up — the first Grand Architect's history appears in the Grand Library's light. Mo Fan sees his own FACE reflected in the Architect's memory. He IS the first Grand Architect reborn. Wide shot — Mo Fan as Grand Architect. The five elements MERGE in his palms. Not mixing — TRANSCENDING. A NEW WORLD takes shape — from nothing. From his five-element palms, existence itself is born.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Muc Than Ky Episode 21: Five Elements Forbidden Floor",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "muc than ky",
+    "mtk",
+    "epic battle",
+    "chinese fantasy",
+    "cultivation"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-06T04:30:00Z",
+  "publishedAt": "2026-04-06T16:01:35.808Z",
+  "tiktok_url": "/@fai20128/video/7625676734314138900"
+}

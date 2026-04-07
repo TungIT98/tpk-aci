@@ -1,0 +1,31 @@
+﻿{
+  "id": "LIFE-05",
+  "category": "lifestyle",
+  "channel": "TikTok_Viral",
+  "title": "Khi bạn ngừng so sánh với người khác — cuộc đời bạn thay đổi hoàn toàn",
+  "script": "Ngày mình ngừng so sánh bản thân với người khác trên mạng xã hội... là ngày mình bắt đầu thật sự sống. Không phải vì họ giỏi hơn mình. Mà vì khi bạn so sánh, bạn đang đánh giá hành trình của mình bằng thước đo của người khác. Và đó là một trận đấu mà bạn không bao giờ thắng. Vì bạn không bao giờ biết đầy đủ câu chuyện của họ.",
+  "prompt_for_hailuo": "Young woman sitting on bed scrolling social media, frustrated expression [Close up screen light on face]. Throws phone away suddenly, lies back looking at ceiling [Medium shot]. Stands up, walks to mirror, looks at herself seriously [Close up mirror reflection]. Wears headphones, walks out door with calm determined expression [Tracking shot]. Sits by lake at sunset, peaceful smile, puts phone away [Wide shot with nature]. Modern bedroom with plants, evening golden light, reflective moment, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "socialmedia",
+    "selflove",
+    "mindset",
+    "happiness",
+    "lifestyle",
+    "peace",
+    "comparison"
+  ],
+  "thumbnail_idea": "Woman throwing phone away in bedroom, golden evening light, dramatic moment of letting go",
+  "visual_scene": "A modern cozy bedroom with warm evening light streaming through sheer curtains, plants on shelves and desk, a young woman sitting cross-legged on her bed scrolling through social media on her phone. Her expression slowly shifts to frustration, then sadness, as she compares herself to others online. She suddenly throws the phone onto the bed with force, lies back staring at the ceiling breathing deeply. She stands up, walks to the full-length mirror, looks at her own reflection seriously, then with growing acceptance and love. She grabs her headphones from the desk, puts them on, and walks out the door with a calm and determined expression. She sits by a calm lake at sunset, pulls out her phone one last time, looks at it, then deliberately puts it face-down in her bag and smiles peacefully into the golden sunset. Warm golden hour lake atmosphere, peaceful transformative moment, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, harsh cold lighting, night scene, gym or fitness setting, party or loud environment, dark moody atmosphere",
+  "specific_details": "Young woman in casual home clothes (oversized hoodie and leggings), sitting on a cozy bed surrounded by pillows in a modern bedroom with plants, scrolling social media with frustrated then sad expression. She throws phone away suddenly, lies back staring at ceiling breathing deeply, stands and walks to mirror looking at herself seriously then with growing acceptance and love, grabs headphones and walks out door with calm determined expression, sits by a lake at sunset deliberately putting her phone face-down in her bag with a peaceful transformative smile.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\LIFE-05.mp4",
+  "produced_at": "2026-03-31T01:56:55.483Z",
+  "produced_by": "ceo-gen-wave2",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:10:31.714Z",
+  "tiktok_url": "https://www.tiktok.com/tiktokstudio/upload"
+}

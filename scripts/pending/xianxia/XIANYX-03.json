@@ -1,0 +1,196 @@
+﻿{
+  "id": "XIANYX-03",
+  "title": "Tru Tien Episode 1: The Sealed Flame",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 1,
+  "audience": "Fans of Chinese fantasy, cultivation/xianxia drama viewers, 18-35 demographic who enjoy underdog transformation and flame-rebirth stories",
+  "tone": "Sorrowful, gritty, defiant, epic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "They stole his fire. Burned his future. But fire — true fire — cannot be destroyed. Only hidden.",
+    "story_arc": "Valley of ashes — The humiliation — The shattered spirit sea — Mysterious presence stirs — The first spark",
+    "emotion": "Anguish — Shame — Numbness — Awakening — Defiant hope",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide shot — a young man collapses alone in a scorched volcanic valley. Grey ash covers everything. Dead trees twisted like claws reach from black rock. His plain grey training robes are burned and torn. His entire back is marked with angry red sealing scars — a spiritual seal carved into his flesh and meridians. He drags himself forward through ash on his elbows, leaving a trail. His face is gaunt, hollow, eyes vacant. In his clenched fist he holds a single charred wooden practice sword. Camera: extreme wide establishing shot, slow push in to medium shot as he crawls forward. 6 seconds.",
+      "camera": "Push in — extreme wide to medium, 6s",
+      "narration": "Once, his fire could melt mountains. They sealed it with a forbidden technique — carved into his flesh while he screamed. Left him in the Valley of Ashes to die.",
+      "sfx": "Burning embers crackling, ash wind, distant volcanic rumble, ragged breathing, cloth dragging on stone"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — a flashback vision: a beautiful woman in white robes stands before him in a great hall filled with elders. She raises her hand, and violet sealing light erupts from her palm, striking his chest. His eyes go wide with betrayal — she was his teacher, his mentor, the one he trusted most. Then the memory cuts. Present: he lies in ash, his fist clenching the charred practice sword so hard his knuckles bleed. Tears cut tracks through the ash on his face. He exhales — and a wisp of grey smoke escapes his lips — his fire, dying. Camera: flashback close-up of betrayal, then cut to present close-up on bleeding fist and dying smoke. 6 seconds.",
+      "camera": "Flashback cut + close-up, bleeding fist, 6s",
+      "narration": "Her hand raised in blessing — and she carved the seal into his back. Even as he fell, he remembered her cold words: You were always too arrogant for your own good.",
+      "sfx": "Spiritual seal zap crackling, elders murmuring, single tear hitting ash, breath exhale with dying ember"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium wide shot — he finally stops moving. He lies on his back in the ash, staring upward at a grey sky through the twisted dead trees. His hand moves to his chest — the center of his dantian. Where a blazing fire spirit sea once roared, there is only silence and cold — a shattered spirit sea, dark and cracked. He presses his palm flat against his chest. Nothing. No warmth. No power. Not even pain. Just emptiness. A broken cultivator. Camera: medium wide shot overhead, his body in ash, slow pan down from sky to his hand pressing chest. 6 seconds.",
+      "camera": "Pan down — overhead ash valley to hand on chest, 6s",
+      "narration": "In his chest — where a fire spirit sea once blazed — there was nothing. Just cold silence and the memory of what once burned there.",
+      "sfx": "Wind howling through dead valley, heartbeat slow and hollow, ash settling, silence except for breath"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — in the darkness of his shattered spirit sea, something stirs. A faint point of deep crimson light pulses at the very deepest core — ancient, patient, sleeping. It pulses in response to his despair. His eyes snap open. He feels it — something still alive inside him. He presses harder on his chest, breathing fast now. The crimson point flickers brighter. Ancient glyphs briefly appear in the air around him, glowing deep red, then fade. Camera: extreme close-up on his eye widening, then a stylized vision of the crimson point pulsing in the dark spirit sea, then back to his face. 6 seconds.",
+      "camera": "Extreme close-up eye + spirit sea vision, 6s",
+      "narration": "But deep in the abyss of his shattered spirit sea — something ancient had not forgotten. A flame that had burned since before the world was born. And it had been waiting.",
+      "sfx": "Deep bass hum from within, glyph resonance chime, heartbeat suddenly intensifying, wind dropping to near silence"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Medium shot — he rises to his knees. He throws his head back and screams into the grey sky — raw, anguished, defiant. His voice echoes through the dead valley. The ash swirls violently around him. A single ember — crimson red — appears in his raised palm, glowing against the darkness. The first spark of the fire that will be reborn. His scream becomes a controlled exhale. He stares at the ember with cold, burning eyes. His teacher took his fire from his meridians — but she did not know what slept in the deepest core. Camera: medium shot, slow push in from screaming to the burning ember in his palm, ending on his cold, determined eyes. 6 seconds.",
+      "camera": "Push in — screaming mid to ember in palm, ending on eyes, 6s",
+      "narration": "They sealed his fire in his flesh. But they made one mistake — the fire they sealed was not his true fire. And his true fire — was never theirs to take.",
+      "sfx": "Primal scream echoing through valley, ash swirl intensifying, ember crackling to life, bass surge, resolve-filled breath exhale"
+    }
+  ],
+  "audio": {
+    "narration": "Once, his fire could melt mountains. They sealed it with a forbidden technique — carved into his flesh while he screamed. Left him in the Valley of Ashes to die. Her hand raised in blessing — and she carved the seal into his back. Even as he fell, he remembered her cold words: You were always too arrogant for your own good. In his chest — where a fire spirit sea once blazed — there was nothing. Just cold silence and the memory of what once burned there. But deep in the abyss of his shattered spirit sea — something ancient had not forgotten. A flame that had burned since before the world was born. And it had been waiting. They sealed his fire in his flesh. But they made one mistake — the fire they sealed was not his true fire. And his true fire — was never theirs to take.",
+    "narration_duration": 28,
+    "bg_music": "Gritty epic xianxia soundtrack, low cello and deep strings, building percussion, mournful flute opening transitioning to intense determination, 78 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "burning embers and ragged breathing",
+        "volume": 0.6
+      },
+      {
+        "time": 6,
+        "sound": "spiritual seal zap and tear hitting ash",
+        "volume": 0.7
+      },
+      {
+        "time": 12,
+        "sound": "wind howling and hollow heartbeat",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "deep bass hum from within and glyph chime",
+        "volume": 0.7
+      },
+      {
+        "time": 24,
+        "sound": "primal scream and ember crackling to life",
+        "volume": 0.9
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide shot — a young man collapses alone in a scorched volcanic valley. Grey ash covers everything. Dead trees twisted like claws reach from black rock. His plain grey training robes are burned and torn. His entire back is marked with angry red sealing scars. He drags himself forward through ash on his elbows, leaving a trail. His face is gaunt, hollow, eyes vacant. Camera: extreme wide establishing shot, slow push in to medium shot as he crawls forward. [Push in — extreme wide to medium]"
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — a flashback: a beautiful woman in white robes stands before him in a great hall filled with elders. She raises her hand, and violet sealing light erupts from her palm, striking his chest. His eyes go wide with betrayal. Then present: he lies in ash, fist clenching a charred practice sword so hard his knuckles bleed. Grey smoke escapes his lips. Camera: flashback close-up betrayal, then cut to present close-up on bleeding fist and dying smoke. [Flashback cut + close-up, bleeding fist]"
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium wide shot — he lies on his back in ash, staring upward at a grey sky through twisted dead trees. His hand moves to his chest — the center of his dantian. Where a blazing fire spirit sea once roared, there is only silence and cold — a shattered spirit sea, dark and cracked. He presses his palm flat against his chest. Nothing. Camera: medium wide shot overhead, his body in ash, slow pan down from sky to his hand pressing chest. [Pan down — overhead ash valley to hand on chest]"
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — in the darkness of his shattered spirit sea, something stirs. A faint point of deep crimson light pulses at the very deepest core — ancient, patient, sleeping. His eyes snap open. He feels it — something still alive inside him. The crimson point flickers brighter. Ancient glyphs briefly appear in the air around him, glowing deep red, then fade. Camera: extreme close-up on his eye widening, then a stylized vision of the crimson point pulsing in the dark spirit sea, then back to his face. [Extreme close-up eye + spirit sea vision]"
+    },
+    {
+      "shot": 5,
+      "prompt": "Medium shot — he rises to his knees. He throws his head back and screams into the grey sky — raw, anguished, defiant. The ash swirls violently around him. A single ember — crimson red — appears in his raised palm, glowing against the darkness. The first spark. He stares at the ember with cold, burning eyes. Camera: medium shot, slow push in from screaming to the burning ember in his palm, ending on his cold, determined eyes. [Push in — screaming mid to ember in palm, ending on eyes]"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 1: Ngọn Lửa Bị Phong Ấn | Xianxia Việt Sub 🔥",
+    "youtube_description": "Episode 1 of Tru Tien. They stole his fire. Carved a forbidden seal into his back. Left him to die in the Valley of Ashes. But the ancient flame that slept in his deepest core — was never theirs to take.\n\n🔥 Tru Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 2 — The Ember Awakens\n#xianxia #chinesefantasy #wuxia #cultivation #sealedflame #underdog #epic #fantasy #betrayal #rebirth #dramatic",
+    "youtube_tags": [
+      "xianxia",
+      "chinese fantasy",
+      "wuxia",
+      "cultivation",
+      "sealed flame",
+      "underdog",
+      "epic fantasy",
+      "betrayal",
+      "rebirth",
+      "dramatic",
+      "young man",
+      "ash valley",
+      "tru tien"
+    ],
+    "tiktok_caption": "Họ phong ấn ngọn lửa của anh vào lưng và bỏ mặc anh ta chờ chết 🔥 Nhưng họ đã mắc một sai lầm chí mạng... | Xianxia Việt Sub #xianxia #phimviet #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "male_deep_intense (MiniMax speech-02-hd, speed 1.0, slight reverb, anguished then determined tone)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide shot — a young man collapses alone in a scorched volcanic valley. Grey ash covers everything. Dead trees twisted like claws reach from black rock. His plain grey training robes are burned and torn. His entire back is marked with angry red sealing scars. He drags himself forward through ash on his elbows, leaving a trail. Camera: extreme wide establishing shot, slow push in to medium shot as he crawls forward. Shot 2: Close-up flashback: a beautiful woman in white robes raises her hand, violet sealing light striking his chest. His eyes go wide with betrayal. Then present: he lies in ash, fist clenching a charred practice sword, knuckles bleeding. Grey smoke escapes his lips. Camera: flashback close-up betrayal, then cut to present close-up on bleeding fist. Shot 3: Medium wide shot overhead — he lies on his back in ash, staring upward at grey sky through twisted dead trees. Hand pressing on chest where his dantian once burned. Nothing. Camera: pan down from sky to hand pressing chest. Shot 4: Extreme close-up on his eye widening as something stirs. A faint deep crimson point pulses in darkness of his spirit sea. Ancient glyphs briefly glow red, then fade. Camera: extreme close-up eye, then spirit sea vision, then back to face. Shot 5: Medium shot — he rises to his knees, throws his head back screaming into the grey sky. Ash swirls. A single crimson ember appears in his raised palm. He stares at it with cold, burning eyes. Camera: slow push in from screaming to ember in palm, ending on determined eyes.",
+  "visual_scene": "A scorched volcanic ash valley at dusk, grey sky heavy with smoke. Dead twisted trees like black claws. A young man in torn grey robes crawling through ash, his back covered in angry red sealing scars. A beautiful woman in white robes in a great hall, violet sealing light erupting from her palm. A shattered spirit sea as a dark cracked orb with a tiny deep crimson point pulsing at its center. Ancient red glyphs briefly shimmering in ash. The young man rising to his knees, head thrown back screaming, a single crimson ember glowing in his raised palm. Cinematic portrait 9:16 vertical framing. Anguished, gritty, defiant atmosphere.",
+  "specific_details": {
+    "subject": "Young man, 18-22 years old, sharp handsome face covered in ash and blood, gaunt hollow cheeks, intense dark eyes with deep determination beneath the despair, strong jaw, lean athletic build",
+    "outfit_exact": "Torn grey training robes, burn marks and ash coverage, sleeves shredded, bare feet in volcanic ash, leather belt burned through, charred wooden practice sword in hand",
+    "setting_details": "Scorched volcanic ash valley, dead twisted trees, grey ash ground, dark overcast sky, spiritual seal scars on back",
+    "face_expression": "Shot 1: Vacant, hollow despair. Shot 2: Shock and tears of betrayal. Shot 3: Empty numbness, hand pressing cold chest. Shot 4: Sudden realization, eyes widening. Shot 5: Raw primal scream transitioning to cold determination, ember in palm",
+    "body_movement": "Shot 1: Collapsed crawling through ash on elbows. Shot 2: Fist clenching practice sword, tears falling, grey smoke exhale. Shot 3: Lying back, hand pressing dantian. Shot 4: Eyes snapping open, body tensing. Shot 5: Rising to knees, head thrown back scream, ember appearing in raised palm",
+    "camera": "Scene 1: Push in (extreme wide to medium). Scene 2: Flashback cut + close-up (betrayal to bleeding fist). Scene 3: Pan down (overhead to hand on chest). Scene 4: Extreme close-up eye + spirit sea vision. Scene 5: Push in (screaming to ember and determined eyes)"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, smiling expression, warm cheerful colors, blue or green fire, landscape orientation",
+  "thumbnail_idea": "Young man in torn grey ash-covered robes rising to his knees in a dead volcanic valley, crimson ember glowing in his raised palm, grey sky and ash swirling around him, back scarred with red sealing marks — title TRU TIEN EP.1 in crimson flame font on dark background",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "wuxia",
+    "cultivation",
+    "sealed flame",
+    "underdog",
+    "betrayal",
+    "rebirth",
+    "epic fantasy",
+    "dramatic",
+    "young man",
+    "ash valley",
+    "tru tien"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-02T02:10:00Z",
+  "videoFile": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-03.mp4",
+  "produced_at": "2026-04-03T00:59:56.782ZZ",
+  "publishedAt": "2026-04-05T11:19:46.152Z",
+  "tiktok_url": "/@fai20128/video/7625233024128453909",
+  "caption": "Họ phong ấn ngọn lửa của anh vào lưng và bỏ mặc anh ta chờ chết 🔥 Nhưng họ đã mắc một sai lầm chí mạng... | Xianxia Việt Sub #xianxia #phimviet #cổtrang",
+  "tiktok_uploaded_at": "2026-04-03T01:04:43.571Z",
+  "tiktok_status": "uploaded"
+}

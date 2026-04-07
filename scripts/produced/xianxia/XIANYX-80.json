@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-80",
+  "title": "Dau Pha Thuong Khau Episode 20: The New Arena",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 20,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Hope, new beginning, redemption earned, bittersweet and triumphant",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "The old arena was built on blood. The new one would be built on the one thing the old one never had: a willing heart.",
+    "story_arc": "Months later — the crater transformed → Silence village above ground → Our fighter as new leader → A different kind of arena → Final scene: golden butterflies return",
+    "emotion": "Transformation → Hope → Redemption → New beginning → Peaceful triumph",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing shot — dawn over the arena crater. What was once the Blood Arena is now a terraced garden. Green plants grow from the transformed sand. A village has been built around the crater's edge — stone homes, cooking fires, children playing. Our fighter stands at the highest point, looking over the transformation. The Silence — now in sunlight. Camera: wide establishing shot — dawn over transformed arena crater now terraced garden, village built around edge, children playing, our fighter standing at highest point, green plants growing from transformed sand. 6 seconds.",
+      "camera": "Wide — transformed arena crater as terraced garden at dawn, village around edge, children playing, our fighter at highest point, green and alive, 6s",
+      "narration": "Six months after the arena fell. The crater that had swallowed ten thousand lives had become a garden. And the village built around it — children playing in sunlight their grandparents had never seen.",
+      "sfx": "Children laughing and playing, morning birds singing, wind through garden plants, cooking fires crackling, our fighter breathing calmly, peaceful wind"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the blind woman sits in a garden chair in the sunlight. Her blind eyes are closed. She is crying — but smiling. Real sunlight on her face for the first time in three hundred years. A child runs up to her — tugs her sleeve. 'Grandmother — there's a butterfly!' The blind woman laughs — a sound she has not made in three centuries. Camera: medium — blind woman in sunlight crying and smiling, child tugging her sleeve pointing at butterfly, golden butterfly landing on her hand. 6 seconds.",
+      "camera": "Medium — blind woman in sunlight crying and smiling, child tugging sleeve, golden butterfly landing on her hand, three centuries of silence ending in laughter, 6s",
+      "narration": "The golden butterflies never left. After the formation released them — they chose to stay. Flying above the garden that had grown from their sacrifice. And the blind woman — who had survived three hundred years by feeling the formation — could feel them: the ten thousand souls, finally at peace.",
+      "sfx": "Blind woman laughing — broken by three centuries but healing, child laughing, butterfly wings with whisper-sound, wind through garden, tears on blind woman's face in sunlight"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — our fighter stands at the edge of the old arena floor. Now it is soft earth — green shoots pushing through. He kneels — presses his hand into the earth. 'Thank you,' he whispers. Not to anyone specific. To the ten thousand. To the willing sacrifice. To the arena master — who had been a monster but had once been a man who made a choice. He stands. Camera: close-up — our fighter kneeling with hand in soft earth, green shoots around him, his quiet whispered thank you, tears on his face. 6 seconds.",
+      "camera": "Close-up — fighter kneeling with hand in soft earth, green shoots around him, his whispered thank you, tears on face, 6s",
+      "narration": "He had come to the Blood Arena as a fighter — wanting victory. He left as something else: a man who had helped end three centuries of blood — and helped build something worth protecting.",
+      "sfx": "His whisper: thank you, earth crumbling softly under his hand, green shoots rustling, wind through garden, his quiet breath, butterflies circling above"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — a new arena has been built — not for blood. For TESTING. Young cultivators from across the realm come to face challenges — mental, spiritual, philosophical. The old arena master's throne room has been converted into a teaching hall. Our fighter — in simple grey robes — stands at its entrance. 'The first lesson,' he says to the gathered students, 'is knowing when not to fight.' Camera: wide — new arena teaching hall from converted throne room, young cultivators gathered, our fighter in grey robes at entrance, the first lesson beginning. 6 seconds.",
+      "camera": "Wide — new arena teaching hall from converted throne room, young cultivators gathered, our fighter at entrance, first lesson beginning, 6s",
+      "narration": "The new arena taught one principle: the strongest fighter was not the one who could defeat any opponent — but the one brave enough to choose peace when victory was possible.",
+      "sfx": "Young cultivators breathing in anticipation, wind through converted hall, our fighter's calm voice: the first lesson is knowing when not to fight, butterfly wings in background, peaceful wind"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — hundreds of golden butterflies rise from the terraced garden — thousands — tens of thousands. Each one a freed soul. They spiral upward in the dawn light — rising above the village, above the garden, above the crater — into the open sky. Our fighter watches them go — along with every person in the village. The blind woman — eyes closed — smiles. The child — waves. The butterflies spiral higher — and dissolve into pure morning light. Camera: wide shot — tens of thousands of golden butterflies rising from the garden in dawn light, spiraling upward above the village, dissolving into pure morning light. Every person watching. Peace. 6 seconds.",
+      "camera": "Wide — tens of thousands of golden butterflies rising from garden at dawn, spiraling upward above village, dissolving into pure morning light, every person watching, peace, 6s",
+      "narration": "Ten thousand butterflies — ten thousand souls freed — spiraling into the dawn. And in their rising — a village remembered them. And in their dissolving — the world was lighter for their having lived. The Blood Arena was gone. And what grew in its place — was the answer to why any of it had mattered.",
+      "sfx": "Thousands of butterfly wings creating whisper-chorus like distant windchimes, village silence as everyone watches, child's excited voice: they're flying home, butterflies dissolving with soft chime into pure light, wind carrying the sound of ten thousand souls finally free, morning birds singing the new day"
+    }
+  ]
+}

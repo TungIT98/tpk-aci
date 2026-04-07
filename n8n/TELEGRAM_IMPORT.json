@@ -1,0 +1,96 @@
+{
+    "settings":  {
+                     "executionOrder":  "v1"
+                 },
+    "name":  "TKP Video - Paperclip Nova",
+    "id":  "49a9efe6-9d9e-42b0-ab83-afa96dd494b7",
+    "connections":  {
+                        "Daily 8AM":  {
+                                          "main":  [
+                                                       [
+                                                           {
+                                                               "node":  "Wakeup Nova",
+                                                               "type":  "main",
+                                                               "index":  0
+                                                           }
+                                                       ]
+                                                   ]
+                                      },
+                        "Wakeup Nova":  {
+                                            "main":  [
+                                                         [
+                                                             {
+                                                                 "node":  "Telegram Notify",
+                                                                 "type":  "main",
+                                                                 "index":  0
+                                                             }
+                                                         ]
+                                                     ]
+                                        }
+                    },
+    "nodes":  [
+                  {
+                      "id":  "schedule-trigger",
+                      "name":  "Daily 8AM",
+                      "type":  "n8n-nodes-base.scheduleTrigger",
+                      "typeVersion":  1.2,
+                      "position":  [
+                                       100,
+                                       300
+                                   ],
+                      "parameters":  {
+                                         "rule":  {
+                                                      "kind":  "schedule",
+                                                      "expression":  "0 8 * * *"
+                                                  }
+                                     }
+                  },
+                  {
+                      "id":  "wakeup-nova",
+                      "name":  "Wakeup Nova",
+                      "type":  "n8n-nodes-base.httpRequest",
+                      "typeVersion":  4.2,
+                      "position":  [
+                                       400,
+                                       300
+                                   ],
+                      "parameters":  {
+                                         "method":  "POST",
+                                         "url":  "http://localhost:3100/api/agents/8c85bfb8-95eb-49f8-aae3-311b51ce5274/wakeup",
+                                         "sendHeaders":  true,
+                                         "headerParameters":  {
+                                                                  "parameters":  [
+                                                                                     {
+                                                                                         "name":  "Authorization",
+                                                                                         "value":  "Bearer 724b0662d7f8cb522ac2db5ab10723da95c42ff192657815"
+                                                                                     },
+                                                                                     {
+                                                                                         "name":  "Content-Type",
+                                                                                         "value":  "application/json"
+                                                                                     }
+                                                                                 ]
+                                                              },
+                                         "sendBody":  true,
+                                         "specifyBody":  "json",
+                                         "jsonBody":  "={\n  \"task\": \"Generate next video from pending scripts and upload to YouTube\"\n}"
+                                     }
+                  },
+                  {
+                      "id":  "telegram-notify",
+                      "name":  "Telegram Notify",
+                      "type":  "n8n-nodes-base.httpRequest",
+                      "typeVersion":  4.2,
+                      "position":  [
+                                       700,
+                                       300
+                                   ],
+                      "parameters":  {
+                                         "method":  "POST",
+                                         "url":  "https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage",
+                                         "sendBody":  true,
+                                         "specifyBody":  "json",
+                                         "jsonBody":  "={\n  \"chat_id\": \"YOUR_TELEGRAM_CHAT_ID\",\n  \"text\": \"🎬 Video Production Started\\n\\nNova agent đã được wakeup để tạo video.\",\n  \"parse_mode\": \"Markdown\"\n}"
+                                     }
+                  }
+              ]
+}

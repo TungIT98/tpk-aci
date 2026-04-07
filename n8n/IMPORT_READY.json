@@ -1,0 +1,71 @@
+﻿{
+  "name": "TKP Video Pipeline - OpenClaw Driver",
+  "nodes": [
+    {
+      "id": "schedule-trigger",
+      "name": "Daily 8AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [100, 300],
+      "parameters": {
+        "rule": {
+          "kind": "schedule",
+          "expression": "0 8 * * *"
+        }
+      }
+    },
+    {
+      "id": "call-openclaw",
+      "name": "Call OpenClaw",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [400, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:18789/webhook/tkp-generate-video",
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"action\": \"generate_video\",\n  \"script_id\": \"VID-001\",\n  \"title\": \"Test Video\"\n}"
+      }
+    },
+    {
+      "id": "discord-success",
+      "name": "Discord - Success",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [700, 200],
+      "parameters": {
+        "webhook": {
+          "url": "={{ $env.DISCORD_WEBHOOK_URL }}"
+        },
+        "text": "🎬 **Video Done!**\n\nScript: VID-001\nOpenClaw: ✅"
+      }
+    },
+    {
+      "id": "discord-fail",
+      "name": "Discord - Failed",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [700, 400],
+      "parameters": {
+        "webhook": {
+          "url": "={{ $env.DISCORD_WEBHOOK_URL }}"
+        },
+        "text": "❌ **Video Failed!**\n\nError: {{ $json.message }}"
+      }
+    }
+  ],
+  "connections": {
+    "Daily 8AM": {
+      "main": [[{"node": "Call OpenClaw", "type": "main", "index": 0}]]
+    },
+    "Call OpenClaw": {
+      "main": [
+        [{"node": "Discord - Success", "type": "main", "index": 0}],
+        [{"node": "Discord - Failed", "type": "main", "index": 0}]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

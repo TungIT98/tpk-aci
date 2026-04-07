@@ -1,0 +1,30 @@
+{
+  "id": "PW-11",
+  "channel": "Productivity Worker",
+  "title": "How to Say No Without Burning Bridges (The Exact Script)",
+  "script": "Saying no at work feels risky. But research proves the opposite — people who set boundaries are seen as more competent, not less. Here's the three-part formula. Part one: acknowledge. 'I appreciate you thinking of me.' Part two: decline clearly. 'I can't take this on right now.' Part three: redirect. 'What would help is...' That's it. Don't over-explain. Brevity is respect. The reason this works is because it shows you took their request seriously. Every yes to someone else is a no to your own priorities. Protect your time with language that keeps relationships intact.",
+  "prompt_for_hailuo": "Person at desk receiving a request, looking conflicted [Medium shot]. Speech bubble opens: 'Can you take this on?' [Close-up]. Transition: person speaks calmly with confident expression [Medium shot, direct eye contact]. Three-step script appearing on screen: '1. Acknowledge 2. Decline 3. Redirect' [Graphic overlay, clean typography]. Coworker nods and smiles after hearing the no [Wide shot, positive reaction]. Person returns to desk, focused on original task [Tracking shot]. Calendar showing protected deep work time with checkmark [Static overlay]. Clean office, professional warm lighting, calm confident energy, cinematic cut.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "saying no",
+    "work boundaries",
+    "professional skills",
+    "career communication",
+    "workplace relationships"
+  ],
+  "thumbnail_idea": "Person speaking 'no' calmly with speech bubble, 'SAY NO WITHOUT GUILT' overlay, professional warm tones",
+  "status": "pending",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T08:00:00Z",
+  "video_path": "output_topic/videos/PW-11.mp4",
+  "generated_at": "2026-03-30T10:03:37.083Z",
+  "uploaded_at": "2026-03-30T11:20:00Z",
+  "youtube_url": null,
+  "upload_note": "Uploaded via TikTok browser automation.",
+  "visual_scene": "A bright warm home office with afternoon golden hour light streaming through a window onto a desk setup. Young professional woman with natural curly hair and minimal makeup wearing a soft knit sweater sitting at her desk, a speech bubble graphic appearing beside her showing a colleague's message 'Can you take this on?' — her expression showing visible inner conflict, one hand on the mouse, eyebrows furrowed. Close-up on her face: she takes a calm breath, expression shifting from conflict to quiet confidence, jaw softening with resolve. She speaks directly to camera with calm clear voice and confident body language, standing straight, making deliberate eye contact, saying no firmly but kindly, head nodding slightly to reinforce the boundary. Warm afternoon home office, golden hour light, boundary-setting empowerment moment, cinematic.",
+  "specific_details": "Young professional woman with natural curly hair and minimal makeup wearing a soft knit sweater sitting at a bright warm home office desk in afternoon golden hour light streaming through a window, speech bubble graphic appearing beside her showing a colleague's message 'Can you take this on?' with visible inner conflict on her face, eyebrows furrowed and one hand on the mouse; close-up on her face taking a calm breath with expression shifting from conflict to quiet confidence and jaw softening with resolve; she speaks directly to camera with calm clear voice and confident body language standing straight with deliberate eye contact saying no firmly but kindly with a slight confident nod; set in a warm bright home office with afternoon golden hour light streaming through a window, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, harsh fluorescent office lighting, dim interior, angry or aggressive expression, anxious fearful expression",
+  "produced_at": "2026-03-31T05:38:48.840Z",
+  "qc_status": null
+}

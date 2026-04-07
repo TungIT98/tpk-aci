@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-62",
+  "title": "Trieu Tien Episode 12: The Forgotten Student",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Emotional confrontation, past revealed, betrayal and grief",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Sword Saint's second disciple had been erased. From every record. Every memory.",
+    "story_arc": "Huong's story told → The forced separation → Why Trieu Tien never knew → The truth about Trieu Tien's mother → Shared tears",
+    "emotion": "Rage → Sadness → Revelation → Understanding → Shared grief",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Medium close-up — Trieu Huong sits in the meditation hall, speaking calmly. 'He found me when I was four. A orphan in the burning capital. He trained me for eight years. Then — he left me.' Trieu Tien stands across from her, arms crossed. 'When?' Huong: 'The night your mother died.' Trieu Tien flinches. The hall goes cold. Camera: medium — two women in hall, one speaking calmly, one flinching at mention of mother. 6 seconds.",
+      "camera": "Medium — meditation hall confrontation, calm accusation, flinch at mother's name, 6s",
+      "narration": "The Sword Saint had abandoned his second student the night Trieu Tien's mother died.",
+      "sfx": "Wind in the empty hall, calm voice, sharp flinch, candle flickering"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Trieu Tien's hand trembles. 'My mother. You know how she died?' Huong nods slowly. 'The army that burned the capital — the same one that attacked our sect. Your mother was not just his wife. She was the enemy general's daughter.' Trieu Tien's face crumbles. Her legs give out. She sits on the stone floor. Camera: close-up — her legs giving out, sitting on floor, face crumbling, world shattered. 6 seconds.",
+      "camera": "Close-up — her legs giving out, sitting on floor, face crumbling, world shattered, 6s",
+      "narration": "Her mother — was the enemy general's daughter. Everything she knew was a lie.",
+      "sfx": "Body falling to stone, her sob, wind stopping, complete silence"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — Trieu Huong walks forward slowly. Sits down next to Trieu Tien on the cold floor. Two enemies. Two sisters in grief. She says quietly: 'He left me because your mother asked him to. She knew she was dying. She asked him to choose.' Trieu Tien looks up. Huong: 'I don't hate you. I never did.' The first moment of understanding. Camera: extreme close-up — two women on stone floor, first understanding, shared tears. 6 seconds.",
+      "camera": "Extreme close-up — two women on floor, first understanding, shared grief, 6s",
+      "narration": "Two daughters of the same master. United not by blood — by grief.",
+      "sfx": "Quiet breathing, two people crying softly, candle crackling, wind outside"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium wide shot — the two women sit side by side on the meditation hall floor. Moonlight streams through high windows. Both wear their hairpins. Both have tear-stained faces. Huong's broken jade pendant and Trieu Tien's matching half — now shown side by side. Two halves of the same whole. Camera: medium wide — both women side by side on floor, moonlight, two jade halves shown together. 6 seconds.",
+      "camera": "Medium wide — two women side by side, moonlight, two jade halves together, 6s",
+      "narration": "The jade pendant was whole again. Two broken pieces of the same past.",
+      "sfx": "Soft wind, two breaths in sync, jade pieces chiming together, distant night owl"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — Trieu Tien speaks for the first time with warmth: 'Stay.' Huong looks at her. 'The sect will not accept you.' Trieu Tien: 'The sect accepted me when I was nothing. They will accept us both now.' She stands. Extends her hand to Huong. Huong stares at the hand. Then — takes it. They stand together. Two daughters of the Sword Saint. United. Camera: close-up — hand extended, taken, two women standing together, unified front. 6 seconds.",
+      "camera": "Close-up — hand extended and taken, two women standing united, hairpins gleaming, 6s",
+      "narration": "And in that moment — the Sword Saint's legacy found its rightful heirs.",
+      "sfx": "Hand taking, two women standing together, wind rising, soft orchestral swell, then silence"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-62.mp4",
+  "produced_at": "2026-04-05T14:05:49.053Z",
+  "publishedAt": "2026-04-06T01:33:28.140Z",
+  "tiktok_url": "/@fai20128/video/7625453007861419285"
+}

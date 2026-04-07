@@ -1,0 +1,52 @@
+{
+  "name": "Gen Z Trend Breakdown",
+  "description": "Trend explainer + reaction format — hook into the trend, break down why it's happening, deliver cultural context. Best for Gen Z culture, TikTok trends, meme breakdowns, and 'why is everyone talking about this' content.",
+  "target_platform": "tiktok",
+  "voice_style": "chatty, culturally fluent, slightly deadpan — speaks like a friend who is terminally online and proud of it; fast-paced energy, natural Gen Z cadence",
+  "music_mood": "trending audio clips woven in, ironic meme music, hyperpop, or the actual trend's original sound as background reference",
+  "hashtag_suggestions": ["#genz", "#trending", "#fyp", "#viral", "#trendbreakdown", "#fypシ", "#xyzbca", "#culture"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "Everyone on your FYP is talking about this trend. And here is why it actually says something really dark about our generation.",
+      "visual_prompt": "Split screen showing multiple examples of the trend from different creators, phone scrolling through viral videos, person in foreground looking confused then intrigued, text 'THE TREND EVERYONE IS TALKING ABOUT'",
+      "camera_movement": "phone screen recording simulation, split screen composition with person reacting in foreground",
+      "lighting_setup": "phone screen glow as primary light source on face, dark room, screen-light-only aesthetic",
+      "hailuo_style_note": "Dark room + phone screen aesthetic is core to Gen Z visual language; split screen creates 'I know you know this' energy",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 25,
+      "narration_prompt": "The trend goes like this: [describe the trend in third person as if explaining to someone not on TikTok]. And it sounds ridiculous until you realize it's actually a coping mechanism for something very real — [insert cultural context about anxiety, economic pressure, social media fatigue, etc.].",
+      "visual_prompt": "Person talking directly to camera with on-screen text examples of the trend, meme format screenshotted, screen recordings of trend going viral, reaction faces stitched in, text callouts explaining subtext",
+      "camera_movement": "medium close-up direct address, quick cuts to screen recording inserts, static on face for insight moments",
+      "lighting_setup": "ring light key from slightly above, warm skin tones, secondary fill from monitor beside camera",
+      "hailuo_style_note": "Direct address is king — eye contact with lens; screen recording inserts break monotony and boost relatability",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 10,
+      "narration_prompt": "The reason this hit so hard is Gen Z grew up being told to be unique while simultaneously being algorithmically pressured to conform. This trend is us laughing at that paradox — and also living inside it.",
+      "visual_prompt": "Person delivering insight with expressive face, graphic showing algorithm funnel narrowing, meme format callout, ironic smile, cultural context graphic",
+      "camera_movement": "slow push-in on the insight delivery, hold for the ironic smile beat, graphic overlay",
+      "lighting_setup": "moody dramatic side lighting for insight moment, shift to brighter on ironic smile beat",
+      "hailuo_style_note": "The insight beat deserves cinematic treatment — hold on face for full impact, then release with ironic smile",
+      "transition": "crossfade"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Do you relate to this trend or does it baffle you entirely? I need to know. Follow and drop a comment.",
+      "visual_prompt": "Person pointing at comment section, laughing or shrugging, poll-style graphics appearing, follow button on screen, phone close-up showing comment section",
+      "camera_movement": "medium close-up, hand gesture toward comment section graphic, casual shrug or laugh",
+      "lighting_setup": "bright energetic lighting, warm tones, inviting and conversational",
+      "hailuo_style_note": "Casual energy — this should feel like a group chat, not a broadcast; eye contact and warm energy essential",
+      "transition": "fade_out"
+    }
+  ]
+}

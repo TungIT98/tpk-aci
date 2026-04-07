@@ -1,0 +1,31 @@
+﻿{
+  "id": "LIFE-04",
+  "category": "lifestyle",
+  "channel": "TikTok_Viral",
+  "title": "Thói quen buổi sáng của triệu phú — mà không ai dám làm theo",
+  "script": "Bạn nghĩ triệu phú thức dậy lúc 5 giờ để làm gì? Để làm thêm việc? Sai. Họ thức dậy sớm để NGỪNG làm. Để ngồi yên. Để không làm gì cả. Bill Gates đọc sách. Oprah thiền. Tim Cook đi bộ. Thức dậy sớm không phải để làm nhiều hơn. Mà là để SUY NGHĨ rõ ràng hơn. Đây là thói quen mà không ai nói cho bạn.",
+  "prompt_for_hailuo": "Man in luxury apartment, standing by floor-to-ceiling window drinking black coffee [Static silhouette shot]. Sits at minimalist desk with journal, writes deeply [Close up hands and pen]. Closes journal, looks out window at city dawn [Medium shot]. Takes morning walk in exclusive neighborhood, relaxed pace [Tracking shot]. Sits on park bench with coffee, reads newspaper [Wide shot with city backdrop]. Modern luxury penthouse interior, early dawn city skyline view, sophisticated minimalist aesthetic, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "morningroutine",
+    "wealth",
+    "success",
+    "habits",
+    "lifestyle",
+    "morning",
+    "millionaire"
+  ],
+  "thumbnail_idea": "Silhouette of successful man at luxury window, dawn city skyline, golden coffee cup",
+  "visual_scene": "A luxury modern penthouse apartment at early dawn, floor-to-ceiling windows revealing a stunning city skyline bathed in pink and gold light. A confident man in his thirties wearing a simple white dress shirt (top buttons undone) and tailored dark pants stands by the window holding a black coffee mug, his silhouette against the glowing city. He sits at a minimalist white desk with a leather-bound journal, writes thoughtfully with a Mont Blanc pen, the pages filled with morning intentions. He closes the journal, stands and looks out at the city waking up with a contemplative expression. He takes a morning walk through an exclusive residential neighborhood, hands in pockets, relaxed and unhurried pace. He sits on an elegant park bench with his takeaway coffee, opens a newspaper casually, morning sun warming his face. Sophisticated minimalist luxury aesthetic, dawn city atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, harsh cold lighting, night scene, loud noisy environment, cluttered messy room, casual clothes, gym outfit, sports setting",
+  "specific_details": "Confident man in his thirties wearing a sophisticated casual white dress shirt and tailored dark pants, standing at floor-to-ceiling windows of a luxury penthouse holding a black ceramic coffee mug, silhouetted against a dawn city skyline. He sits at a minimalist white desk writing deeply in a leather-bound journal with a premium pen, closes it thoughtfully, takes a morning walk through an exclusive tree-lined residential neighborhood with hands in pockets and relaxed pace, sits on an elegant park bench with takeaway coffee reading a newspaper, early morning golden light warming his face.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\LIFE-04.mp4",
+  "produced_at": "2026-03-31T01:56:49.983Z",
+  "produced_by": "ceo-gen-wave2",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:08:04.124Z",
+  "tiktok_url": "/@fai20128/video/7625199209091763477"
+}

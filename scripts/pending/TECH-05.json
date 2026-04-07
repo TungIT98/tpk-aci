@@ -1,0 +1,31 @@
+﻿{
+  "id": "TECH-05",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "Midjourney vs DALL-E 3 — Tạo ảnh AI: Cái nào thắng?",
+  "script": "Midjourney hay DALL-E 3 — công cụ tạo ảnh AI nào tốt nhất 2026? Midjourney tạo ra những tác phẩm nghệ thuật điên rồ với chi tiết ánh sáng电影感. DALL-E 3 hiểu prompt phức tạp cực kỳ chính xác, không cần prompt engineering. Nhưng khi tôi yêu cầu cả hai tạo cùng một concept — kết quả cho thấy: với dân designer chuyên nghiệp, Midjourney vẫn là vua. Còn người dùng thường? DALL-E 3 thắng tuyệt đối về sự tiện lợi.",
+  "prompt_for_hailuo": "Two artistic AI-generated images materializing side by side on dark canvas, left image hyper-detailed fantasy landscape in Midjourney style with cinematic lighting, right image precise illustration in DALL-E 3 style with vibrant colors [Side by side reveal]. Brush strokes and AI neural network connections weaving between both images [Overlay transition]. A golden trophy floating between them with a crown on top [Close up trophy]. Dark artistic studio, dramatic spotlight, paint splatters, neural network visualization in background, cinematic 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "midjourney",
+    "dalle",
+    "aiart",
+    "aitools",
+    "design",
+    "comparison",
+    "tech"
+  ],
+  "thumbnail_idea": "Two AI art pieces side by side with golden trophy floating between them",
+  "visual_scene": "A dark artistic studio with dramatic spotlight illuminating a blank canvas in the center. Two hyper-detailed AI-generated artworks materialize side by side on the canvas — left side a stunning Midjourney-style hyper-detailed fantasy landscape with cinematic golden hour lighting, right side a precise DALL-E 3-style vibrant illustration with perfect composition. Brush strokes and glowing neural network connection lines weave between both images, merging and separating them. A golden trophy with a crown floats between the two artworks, catching the dramatic spotlight. Paint splatters and sparks float through the air. Neural network connection visualizations pulse in the dark background. Close up on the trophy crown as it glows. Portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Two hyper-detailed AI artworks materializing side by side on dark canvas, left Midjourney-style fantasy landscape with cinematic lighting, right DALL-E 3-style precise illustration, glowing neural network connection lines weaving between them, golden crown trophy floating between artworks in dramatic spotlight, paint splatters in air, neural network visualizations pulsing in dark background, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-05.mp4",
+  "produced_at": "2026-03-30T16:16:47.446Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:25:52.439Z",
+  "tiktok_url": "/@fai20128/video/7625203678634331413"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "WC-08",
+  "channel": "World Cup",
+  "title": "When the National Anthem Plays at the World Cup 🇺🇸⚽",
+  "script": "The stadium falls silent. Every voice in 80,000 joins as one. Your national flag fills your chest with something you can't explain. Chills. Every single time. You sing every word even though you don't know all of them. You point to the crest like you're on the team. In that 90 seconds, you are the loudest patriot in that stadium. This is what being a fan really means.",
+  "prompt_for_hailuo": "Young woman with long auburn hair, wearing her country's colors jersey, standing in packed World Cup stadium, hand over heart during national anthem [Static wide shot showing full stadium, flags from many nations visible]. She closes her eyes, lips moving as she sings, proud tears forming in her eyes [Push in on her emotional face, stadium lights glowing behind her]. Second clip: she raises a large national flag above her head as the anthem swells, crowd behind her doing the same [Tracking shot rising to reveal sea of identical flags]. Dramatic stadium lighting, national colors illuminated, emotional atmosphere, cinematic aerial quality, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "worldcup",
+    "football",
+    "nationalanthem",
+    "patriot",
+    "pride",
+    "soccer"
+  ],
+  "thumbnail_idea": "Woman with flag raised high, eyes closed singing national anthem, stadium filled with identical flags in background",
+  "visual_scene": "A packed World Cup stadium at night lit dramatically, 80,000+ fans in national colors filling every seat, sea of flags from many nations rippling gently. Young woman with long auburn hair wearing her country's colors jersey standing among the crowd, hand over heart during the national anthem, eyes closed, lips moving as she sings with pure conviction, proud tears forming in her eyes. Around her: sea of identical flags rising, fans with hands over hearts, stadium lights glowing warmly in national colors. She raises a large national flag above her head as the anthem swells to its crescendo, crowd doing the same around her, dramatic aerial quality, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, daylight flat scene, empty stadium, muted desaturated colors, harsh fluorescent lighting",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-27T13:30:00Z",
+  "published_at": "2026-03-29T00:00:00Z",
+  "youtube_url": "https://youtube.com/shorts/pWhgHgx0i40",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "specific_details": "Young woman with long auburn hair wearing her national team jersey with bold number 7 on the back and blue jeans, standing among 80,000+ passionate fans packed shoulder-to-shoulder in a packed World Cup stadium at night dramatically lit with dramatic stadium floodlights casting white beams across the crowd and sea of national flags from many nations rippling gently in the cool night breeze, voice visibly mouthing the national anthem words with deep emotion and eyes filled with tears of pride, phone held high capturing the moment with stadium lights creating a magical atmosphere overhead, set in a packed World Cup stadium at night dramatically lit with 80,000+ fans in national colors creating a sea of flags and passionate unity, portrait 9:16 framing.",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\WC-08.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

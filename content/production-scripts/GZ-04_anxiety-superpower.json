@@ -1,0 +1,109 @@
+{
+  "id": "GZ-04",
+  "title": "I Turned My Anxiety Into My Biggest Asset — Here's the Framework",
+  "category": "mental_health",
+  "channel": "GenZSuccess",
+  "audience": "18-28 year olds with high-functioning anxiety",
+  "tone": "Empathetic, warm, direct, deeply personal, empowering",
+  "platform": ["TikTok", "YouTube Shorts"],
+  "format": "45-60 seconds, 9:16 vertical",
+  "status": "production_ready",
+
+  "concept": {
+    "hook": "High-functioning anxiety people: your brain isn't broken. It's calibrated for a world your ancestors lived in.",
+    "story_arc": "Hook → Neuroscience reframe → Channel it → The 5-4-3-2-1 reset → CTA",
+    "emotion": "Recognition, relief, empowerment",
+    "duration_seconds": 55
+  },
+
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "Vertical. Person at desk, dim apartment, late night. Laptop open, multiple tabs, notepad full of lists, todo app open. Person looks stressed, heartbeat visible through shirt. They lean back, close eyes briefly, then open them with determination. Warm dim desk lamp.",
+      "camera": "[Push in] From wide desk shot to stressed-then-determined face",
+      "narration": "High-functioning anxiety people: your brain isn't broken. It's calibrated for a world your ancestors lived in.",
+      "sfx": "Heartbeat pulse (subtle), ambient tension"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 25,
+      "duration": 20,
+      "prompt": "Vertical. Clean animation — brain illustration with labeled parts. Anxiety labeled as: HYPERACTIVE PREFRONTAL CORTEX + HEIGHTENED THREAT DETECTION. Red glow around threat detection area. Arrow labeled: 'This is your brain trying to PROTECT you.' Contrast: cave environment (ancestors) vs modern environment (office/phone) — both triggering same ancient alarm system.",
+      "camera": "[Static vertical] Brain animation, clean dark background",
+      "narration": "Here's the neuroscience. Anxiety is a hyperactive prefrontal cortex combined with heightened threat detection. It's your brain's alarm system — designed to keep your ancestors alive in dangerous environments. The problem: your ancestors faced tigers. Your brain sees existential threats in Slack messages and unread emails. Same alarm system, wrong triggers. It's not a bug. It's a feature misdirected.",
+      "sfx": "Alarm system tone, brain scan hum"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 25,
+      "time_end": 40,
+      "duration": 15,
+      "prompt": "Vertical. Person is at organized desk. Multiple screens — contingency plans, backup plans, risk assessments. They look energized, not anxious. Close-up of planner with multiple colored backup options. Person smiles confidently. The anxiety energy is now directed — productive.",
+      "camera": "[Tracking shot] Scanning across organized backup plans",
+      "narration": "Channel it into systems. Anxious people are exceptional at contingency planning. Every worst-case scenario your brain runs? Use that energy to build backup plans, not worry about them. Name your anxiety's superpower. Mine is: I see every way something can go wrong — which means I also see every way to prevent it.",
+      "sfx": "Planning app clicks, keyboard confident typing"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 40,
+      "time_end": 50,
+      "duration": 10,
+      "prompt": "Vertical. Person closes laptop, takes a deep breath. Counts on fingers visible to camera: 5 things you see, 4 things you hear, 3 you feel, 2 you smell, 1 you taste. Camera slowly pulls back showing the calming effect. Peaceful expression returns.",
+      "camera": "[Pull out] Wide shot, person counting, peaceful",
+      "narration": "The 5-4-3-2-1 audit: when anxiety spikes, name 5 things you see, 4 you hear, 3 you feel, 2 you smell, 1 you taste. Resets your nervous system in 60 seconds. Your anxiety is a superpower when you understand the operating system.",
+      "sfx": "Deep breath inhale/exhale, calm ambient"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 50,
+      "time_end": 58,
+      "duration": 8,
+      "prompt": "Vertical direct to camera. Warm, empathetic energy. Eye contact. Person smiles genuinely. Follow button animation. Comment CTA.",
+      "camera": "[Static vertical] Direct to camera, warm close-up",
+      "narration": "Drop 'SUPERPOWER' if this resonated. Following is the best investment you make this year for understanding how your brain actually works.",
+      "sfx": "Follow chime, warm tone"
+    }
+  ],
+
+  "audio": {
+    "narration": "High-functioning anxiety people: your brain isn't broken. It's calibrated for a world your ancestors lived in. Here's the neuroscience. Anxiety is a hyperactive prefrontal cortex combined with heightened threat detection. It's your brain's alarm system — designed to keep your ancestors alive in dangerous environments. The problem: your ancestors faced tigers. Your brain sees existential threats in Slack messages and unread emails. Same alarm system, wrong triggers. It's not a bug. It's a feature misdirected. Channel it into systems. Anxious people are exceptional at contingency planning. Every worst-case scenario your brain runs? Use that energy to build backup plans, not worry about them. Name your anxiety's superpower. Mine is: I see every way something can go wrong — which means I also see every way to prevent it. The 5-4-3-2-1 audit: when anxiety spikes, name 5 things you see, 4 you hear, 3 you feel, 2 you smell, 1 you taste. Resets your nervous system in 60 seconds. Your anxiety is a superpower when you understand the operating system. Drop SUPERPOWER if this resonated. Following is the best investment you make this year for understanding how your brain actually works.",
+    "narration_duration": 58,
+    "bg_music": "Emotional piano, warm lo-fi beats, reflective 80 BPM",
+    "sfx": [
+      { "time": 2.0, "sound": "heartbeat pulse", "volume": 0.4 },
+      { "time": 10.0, "sound": "alarm system tone", "volume": 0.4 },
+      { "time": 35.0, "sound": "keyboard typing confident", "volume": 0.5 },
+      { "time": 44.0, "sound": "deep breath inhale/exhale", "volume": 0.5 },
+      { "time": 53.0, "sound": "follow chime warm", "volume": 0.6 }
+    ]
+  },
+
+  "hailuo_prompts": [
+    { "shot": 1, "prompt": "Vertical. Person at desk, dim apartment, late night. Laptop open, multiple tabs, notepad full of lists, todo app open. Person looks stressed, heartbeat visible through shirt. They lean back, close eyes briefly, then open them with determination. Warm dim desk lamp. [Push in] From wide desk shot to stressed-then-determined face" },
+    { "shot": 2, "prompt": "Vertical. Clean animation — brain illustration with labeled parts. Anxiety labeled as: HYPERACTIVE PREFRONTAL CORTEX plus HEIGHTENED THREAT DETECTION. Red glow around threat detection area. Arrow labeled: This is your brain trying to PROTECT you. Contrast: cave environment vs modern environment — both triggering same ancient alarm system. [Static vertical] Brain animation, clean dark background" },
+    { "shot": 3, "prompt": "Vertical. Person is at organized desk. Multiple screens — contingency plans, backup plans, risk assessments. They look energized, not anxious. Close-up of planner with multiple colored backup options. Person smiles confidently. The anxiety energy is now directed — productive. [Tracking shot] Scanning across organized backup plans" },
+    { "shot": 4, "prompt": "Vertical. Person closes laptop, takes a deep breath. Counts on fingers visible to camera: 5 things you see, 4 things you hear, 3 you feel, 2 you smell, 1 you taste. Camera slowly pulls back showing the calming effect. Peaceful expression returns. [Pull out] Wide shot, person counting, peaceful" },
+    { "shot": 5, "prompt": "Vertical direct to camera. Warm, empathetic energy. Eye contact. Person smiles genuinely. Follow button animation. Comment CTA. [Static vertical] Direct to camera, warm close-up" }
+  ],
+
+  "metadata": {
+    "youtube_title": "I Turned My Anxiety Into My Biggest Asset (The Neuroscience Framework)",
+    "youtube_description": "High-functioning anxiety isn't a flaw — it's a misdirected superpower. Here's the neuroscience of why anxious brains work the way they do, and how to channel that energy into your biggest advantage.\n\n📌 What you'll learn:\n- Why anxiety is your brain's alarm system (not a bug)\n- Why modern life triggers ancient threat detection\n- How to channel anxiety into exceptional contingency planning\n- The 5-4-3-2-1 nervous system reset in 60 seconds\n\n💬 Drop 'SUPERPOWER' in the comments if this resonated.",
+    "youtube_tags": ["anxiety", "mental health", "high functioning anxiety", "neuroscience", "productivity anxiety", "brain hacks", "Gen Z mental health", "anxiety management"],
+    "tiktok_caption": "High-functioning anxiety isn't a flaw — it's a MISDIRECTED superpower 🧠 The neuroscience of why your brain works this way + how to use it 👇 #anxiety #mentalhealth #neuroscience #GenZ #productivity #brainhacks #anxietytips",
+    "playlist": "Mindset & Mental"
+  },
+
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 58,
+    "voice": "male_energetic_young (MiniMax speech-02-hd, speed 1.1)",
+    "music_volume": 0.35,
+    "voice_volume": 1.0,
+    "aspect_ratio": "9:16 vertical only"
+  }
+}

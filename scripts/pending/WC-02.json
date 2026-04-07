@@ -1,0 +1,29 @@
+{
+  "id": "WC-02",
+  "channel": "World Cup",
+  "title": "The Entire Bar Falls Silent 😨⚽",
+  "script": "The ball gets passed. Then again. Then suddenly everyone's on their feet. Nobody breathes. The keeper stretches. The striker shoots. The net ripples. And then — absolute mayhem. Beers spill. Strangers grab each other. Someone screams so loud the windows shake. The bar has become a church and we are all preaching the same sermon: WE SCORED.",
+  "prompt_for_hailuo": "Young woman with long dark hair, dark casual hoodie, standing in a packed lively sports bar watching a World Cup match on a big screen [Static shot, low angle, bar lights dim with screen glow]. Tension builds — everyone on their feet — she grips the edge of the bar, mouth open, eyes wide [Tracking shot moving across row of tense fans]. Goal is scored — she whips around, throws both arms up, screams with abandon [Push in on her face, pure shock turning to euphoria]. Second clip: drinks are flying, high fives everywhere, she's hugging the stranger next to her mid-air [Tracking shot following chaotic celebration]. Neon bar signs glow, screens flash the score, confetti poppers burst [Pull out to wide shot of entire bar celebrating]. Modern sports bar, night game atmosphere, cinematic lighting, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "worldcup",
+    "football",
+    "sportsbar",
+    "celebration",
+    "goals",
+    "soccer"
+  ],
+  "thumbnail_idea": "Woman screaming with joy in crowded sports bar, screens showing match score, spilled drinks in foreground",
+  "visual_scene": "Modern sports bar at night, packed with cheering fans, neon bar signs glowing warmly, big screen TV showing live World Cup match with the score visible, low-angle cinematic lighting mixing screen glow with bar ambient light. Young woman with long dark hair wearing dark casual hoodie standing at the bar, tension in her face gripping the bar edge as a goal opportunity builds, then erupts in pure euphoria throwing both arms up screaming. Around her: drinks flying, high fives and hugs exchanged between strangers, confetti poppers bursting, other fans whipping around celebrating. Cinematic tension-to-release arc, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, empty bar, daylight scene, muted colors",
+  "specific_details": "Young woman with long dark hair, wearing a dark casual hoodie, standing at a packed lively sports bar watching a World Cup match on a big screen TV with the score visible, gripping the bar edge with tension as the ball approaches, then whipping around throwing both arms up mid-scream with pure shock turning to euphoria as drinks fly, high fives are exchanged, and confetti poppers burst around her, set in a modern sports bar at night with neon signs glowing warmly and screen glow mixing with bar ambient light.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-27T09:00:00Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "tiktok_uploaded_at": "2026-03-30T04:12:25.826Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\WC-02.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

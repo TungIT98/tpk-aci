@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-084",
+  "title": "Tru Tien Episode 14: The Curse That Heals Wrong",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 14,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The grimoire's curse healed every soldier's body — but left their hearts broken. She walked through a village of perfectly healthy people who could not stop weeping.",
+    "story_arc": "Healed village → Broken survivors → Physical vs emotional wounds → Attempt to rewrite curse → Power grows",
+    "emotion": "Melancholy → Confusion → Realization → Determination → Power awakening",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — a war village at dawn. Clean. Restored. Wounds healed. Soldiers walk without pain. Buildings rebuilt. It looks perfect. She walks through, expecting gratitude. There is none. Everyone weeps. Perfectly healthy people — weeping silently. Camera: wide, restored village, healed soldiers weeping, her confusion walking through. 6 seconds.",
+      "camera": "Wide — perfectly restored village, healed people weeping silently, her confusion walking through, dawn, 6s",
+      "narration": "The curse had healed every wound in the village. Every soldier walked without pain. Every building was whole. And yet — no one could stop weeping.",
+      "sfx": "Distant weeping, her footsteps on clean stone, wind through rebuilt walls, melancholic strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium close-up — she stops a healed soldier. 'You are not wounded,' she says. He looks at her with hollow eyes. 'My son died in my arms.' She touches his chest — no wound. She touches his heart through his clothes — it is HEALED physically. But she feels the grief inside. A wound the curse cannot see. Camera: close-up, her hand on his chest, feeling his emotional wound, hollow eyes looking back. 6 seconds.",
+      "camera": "Close-up — her hand on his healed chest, feeling emotional wound beneath, soldier's hollow eyes, grief wound, 6s",
+      "narration": "My son died in my arms. His body was whole. His heart was not. And the curse — the curse could not see grief. It could only see flesh.",
+      "sfx": "Her hand on chest, his breath shallow, heartbeat, her sharp inhale, grief revelation, somber strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — she runs back to her cottage, grimoire in hand. She THUMBS through the pages frantically. One curse. Only ONE curse. The grimoire has no cure for grief. She slams it shut and opens it again — the pages are BLANK except for one line at the bottom of every page: 'Write your own.' Camera: medium, her frantic searching, grimoire revealing 'Write your own', understanding dawning. 6 seconds.",
+      "camera": "Medium — grimoire pages blank except 'Write your own', her understanding dawning, blank pages revelation, 6s",
+      "narration": "The grimoire had never been a complete book of curses. It had always been a BLANK BOOK — waiting for her to write the curse the world needed, rather than what it already had.",
+      "sfx": "Pages turning frantically, her heavy breath, grimoire thudding, silence, revelation hum, string swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — she sits at a desk with ink and brush. She begins to write. Not an existing curse — something NEW. 'I curse the wounds of the HEART to be healed alongside the wounds of the BODY.' She writes it in blood from her finger. The grimoire GLOWS and ACCEPTS the new writing. Camera: close-up, her writing in blood, grimoire accepting new page, light filling cottage. 6 seconds.",
+      "camera": "Close-up — her writing new curse in blood, grimoire glowing and accepting, ink spreading, new page forming, 6s",
+      "narration": "Write your own. She understood now. The grimoire was not a library of curses — it was a BLANK BOOK. And she was the first witch brave enough to write what the world needed, rather than what it already had.",
+      "sfx": "Brush on paper, blood dripping, grimoire accepting, ink spreading, light humming, power awakening"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — the new curse FLOODS out from the grimoire in a wave of golden-white light. It washes over the village. She FEELS it — the grief of every healed soldier. It floods into her too. But alongside the grief — she feels a CURE for grief. The curse she wrote ALSO heals the heart. She laughs through tears. Camera: wide cinematic, golden-white curse wave washing over village, her tears and laughter, heart healing. 6 seconds.",
+      "camera": "Wide cinematic — golden-white heart healing curse wave over village, her tears and laughter, cure for grief spreading, 6s",
+      "narration": "She had written the curse the grimoire had always been waiting for. A curse that healed both body AND heart. And she would bear the cost of both — to give the world something her grandmother never could: complete healing.",
+      "sfx": "Curse wave whooshing, village gasp, her tearful laugh, grief and healing simultaneously, epic emotional swell"
+    }
+  ],
+  "audio": {
+    "narration": "The curse had healed every wound in the village. Every soldier walked without pain. Every building was whole. And yet — no one could stop weeping. My son died in my arms. His body was whole. His heart was not. And the curse — the curse could not see grief. It could only see flesh. The grimoire had never been a complete book of curses. It had always been a BLANK BOOK — waiting for her to write the curse the world needed, rather than what it already had. Write your own. She understood now. The grimoire was not a library of curses — it was a BLANK BOOK. And she was the first witch brave enough to write what the world needed, rather than what it already had. She had written the curse the grimoire had always been waiting for. A curse that healed both body AND heart. And she would bear the cost of both — to give the world something her grandmother never could: complete healing.",
+    "narration_duration": 28,
+    "bg_music": "Emotional Chinese orchestral, heart healing theme, grief and cure together, golden light wave, power awakening 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Distant weeping",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Her hand on chest",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Pages turning frantically",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Brush on paper",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Curse wave whooshing",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — a war village at dawn. Clean. Restored. Wounds healed. Soldiers walk without pain. Buildings rebuilt. It looks perfect. She walks through, expecting gratitude. There is none. Everyone weeps. Perfectly healthy people — weeping silently. Camera: wide, restored village, healed soldiers weeping, her confusion walking through. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium close-up — she stops a healed soldier. 'You are not wounded,' she says. He looks at her with hollow eyes. 'My son died in my arms.' She touches his chest — no wound. She touches his heart through his clothes — it is HEALED physically. But she feels the grief inside. A wound the curse cannot see. Camera: close-up, her hand on his chest, feeling his emotional wound, hollow eyes looking back. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide shot — she runs back to her cottage, grimoire in hand. She THUMBS through the pages frantically. One curse. Only ONE curse. The grimoire has no cure for grief. She slams it shut and opens it again — the pages are BLANK except for one line at the bottom of every page: 'Write your own.' Camera: medium, her frantic searching, grimoire revealing 'Write your own', understanding dawning. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Medium shot — she sits at a desk with ink and brush. She begins to write. Not an existing curse — something NEW. 'I curse the wounds of the HEART to be healed alongside the wounds of the BODY.' She writes it in blood from her finger. The grimoire GLOWS and ACCEPTS the new writing. Camera: close-up, her writing in blood, grimoire accepting new page, light filling cottage. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — the new curse FLOODS out from the grimoire in a wave of golden-white light. It washes over the village. She FEELS it — the grief of every healed soldier. It floods into her too. But alongside the grief — she feels a CURE for grief. The curse she wrote ALSO heals the heart. She laughs through tears. Camera: wide cinematic, golden-white curse wave washing over village, her tears and laughter, heart healing. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 14: Cấm Chú Chữa Lành Sai | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 14 of Tru Tien. The grimoire heals every BODY — but leaves hearts broken. She discovers the grimoire is actually a BLANK BOOK. 'Write your own.' She writes a new curse: to heal both body AND heart.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "curse heals wrong",
+      "heart wounds",
+      "emotional healing",
+      "writing own curse",
+      "power growth",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cấm chú chữa LÀNH THÂN THỂ nhưng ĐỂ LẠI TRÁI TIM tan vỡ. Cô phát hiện sách cấm thực ra là SÁCH TRẮNG. 'Hãy viết của riêng bạn.' Cô viết cấm chú mới: chữa lành cả THÂN THỂ lẫn TRÁI TIM ⚔️✨ Tập 14 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — a war village at dawn. Clean. Restored. Wounds healed. Soldiers walk without pain. Buildings rebuilt. It looks perfect. She walks through, expecting gratitude. There is none. Everyone weeps. Perfectly healthy people — weeping silently. Camera: wide, restored village, healed soldiers weeping, her confusion walking through. 6 seconds. Shot 2: Medium close-up — she stops a healed soldier. 'You are not wounded,' she says. He looks at her with hollow eyes. 'My son died in my arms.' She touches his chest — no wound. She touches his heart through his clothes — it is HEALED physically. But she feels the grief inside. A wound the curse cannot see. Camera: close-up, her hand on his chest, feeling his emotional wound, hollow eyes looking back. 6 seconds. Shot 3: Wide shot — she runs back to her cottage, grimoire in hand. She THUMBS through the pages frantically. One curse. Only ONE curse. The grimoire has no cure for grief. She slams it shut and opens it again — the pages are BLANK except for one line at the bottom of every page: 'Write your own.' Camera: medium, her frantic searching, grimoire revealing 'Write your own', understanding dawning. 6 seconds. Shot 4: Medium shot — she sits at a desk with ink and brush. She begins to write. Not an existing curse — something NEW. 'I curse the wounds of the HEART to be healed alongside the wounds of the BODY.' She writes it in blood from her finger. The grimoire GLOWS and ACCEPTS the new writing. Camera: close-up, her writing in blood, grimoire accepting new page, light filling cottage. 6 seconds. Shot 5: Wide cinematic — the new curse FLOODS out from the grimoire in a wave of golden-white light. It washes over the village. She FEELS it — the grief of every healed soldier. It floods into her too. But alongside the grief — she feels a CURE for grief. The curse she wrote ALSO heals the heart. She laughs through tears. Camera: wide cinematic, golden-white curse wave washing over village, her tears and laughter, heart healing. 6 seconds.",
+  "visual_scene": "Wide establishing — a war village at dawn. Clean. Restored. Wounds healed. Soldiers walk without pain. Buildings rebuilt. It looks perfect. She walks through, expecting gratitude. There is none. Everyone weeps. Perfectly healthy people — weeping silently. Camera: wide, restored village, healed soldiers weeping, her confusion walking through. 6 seconds. Medium close-up — she stops a healed soldier. 'You are not wounded,' she says. He looks at her with hollow eyes. 'My son died in my arms.' She touches his chest — no wound. She touches his heart through his clothes — it is HEALED physically. But she feels the grief inside. A wound the curse cannot see. Camera: close-up, her hand on his chest, feeling his emotional wound, hollow eyes looking back. 6 seconds. Wide shot — she runs back to her cottage, grimoire in hand. She THUMBS through the pages frantically. One curse. Only ONE curse. The grimoire has no cure for grief. She slams it shut and opens it again — the pages are BLANK except for one line at the bottom of every page: 'Write your own.' Camera: medium, her frantic searching, grimoire revealing 'Write your own', understanding dawning. 6 seconds. Medium shot — she sits at a desk with ink and brush. She begins to write. Not an existing curse — something NEW. 'I curse the wounds of the HEART to be healed alongside the wounds of the BODY.' She writes it in blood from her finger. The grimoire GLOWS and ACCEPTS the new writing. Camera: close-up, her writing in blood, grimoire accepting new page, light filling cottage. 6 seconds. Wide cinematic — the new curse FLOODS out from the grimoire in a wave of golden-white light. It washes over the village. She FEELS it — the grief of every healed soldier. It floods into her too. But alongside the grief — she feels a CURE for grief. The curse she wrote ALSO heals the heart. She laughs through tears. Camera: wide cinematic, golden-white curse wave washing over village, her tears and laughter, heart healing. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 14: The Curse That Heals Wrong",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "curse heals wrong",
+    "heart wounds",
+    "emotional healing",
+    "writing own curse",
+    "power growth",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

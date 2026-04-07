@@ -1,0 +1,5 @@
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_xianyx13/clip_1_t.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_xianyx13/clip_2_t.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_xianyx13/clip_3_t.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_xianyx13/clip_4_t.mp4'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_xianyx13/clip_5_t.mp4'

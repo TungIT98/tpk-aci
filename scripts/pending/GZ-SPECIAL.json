@@ -1,0 +1,33 @@
+{
+  "id": "GZ-SPECIAL",
+  "channel": "Gen Z Success",
+  "title": "Would You Take a $10K Raise If It Meant 60 Hours a Week?",
+  "script": "Everyone says yes to the $10K raise. Nobody does the math. $10,000 extra per year sounds great. But spread across 500 extra work hours — that's roughly $20 per hour extra. If your current hourly rate is already $50 an hour, you're taking a pay cut. And research shows that beyond 50 hours a week, your productivity doesn't just slow down — it collapses. Three questions to ask before you say yes: What is my actual hourly rate after this? What is this costing my health and relationships? And can I negotiate the terms instead of just accepting the trade? More money isn't always more value.",
+  "prompt_for_hailuo": "Young professional sitting at desk looking at job offer letter on screen [Medium shot, intense focus]. Calculator math appears: $10K over 500 hours = $20/hour [Graphic overlay, static]. Same person at desk at 11pm, dark office, exhausted [Pull out to show empty office]. Transition: person at dinner table with family, distracted by phone buzzing [Medium shot]. Bold text graphic: 'THE BETTER MOVE: NEGOTIATE THE TERMS' [Cut to black text on white]. Confident person walking out of office at normal hour smiling [Wide tracking shot out]. Urban setting, warm lighting, cinematic.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "salary negotiation",
+    "work life balance",
+    "career decisions",
+    "gen z money",
+    "hourly rate"
+  ],
+  "thumbnail_idea": "Two contrasting images: 'YES $10K' vs '$20/HOUR REALITY' with math shown, bold Gen Z aesthetic in red/yellow",
+  "status": "published",
+  "upload_notes": "YouTube: browser.upload() cannot reach hidden file input in YouTube Studio dialog. TikTok: uploaded via browser automation (2026-03-30).",
+  "upload_attempted_at": "2026-03-30T08:15:00 GMT+7",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T08:00:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\GZ-SPECIAL.mp4",
+  "generated_at": "2026-03-30T01:00:00Z",
+  "uploaded_at": "2026-03-30T11:25:00Z",
+  "youtube_url": null,
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "notes": "QC fix applied: landscape video cropped to portrait 9:16 (1080x1920). ElevenLabs TTS audio muxed. Uploaded via TikTok browser automation (2026-03-30).",
+  "visual_scene": "A cozy home office or apartment living room at night, a young professional woman sitting at a modern desk with a laptop and calculator, blue laptop screen glow illuminating her face against the warm darkness of the room, an expression of intense focused concentration with a hint of concern as she runs the numbers. Close-up on the laptop screen: a spreadsheet showing salary calculations — '$10,000 extra / 500 hours = $20/hr' — highlighted in bold red, next to a column showing current hourly rate of '$50/hr.' Her eyes widen in shock and realization, leaning back in her chair with a hand on her forehead processing the insight. Scene transitions: same woman walking out of a glass office building into beautiful morning sunlight, coffee in hand, with a calm confident expression and a subtle knowing smile, walking with an energized purposeful stride, the morning sky bright blue and clear. Modern home office and corporate exterior, blue screen glow contrasting with warm morning light, financial clarity atmosphere, cinematic.",
+  "specific_details": "Young professional woman in a comfortable home office or apartment living room at night sitting at a modern desk with a laptop and calculator, blue laptop screen glow illuminating her face in warm darkness with an expression of intense focused concentration and a hint of concern as she runs the numbers; close-up on the laptop screen showing a spreadsheet with salary calculations — '$10,000 extra / 500 hours = $20/hr' highlighted in bold red next to a column showing current hourly rate of '$50/hr'; her eyes widening in shock and realization leaning back in her chair with hand on forehead processing the insight; transition to the same woman walking out of a glass office building into beautiful morning sunlight with coffee in hand, calm confident expression and subtle knowing smile, walking with energized purposeful stride under a bright clear blue morning sky, set in a cozy dark home office with blue screen glow and a bright corporate glass office building exterior in morning light, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight office scene, fancy restaurant, happy careless spending mood, crowded busy scene, flat overcast lighting",
+  "produced_at": "2026-03-31T05:38:48.840Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

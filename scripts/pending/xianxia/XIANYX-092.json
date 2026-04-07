@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-092",
+  "title": "Thanh Van Mon Episode 12: The Empress Who Was Never Empress",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "She discovers her predecessor — a woman who ruled for one night before being erased from all history.",
+    "story_arc": "Dream of a coronation, Finding a hidden portrait, The one-night reign, The erasure order, Her ghost appears",
+    "emotion": "Melancholy, Discovery, Shock, Sorrow, Recognition",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Dreamlike slow-motion shot — a grand coronation ceremony at midnight. A woman in full Empress regalia, phoenix crown, jade ornaments. She is being crowned by invisible hands. Around her: a full audience hall of silent courtiers. Her expression: terror mixed with pride. The scene glows golden as if lit by a thousand candles. Camera: cinematic slow-motion wide shot of the dream coronation. 6 seconds.",
+      "camera": "Slow-motion — dream coronation ceremony, phoenix crown, midnight, golden light, 6s",
+      "narration": "In her dream, she saw a coronation. A woman becoming Empress under a full moon. But no such Empress had ever existed in any history book.",
+      "sfx": "Dream bells, choral whisper, silk rustle, heartbeat, phantom orchestral swell"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she wakes in her chamber and immediately goes to a hidden cabinet. She pulls out old palace portrait scrolls — one by one. Ministers, generals, concubines — all documented. She reaches the Empresses. The first portrait is of her own mother. The second — she stops. A woman she has never seen. Young, beautiful, terrifyingly serene. The portrait is unsigned and kept at the very back. Camera: close-up on the portrait, then on her face as she stares at it. 6 seconds.",
+      "camera": "Two-shot — her face and the mysterious unsigned Empress portrait, 6s",
+      "narration": "A portrait without a name. An Empress without a history. Someone had kept this image hidden in the archive — but someone else had made sure no record of who she was would survive.",
+      "sfx": "Scroll unfurling, silk snap, sharp inhale, heartbeat, mystery strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she flips through the palace annals frantically. Page after page — but always a gap between the old Empress's death and the current Empress's coronation. Two weeks of blank pages. No records. No explanations. The gap is not empty — it is actively blanked, the paper slightly different texture. She touches the gap. Camera: extreme close-up on her fingers on the false pages, then her eyes widening. 6 seconds.",
+      "camera": "Close-up — fingers on the intentionally false pages, texture difference visible, 6s",
+      "narration": "Two weeks. A gap where an Empress should have been. The paper itself was replaced — not just the writing removed. Someone had been thorough. Someone who had the power to rewrite history itself.",
+      "sfx": "Pages flipping, paper texture crinkle, breath held, tension strings, discovery swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — she returns to the garden at night, portrait scroll in her arms. She walks past the erased tablets until she reaches a corner she has never explored: an area overgrown with night-blooming jasmine. There, a single tablet — smaller than the others — with a name she can barely read. Thuong Khue, Who Ruled One Night. She kneels. Camera: wide shot of her in the jasmine clearing, single tablet glowing softly. 6 seconds.",
+      "camera": "Wide — jasmine clearing, single glowing tablet, her kneeling in discovery, 6s",
+      "narration": "Thuong Khue. Who ruled one night. And in the morning — was gone. Erased from every history. But not from this garden. Not completely.",
+      "sfx": "Jasmine rustling, night wind, bell toll, single breath, revelation"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — a translucent figure materializes beside the tablet. A woman in a simple white sleeping robe — no crown, no regalia. Just a woman. Her expression: infinitely tired. She looks at the protagonist with desperate relief. She mouths two words: You found me. The ghost raises one hand, pointing at the palace. Camera: cinematic close-up on ghost Empress's weary face, slow fade. 6 seconds. End on her ghostly finger pointing to the palace.",
+      "camera": "Close-up — ghost Empress materializes, weary relief, mouths You found me, points to palace, 6s",
+      "narration": "She had ruled one night. One night as Empress. And for that one night — someone had erased her from existence. But the garden had kept her name. And now, after decades of forgetting — she was finally found.",
+      "sfx": "Spirit materializing, ghostly wind, bell chime, whispered You found me, ethereal music"
+    }
+  ],
+  "audio": {
+    "narration": "In her dream, she saw a coronation. A woman becoming Empress under a full moon. But no such Empress had ever existed in any history book. A portrait without a name. An Empress without a history. Someone had kept this image hidden in the archive — but someone else had made sure no record of who she was would survive. Two weeks. A gap where an Empress should have been. The paper itself was replaced — not just the writing removed. Someone had been thorough. Someone who had the power to rewrite history itself. Thuong Khue. Who ruled one night. And in the morning — was gone. Erased from every history. But not from this garden. Not completely. She had ruled one night. One night as Empress. And for that one night — someone had erased her from existence. But the garden had kept her name. And now, after decades of forgetting — she was finally found.",
+    "narration_duration": 28,
+    "bg_music": "Mournful Chinese guzheng and erhu duet, bells, whispery vocals, palace mystery, melancholic 65 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Dream bells",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Scroll unfurling",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Pages flipping",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Jasmine rustling",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Spirit materializing",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Dreamlike slow-motion shot — a grand coronation ceremony at midnight. A woman in full Empress regalia, phoenix crown, jade ornaments. She is being crowned by invisible hands. Around her: a full audience hall of silent courtiers. Her expression: terror mixed with pride. The scene glows golden as if lit by a thousand candles. Camera: cinematic slow-motion wide shot of the dream coronation. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she wakes in her chamber and immediately goes to a hidden cabinet. She pulls out old palace portrait scrolls — one by one. Ministers, generals, concubines — all documented. She reaches the Empresses. The first portrait is of her own mother. The second — she stops. A woman she has never seen. Young, beautiful, terrifyingly serene. The portrait is unsigned and kept at the very back. Camera: close-up on the portrait, then on her face as she stares at it. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she flips through the palace annals frantically. Page after page — but always a gap between the old Empress's death and the current Empress's coronation. Two weeks of blank pages. No records. No explanations. The gap is not empty — it is actively blanked, the paper slightly different texture. She touches the gap. Camera: extreme close-up on her fingers on the false pages, then her eyes widening. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — she returns to the garden at night, portrait scroll in her arms. She walks past the erased tablets until she reaches a corner she has never explored: an area overgrown with night-blooming jasmine. There, a single tablet — smaller than the others — with a name she can barely read. Thuong Khue, Who Ruled One Night. She kneels. Camera: wide shot of her in the jasmine clearing, single tablet glowing softly. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — a translucent figure materializes beside the tablet. A woman in a simple white sleeping robe — no crown, no regalia. Just a woman. Her expression: infinitely tired. She looks at the protagonist with desperate relief. She mouths two words: You found me. The ghost raises one hand, pointing at the palace. Camera: cinematic close-up on ghost Empress's weary face, slow fade. 6 seconds. End on her ghostly finger pointing to the palace."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 12: Hoàng Hậu Của Một Đêm | Xianxia Việt Sub ⚔️👻",
+    "youtube_description": "Episode 12 of Thanh Van Mon. She discovers a portrait of a woman who was Empress for one night — and one night only — before being erased from all history. The garden kept her name when the palace tried to destroy it.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 13 — The Lotus Eater's Warning\n#xianxia #thanhvanmon #ghost empress #erased history #palace mystery #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "ghost empress",
+      "erased history",
+      "palace secrets",
+      "one night reign",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Một Hoàng Hậu cai trị ĐÚNG MỘT ĐÊM — và sau đó bị XÓA khỏi mọi sử sách. Chân dung được giấu kín, tên bị tẩy. Nhưng khu vườn đã nhớ cô ấy 👻⚔️ Tập 12 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Dreamlike slow-motion shot — a grand coronation ceremony at midnight. A woman in full Empress regalia, phoenix crown, jade ornaments. She is being crowned by invisible hands. Around her: a full audience hall of silent courtiers. Her expression: terror mixed with pride. The scene glows golden as if lit by a thousand candles. Camera: cinematic slow-motion wide shot of the dream coronation. 6 seconds. Shot 2: Medium shot — she wakes in her chamber and immediately goes to a hidden cabinet. She pulls out old palace portrait scrolls — one by one. Ministers, generals, concubines — all documented. She reaches the Empresses. The first portrait is of her own mother. The second — she stops. A woman she has never seen. Young, beautiful, terrifyingly serene. The portrait is unsigned and kept at the very back. Camera: close-up on the portrait, then on her face as she stares at it. 6 seconds. Shot 3: Close-up — she flips through the palace annals frantically. Page after page — but always a gap between the old Empress's death and the current Empress's coronation. Two weeks of blank pages. No records. No explanations. The gap is not empty — it is actively blanked, the paper slightly different texture. She touches the gap. Camera: extreme close-up on her fingers on the false pages, then her eyes widening. 6 seconds. Shot 4: Wide shot — she returns to the garden at night, portrait scroll in her arms. She walks past the erased tablets until she reaches a corner she has never explored: an area overgrown with night-blooming jasmine. There, a single tablet — smaller than the others — with a name she can barely read. Thuong Khue, Who Ruled One Night. She kneels. Camera: wide shot of her in the jasmine clearing, single tablet glowing softly. 6 seconds. Shot 5: Close-up — a translucent figure materializes beside the tablet. A woman in a simple white sleeping robe — no crown, no regalia. Just a woman. Her expression: infinitely tired. She looks at the protagonist with desperate relief. She mouths two words: You found me. The ghost raises one hand, pointing at the palace. Camera: cinematic close-up on ghost Empress's weary face, slow fade. 6 seconds. End on her ghostly finger pointing to the palace.",
+  "visual_scene": "Dreamlike slow-motion shot — a grand coronation ceremony at midnight. A woman in full Empress regalia, phoenix crown, jade ornaments. She is being crowned by invisible hands. Around her: a full audience hall of silent courtiers. Her expression: terror mixed with pride. The scene glows golden as if lit by a thousand candles. Camera: cinematic slow-motion wide shot of the dream coronation. 6 seconds. Medium shot — she wakes in her chamber and immediately goes to a hidden cabinet. She pulls out old palace portrait scrolls — one by one. Ministers, generals, concubines — all documented. She reaches the Empresses. The first portrait is of her own mother. The second — she stops. A woman she has never seen. Young, beautiful, terrifyingly serene. The portrait is unsigned and kept at the very back. Camera: close-up on the portrait, then on her face as she stares at it. 6 seconds. Close-up — she flips through the palace annals frantically. Page after page — but always a gap between the old Empress's death and the current Empress's coronation. Two weeks of blank pages. No records. No explanations. The gap is not empty — it is actively blanked, the paper slightly different texture. She touches the gap. Camera: extreme close-up on her fingers on the false pages, then her eyes widening. 6 seconds. Wide shot — she returns to the garden at night, portrait scroll in her arms. She walks past the erased tablets until she reaches a corner she has never explored: an area overgrown with night-blooming jasmine. There, a single tablet — smaller than the others — with a name she can barely read. Thuong Khue, Who Ruled One Night. She kneels. Camera: wide shot of her in the jasmine clearing, single tablet glowing softly. 6 seconds. Close-up — a translucent figure materializes beside the tablet. A woman in a simple white sleeping robe — no crown, no regalia. Just a woman. Her expression: infinitely tired. She looks at the protagonist with desperate relief. She mouths two words: You found me. The ghost raises one hand, pointing at the palace. Camera: cinematic close-up on ghost Empress's weary face, slow fade. 6 seconds. End on her ghostly finger pointing to the palace.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 12: The Empress Who Was Never Empress",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "ghost empress",
+    "erased history",
+    "palace secrets",
+    "one night reign",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Storytime Narration",
+  "description": "Full dramatic story arc — setup, conflict, climax, resolution, reflection. Ideal for personal stories, embarrassing moments, life lessons, career stories, and deeply relatable first-person narratives.",
+  "target_platform": "tiktok",
+  "voice_style": "intimate, conversational, emotionally committed — pulls viewer into world of the story; voice drops for dramatic moments; slow pace during tension, faster during resolution",
+  "music_mood": "cinematic underscore, tension piano, emotional swell — builds through story beats, resolves gently at end",
+  "hashtag_suggestions": ["#storytime", "#reallife", "#life_lessons", "#story", "#relatable", "#mytruth", "#lessonslearned", "#personaldevelopment"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "I said the wrong thing in a job interview and the room went completely silent. I wanted the floor to swallow me whole. What happened next changed everything.",
+      "visual_prompt": "Person looking directly at camera, eyes slightly wide, dramatic tension close-up, room going quiet implied by ambient sound graphic, slightly dark/cool lighting, confident eye contact",
+      "camera_movement": "slow push-in from medium to close-up, static hold on tension face",
+      "lighting_setup": "single dramatic key light from above-right, cool tones, deep shadows on face, moody cinematic atmosphere",
+      "hailuo_style_note": "Dramatic tension setup — cool/dark lighting signals conflict is coming; slow push-in builds anticipation",
+      "transition": "slow_fade_in"
+    },
+    {
+      "type": "setup",
+      "duration_sec": 15,
+      "narration_prompt": "I had been job searching for six months. This was my seventh interview. I was exhausted, desperate, and I had rehearsed my answers so many times they came out robotic. The interview panel could tell.",
+      "visual_prompt": "Montage of job searching — rejection emails on phone, putting on professional clothes in mirror, walking into office building, waiting in lobby looking nervous, clock ticking",
+      "camera_movement": "montage pacing: quick cuts between scenes, time-lapse of waiting in lobby, steady on rejection email",
+      "lighting_setup": "varied: harsh lobby fluorescent for tension, warm lamp for clothes scene, cold office lighting for rejection",
+      "hailuo_style_note": "Montage establishes desperation efficiently; varied lighting between scenes creates rhythm; rejection email close-up is emotionally heavy",
+      "transition": "crossfade"
+    },
+    {
+      "type": "conflict",
+      "duration_sec": 20,
+      "narration_prompt": "Then they asked me the one question I hadn't prepared for: 'What's your biggest professional failure?' And I panicked. I told them about a project I had completely bombed two years earlier. Except — I told them too much. I name-dropped a colleague. I overshared. I saw the lead interviewer write something down and my heart sank.",
+      "visual_prompt": "Close-up of person mouth moving, flashback-style visual treatment (slight desaturation), person sitting in interview chair slowly sinking, clock close-up, pen writing, person looking down at hands, silence implied by visual stillness",
+      "camera_movement": "static close-up on face, slight slow zoom on sinking moment, held stillness on pen-writing detail",
+      "lighting_setup": "desaturated cool tones for flashback feel, harsh interview overhead, cold blue tones as heart sinks",
+      "hailuo_style_note": "Desaturation is key for flashback moment; cold blue tones on 'heart sank' beat; stillness in visuals = silence in audio",
+      "transition": "slow_crossfade"
+    },
+    {
+      "type": "climax",
+      "duration_sec": 15,
+      "narration_prompt": "There was a long pause. And then the lead interviewer leaned forward and said: 'That is the most honest answer we've heard all day. Thank you.' The rest of the interview shifted entirely. They asked me harder questions. Real questions. And I answered them like a human, not a rehearsed robot.",
+      "visual_prompt": "Light shifting on person's face — from dark/shadowed to warm light, interviewer leaning forward gesture, camera slowly pushing in on person's face as realization hits, expression changing from panic to relief to slight smile, warm color grade returning",
+      "camera_movement": "slow cinematic push-in on realization moment, hold on relief expression",
+      "lighting_setup": "warm light breakthrough — gradual shift from cold shadow to warm key light as interviewer speaks, triumph warmth flooding frame",
+      "hailuo_style_note": "The light-shift-as-emotional-breakthrough is a proven cinematic technique; invest full production value here — this is the story's emotional peak",
+      "transition": "slow_crossfade"
+    },
+    {
+      "type": "resolution",
+      "duration_sec": 5,
+      "narration_prompt": "I got the job. They called three days later. The hiring manager said my honesty in that moment is exactly why they chose me over a candidate with better credentials.",
+      "visual_prompt": "Phone showing offer email, person reading it with hands shaking slightly, close-up of face with genuine smile, celebration — not loud, just quietly emotional, warm natural lighting",
+      "camera_movement": "macro close-up on phone screen, slow push-in to face close-up on genuine smile",
+      "lighting_setup": "warm golden tones, joyful warmth, natural daylight on face",
+      "hailuo_style_note": "Warmth returns fully here — color temperature shift from cold interview to warm home/resolution signals emotional arc completion",
+      "transition": "crossfade"
+    },
+    {
+      "type": "reflection",
+      "duration_sec": 5,
+      "narration_prompt": "I learned that perfection is not a resume quality. It's a vulnerability. The people who hire well know that. Drop a comment — what's the interview moment that broke you? I read every single one.",
+      "visual_prompt": "Person leaning in slightly, warm direct eye contact, softer expression than opening, comment section preview appearing on screen, camera holding on face a beat longer than usual, intimate and grounded",
+      "camera_movement": "slow pull-back to medium for reflection, hold longer than usual — let the message breathe",
+      "lighting_setup": "warm soft light, same warmth as resolution, intimate and close",
+      "hailuo_style_note": "Return to same framing as hook is the visual bookend; longer hold signals importance; warmer framing than opening signals growth",
+      "transition": "hold"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Follow for more real stories. Like this video if it hit you somewhere. And share it with someone who needs to hear this today.",
+      "visual_prompt": "Person pointing at follow button, heart icon floating up, share icon appearing, person smiling warmly at camera, natural light",
+      "camera_movement": "medium close-up, warm smile, casual gesture",
+      "lighting_setup": "warm inviting light, slightly brighter than reflection beat",
+      "hailuo_style_note": "Keep CTA warm and personal — this is community building, not broadcasting",
+      "transition": "fade_out"
+    }
+  ]
+}

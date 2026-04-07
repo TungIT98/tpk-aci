@@ -1,0 +1,182 @@
+﻿{
+  "id": "XIANYX-176",
+  "title": "Ha Tien Du Episode 36: The Eternal Water",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 36,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Luân became the eternal bridge between worlds. His body stretched across the void — became the barrier that would never fall.",
+    "story_arc": "Bridge stretched → Void pressing → Will holding → Eternal → Protected",
+    "emotion": "Tension → Respect → Battle → Innovation → Mutual recognition",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the Fire Trial corridor from before — now rebuilt, more intense. The FIRE MASTER stands at the far end: a massive eastern dragon wreathed in living flame, crown of fire crystals, ancient and terrible. He roars: 'WATER BOY! Face the true master of elements!' Luân steps forward. Camera: wide, Fire Master at end of flame corridor, Luân stepping forward, epic confrontation. 6 seconds.",
+      "camera": "Wide — Fire Master at end of flame corridor roaring challenge, Luân stepping forward, epic elemental confrontation, 6s",
+      "narration": "The Fire Master had watched the shadow battle from the sky. He had seen water heal. And he had one thing to say about it: water was pretty. Fire was eternal.",
+      "sfx": "Fire Master roar, flame crackling, epic war drums, challenge echo"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide battle — they CLASH. Fire Master attacks with streams of white-hot flame. Luân counters with ice blades and the Water of Origin. Water and fire collide in spectacular fashion — steam explosions, ice shattering, the sound of two primordial forces meeting. Neither gives ground. Camera: wide, water vs fire clash, steam explosions, ice shattering, elemental combat at its peak. 6 seconds.",
+      "camera": "Wide — water vs fire elemental clash, steam explosions, ice shattering, two forces meeting at full power, 6s",
+      "narration": "Fire Master: 'Pretty!' Luân: 'Eternal means nothing without someone to share it with.' They clash again — and again — and neither could claim victory.",
+      "sfx": "Elemental clash boom, fire roaring, ice cracking, steam explosion, epic battle drums"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — Luân realizes something. He's fighting the Fire Master like an enemy. But the Fire Master isn't attacking to destroy — he's testing. Luân changes approach. Instead of countering, he OFFERS water. The Fire Master looks confused, then laughs. Camera: close-up, Luân offering water to fire master instead of countering, Fire Master laughing, understanding dawning. 6 seconds.",
+      "camera": "Close-up — Luân offering water instead of countering, Fire Master laughing, paradigm shift from combat to cooperation, 6s",
+      "narration": "Fire Master: 'What are you doing?' Luân: 'You said fire was eternal. I said water was the origin. Maybe we are not enemies. Maybe we never were.'",
+      "sfx": "Fire crackle, confused silence, Fire Master laugh, paradigm shift sound, warm orchestral"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — Luân and Fire Master combine attacks. WATER AND FIRE TOGETHER — not colliding but COOPERATING. They create a new element: STEAM — blinding white, more powerful than either alone. It reshapes the dragon realm corridor into something new. Camera: wide, steam element erupting, both dragon combatants amazed at what cooperation creates, 6 seconds.",
+      "camera": "Wide — water+fire combined creating steam element, blinding white eruption, corridor transformed, both amazed, 6s",
+      "narration": "Water and fire together created something neither could create alone: steam. The most powerful force in the dragon realm. Born not from conflict — but from cooperation.",
+      "sfx": "Steam eruption epic sound, fire and water harmonizing, new element humming, amazed silence then orchestral swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body — the Fire Master bows — deeply, genuinely. 'You have mastered not just water. You have mastered the principle of elements. Water is not your enemy. Fire is not your enemy. ONLY closed-mindedness is.' He grants Luân the Fire Mark — a flame symbol on his forehead that merges with his water light to create golden fire-water aura. Camera: full-body, Fire Master's bow, fire mark granted, golden fire-water aura, Luân transcendent. 6 seconds.",
+      "camera": "Full-body — Fire Master bowing, fire mark granted, golden fire-water aura erupting, Luân transcendent at peak of mastery, 6s",
+      "narration": "He had come for water. He left with fire. He had come for victory. He left with friendship. And on his forehead — a flame that burned like water. Impossible. Perfect.",
+      "sfx": "Fire Master bow, flame mark branding, golden aura erupting, ancient approval gong, transcendent finale"
+    }
+  ],
+  "audio": {
+    "narration": "The Fire Master had watched the shadow battle from the sky. He had seen water heal. And he had one thing to say about it: water was pretty. Fire was eternal. Fire Master: 'Pretty!' Luân: 'Eternal means nothing without someone to share it with.' They clash again — and again — and neither could claim victory. Fire Master: 'What are you doing?' Luân: 'You said fire was eternal. I said water was the origin. Maybe we are not enemies. Maybe we never were.' Water and fire together created something neither could create alone: steam. The most powerful force in the dragon realm. Born not from conflict — but from cooperation. He had come for water. He left with fire. He had come for victory. He left with friendship. And on his forehead — a flame that burned like water. Impossible. Perfect.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese battle orchestral, fire vs water unity, steam element born, cooperation theme, Fire Master bow, transcendent 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Fire Master roar",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Elemental clash boom",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Fire crackle",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Steam eruption epic sound",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Fire Master bow",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the Fire Trial corridor from before — now rebuilt, more intense. The FIRE MASTER stands at the far end: a massive eastern dragon wreathed in living flame, crown of fire crystals, ancient and terrible. He roars: 'WATER BOY! Face the true master of elements!' Luân steps forward. Camera: wide, Fire Master at end of flame corridor, Luân stepping forward, epic confrontation. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide battle — they CLASH. Fire Master attacks with streams of white-hot flame. Luân counters with ice blades and the Water of Origin. Water and fire collide in spectacular fashion — steam explosions, ice shattering, the sound of two primordial forces meeting. Neither gives ground. Camera: wide, water vs fire clash, steam explosions, ice shattering, elemental combat at its peak. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — Luân realizes something. He's fighting the Fire Master like an enemy. But the Fire Master isn't attacking to destroy — he's testing. Luân changes approach. Instead of countering, he OFFERS water. The Fire Master looks confused, then laughs. Camera: close-up, Luân offering water to fire master instead of countering, Fire Master laughing, understanding dawning. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — Luân and Fire Master combine attacks. WATER AND FIRE TOGETHER — not colliding but COOPERATING. They create a new element: STEAM — blinding white, more powerful than either alone. It reshapes the dragon realm corridor into something new. Camera: wide, steam element erupting, both dragon combatants amazed at what cooperation creates, 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body — the Fire Master bows — deeply, genuinely. 'You have mastered not just water. You have mastered the principle of elements. Water is not your enemy. Fire is not your enemy. ONLY closed-mindedness is.' He grants Luân the Fire Mark — a flame symbol on his forehead that merges with his water light to create golden fire-water aura. Camera: full-body, Fire Master's bow, fire mark granted, golden fire-water aura, Luân transcendent. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Episode 36: The Eternal Water | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Ha Tien Du Episode 36: The Eternal Water. Luân became the eternal bridge between worlds. His body stretched across the void — became the barrier that would never fall.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #hatiendu #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "fire master",
+      "luân",
+      "water and fire mastery",
+      "steam element",
+      "elemental unity",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Luân became the eternal bridge between worlds. His body stretched across the void — became the barrier that would never fall. ⚔️🔥 Ha Tien Du Episode 36: The Eternal Water | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the Fire Trial corridor from before — now rebuilt, more intense. The FIRE MASTER stands at the far end: a massive eastern dragon wreathed in living flame, crown of fire crystals, ancient and terrible. He roars: 'WATER BOY! Face the true master of elements!' Luân steps forward. Camera: wide, Fire Master at end of flame corridor, Luân stepping forward, epic confrontation. 6 seconds. Shot 2: Wide battle — they CLASH. Fire Master attacks with streams of white-hot flame. Luân counters with ice blades and the Water of Origin. Water and fire collide in spectacular fashion — steam explosions, ice shattering, the sound of two primordial forces meeting. Neither gives ground. Camera: wide, water vs fire clash, steam explosions, ice shattering, elemental combat at its peak. 6 seconds. Shot 3: Close-up — Luân realizes something. He's fighting the Fire Master like an enemy. But the Fire Master isn't attacking to destroy — he's testing. Luân changes approach. Instead of countering, he OFFERS water. The Fire Master looks confused, then laughs. Camera: close-up, Luân offering water to fire master instead of countering, Fire Master laughing, understanding dawning. 6 seconds. Shot 4: Wide cinematic — Luân and Fire Master combine attacks. WATER AND FIRE TOGETHER — not colliding but COOPERATING. They create a new element: STEAM — blinding white, more powerful than either alone. It reshapes the dragon realm corridor into something new. Camera: wide, steam element erupting, both dragon combatants amazed at what cooperation creates, 6 seconds. Shot 5: Full-body — the Fire Master bows — deeply, genuinely. 'You have mastered not just water. You have mastered the principle of elements. Water is not your enemy. Fire is not your enemy. ONLY closed-mindedness is.' He grants Luân the Fire Mark — a flame symbol on his forehead that merges with his water light to create golden fire-water aura. Camera: full-body, Fire Master's bow, fire mark granted, golden fire-water aura, Luân transcendent. 6 seconds.",
+  "visual_scene": "Wide establishing — the Fire Trial corridor from before — now rebuilt, more intense. The FIRE MASTER stands at the far end: a massive eastern dragon wreathed in living flame, crown of fire crystals, ancient and terrible. He roars: 'WATER BOY! Face the true master of elements!' Luân steps forward. Camera: wide, Fire Master at end of flame corridor, Luân stepping forward, epic confrontation. 6 seconds. Wide battle — they CLASH. Fire Master attacks with streams of white-hot flame. Luân counters with ice blades and the Water of Origin. Water and fire collide in spectacular fashion — steam explosions, ice shattering, the sound of two primordial forces meeting. Neither gives ground. Camera: wide, water vs fire clash, steam explosions, ice shattering, elemental combat at its peak. 6 seconds. Close-up — Luân realizes something. He's fighting the Fire Master like an enemy. But the Fire Master isn't attacking to destroy — he's testing. Luân changes approach. Instead of countering, he OFFERS water. The Fire Master looks confused, then laughs. Camera: close-up, Luân offering water to fire master instead of countering, Fire Master laughing, understanding dawning. 6 seconds. Wide cinematic — Luân and Fire Master combine attacks. WATER AND FIRE TOGETHER — not colliding but COOPERATING. They create a new element: STEAM — blinding white, more powerful than either alone. It reshapes the dragon realm corridor into something new. Camera: wide, steam element erupting, both dragon combatants amazed at what cooperation creates, 6 seconds. Full-body — the Fire Master bows — deeply, genuinely. 'You have mastered not just water. You have mastered the principle of elements. Water is not your enemy. Fire is not your enemy. ONLY closed-mindedness is.' He grants Luân the Fire Mark — a flame symbol on his forehead that merges with his water light to create golden fire-water aura. Camera: full-body, Fire Master's bow, fire mark granted, golden fire-water aura, Luân transcendent. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 26: The Fire Master's Challenge",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "fire master",
+    "luân",
+    "water and fire mastery",
+    "steam element",
+    "elemental unity",
+    "chinese fantasy",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T13:50:00.476Z",
+  "tiktok_url": "/@fai20128/video/7625642830651854100"
+}

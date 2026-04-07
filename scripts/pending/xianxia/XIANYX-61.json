@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-61",
+  "title": "Trieu Tien Episode 11: The New Rival",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Epic confrontation, rival introduced, tension building, power clash",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "A new cultivator arrives at the sect. Someone who mirrors her exactly.",
+    "story_arc": "Mysterious arrival → Matching the Sword Saint's style → Her confusion → Parallel training → Confrontation at the sword altar",
+    "emotion": "Curiosity → Unease → Recognition → Challenge → Tension",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect's main gate at dusk. A young woman in pure white robes walks through. She is the same age as Trieu Tien. Same height. Same bearing. A crimson phoenix hairpin in her hair — identical to Trieu Tien's father's hairpin. The sect disciples part in confusion. She walks calmly, eyes forward. Camera: wide shot — mysterious arrival through gates, disciples parting, identical hairpin catching light. 6 seconds.",
+      "camera": "Wide shot — arrival through gates, disciples parting, identical crimson phoenix hairpin, 6s",
+      "narration": "A new face appeared at the sect. And she wore the same hairpin as Trieu Tien's father.",
+      "sfx": "Wind through robes, disciples murmuring, hairpin chiming softly, footsteps on stone"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — Trieu Tien stands frozen at the edge of the courtyard, staring at the arriving woman. Their eyes meet across the crowd. The same eyes — dark, fierce, shaped identically. The woman notices Trieu Tien's hairpin. Smiles faintly. Speaks loud enough for Trieu Tien to hear: 'So — the Sword Saint kept something.' Trieu Tien's hand moves to her own hairpin. Camera: medium — two women mirroring each other across the crowd, same hairpins, tension. 6 seconds.",
+      "camera": "Medium — two women across crowd, mirroring, same hairpins, tension building, 6s",
+      "narration": "They had the same eyes. The same stance. And the same hairpin.",
+      "sfx": "Crowd murmuring, wind, two women breathing, hairpin chiming simultaneously"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the arriving woman walks to the sect's sword altar — the same altar where Trieu Tien's father embedded his legendary blade. She stands where the Sword Saint once stood. Raises her hand. Her cultivation energy — pure white, identical to the Sword Saint's style. It spirals around her like mist. She looks back at Trieu Tien. Camera: close-up — woman at sword altar, identical white cultivation energy, looking back at Trieu Tien. 6 seconds.",
+      "camera": "Close-up — woman at sword altar, identical white energy, looking back, 6s",
+      "narration": "Her cultivation technique was identical. The Sword Saint's technique. Perfectly identical.",
+      "sfx": "Cultivation energy spiraling, wind through altar stones, her calm breathing, distant swords singing"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium close-up — Trieu Tien walks forward through the parted crowd. Her crimson hairpin glows faintly. Her own cultivation — also white, but with a red undertone. The arriving woman and Trieu Tien face each other at the altar. Ten feet apart. The woman's hand rests on the altar where the Sword Saint's blade once stood. Trieu Tien's hand is on her hairpin. Camera: medium close-up — two women facing off at the altar, identical but opposing energy, hairpins both glowing. 6 seconds.",
+      "camera": "Medium close-up — face-off at altar, white vs white-red energy, both hairpins glowing, 6s",
+      "narration": "Two daughters of the Sword Saint's path. Only one could claim the true lineage.",
+      "sfx": "Two cultivation energies humming, wind clashing between them, heartbeat mounting, stone cracking"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — the arriving woman speaks. 'I am Trieu Huong. His second disciple.' She pulls a broken half of a jade pendant from her robe — Trieu Tien recognizes it instantly. Her father gave the other half to her. The woman: 'He taught us both. He just never told you about me.' Trieu Tien's face: shock, betrayal, grief — all at once. Tears she cannot control. Camera: extreme close-up — broken jade pendant, Trieu Tien's tears and shock, revelation. 6 seconds.",
+      "camera": "Extreme close-up — broken jade pendant revealed, her tears and shock, revelation moment, 6s",
+      "narration": "His second disciple. The father who never spoke of his past — had kept another secret.",
+      "sfx": "Jade clinking, her sharp inhale, tears falling, cultivation energy crackling, devastating silence"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-61.mp4",
+  "produced_at": "2026-04-05T14:05:09.947Z",
+  "publishedAt": "2026-04-06T01:32:02.214Z",
+  "tiktok_url": "/@fai20128/video/7625452611919039765"
+}

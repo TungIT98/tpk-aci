@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-064",
+  "title": "Trieu Tien Episode 14: Fifty Against One",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 14,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Fifty soldiers. One commander. No rules. She had been trained in the orphanage — where mercy was a luxury she could not afford.",
+    "story_arc": "Battle begins → Soldiers attack in waves → She channels orphanage training → Crimson tide unleashed → Commander flees",
+    "emotion": "Controlled fury → Battle intensity → Memories of orphanage training → Power unleashed → Commander's terror",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide battle — fifty soldiers charge simultaneously. She does not retreat. She ADVANCES into them — a crimson hurricane. Blade traces red calligraphy through the air. Soldiers fall in perfect order — disarmed, not killed. But her eyes — her eyes are NOT calm. Something feral burns behind them. Camera: wide, crimson advance into charging army, beautiful feral violence. 6 seconds.",
+      "camera": "Wide — advancing into charge, calligraphy blade work, disarming not killing, feral eyes, 6s",
+      "narration": "The orphanage had taught her to survive. No rules there. No honor. Just survive at any cost. And she was applying every dirty trick she had learned — to protect children who had taught her how to live.",
+      "sfx": "Battle roar, blade traces, soldiers falling, her fierce breathing, epic drums"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — second wave charges. She uses the soldiers as platforms — springboarding off their shoulders to gain height. In mid-air, she rotates and severs every weapon they thrust upward. Fifty weapons clatter to the ground simultaneously. She lands in their center — surrounded by fifty disarmed soldiers — without a hair out of place. Camera: close-up mid-air springboard, fifty weapons falling simultaneously, perfect landing. 6 seconds.",
+      "camera": "Close-up — mid-air springboard, fifty weapons falling simultaneously, perfect center landing, 6s",
+      "narration": "Fifty weapons. One girl. Every blade severed at the same instant — in mid-air — while bouncing off human platforms. The soldiers' faces showed not anger, but fear.",
+      "sfx": "Whoosh, blade singing through steel, fifty swords clattering, her battle cry"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium — third wave. They bring a NET — enchanted to bind spiritual energy. She sees it coming. Instead of cutting it, she GRABS it — and WHIPS it back at the throwers. They are tangled in their own net. 'I grew up in the orphanage,' she says quietly, severing their bonds so they can flee. 'I know every dirty trick.' Camera: medium, grabbing enchanted net, whipping back, 'I grew up in the orphanage' reveal, 6 seconds.",
+      "camera": "Medium — grabbing enchanted net, whipping back, orphanage backstory reveal, mercy shown, 6s",
+      "narration": "I grew up in the orphanage. Every dirty trick, every starvation survival instinct, every desperate technique — she had learned it there. And now it was saving not just her — but the children she had sworn to protect.",
+      "sfx": "Net whoosh, soldiers tumbling, quiet voice reveal, soft emotional strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — the commander panics. He grabs a CHILD from the orphanage doorway — the youngest, four years old, clutching the toy rabbit she had brought. 'One more move and the child!' he screams. She freezes mid-blade-stroke. The child looks at her — not crying. Smiling. Camera: wide, child's life threatened, her frozen blade, child's impossible smile. 6 seconds.",
+      "camera": "Wide — child's life threatened, frozen blade, child's impossible calm smile, emotional tension, 6s",
+      "narration": "The child was four years old and had been through a war that destroyed her entire family. She had already seen the worst the world could offer. And she smiled — because she knew. The Sword Saint was here. She was safe.",
+      "sfx": "Commander scream, blade freezing, child's quiet breath, silence before storm"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Extreme close-up — she speaks one word. 'Jump.' The child drops — perfectly timed. In that instant, she RELEASES her restraint. The Crimson Blade ERUPTS. A wave of red sword energy sweeps across the field. Fifty soldiers are lifted and deposited — gently — outside the village walls. The commander alone remains — on his knees before her. Camera: extreme close-up, one word 'Jump', red wave, commander kneeling, final frame on her face. 6 seconds.",
+      "camera": "Extreme close-up — 'Jump', crimson wave erupting, 50 soldiers deposited outside walls, commander kneeling, 6s",
+      "narration": "One word. One wave. And every soldier who had survived was now outside the village walls — unharmed. She had saved the children without killing a single soul. Just as she had promised herself.",
+      "sfx": "One word 'Jump', crimson wave whoosh, soldiers whooshing through air, silence, emotional release"
+    }
+  ],
+  "audio": {
+    "narration": "The orphanage had taught her to survive. No rules there. No honor. Just survive at any cost. And she was applying every dirty trick she had learned — to protect children who had taught her how to live. Fifty weapons. One girl. Every blade severed at the same instant — in mid-air — while bouncing off human platforms. The soldiers' faces showed not anger, but fear. I grew up in the orphanage. Every dirty trick, every starvation survival instinct, every desperate technique — she had learned it there. And now it was saving not just her — but the children she had sworn to protect. The child was four years old and had been through a war that destroyed her entire family. She had already seen the worst the world could offer. And she smiled — because she knew. The Sword Saint was here. She was safe. One word. One wave. And every soldier who had survived was now outside the village walls — unharmed. She had saved the children without killing a single soul. Just as she had promised herself.",
+    "narration_duration": 28,
+    "bg_music": "Epic battle orchestral, maternal fury theme, crimson wave, controlled power, triumphant mercy 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Battle roar",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Net whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Commander scream",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "One word 'Jump'",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide battle — fifty soldiers charge simultaneously. She does not retreat. She ADVANCES into them — a crimson hurricane. Blade traces red calligraphy through the air. Soldiers fall in perfect order — disarmed, not killed. But her eyes — her eyes are NOT calm. Something feral burns behind them. Camera: wide, crimson advance into charging army, beautiful feral violence. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — second wave charges. She uses the soldiers as platforms — springboarding off their shoulders to gain height. In mid-air, she rotates and severs every weapon they thrust upward. Fifty weapons clatter to the ground simultaneously. She lands in their center — surrounded by fifty disarmed soldiers — without a hair out of place. Camera: close-up mid-air springboard, fifty weapons falling simultaneously, perfect landing. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium — third wave. They bring a NET — enchanted to bind spiritual energy. She sees it coming. Instead of cutting it, she GRABS it — and WHIPS it back at the throwers. They are tangled in their own net. 'I grew up in the orphanage,' she says quietly, severing their bonds so they can flee. 'I know every dirty trick.' Camera: medium, grabbing enchanted net, whipping back, 'I grew up in the orphanage' reveal, 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — the commander panics. He grabs a CHILD from the orphanage doorway — the youngest, four years old, clutching the toy rabbit she had brought. 'One more move and the child!' he screams. She freezes mid-blade-stroke. The child looks at her — not crying. Smiling. Camera: wide, child's life threatened, her frozen blade, child's impossible smile. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Extreme close-up — she speaks one word. 'Jump.' The child drops — perfectly timed. In that instant, she RELEASES her restraint. The Crimson Blade ERUPTS. A wave of red sword energy sweeps across the field. Fifty soldiers are lifted and deposited — gently — outside the village walls. The commander alone remains — on his knees before her. Camera: extreme close-up, one word 'Jump', red wave, commander kneeling, final frame on her face. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 14: Năm Mươi Chống Một | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 14 of Trieu Tien. Fifty soldiers versus one Sword Saint in the orphanage's snow-covered courtyard. She channels every survival technique she learned as an orphan to save the children — without killing a single soldier.\n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 15\n#xianxia #trieu tien #orphanage battle #crimson blade #epic battle #chinese fantasy",
+    "youtube_tags": [
+      "xianxia",
+      "trie u tien",
+      "orphanage battle",
+      "crimson blade",
+      "fifty vs one",
+      "child saved",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "50 lính đối đầu 1 Sword Saint trong sân trại mồ côi tuyết phủ — cô chiến đấu với mọi thủ đoạn từng học được khi sống trong trại ⚔️❄️ Tập 14 Trieu Tien #xianxia #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide battle — fifty soldiers charge simultaneously. She does not retreat. She ADVANCES into them — a crimson hurricane. Blade traces red calligraphy through the air. Soldiers fall in perfect order — disarmed, not killed. But her eyes — her eyes are NOT calm. Something feral burns behind them. Camera: wide, crimson advance into charging army, beautiful feral violence. 6 seconds. Shot 2: Close-up — second wave charges. She uses the soldiers as platforms — springboarding off their shoulders to gain height. In mid-air, she rotates and severs every weapon they thrust upward. Fifty weapons clatter to the ground simultaneously. She lands in their center — surrounded by fifty disarmed soldiers — without a hair out of place. Camera: close-up mid-air springboard, fifty weapons falling simultaneously, perfect landing. 6 seconds. Shot 3: Medium — third wave. They bring a NET — enchanted to bind spiritual energy. She sees it coming. Instead of cutting it, she GRABS it — and WHIPS it back at the throwers. They are tangled in their own net. 'I grew up in the orphanage,' she says quietly, severing their bonds so they can flee. 'I know every dirty trick.' Camera: medium, grabbing enchanted net, whipping back, 'I grew up in the orphanage' reveal, 6 seconds. Shot 4: Wide cinematic — the commander panics. He grabs a CHILD from the orphanage doorway — the youngest, four years old, clutching the toy rabbit she had brought. 'One more move and the child!' he screams. She freezes mid-blade-stroke. The child looks at her — not crying. Smiling. Camera: wide, child's life threatened, her frozen blade, child's impossible smile. 6 seconds. Shot 5: Extreme close-up — she speaks one word. 'Jump.' The child drops — perfectly timed. In that instant, she RELEASES her restraint. The Crimson Blade ERUPTS. A wave of red sword energy sweeps across the field. Fifty soldiers are lifted and deposited — gently — outside the village walls. The commander alone remains — on his knees before her. Camera: extreme close-up, one word 'Jump', red wave, commander kneeling, final frame on her face. 6 seconds.",
+  "visual_scene": "Wide battle — fifty soldiers charge simultaneously. She does not retreat. She ADVANCES into them — a crimson hurricane. Blade traces red calligraphy through the air. Soldiers fall in perfect order — disarmed, not killed. But her eyes — her eyes are NOT calm. Something feral burns behind them. Camera: wide, crimson advance into charging army, beautiful feral violence. 6 seconds. Close-up — second wave charges. She uses the soldiers as platforms — springboarding off their shoulders to gain height. In mid-air, she rotates and severs every weapon they thrust upward. Fifty weapons clatter to the ground simultaneously. She lands in their center — surrounded by fifty disarmed soldiers — without a hair out of place. Camera: close-up mid-air springboard, fifty weapons falling simultaneously, perfect landing. 6 seconds. Medium — third wave. They bring a NET — enchanted to bind spiritual energy. She sees it coming. Instead of cutting it, she GRABS it — and WHIPS it back at the throwers. They are tangled in their own net. 'I grew up in the orphanage,' she says quietly, severing their bonds so they can flee. 'I know every dirty trick.' Camera: medium, grabbing enchanted net, whipping back, 'I grew up in the orphanage' reveal, 6 seconds. Wide cinematic — the commander panics. He grabs a CHILD from the orphanage doorway — the youngest, four years old, clutching the toy rabbit she had brought. 'One more move and the child!' he screams. She freezes mid-blade-stroke. The child looks at her — not crying. Smiling. Camera: wide, child's life threatened, her frozen blade, child's impossible smile. 6 seconds. Extreme close-up — she speaks one word. 'Jump.' The child drops — perfectly timed. In that instant, she RELEASES her restraint. The Crimson Blade ERUPTS. A wave of red sword energy sweeps across the field. Fifty soldiers are lifted and deposited — gently — outside the village walls. The commander alone remains — on his knees before her. Camera: extreme close-up, one word 'Jump', red wave, commander kneeling, final frame on her face. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Trieu Tien Episode 14: Fifty Against One",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "trie u tien",
+    "orphanage battle",
+    "crimson blade",
+    "fifty vs one",
+    "child saved",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

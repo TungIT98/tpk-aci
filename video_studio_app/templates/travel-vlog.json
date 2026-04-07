@@ -1,0 +1,52 @@
+{
+  "name": "Travel Vlog",
+  "description": "Cinematic travel storytelling with location establishing shots, immersive walking sequences, and atmospheric closes. Targets wanderlust audiences.",
+  "target_platform": "yt_shorts",
+  "voice_style": "reflective, adventurous, cinematic narration — dreamy travel documentary energy",
+  "music_mood": "cinematic ambient, world music, lo-fi travel, orchestral swell",
+  "hashtag_suggestions": ["#travel", "#traveltok", "#wanderlust", "#vlog", "#travelgram", "#adventure", "#explore", "#vacation"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 4,
+      "narration_prompt": "Nobody talks about how expensive it actually is to travel full-time — until now.",
+      "visual_prompt": "Golden hour aerial drone shot of coastal city, palm trees silhouetted against orange sky, passport and plane ticket close-up",
+      "camera_movement": "slow aerial drone-style zoom, cinematic slow pan across horizon, macro close-up on passport/ticket",
+      "lighting_setup": "golden hour backlit sun in frame, warm orange and pink sky, silhouette foreground elements, lens flare",
+      "hailuo_style_note": "Golden hour drone aesthetic is travel content gold; backlit sun in frame creates iconic hook shot; passport detail adds narrative setup",
+      "transition": "aerial_zoom"
+    },
+    {
+      "type": "content",
+      "duration_sec": 25,
+      "narration_prompt": "This city surprised me. The food costs less than my grocery bill back home, the WiFi is faster, and I found a co-working space that costs $15 a week.",
+      "visual_prompt": "Walking through narrow cobblestone streets, cafe terrace overlooking city square, person working on laptop at outdoor co-working space, market stalls passing by",
+      "camera_movement": "walking POV tracking shot, smooth glide through streets, panning across cafe scene, static medium for co-working moment",
+      "lighting_setup": "dappled sunlight through trees, warm Mediterranean tones, market stall colorful lighting, ambient cafe glow",
+      "hailuo_style_note": "Walking POV is immersive and proven for travel; mix in static held shots between movement for cinematic breathing room",
+      "transition": "walking_pov"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "The real cost breakdown: accommodation $28 a night, food $12 a day, transport $4. Total: $44 a day — that's $1,320 a month to live somewhere incredible.",
+      "visual_prompt": "Money being counted on bed, accommodation interior tour, street food being purchased, scooter driving through town, receipts and budget app on phone",
+      "camera_movement": "flat lay overhead for money counting, smooth pan through accommodation, tracking shot of scooter ride",
+      "lighting_setup": "bright natural daylight for accommodation, street market warm tones, phone screen glow for budget app",
+      "hailuo_style_note": "Flat lay money counting is a satisfying TikTok format; accommodation tour should be clean and aspirational",
+      "transition": "crossfade"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 8,
+      "narration_prompt": "I'll drop the full budget guide in my bio. Follow along — next month I'm doing this in three cities for under $2,000.",
+      "visual_prompt": "Sunset beach scene, person looking at camera smiling, plane taking off overhead, text overlay 'Part 2 coming...', wave rolling",
+      "camera_movement": "slow cinematic wide shot on beach, static medium on person smiling, slow-motion plane overhead",
+      "lighting_setup": "warm sunset golden hour, backlit silhouette option, orange sky reflecting on water, lens flare on sun",
+      "hailuo_style_note": "Sunset beach closing is a proven travel outro; plane overhead adds forward-momentum narrative hook",
+      "transition": "slow_zoom_out"
+    }
+  ]
+}

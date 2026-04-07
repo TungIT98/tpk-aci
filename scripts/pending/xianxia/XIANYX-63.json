@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-63",
+  "title": "Trieu Tien Episode 13: The Dual Blade",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Training montage, dual cultivation, sisterly bond, power awakening",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Two styles. Two hairpins. One blade technique that could only be learned together.",
+    "story_arc": "Dual training begins → Different styles clash → Combined technique attempted → Hairpins resonate → Sword altar ignites",
+    "emotion": "Tension → Frustration → Discovery → Wonder → Awakened power",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect training grounds at dawn. Trieu Tien in crimson, Trieu Huong in white. They face each other with wooden practice swords. They move simultaneously — but in perfect mirror. Her sword style is fluid, emotional, crimson-edged. Huong's is precise, cold, pure white. Their hairpins both catch the dawn light. Camera: wide shot — dual mirror training, dawn light, two identical hairpins. 6 seconds.",
+      "camera": "Wide shot — dual mirror training, dawn light, crimson vs white, identical hairpins, 6s",
+      "narration": "Their styles were opposite. But together — they were complete.",
+      "sfx": "Wooden swords clashing in sync, synchronized breathing, dawn birds, wind"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — their practice swords collide. White and red energy clash at the point of contact — spiraling around each other like yin and yang. The hairpins on both women begin to glow — matching pulses of light. They both feel it simultaneously. Eyes widen. The clash point generates a small burst of combined energy. Camera: close-up — energy clash at sword contact point, hairpins beginning to glow, both faces showing same reaction. 6 seconds.",
+      "camera": "Close-up — energy clash at sword contact, white and red spiraling, both hairpins glowing, 6s",
+      "narration": "The moment their blades met — something ancient awakened in both hairpins.",
+      "sfx": "Energy clash, hairpins chiming in harmony, wind, two sharp gasps"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium wide shot — they try a combined strike. Trieu Tien and Trieu Huong strike simultaneously from opposite sides. Their two energy streams — white and crimson — meet at the center and EXPLODE. The force sends both women flying backward. They crash into practice dummies, breaking them. Both lie on the ground, stunned. Camera: medium wide — combined strike explosion, both flying back, breaking dummies, dust everywhere. 6 seconds.",
+      "camera": "Medium wide — combined strike explosion, both flying back, dust cloud, 6s",
+      "narration": "The combined force was too great. They were flung like leaves in a hurricane.",
+      "sfx": "Thunderous explosion, two bodies crashing, dummy breaking, dust settling, coughing"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Trieu Tien lies on her back, breathing hard. Huong crawls over. Trieu Tien: 'What WAS that?' Huong: 'The technique. The one he never taught either of us alone.' She pulls a folded paper from her robe — a page from a damaged scroll. The diagram shows two figures wielding blades simultaneously. Hairpins blazing with light. Camera: close-up — damaged scroll page, two-figure diagram, hairpins glowing in the drawing. 6 seconds.",
+      "camera": "Close-up — damaged scroll page, two-figure blade diagram, hairpins blazing in drawing, 6s",
+      "narration": "The Dual Blade Requiem. The technique he developed — but could never complete alone.",
+      "sfx": "Paper unfolding, wind in the clearing, distant eagle cry, heartbeat"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — they stand before the sword altar. Both hairpins blazing with light simultaneously. The ancient sword embedded in the altar begins to glow — responding to their combined energy. Cracks appear in the altar stone. Light pours from the cracks. The embedded sword trembles. Trieu Tien and Huong look at each other. Then reach for the sword together. Camera: wide shot — both hairpins blazing, altar cracking with light, two women reaching for ancient sword together. 6 seconds.",
+      "camera": "Wide shot — altar cracking with light, both blazing, two women reaching for sword together, 6s",
+      "narration": "The Sword Saint's final secret — waiting for his two daughters to claim it together.",
+      "sfx": "Stone cracking, light pouring, sword trembling, two women reaching, epic orchestral crescendo"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-63.mp4",
+  "produced_at": "2026-04-05T14:06:18.551Z",
+  "publishedAt": "2026-04-06T01:34:54.222Z",
+  "tiktok_url": "/@fai20128/video/7625453360514206996"
+}

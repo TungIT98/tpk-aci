@@ -1,0 +1,155 @@
+﻿{
+  "id": "XIANYX-89",
+  "title": "Tru Tien Episode 19: The Ice Rib Queen",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 19,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "New boss battle, elemental power, female villain, tactical fight",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Ice Rib Queen controlled a frozen dungeon where hunters went to die. Jin-Woo arrived alone. She laughed. 'Another hunter to freeze?' Jin-Woo: 'I'm not here to fight you. I'm here to freeze YOU.'",
+    "story_arc": "Frozen dungeon discovered → Ice Rib Queen revealed → Her absolute power freeze → Jin-Woo enters alone → Tactical exchange → Her surprise at his counter → Power clash",
+    "emotion": "Frozen horror → Power reveal → Laughter → Cold entrance → Tactical exchange → Surprise → Clash",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — frozen underground dungeon. Everything covered in eternal ice. Frozen hunters frozen in mid-fight, frozen in terror. Ice crystals cover every surface. Camera: wide — frozen dungeon with frozen hunters frozen in mid-fight, ice crystals everywhere, eternal ice atmosphere, horror in ice. 6 seconds.",
+      "camera": "Wide — frozen dungeon with frozen hunters frozen in positions of terror, ice crystals covering everything, 6s",
+      "narration": "The Ice Rib Queen's domain. Hunters who entered — frozen in eternal ice. Preserved like museum exhibits. Warnings nobody read.",
+      "sfx": "Frozen wind, ice creaking, frozen silence, distant frozen screams, horror atmosphere"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme wide shot — the Ice Rib Queen stands on a throne of ice. She is beautiful and terrible — ice-blue skin, crystalline armor, crown of frozen daggers. She controls the temperature around her. Everything near her freezes. Camera: extreme wide — Ice Rib Queen on ice throne, ice-blue skin, crystalline armor, crown of frozen daggers, freezing aura around her, 6s",
+      "narration": "The Ice Rib Queen. Her frozen domain was her kingdom. Everything that entered — belonged to her eternal ice.",
+      "sfx": "Ice throne forming, queen's breathing, freezing aura humming, ice crystals growing, ominous queen presence"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the Ice Rib Queen senses someone entering. She raises her hand. Instantly, the temperature around Jin-Woo plummets. Ice forms on his skin. He should be freezing. He isn't. 'Another hunter to freeze?' She laughs. Camera: close-up — Ice Rib Queen sensing Jin-Woo, raising hand, temperature plummeting around him, ice forming on his skin, her cruel laugh, his calm face. 6 seconds.",
+      "camera": "Close-up — Ice Rib Queen sensing and freezing around Jin-Woo, raising hand, her cruel laugh, his calm unfrozen face, 6s",
+      "narration": "She raised her hand — and instantly the temperature dropped to lethal. Ice formed on his skin. And he smiled. Because freezing — was his element.",
+      "sfx": "Temperature plummeting, ice forming on skin, her cruel laugh, his calm breathing, frost crackling"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo raises his hand. Shadow energy meets ice. The ice stops advancing. The Ice Rib Queen's smile FADES. 'You — you're not a hunter.' Jin-Woo: 'I'm not here to fight you. I'm here to freeze YOU.' Camera: close-up — shadow energy meeting ice, Ice Rib Queen's smile fading, her recognition, his cold 'I'm here to freeze YOU,' power reversal beginning. 6 seconds.",
+      "camera": "Close-up — shadow energy meeting ice, her smile fading, recognition, his cold 'freeze YOU,' power reversal beginning, 6s",
+      "narration": "The Ice Rib Queen — stopped smiling. Shadow against ice. Her domain — was not the only one. 'I'm here to freeze YOU.' And she understood — for the first time — she was not the apex predator.",
+      "sfx": "Shadow meeting ice, her smile fading, shocked recognition, his cold voice, power reversal, tension spike"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — shadow and ice EXPLODE against each other. The collision creates a snowstorm in the chamber. Jin-Woo's shadow army rises from beneath the ice — turning her frozen hunters INTO shadow soldiers. The Ice Rib Queen turns — surrounded. Camera: wide — shadow vs ice explosion, snowstorm collision, shadow army rising from beneath ice, turning frozen hunters into shadow soldiers, Ice Rib Queen surrounded. 6 seconds.",
+      "camera": "Wide — shadow vs ice explosion creating snowstorm, shadow army rising from ice, frozen hunters turning to shadow soldiers, Ice Rib Queen surrounded, 6s",
+      "narration": "Shadow soldiers rose from the ice — her frozen hunters, now HIS. The Ice Rib Queen turned — surrounded. And Jin-Woo — walked toward her through the chaos of his own making.",
+      "sfx": "Shadow vs ice explosion, snowstorm forming, frozen hunters becoming shadows, her shocked gasp, epic battle music, chaos"
+    }
+  ],
+  "audio": {
+    "narration": "The Ice Rib Queen's domain. Hunters who entered — frozen in eternal ice. Preserved like museum exhibits. Warnings nobody read. The Ice Rib Queen. Her frozen domain was her kingdom. Everything that entered — belonged to her eternal ice. She raised her hand — and instantly the temperature dropped to lethal. Ice formed on his skin. And he smiled. Because freezing — was his element. The Ice Rib Queen — stopped smiling. Shadow against ice. Her domain — was not the only one. 'I'm here to freeze YOU.' And she understood — for the first time — she was not the apex predator. Shadow soldiers rose from the ice — her frozen hunters, now HIS. The Ice Rib Queen turned — surrounded. And Jin-Woo — walked toward her through the chaos of his own making.",
+    "narration_duration": 28,
+    "bg_music": "Epic ice vs shadow battle Chinese-Korean orchestral, frozen domain, power reversal, queen surrounded, battle climax 110 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Frozen wind, ice creaking, horror",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Ice throne forming, queen presence",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Temperature plummeting, ice forming, her laugh",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Shadow meeting ice, shocked recognition",
+        "volume": 0.6
+      },
+      {
+        "time": 24,
+        "sound": "Shadow vs ice explosion, snowstorm, chaos",
+        "volume": 0.7
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 19: Nữ Vương Băng Sườn | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 19 of Solo Leveling (Trừ Tiên). The Ice Rib Queen rules a frozen dungeon where hunters go to die. Jin-Woo arrives alone. She freezes the air around him — and he smiles. 'I'm not here to fight you. I'm here to freeze YOU.' Shadow soldiers rise from her frozen hunters. She is surrounded.",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "Ice Rib Queen",
+      "Jin-Woo",
+      "frozen dungeon",
+      "shadow army",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "NỮ VƯƠNG BĂNG SƯỜN hành hạ thợ săn trong hầm địa ngục băng giá! Jin-Woo đi vào... Nước đông lạnh quanh người... Hắn MỈM CƯỜI! 'Ta không đến để đánh ngươi. Ta đến để ĐÔNG NGƯỜI LẠI.' Bóng tối trồi lên từ những thợ săn bị đông của bà... 🔥 Tập 19",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Frozen dungeon with frozen hunters, Ice Rib Queen on ice throne, ice meeting shadow, power reversal, shadow army rising from frozen hunters",
+  "specific_details": {
+    "subject": "Jin-Woo: black hoodie with ice crystals forming then melting, shadow energy swirling, calm smile. Ice Rib Queen: ice-blue skin, crystalline armor, crown of frozen daggers, beautiful and terrible.",
+    "outfit_exact": "Jin-Woo: black hoodie and jeans, ice crystals forming then shadow energy burning them off. Ice Rib Queen: ice-blue crystalline armor dress, crown of frozen daggers, ice-blue skin, deadly beautiful.",
+    "setting_details": "Frozen underground dungeon, ice crystals everywhere, ice throne, frozen hunters frozen in terror, snowstorm collision at climax",
+    "face_expression": "Jin-Woo: calm → slight smile when ice forms → cold determination. Ice Rib Queen: cruel amusement → fading smile → growing alarm → surrounded fear",
+    "body_movement": "Ice Rib Queen: on throne → raising hand → surrounding gesture. Jin-Woo: walking in frozen air → raising hand → shadow army rising → walking toward her. Frozen hunters: frozen → becoming shadow soldiers.",
+    "camera": "Wide frozen dungeon, extreme wide Ice Rib Queen reveal, close-up freezing and laugh, close-up power reversal, wide shadow army rising and queen surrounded"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright warm colors, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 19: Ice Rib Queen vs Jin-Woo — shadow soldiers rising from her frozen hunters",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "Ice Rib Queen",
+    "Jin-Woo",
+    "frozen dungeon",
+    "shadow monarch",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T18:00:00Z",
+  "publishedAt": "2026-04-06T02:51:03.749Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625466290144333076"
+}

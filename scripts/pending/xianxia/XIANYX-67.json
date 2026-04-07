@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-67",
+  "title": "Trieu Tien Episode 17: The General's Challenge",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 17,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "One-on-one duel, army watching, mother's legacy vs daughter's power",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Crimson Sun General stepped forward. The same general who burned the capital.",
+    "story_arc": "General challenges Trieu Tien → He knew her mother → Old scars revealed → Battle begins → Hairpin vs general's scar",
+    "emotion": "Rage → Recognition → Revelation → Battle fury → Mother's justice",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Medium shot — the Crimson Sun General removes his helmet. A massive scar runs down the left side of his face — exactly where a phoenix hairpin would sit. Trieu Tien sees it. Freezes. The General: 'You look exactly like her. Bao Mai.' He touches the scar. 'She gave me this the night she defected.' Trieu Tien's hand moves to her hairpin. Camera: medium — scar revealed, General touching scar, Trieu Tien freezing, hand on hairpin. 6 seconds.",
+      "camera": "Medium — helmet off, scar revealed, hand on hairpin, recognition, 6s",
+      "narration": "The scar on the General's face — was her mother's parting gift.",
+      "sfx": "Helmet removed, scar revealed, wind, his deep voice, her sharp intake"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the General unsheathes his blade — a massive broadsword, crimson-edged. The same style as Trieu Tien's mother's technique. 'She taught me everything. Then left me bleeding in the capital.' The army watches silently. The Sect Master raises his hand. 'Trieu Tien does not have to —' Trieu Tien: 'I accept.' Steps forward. Camera: close-up — massive broadsword unsheathing, her single word 'I accept', stepping forward alone. 6 seconds.",
+      "camera": "Close-up — broadsword unsheathing, her quiet 'I accept', stepping forward, 6s",
+      "narration": "The General was her mother's first love. And her mother's greatest betrayal.",
+      "sfx": "Broadsword unsheathing, his bitter words, her footsteps forward, wind dying"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — the General strikes first. A massive overhead blow — impossibly fast for his size. Trieu Tien DEFLECTS it — barely. Her feet skid on stone. Her arm shakes with the impact. The General: 'Weak. Like her.' She responds with a thrust — he deflects just as barely. Both exchange — extremely fast. Red and crimson energy exploding with every clash. Camera: extreme close-up — massive blow deflected, sparks, both extremely fast exchanging, energy exploding. 6 seconds.",
+      "camera": "Extreme close-up — massive blows, deflecting, sparks, fast exchange, energy exploding, 6s",
+      "narration": "The battle was brutal. The General — matched her mother's speed. Every move.",
+      "sfx": "Steel clashing, energy exploding, rapid breathing, footsteps, heartbeat building"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the General knocks Trieu Tien's blade aside. He goes for her throat with an open hand — grabbing her neck, lifting her off the ground. She gasps. He speaks into her face: 'Tell me where she is buried.' She smiles. Blood on her teeth. 'She is with my father. Where you can never reach.' Her hairpin begins to glow. He notices. His eyes widen. Camera: close-up — her lifted by throat, blood on teeth, her smile, hairpin beginning to glow. 6 seconds.",
+      "camera": "Close-up — grabbed by throat, blood on teeth, hairpin beginning to glow, his eyes widening, 6s",
+      "narration": "And the hairpin — her mother's final gift — began to burn.",
+      "sfx": "Choking sound, her bloody smile, hairpin chiming, General's sharp breath"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — the hairpin ERUPTS with crimson fire — her mother's spirit energy, sealed inside for twenty years. The General is thrown backward by the force. Trieu Tien lands on her feet. The hairpin blazes on her head like a living flame. Behind her — a translucent warrior figure. Her mother's form. Blade raised. The General stares. 'Mai?' Trieu Tien's mother's voice: 'Leave. My daughter.' Camera: wide shot — hairpin fire erupting, mother spirit appearing, General thrown back, her voice echoing. 6 seconds.",
+      "camera": "Wide shot — hairpin blazing fire, mother spirit appearing, General staring, mother speaking, 6s",
+      "narration": "Twenty years sealed in a hairpin. And now — her mother's spirit had awakened to protect her.",
+      "sfx": "Fire eruption, spirit appearing, General gasping 'Mai?', mother spirit voice echoing, epic orchestral swell"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-67.mp4",
+  "produced_at": "2026-04-05T14:08:24.615Z",
+  "publishedAt": "2026-04-06T01:40:38.981Z",
+  "tiktok_url": "/@fai20128/video/7625454850259651860"
+}

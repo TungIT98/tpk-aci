@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-098",
+  "title": "Thanh Van Mon Episode 18: The Garden's Final Season",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 18,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The garden begins to die. The last act of a dying garden: it tries to take everyone in the palace with it into oblivion.",
+    "story_arc": "Wilting signs, Garden's dying rage, Oblivion spreading, Palace consumed, Her impossible choice",
+    "emotion": "Sorrow, Desperation, Horror, Sacrifice, Grim resolve",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide aerial shot — the garden at dawn. But it is wrong. The flowers are closing and not reopening. Leaves turn gray and crumble mid-air. The carved stones are cracking without breaking — just fading. The floating lanterns are going out one by one, not flickering but simply darkening. The garden is dying from the inside. Camera: wide aerial shot of the dying garden, gray spreading across color, dawn light but no warmth. 6 seconds.",
+      "camera": "Wide aerial — dying garden at dawn, flowers closing, leaves turning gray, lanterns going dark, no wind, 6s",
+      "narration": "The garden was dying. Three hundred years of accumulated memory — of names kept alive against erasure — was failing. And a dying garden had only one final act.",
+      "sfx": "Leaves crumbling, flower closing, silence where there should be birdsong, mournful wind, dread bass"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the ground itself is disappearing. Sections of garden path simply vanish — not collapsing into holes but fading into white nothing. People standing on those sections fade with them — not dying but becoming less real, less defined. She watches a guard fade to transparency and then nothing. She runs. Camera: medium shot, sections of ground fading to white oblivion, her running, people becoming transparent. 6 seconds.",
+      "camera": "Medium — ground fading to white nothing, people becoming transparent and vanishing, her running through, 6s",
+      "narration": "The garden's last act was not destruction. It was erasure. It was going to take the entire palace with it into the void — so that no record of what had been done would survive.",
+      "sfx": "Erasure sound like wind but silent, people screaming fading, her footsteps, horror strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — the Emperor stands in the center of the dying garden. He does not run. He watches the oblivion spread toward him with the face of a man who has been waiting for this for thirty years. Yes, he says to no one. This is what I deserve. The oblivion reaches him — and stops. It cannot erase him. He has the seal. He authorized himself to exist. Camera: wide shot, Emperor standing still as oblivion parts around him, his terrible smile. 6 seconds.",
+      "camera": "Wide — Emperor standing in center of oblivion, it parting around him, his terrible smile, 6s",
+      "narration": "He had made himself immune to erasure. Thirty years ago, when he started destroying names, he had authorized his own immortality against it. He could watch the world disappear — and he would remain.",
+      "sfx": "Oblivion whoosh, silence at center, wind parting, Emperor breathing, terrible laugh"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — she stands before the Emperor as the garden dies around them. She holds the jade seal in one hand and raises it high. The seal doesn't just authorize erasure. It authorizes RESTORATION. She slams the seal into the ground at her feet. I command the garden — REMEMBER. Camera: extreme close-up on her face as she slams the seal, ground cracking with golden light. 6 seconds.",
+      "camera": "Extreme close-up — her face slamming seal into ground, REMEMBER command, golden light exploding, 6s",
+      "narration": "The seal was not just a tool of destruction. It was a tool of memory. And she had just commanded the garden to remember — all at once — everything it had been forced to forget.",
+      "sfx": "Seal slamming, ground cracking, golden light explosion, spirit whoosh, epic command"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — the garden RESURRECTS. Golden light erupts from every erased stone — names pouring out like water, flooding the palace. The oblivion is pushed back, then reversed. Dead flowers bloom. Dead trees leaf. The white nothing fills with color and memory. She collapses to her knees, the seal crumbling to dust in her hand. Camera: wide shot of garden resurrection, golden name-flood, her kneeling as seal dissolves, hope. 6 seconds. End on her face, tears of exhaustion and triumph.",
+      "camera": "Wide — garden resurrection, golden name-flood, oblivion reversed, flowers blooming, her kneeling as seal dissolves, 6s",
+      "narration": "The garden remembered. Every name that had been erased — restored in a single moment of golden light. The seal was dust. The oblivion was gone. And the garden — was finally free.",
+      "sfx": "Resurrection swell, golden name flood, flower blooming, seal crumbling, relieved breath, triumphant strings"
+    }
+  ],
+  "audio": {
+    "narration": "The garden was dying. Three hundred years of accumulated memory — of names kept alive against erasure — was failing. And a dying garden had only one final act. The garden's last act was not destruction. It was erasure. It was going to take the entire palace with it into the void — so that no record of what had been done would survive. He had made himself immune to erasure. Thirty years ago, when he started destroying names, he had authorized his own immortality against it. He could watch the world disappear — and he would remain. The seal was not just a tool of destruction. It was a tool of memory. And she had just commanded the garden to remember — all at once — everything it had been forced to forget. The garden remembered. Every name that had been erased — restored in a single moment of golden light. The seal was dust. The oblivion was gone. And the garden — was finally free.",
+    "narration_duration": 28,
+    "bg_music": "Epic devastating-to-triumphant Chinese orchestral, dying garden theme, golden restoration swell, sacrifice and hope 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Leaves crumbling",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Erasure sound like wind but silent",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Oblivion whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Seal slamming",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Resurrection swell",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide aerial shot — the garden at dawn. But it is wrong. The flowers are closing and not reopening. Leaves turn gray and crumble mid-air. The carved stones are cracking without breaking — just fading. The floating lanterns are going out one by one, not flickering but simply darkening. The garden is dying from the inside. Camera: wide aerial shot of the dying garden, gray spreading across color, dawn light but no warmth. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — the ground itself is disappearing. Sections of garden path simply vanish — not collapsing into holes but fading into white nothing. People standing on those sections fade with them — not dying but becoming less real, less defined. She watches a guard fade to transparency and then nothing. She runs. Camera: medium shot, sections of ground fading to white oblivion, her running, people becoming transparent. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide shot — the Emperor stands in the center of the dying garden. He does not run. He watches the oblivion spread toward him with the face of a man who has been waiting for this for thirty years. Yes, he says to no one. This is what I deserve. The oblivion reaches him — and stops. It cannot erase him. He has the seal. He authorized himself to exist. Camera: wide shot, Emperor standing still as oblivion parts around him, his terrible smile. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — she stands before the Emperor as the garden dies around them. She holds the jade seal in one hand and raises it high. The seal doesn't just authorize erasure. It authorizes RESTORATION. She slams the seal into the ground at her feet. I command the garden — REMEMBER. Camera: extreme close-up on her face as she slams the seal, ground cracking with golden light. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — the garden RESURRECTS. Golden light erupts from every erased stone — names pouring out like water, flooding the palace. The oblivion is pushed back, then reversed. Dead flowers bloom. Dead trees leaf. The white nothing fills with color and memory. She collapses to her knees, the seal crumbling to dust in her hand. Camera: wide shot of garden resurrection, golden name-flood, her kneeling as seal dissolves, hope. 6 seconds. End on her face, tears of exhaustion and triumph."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 18: Mùa Cuối Của Thanh Van Mon | Xianxia Việt Sub ⚔️🌿",
+    "youtube_description": "Episode 18 of Thanh Van Mon. The garden begins to die — and its final act is to take the entire palace into oblivion with it. She slams the Imperial Seal into the ground and commands: REMEMBER. The garden resurrects. Every erased name is restored at once. The seal crumbles to dust.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 19 — The Woman Who Watered the Dead\n#xianxia #thanhvanmon #garden dying #oblivion #resurrection #season finale #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "garden dying",
+      "oblivion",
+      "erasure reversal",
+      "resurrection",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Khu vườn đang CHẾT — và hành động cuối cùng của nó là xóa toàn bộ cung điện khỏi tồn tại. Cô đập Ấn tín vào đất: 'HÃY NHỚ!' Tất cả tên bị xóa ĐƯỢC PHỤC HỒI. Khu vườn hồi sinh ⚔️🌿 Tập 18 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide aerial shot — the garden at dawn. But it is wrong. The flowers are closing and not reopening. Leaves turn gray and crumble mid-air. The carved stones are cracking without breaking — just fading. The floating lanterns are going out one by one, not flickering but simply darkening. The garden is dying from the inside. Camera: wide aerial shot of the dying garden, gray spreading across color, dawn light but no warmth. 6 seconds. Shot 2: Medium shot — the ground itself is disappearing. Sections of garden path simply vanish — not collapsing into holes but fading into white nothing. People standing on those sections fade with them — not dying but becoming less real, less defined. She watches a guard fade to transparency and then nothing. She runs. Camera: medium shot, sections of ground fading to white oblivion, her running, people becoming transparent. 6 seconds. Shot 3: Wide shot — the Emperor stands in the center of the dying garden. He does not run. He watches the oblivion spread toward him with the face of a man who has been waiting for this for thirty years. Yes, he says to no one. This is what I deserve. The oblivion reaches him — and stops. It cannot erase him. He has the seal. He authorized himself to exist. Camera: wide shot, Emperor standing still as oblivion parts around him, his terrible smile. 6 seconds. Shot 4: Close-up — she stands before the Emperor as the garden dies around them. She holds the jade seal in one hand and raises it high. The seal doesn't just authorize erasure. It authorizes RESTORATION. She slams the seal into the ground at her feet. I command the garden — REMEMBER. Camera: extreme close-up on her face as she slams the seal, ground cracking with golden light. 6 seconds. Shot 5: Wide cinematic — the garden RESURRECTS. Golden light erupts from every erased stone — names pouring out like water, flooding the palace. The oblivion is pushed back, then reversed. Dead flowers bloom. Dead trees leaf. The white nothing fills with color and memory. She collapses to her knees, the seal crumbling to dust in her hand. Camera: wide shot of garden resurrection, golden name-flood, her kneeling as seal dissolves, hope. 6 seconds. End on her face, tears of exhaustion and triumph.",
+  "visual_scene": "Wide aerial shot — the garden at dawn. But it is wrong. The flowers are closing and not reopening. Leaves turn gray and crumble mid-air. The carved stones are cracking without breaking — just fading. The floating lanterns are going out one by one, not flickering but simply darkening. The garden is dying from the inside. Camera: wide aerial shot of the dying garden, gray spreading across color, dawn light but no warmth. 6 seconds. Medium shot — the ground itself is disappearing. Sections of garden path simply vanish — not collapsing into holes but fading into white nothing. People standing on those sections fade with them — not dying but becoming less real, less defined. She watches a guard fade to transparency and then nothing. She runs. Camera: medium shot, sections of ground fading to white oblivion, her running, people becoming transparent. 6 seconds. Wide shot — the Emperor stands in the center of the dying garden. He does not run. He watches the oblivion spread toward him with the face of a man who has been waiting for this for thirty years. Yes, he says to no one. This is what I deserve. The oblivion reaches him — and stops. It cannot erase him. He has the seal. He authorized himself to exist. Camera: wide shot, Emperor standing still as oblivion parts around him, his terrible smile. 6 seconds. Close-up — she stands before the Emperor as the garden dies around them. She holds the jade seal in one hand and raises it high. The seal doesn't just authorize erasure. It authorizes RESTORATION. She slams the seal into the ground at her feet. I command the garden — REMEMBER. Camera: extreme close-up on her face as she slams the seal, ground cracking with golden light. 6 seconds. Wide cinematic — the garden RESURRECTS. Golden light erupts from every erased stone — names pouring out like water, flooding the palace. The oblivion is pushed back, then reversed. Dead flowers bloom. Dead trees leaf. The white nothing fills with color and memory. She collapses to her knees, the seal crumbling to dust in her hand. Camera: wide shot of garden resurrection, golden name-flood, her kneeling as seal dissolves, hope. 6 seconds. End on her face, tears of exhaustion and triumph.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 18: The Garden's Final Season",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "garden dying",
+    "oblivion",
+    "erasure reversal",
+    "resurrection",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-76",
+  "title": "Dau Pha Thuong Khau Episode 16: The Arena Awakens",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Epic confrontation, underground uprising, chaos erupting, tension",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "The arena floor collapsed — and from the darkness below, three hundred years of the silenced rose.",
+    "story_arc": "The arena floor collapses → Silence fighters emerge → Crowd watches in horror → Arena master senses betrayal → Formation reacts violently",
+    "emotion": "Chaos → Shock → Horror → Rage → Epic confrontation beginning",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the Blood Arena. Match forty-five. Two fighters circle each other on the sand floor. The crowd roars. Then — the sand ERUPTS. The arena floor collapses inward — a massive sinkhole forming at the center. Thirty figures rise from the darkness below — scarred, angry, carrying improvised weapons from three hundred years of underground survival. The crowd SCREAMS. Camera: wide shot — arena floor collapsing, thirty underground fighters emerging from darkness, crowd screaming in horror, chaos erupting across the arena stands. 6 seconds.",
+      "camera": "Wide — arena floor collapsing, thirty underground fighters rising from below, crowd screaming in horror, chaos, 6s",
+      "narration": "Forty-five matches remaining. And then — the ground opened. And three hundred years of silence — screamed.",
+      "sfx": "Arena floor collapsing with thunderous roar, crowd screaming in terror, fighters emerging from darkness, formation howl erupting through the collapse, sand and stone crashing"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide shot — the arena master stands on his elevated platform above the arena. His face — frozen. Not angry. Not surprised. He RECOGNIZES them. 'The Silence,' he whispers. 'You survived.' The underground fighters spread across the arena floor, forming a wall between the current match fighters and the master's platform. Our fighter steps to the front. Camera: wide — arena master frozen on platform recognizing the Silence, our fighter stepping to front of underground army, crowd still screaming above. 6 seconds.",
+      "camera": "Wide — arena master frozen recognizing the Silence, our fighter stepping to front of underground army, crowd screaming, 6s",
+      "narration": "He recognized them. The ones his ancestors had buried alive for refusing to feed the formation. And they had been waiting — all this time — just out of reach of the power that had tried to silence them forever.",
+      "sfx": "Arena master whispering recognition, crowd roaring in confusion above, fighters' breathing in formation, formation hum vibrating through the sand, wind rising from the sinkhole"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium close-up — the arena master descends from his platform slowly. Each step bends the arena floor beneath his feet — the formation responding to his spiritual pressure. Red light pulses from every crack in the sand. 'You think hidden tunnels can stop what three hundred years of sacrifice built?' His voice fills the arena. The crowd above goes silent — watching. He raises one hand. The formation REDDENS — thirty fighters are pushed back, feet skidding in sand. Camera: medium — arena master descending, formation pulsing red with each step, thirty fighters being pushed back by spiritual pressure, crowd watching in silence above. 6 seconds.",
+      "camera": "Medium — arena master descending, formation pulsing red with each step, thirty fighters pushed back, crowd silent above, 6s",
+      "narration": "Three centuries of deaths — channeled through his body. He was not just the arena master. He was the formation itself — walking, breathing, invincible.",
+      "sfx": "Arena master footsteps bending sand, formation roar intensifying, thirty fighters skidding back in sand, crowd holding breath, sand hissing as formation reddens"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up extreme — our fighter plants his feet. He does not move. The thirty fighters around him are pushed back — but he stands. Face locked in determination. Blood trickles from his nose — the formation pressure crushing him. But he does not yield. He raises his voice: 'You built this arena on a lie. And the truth — is coming from below.' Camera: extreme close-up — our fighter's face locked in determination, blood from nose, formation red light around him, not yielding, thirty seconds beginning. 6 seconds.",
+      "camera": "Extreme close-up — fighter's face locked in determination, blood from nose, formation red light around him, not yielding, 6s",
+      "narration": "He had thirty seconds. Thirty seconds to hold — while the one willing sacrifice walked to the center of the formation twenty floors below.",
+      "sfx": "Formation roar crushing, blood dripping from nose, his voice cutting through the roar: the truth is coming from below, thirty fighters holding position around him, sand cracking beneath feet"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — far below, floor twenty. The young sacrifice holder walks slowly to the center of the formation circle. He kneels. He places his father's token before him. He closes his eyes. He whispers: 'I am willing.' The formation — which has been draining lives for three centuries — RECEIVES his willing death. The circle BLAZES gold instead of red. The reversal begins. Camera: wide shot — young sacrifice holder kneeling at center of formation circle twenty floors below, father's token before him, eyes closed, formation blazing gold, reversal beginning. 6 seconds.",
+      "camera": "Wide — young sacrifice holder kneeling at center of formation circle twenty floors below, token before him, eyes closed, formation blazing gold, reversal beginning, 6s",
+      "narration": "Three hundred years of unwilling deaths — and then, one willing one. The formation — which had been feeding on the helpless — finally received what it was designed for. And the god it had been summoning — began to draw from its creator instead.",
+      "sfx": "Young fighter's whisper: I am willing, formation changing from red to gold with supernatural roar, token glowing, three hundred years of darkness breaking with golden light, sand above trembling"
+    }
+  ]
+}

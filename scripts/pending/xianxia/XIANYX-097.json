@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-097",
+  "title": "Thanh Van Mon Episode 17: The Emperor's Real Confession",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 17,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "He confesses to her privately: he knows about the garden, the erasures, everything. He was the one who ordered them.",
+    "story_arc": "Private summons, His empty throne room, The confession begins, His twisted logic, Her response",
+    "emotion": "Tension, Dread, Shock, Horror, Cold fury",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — an empty throne room at midnight. Only two candles burning on the Emperor's table. He sits alone, not on the throne but at a small desk, as if waiting for her. She enters from the shadows. The door closes behind her with the sound of stone grinding. He does not look up. Camera: wide shot of the vast empty throne room, two candles, two people, infinite dark space. 6 seconds.",
+      "camera": "Wide — empty throne room, two candles, Emperor at desk, her entering from shadow, door grinding shut, 6s",
+      "narration": "He summoned her. Not to the throne. Not to the formal hall. To his private study, at midnight, where no guards could hear. Whatever he was about to say — he had never said it before.",
+      "sfx": "Stone grinding, candle flicker, footsteps on marble, heartbeat, dread strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he looks up. His face is old — not the face of a tyrant but of a tired man who has carried a terrible weight. I know about the garden. I know what the garden knows. I know who ordered the erasures. He pauses. It was me. I ordered every one. Camera: medium shot, his tired old face as he confesses, candle light on tear tracks. 6 seconds.",
+      "camera": "Close-up — Emperor's tired old face confessing, candle tears, I ordered every erasure, 6s",
+      "narration": "Thirty years of erasures. Thirty years of names removed from history. And he had done it all himself. Not his ministers. Not his predecessors. Him.",
+      "sfx": "Candle flicker, breath held, confession echo, heartbeat, devastating silence"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — he continues, his voice barely above a whisper. Every person I erased — I loved. Minh Truong was my best friend. Your mother was my favorite. Thuong Khue — I loved her more than the throne. Tears stream down his face. I erased them to PROTECT them. The only way to keep them safe from my enemies was to erase them from existence. Camera: extreme close-up on his tear-streaked face, his twisted justification laid bare. 6 seconds.",
+      "camera": "Extreme close-up — Emperor's tears, twisted love confession: I erased them to protect them, 6s",
+      "narration": "He had erased the people he loved to protect them from the people who would hurt them for loving him. A logic so broken it had consumed three hundred years of history.",
+      "sfx": "Weeping, whisper, distant thunder, clock ticking, horrified strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — she steps back. Her face: no tears, no anger — only cold, absolute clarity. She speaks for the first time: You didn't erase them to protect them. You erased them because you couldn't bear to watch them die naturally. You wanted to control even their deaths. She steps closer to him. And you erased them from history so no one else would ever love them the way you did. Camera: wide shot of her advancing on the Emperor with her truth, candles guttering. 6 seconds.",
+      "camera": "Wide — her advancing on Emperor with cold truth, candles guttering, her silhouette dominating frame, 6s",
+      "narration": "She had his logic. And she had dismantled it. He had not erased them out of love. He had erased them out of possessiveness. And there was no garden magic that could make that acceptable.",
+      "sfx": "Candle dying, her footsteps on marble, cold wind, her voice sharp, confrontation strings"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — he looks at her with something like relief. You are exactly right. I am exactly what you think I am. He slides a jade seal across the desk toward her. This is the Imperial Seal of Erasures. Every erasure for three hundred years — authorized with this. He looks at the empty throne. Burn it. The garden will know what to do. Camera: cinematic close-up on jade seal sliding across desk, his broken face, her hand reaching for it. 6 seconds. End on her lifting the seal.",
+      "camera": "Close-up — jade seal of erasures sliding to her, Emperor's broken face, her lifting the seal, 6s",
+      "narration": "The seal that had erased a thousand names now in her hands. He was giving her the power to undo everything he had done. Or to use it as he had.",
+      "sfx": "Jade seal sliding, her grip tightening, breath released, resolve building, orchestral swell ending"
+    }
+  ],
+  "audio": {
+    "narration": "He summoned her. Not to the throne. Not to the formal hall. To his private study, at midnight, where no guards could hear. Whatever he was about to say — he had never said it before. Thirty years of erasures. Thirty years of names removed from history. And he had done it all himself. Not his ministers. Not his predecessors. Him. He had erased the people he loved to protect them from the people who would hurt them for loving him. A logic so broken it had consumed three hundred years of history. She had his logic. And she had dismantled it. He had not erased them out of love. He had erased them out of possessiveness. And there was no garden magic that could make that acceptable. The seal that had erased a thousand names now in her hands. He was giving her the power to undo everything he had done. Or to use it as he had.",
+    "narration_duration": 28,
+    "bg_music": "Heavy Chinese orchestral, emperor's lament, confessional strings, heavy bass, devastating 65 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Stone grinding",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Candle flicker",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Weeping",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Candle dying",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Jade seal sliding",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — an empty throne room at midnight. Only two candles burning on the Emperor's table. He sits alone, not on the throne but at a small desk, as if waiting for her. She enters from the shadows. The door closes behind her with the sound of stone grinding. He does not look up. Camera: wide shot of the vast empty throne room, two candles, two people, infinite dark space. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he looks up. His face is old — not the face of a tyrant but of a tired man who has carried a terrible weight. I know about the garden. I know what the garden knows. I know who ordered the erasures. He pauses. It was me. I ordered every one. Camera: medium shot, his tired old face as he confesses, candle light on tear tracks. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — he continues, his voice barely above a whisper. Every person I erased — I loved. Minh Truong was my best friend. Your mother was my favorite. Thuong Khue — I loved her more than the throne. Tears stream down his face. I erased them to PROTECT them. The only way to keep them safe from my enemies was to erase them from existence. Camera: extreme close-up on his tear-streaked face, his twisted justification laid bare. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — she steps back. Her face: no tears, no anger — only cold, absolute clarity. She speaks for the first time: You didn't erase them to protect them. You erased them because you couldn't bear to watch them die naturally. You wanted to control even their deaths. She steps closer to him. And you erased them from history so no one else would ever love them the way you did. Camera: wide shot of her advancing on the Emperor with her truth, candles guttering. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — he looks at her with something like relief. You are exactly right. I am exactly what you think I am. He slides a jade seal across the desk toward her. This is the Imperial Seal of Erasures. Every erasure for three hundred years — authorized with this. He looks at the empty throne. Burn it. The garden will know what to do. Camera: cinematic close-up on jade seal sliding across desk, his broken face, her hand reaching for it. 6 seconds. End on her lifting the seal."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 17: Lời Thú Tội Của Hoàng Đế | Xianxia Việt Sub ⚔️👑",
+    "youtube_description": "Episode 17 of Thanh Van Mon. The Emperor summons her privately and confesses: he ordered every erasure. Thuong Khue, Minh Truong, her mother — all erased by his hand. His twisted justification: he erased the people he loved to protect them. Her response: that was not protection. That was possession.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 18 — The Garden's Final Season\n#xianxia #thanhvanmon #emperor confession #erasure seal #palace secrets #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "emperor confession",
+      "erasure seal",
+      "twisted love",
+      "garden truth",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Hoàng Đế thú nhận: 'Tôi đã ra lệnh xóa TẤT CẢ.' Thuong Khue, Minh Truong, mẹ cô — tất cả bởi chính tay ông. Lý do của ông: 'Tôi xóa những người tôi yêu để BẢO VỆ họ.' Cô đáp: 'Đó không phải bảo vệ. Đó là chiếm hữu.' ⚔️👑 Tập 17 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — an empty throne room at midnight. Only two candles burning on the Emperor's table. He sits alone, not on the throne but at a small desk, as if waiting for her. She enters from the shadows. The door closes behind her with the sound of stone grinding. He does not look up. Camera: wide shot of the vast empty throne room, two candles, two people, infinite dark space. 6 seconds. Shot 2: Medium shot — he looks up. His face is old — not the face of a tyrant but of a tired man who has carried a terrible weight. I know about the garden. I know what the garden knows. I know who ordered the erasures. He pauses. It was me. I ordered every one. Camera: medium shot, his tired old face as he confesses, candle light on tear tracks. 6 seconds. Shot 3: Close-up — he continues, his voice barely above a whisper. Every person I erased — I loved. Minh Truong was my best friend. Your mother was my favorite. Thuong Khue — I loved her more than the throne. Tears stream down his face. I erased them to PROTECT them. The only way to keep them safe from my enemies was to erase them from existence. Camera: extreme close-up on his tear-streaked face, his twisted justification laid bare. 6 seconds. Shot 4: Wide shot — she steps back. Her face: no tears, no anger — only cold, absolute clarity. She speaks for the first time: You didn't erase them to protect them. You erased them because you couldn't bear to watch them die naturally. You wanted to control even their deaths. She steps closer to him. And you erased them from history so no one else would ever love them the way you did. Camera: wide shot of her advancing on the Emperor with her truth, candles guttering. 6 seconds. Shot 5: Close-up — he looks at her with something like relief. You are exactly right. I am exactly what you think I am. He slides a jade seal across the desk toward her. This is the Imperial Seal of Erasures. Every erasure for three hundred years — authorized with this. He looks at the empty throne. Burn it. The garden will know what to do. Camera: cinematic close-up on jade seal sliding across desk, his broken face, her hand reaching for it. 6 seconds. End on her lifting the seal.",
+  "visual_scene": "Wide shot — an empty throne room at midnight. Only two candles burning on the Emperor's table. He sits alone, not on the throne but at a small desk, as if waiting for her. She enters from the shadows. The door closes behind her with the sound of stone grinding. He does not look up. Camera: wide shot of the vast empty throne room, two candles, two people, infinite dark space. 6 seconds. Medium shot — he looks up. His face is old — not the face of a tyrant but of a tired man who has carried a terrible weight. I know about the garden. I know what the garden knows. I know who ordered the erasures. He pauses. It was me. I ordered every one. Camera: medium shot, his tired old face as he confesses, candle light on tear tracks. 6 seconds. Close-up — he continues, his voice barely above a whisper. Every person I erased — I loved. Minh Truong was my best friend. Your mother was my favorite. Thuong Khue — I loved her more than the throne. Tears stream down his face. I erased them to PROTECT them. The only way to keep them safe from my enemies was to erase them from existence. Camera: extreme close-up on his tear-streaked face, his twisted justification laid bare. 6 seconds. Wide shot — she steps back. Her face: no tears, no anger — only cold, absolute clarity. She speaks for the first time: You didn't erase them to protect them. You erased them because you couldn't bear to watch them die naturally. You wanted to control even their deaths. She steps closer to him. And you erased them from history so no one else would ever love them the way you did. Camera: wide shot of her advancing on the Emperor with her truth, candles guttering. 6 seconds. Close-up — he looks at her with something like relief. You are exactly right. I am exactly what you think I am. He slides a jade seal across the desk toward her. This is the Imperial Seal of Erasures. Every erasure for three hundred years — authorized with this. He looks at the empty throne. Burn it. The garden will know what to do. Camera: cinematic close-up on jade seal sliding across desk, his broken face, her hand reaching for it. 6 seconds. End on her lifting the seal.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 17: The Emperor's Real Confession",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "emperor confession",
+    "erasure seal",
+    "twisted love",
+    "garden truth",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

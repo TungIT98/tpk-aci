@@ -1,0 +1,29 @@
+{
+  "id": "WC-03",
+  "channel": "World Cup",
+  "title": "Watching the World Cup at Home Hit Different 🏠⚽",
+  "script": "There's something magical about watching the World Cup at home. Your couch. Your snacks. Your people. When your team scores, your living room becomes the best seat in the house. You don't need a stadium. You need the right people and the right game. And when it happens — you feel it in your bones, in your chest, in your soul.",
+  "prompt_for_hailuo": "Young woman with long dark hair, oversized team jersey, sitting on a cozy living room couch watching World Cup on a large flat-screen TV [Static shot, warm living room lighting, soft couch, team colors on cushions]. Ball approaches the goal — she leans forward, clutching a cushion to her chest, eyes fixed on screen [Tracking shot following her lean forward]. Goal! She leaps off the couch, punches the air, screams [Push in on her face, pure celebration, eyes bright]. Second clip: she runs to hug a friend or family member entering the room, both celebrating [Tracking shot following her movement across the room]. Living room illuminated by TV glow, team flags on walls, string lights, warm cozy atmosphere [Pull out to reveal fully decorated World Cup living room shrine]. Modern cozy home, warm ambient lighting, intimate celebration, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "worldcup",
+    "football",
+    "home",
+    "livingroom",
+    "celebration",
+    "soccer"
+  ],
+  "thumbnail_idea": "Woman leaping off couch celebrating with snacks and team flag visible, TV showing match in background",
+  "visual_scene": "Cozy modern living room at night, warm ambient lighting from string lights and lamp glow, large flat-screen TV dominating one wall showing a live World Cup match. Walls decorated with team flags and banners, cushions on couch in team colors, soft rug and warm furnishings. Young woman with long dark hair wearing an oversized team jersey sitting on the couch, leaning forward clutching a cushion as the ball approaches the goal, eyes wide with tension. Then she leaps up celebrating, running to hug a family member or friend entering the room, both jumping with pure joy. TV glow illuminates their faces, intimate and warm celebration in a home shrine to their team, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, harsh cold lighting, empty room, outdoor scene",
+  "specific_details": "Young woman with long dark hair, wearing an oversized team jersey, sitting on a cozy living room couch leaning forward clutching a cushion with eyes wide with tension as the ball approaches the goal on a large flat-screen TV showing a live World Cup match, then leaping up and running to hug a family member or friend entering the room as both jump with pure joy, set in a cozy modern living room at night with walls decorated in team flags and banners, cushions in team colors, soft rug, warm ambient lighting from string lights and lamp glow, with TV glow illuminating their celebratory faces.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-27T09:00:00Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "tiktok_uploaded_at": "2026-03-30T04:15:29.095Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\WC-03.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

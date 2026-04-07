@@ -1,0 +1,59 @@
+{
+  "uploads": [
+    {
+      "upload_id": "test_001",
+      "video_path": "output/test.mp4",
+      "title": "Test Video",
+      "description": "A test upload",
+      "tags": [
+        "test"
+      ],
+      "channel": "productivity_worker",
+      "platform": "youtube",
+      "upload_status": "published",
+      "video_id": "mock_yt_abc123",
+      "published_at": "2026-03-25T00:00:00Z",
+      "thumbnail_url": null,
+      "views": 3652,
+      "likes": 182,
+      "comments": 18,
+      "shares": 36,
+      "watch_time_hours": 91.3,
+      "avg_view_duration_sec": 0.0,
+      "impressions": 36520,
+      "ctr": 0.0,
+      "subscriber_gained": 0,
+      "revenue_usd": 12.782,
+      "created_at": "2026-03-25T15:56:12.437419+00:00",
+      "updated_at": "2026-03-25T15:56:24.079713+00:00",
+      "error_message": null
+    },
+    {
+      "upload_id": "test_002",
+      "video_path": "output/test.mp4",
+      "title": "Test Video 2",
+      "description": "",
+      "tags": [],
+      "channel": "productivity_worker",
+      "platform": "youtube",
+      "upload_status": "published",
+      "video_id": "mock_yt_xyz789",
+      "published_at": "2026-03-25T00:00:00Z",
+      "thumbnail_url": null,
+      "views": 4308,
+      "likes": 215,
+      "comments": 21,
+      "shares": 43,
+      "watch_time_hours": 107.7,
+      "avg_view_duration_sec": 75.0,
+      "impressions": 86160,
+      "ctr": 0.05,
+      "subscriber_gained": 0,
+      "revenue_usd": 15.078,
+      "created_at": "2026-03-25T15:56:24.070506+00:00",
+      "updated_at": "2026-03-25T15:56:24.086268+00:00",
+      "error_message": null
+    }
+  ],
+  "channels": {}
+}

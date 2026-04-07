@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-75",
+  "title": "Dau Pha Thuong Khau Episode 15: The Fighter's Counter-Strategy",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Tactical, rising tension, underground alliance forming, determination",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "The formation drained power upward — to the arena master. If he fought from below — it would drain downward instead.",
+    "story_arc": "Strategic planning with the Silence → Formation flow mapping → The counter-positions identified → Preparing for the battle above → Final countdown begins",
+    "emotion": "Strategy → Hope → Focus → Determination → Rising tension",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the underground cavern village at night. The fighter and our protagonist stand before a massive stone wall — covered in charcoal drawings of the formation. The blind woman traces the walls with her fingers, marking positions. Thirty fighters from the Silence surround them — each one scarred, trained in secret combat. The formation diagram spans the entire wall. Camera: wide shot — underground cavern war room, thirty scarred fighters, formation diagram on stone wall, blind woman marking positions, charcoal drawings, firelight. 6 seconds.",
+      "camera": "Wide — underground war room, thirty scarred fighters, formation diagram on wall, blind woman marking positions, firelight, 6s",
+      "narration": "The Silence had survived three hundred years by becoming experts in the one thing the arena master feared: understanding. Every floor of the formation had been mapped, analyzed, memorized.",
+      "sfx": "Charcoal scratching on stone, fighters murmuring strategy, blind woman's fingers tracing formation, fire crackling, breath of thirty fighters"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the blind woman places her hand at the CENTER of the formation diagram. 'Here — floor twenty. The reversal point. When the formation reverses, it will drain from below. But the arena master will feel it — and he will fight with everything he has.' She looks up with blind eyes. 'You must fight him from the FLOOR. Force the formation to draw from below — not above.' Our fighter studies the diagram. 'Then I fight him at the bottom of his own arena.' Camera: medium — blind woman at center of formation diagram, our fighter studying it, the thirty fighters watching, the reversal point marked clearly. 6 seconds.",
+      "camera": "Medium — blind woman at center of formation diagram, our fighter studying it, thirty fighters watching, reversal point marked, 6s",
+      "narration": "The strategy was elegant: fight the arena master on the arena floor — the lowest point of the formation. Force the energy to drain downward. And when it did — the willing sacrifice at the center would reverse the entire design.",
+      "sfx": "Blind woman's fingers on center point, charcoal marking, formation hum from deep in the stone, fighters breathing in unison, wind through the cavern"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the young fighter who volunteered for the sacrifice speaks: 'The reversal takes thirty seconds once started. You must keep him occupied for thirty seconds — while I walk to the center and die willingly.' He shows a small carved token — his father's token, passed down for three generations. 'When the formation turns red — that is your signal. Thirty seconds.' Our fighter nods. Camera: close-up on the carved token, the young fighter's face, the signal understood, thirty seconds carved in determination. 6 seconds.",
+      "camera": "Close-up — carved token, young fighter's face, signal understood, thirty seconds of determination, 6s",
+      "narration": "Thirty seconds. The time it would take for the formation to recognize a willing death at its heart — and reverse its three-hundred-year flow toward its creator.",
+      "sfx": "Token clinking on stone, his quiet voice: thirty seconds, formation hum deep below, fire crackling, breath held, three generations of waiting in one token"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — the blind woman places her hand on the cavern floor. The formation glows red — visible through every crack in the stone beneath them. 'Listen,' she says. Above them — the arena roars. The crowd counting down. 'Fifty deaths remaining. He is accelerating.' She looks up at the stone ceiling. 'When the count reaches forty — the formation will be strong enough to resist reversal. We have ten matches to end this.' Camera: wide — cavern village, blind woman with hand on glowing formation floor, arena roar audible through stone above, the count in the arena audible as voices: forty-five, forty-four, forty-three. 6 seconds.",
+      "camera": "Wide — cavern village, blind woman sensing formation, arena roar through stone, arena crowd count audible: forty-five, forty-four, forty-three, 6s",
+      "narration": "Fifty deaths remaining. Ten matches to end three centuries of sacrifice. Every moment counted now — measured in lives.",
+      "sfx": "Formation hum pulsing through stone, arena crowd roar filtering through rock, distant voices counting: forty-five, forty-four, forty-three, blind woman's hand glowing on stone, thirty fighters tensing"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — our fighter turns to the thirty fighters. 'Cover me,' he says. 'Get me to the arena floor.' They nod — scarred faces, three hundred years of rage in their eyes. They begin to move as one toward the ascending passages. The young sacrifice holder stays — standing alone in the firelight, token in hand, ready. Camera: extreme close-up on the fighter's face — determination burning. Then wide shot as thirty fighters begin to move upward, a scarred army rising from three hundred years of darkness toward the arena above. 6 seconds.",
+      "camera": "Extreme close-up on fighter's face — then wide as thirty scarred fighters begin rising from darkness toward arena above, young sacrifice holder standing alone, 6s",
+      "narration": "An army rising from the dead — a scarred army of the silenced, ascending toward the arena. And one man at the center of it all — with thirty seconds to change three centuries.",
+      "sfx": "Thirty fighters moving in unison, scarred footsteps echoing upward, formation roar growing louder, token clinking in sacrifice holder's hand, three hundred years of silence breaking"
+    }
+  ]
+}

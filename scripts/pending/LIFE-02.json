@@ -1,0 +1,31 @@
+﻿{
+  "id": "LIFE-02",
+  "category": "lifestyle",
+  "channel": "TikTok_Viral",
+  "title": "Bạn đang lãng phí 90% cuộc đời bằng những thứ sai — đây là cách dừng lại",
+  "script": "Bạn biết không? Có một nghiên cứu từ Harvard nói rằng 90% những gì chúng ta lo lắng mỗi ngày... sẽ không bao giờ xảy ra. Chín bạn. Không phải bạn. Bạn đang dành cả đời để lo về những thứ không tồn tại. Trong khi điều bạn thực sự cần... đang chờ bạn ở đâu đó ngoài vùng thoải mái. Hôm nay, mình nói với bạn một sự thật: Bạn không thiếu thời gian. Bạn thiếu sự dũng cảm.",
+  "prompt_for_hailuo": "Young woman sitting alone at cafe, staring at phone screen glowing blue light [Static]. Drops phone on table, looks up at ceiling taking deep breath [Slow push in]. Stands up suddenly, walks toward door with determination [Tracking shot following movement]. Steps outside into sunlight, closes eyes feeling breeze [Wide shot with nature background]. Sets small notebook on park bench, writes with pen [Close up hands writing]. Urban rooftop sunset, confident posture, cinematic golden hour lighting, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "lifeadvice",
+    "selfimprovement",
+    "mindset",
+    "motivation",
+    "lifestyle",
+    "productivity",
+    "truth"
+  ],
+  "thumbnail_idea": "Woman at cafe looking at phone, dramatic lighting, contrast between blue screen light and golden sunlight",
+  "visual_scene": "A cozy urban cafe with warm ambient lighting, a young woman in her early twenties sitting alone at a small wooden table by the window. She stares at her phone screen glowing blue light on her face, expression confused and worried. She suddenly drops the phone on the table and looks up at the ceiling, taking a deep breath. She stands up with sudden determination, grabs her bag and walks toward the door. She steps outside into the morning sunlight, closes her eyes and feels the breeze on her face, a subtle smile forming. She sits on a park bench nearby, pulls out a small notebook and begins writing with intensity, her pen moving across the page with purpose. Golden hour sunset light bathes the scene, urban rooftop setting with city skyline in background, cinematic warm tones, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, harsh cold lighting, night scene, loud noisy environment, cluttered messy background, dark underexposed scene",
+  "specific_details": "Young woman in casual stylish outfit wearing a white t-shirt and denim jacket, sitting alone at a cafe table with an iced coffee, staring at her phone with worried expression, blue phone screen light illuminating her face. She drops phone, looks up at ceiling breathing deeply, stands up suddenly with determination, walks outside into warm morning sunlight, sits on park bench and writes intensely in a small black notebook with a silver pen, set in an urban environment with a sunset rooftop view in background.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\LIFE-02.mp4",
+  "produced_at": "2026-03-31T01:56:25.758Z",
+  "produced_by": "ceo-gen-wave2",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:06:37.101Z",
+  "tiktok_url": "/@fai20128/video/7625198689669238037"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "id": "COM-02",
+  "category": "comedy",
+  "channel": "TikTok_Viral",
+  "title": "POV: Bạn vừa nhận ra mình đang lãng phí 5 năm cuộc đời vào những thứ vô nghĩa",
+  "script": "POV: Bạn đang ngồi scroll TikTok lúc 2 giờ sáng và đột nhiên nhận ra — mình đã dành 5 năm để làm gì? Có job ổn định. Có nhà thuê. Có bạn bè đi chơi cuối tuần. Nhưng không có gì thật sự của mình. 5 năm. 1,825 ngày. Đi làm, về nhà, ngủ, lặp lại. Và bạn ngồi đó nhìn màn hình, nhận ra: 'Mình đã sống hay chỉ tồn tại?'",
+  "prompt_for_hailuo": "Young man sitting on bed at 2AM with phone screen glowing on face, horrified realization expression [Close up face lit by blue phone light]. Drops phone, stares at wall blankly [Medium shot]. Looks around bedroom seeing everything as gray and meaningless [Slow pan around room]. Lies face down on bed dramatically [Wide shot]. Sits up suddenly with determined face [Medium shot]. Sets phone down, opens laptop with new focus [Close up screen and hands]. Dark moody bedroom at night, dramatic contrast lighting, relatable comedy moment, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "pov",
+    "relatable",
+    "comedy",
+    "reallife",
+    "genz",
+    "nightthoughts",
+    "funny"
+  ],
+  "thumbnail_idea": "Guy sitting on bed at 2AM with phone light on face, horrified expression, dark bedroom",
+  "visual_scene": "A young man in his early twenties sitting on his unmade bed in a dark bedroom at 2AM, the phone screen glowing bright blue light on his face as he scrolls with an increasingly horrified expression. He suddenly drops the phone and stares at the wall blankly, his eyes wide with existential realization. He slowly looks around his bedroom — the unmade bed, the dirty dishes, the gym clothes never worn — everything appearing in grayscale in his mind's eye. He dramatically lies face down on the bed with arms spread wide. He suddenly sits up with a new determined expression. He deliberately sets his phone face-down on the nightstand, opens his laptop, and starts typing with sudden focus and purpose. Dark moody bedroom with dramatic single light source, blue phone glow and warm laptop light creating contrast, relatable comedy atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, gym or fitness setting, outdoor sunny scene, professional office setting",
+  "specific_details": "Young man in his early twenties wearing a rumpled oversized t-shirt and sweatpants, sitting on an unmade bed in a dark bedroom at 2AM illuminated only by phone screen blue light and laptop glow, scrolling with a horrified and then blankly staring expression, dropping phone to stare at the wall, lying dramatically face down on bed, sitting up suddenly with determination, setting phone face-down and opening laptop to type with new focus, dark moody bedroom atmosphere with dramatic contrast lighting.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:/tmp/openclaw/uploads/COM-02.mp4",
+  "produced_at": "2026-03-31T01:46:33.152Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T08:48:18.295Z",
+  "tiktok_url": "/@fai20128/video/7625193975846128917"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "TKP Full Video Production Pipeline",
+  "nodes": [
+    {
+      "id": "trigger",
+      "name": "Daily Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [100, 300],
+      "parameters": {
+        "rule": {
+          "kind": "schedule",
+          "expression": "0 8 * * *"
+        }
+      }
+    },
+    {
+      "id": "get-scripts",
+      "name": "Get Pending Scripts",
+      "type": "n8n-nodes-base.readBinaryFile",
+      "typeVersion": 1,
+      "position": [350, 300],
+      "parameters": {
+        "filePath": "/scripts/pending/VID-001.json"
+      }
+    },
+    {
+      "id": "parse",
+      "name": "Parse Script",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2.2,
+      "position": [600, 300],
+      "parameters": {
+        "mode": "manual",
+        "assignments": {
+          "assignments": [
+            {"id": "script_id", "name": "script_id", "value": "={{ JSON.parse($binary.data).id }}", "type": "string"},
+            {"id": "title", "name": "title", "value": "={{ JSON.parse($binary.data).title }}", "type": "string"},
+            {"id": "prompt", "name": "prompt", "value": "={{ JSON.parse($binary.data).prompt_for_hailuo }}", "type": "string"},
+            {"id": "duration", "name": "duration", "value": "={{ JSON.parse($binary.data).duration_seconds || 6) }}", "type": "number"},
+            {"id": "tags", "name": "tags", "value": "={{ JSON.parse($binary.data).tags.join(', ') }}", "type": "string"},
+            {"id": "channel", "name": "channel", "value": "={{ JSON.parse($binary.data).channel || 'productivity') }}", "type": "string"}
+          ]
+        }
+      }
+    },
+    {
+      "id": "generate-video",
+      "name": "Generate Video - OpenClaw",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [850, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:18789/webhook/tkp-generate-video",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"script_id\": \"{{ $json.script_id }}\",\n  \"prompt\": \"{{ $json.prompt }}\",\n  \"title\": \"{{ $json.title }}\"\n}",
+        "options": {
+          "timeout": 600000
+        }
+      }
+    },
+    {
+      "id": "check-video",
+      "name": "Check Video Result",
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 1,
+      "position": [1100, 300],
+      "parameters": {
+        "dataType": "string",
+        "value1": "={{ $json.status }}",
+        "rules": {
+          "rules": [
+            {"value2": "success", "operation": "equals", "output": 0},
+            {"value2": "failed", "operation": "equals", "output": 1}
+          ]
+        },
+        "fallbackOutput": 1
+      }
+    },
+    {
+      "id": "discord-success",
+      "name": "Discord - Success",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [1350, 200],
+      "parameters": {
+        "webhook": {
+          "url": "={{ $env.DISCORD_WEBHOOK_URL }}"
+        },
+        "text": "=🎬 **Video Generated Successfully!**\n\n**Script ID:** `{{ $json.script_id }}`\n**Title:** {{ $json.title }}\n**Video URL:** {{ $json.video_url }}\n**YouTube:** {{ $json.youtube_url }}\n**TikTok:** {{ $json.tiktok_url }}"
+      }
+    },
+    {
+      "id": "discord-fail",
+      "name": "Discord - Failed",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [1350, 400],
+      "parameters": {
+        "webhook": {
+          "url": "={{ $env.DISCORD_WEBHOOK_URL }}"
+        },
+        "text": "=❌ **Video Generation Failed**\n\n**Script ID:** `{{ $json.script_id }}`\n**Error:** {{ $json.error }}"
+      }
+    },
+    {
+      "id": "update-google-sheets",
+      "name": "Update Google Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [1600, 200],
+      "parameters": {
+        "operation": "update",
+        "sheet": {
+          "values": {
+            "documentId": {
+              "__rl": true,
+              "mode": "list",
+              "value": "YOUR_GOOGLE_SHEET_ID"
+            },
+            "sheetName": {
+              "__rl": true,
+              "mode": "list",
+              "value": "Videos"
+            }
+          }
+        },
+        "columnToUpdateBy": "Script ID",
+        "valueInputMode": "RAW",
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "mappings": [
+              {"from": "script_id", "to": "Script ID"},
+              {"from": "title", "to": "Title"},
+              {"from": "youtube_url", "to": "YouTube URL"},
+              {"from": "tiktok_url", "to": "TikTok URL"},
+              {"from": "status", "to": "Status"},
+              {"from": "generated_at", "to": "Generated At"}
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Daily Schedule": {
+      "main": [[{"node": "Get Pending Scripts", "type": "main", "index": 0}]]
+    },
+    "Get Pending Scripts": {
+      "main": [[{"node": "Parse Script", "type": "main", "index": 0}]]
+    },
+    "Parse Script": {
+      "main": [[{"node": "Generate Video - OpenClaw", "type": "main", "index": 0}]]
+    },
+    "Generate Video - OpenClaw": {
+      "main": [[{"node": "Check Video Result", "type": "main", "index": 0}]]
+    },
+    "Check Video Result": {
+      "main": [
+        [{"node": "Discord - Success", "type": "main", "index": 0}],
+        [{"node": "Discord - Failed", "type": "main", "index": 0}]
+      ]
+    },
+    "Discord - Success": {
+      "main": [[{"node": "Update Google Sheets", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner",
+    "errorWorkflow": ""
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "batches": [
+    {
+      "batch_id": "batch_01",
+      "total": 6,
+      "done": 5,
+      "failed": 1,
+      "skipped": 0,
+      "results": [
+        {
+          "script_path": "content/seo-briefs/PW-01.md",
+          "template": "genz_trend",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0001",
+          "video_id": "vid_001",
+          "error": null,
+          "duration_sec": 37.8,
+          "started_at": "2026-03-25T17:59:18.626279+00:00",
+          "completed_at": "2026-03-25T18:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-02.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0002",
+          "video_id": "vid_002",
+          "error": null,
+          "duration_sec": 86.1,
+          "started_at": "2026-03-25T17:59:18.626279+00:00",
+          "completed_at": "2026-03-25T18:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-03.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0003",
+          "video_id": "vid_003",
+          "error": null,
+          "duration_sec": 16.3,
+          "started_at": "2026-03-25T17:59:18.626279+00:00",
+          "completed_at": "2026-03-25T18:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-04.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0004",
+          "video_id": "vid_004",
+          "error": null,
+          "duration_sec": 26.4,
+          "started_at": "2026-03-25T17:59:18.626279+00:00",
+          "completed_at": "2026-03-25T18:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-05.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0005",
+          "video_id": "vid_005",
+          "error": null,
+          "duration_sec": 102.8,
+          "started_at": "2026-03-25T17:59:18.626279+00:00",
+          "completed_at": "2026-03-25T18:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-06.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0006",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 106.1,
+          "started_at": "2026-03-25T17:59:18.626279+00:00",
+          "completed_at": null
+        }
+      ],
+      "started_at": "2026-03-25T16:59:18.626279+00:00",
+      "completed_at": null,
+      "is_complete": false,
+      "progress_pct": 100.0
+    },
+    {
+      "batch_id": "batch_02",
+      "total": 10,
+      "done": 9,
+      "failed": 0,
+      "skipped": 0,
+      "results": [
+        {
+          "script_path": "content/seo-briefs/PW-01.md",
+          "template": "genz_trend",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0011",
+          "video_id": "vid_001",
+          "error": null,
+          "duration_sec": 68.5,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-02.md",
+          "template": "productivity_quick_tips",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0012",
+          "video_id": "vid_002",
+          "error": null,
+          "duration_sec": 65.9,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-03.md",
+          "template": "productivity_quick_tips",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0013",
+          "video_id": "vid_003",
+          "error": null,
+          "duration_sec": 106.4,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-04.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0014",
+          "video_id": "vid_004",
+          "error": null,
+          "duration_sec": 25.7,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-05.md",
+          "template": "genz_trend",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0015",
+          "video_id": "vid_005",
+          "error": null,
+          "duration_sec": 68.4,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-06.md",
+          "template": "productivity_quick_tips",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0001",
+          "video_id": "vid_006",
+          "error": null,
+          "duration_sec": 55.8,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-07.md",
+          "template": "productivity_quick_tips",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0002",
+          "video_id": "vid_007",
+          "error": null,
+          "duration_sec": 29.6,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-08.md",
+          "template": "productivity_quick_tips",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0003",
+          "video_id": "vid_008",
+          "error": null,
+          "duration_sec": 35.2,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-09.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0004",
+          "video_id": "vid_009",
+          "error": null,
+          "duration_sec": 97.6,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": "2026-03-25T12:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-10.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "failed",
+          "job_id": "job_0005",
+          "video_id": null,
+          "error": "Simulated MiniMax API timeout",
+          "duration_sec": 105.0,
+          "started_at": "2026-03-25T11:59:18.626279+00:00",
+          "completed_at": null
+        }
+      ],
+      "started_at": "2026-03-25T10:59:18.626279+00:00",
+      "completed_at": "2026-03-25T12:59:18.626279+00:00",
+      "is_complete": true,
+      "progress_pct": 90.0
+    },
+    {
+      "batch_id": "batch_03",
+      "total": 9,
+      "done": 2,
+      "failed": 7,
+      "skipped": 0,
+      "results": [
+        {
+          "script_path": "content/seo-briefs/PW-01.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0006",
+          "video_id": "vid_001",
+          "error": null,
+          "duration_sec": 115.1,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": "2026-03-25T06:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-02.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "done",
+          "job_id": "job_0007",
+          "video_id": "vid_002",
+          "error": null,
+          "duration_sec": 51.0,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": "2026-03-25T06:59:18.626279+00:00"
+        },
+        {
+          "script_path": "content/seo-briefs/PW-03.md",
+          "template": "productivity_quick_tips",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0008",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 82.5,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": null
+        },
+        {
+          "script_path": "content/seo-briefs/PW-04.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0009",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 114.6,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": null
+        },
+        {
+          "script_path": "content/seo-briefs/PW-05.md",
+          "template": "genz_trend",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0010",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 54.7,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": null
+        },
+        {
+          "script_path": "content/seo-briefs/PW-06.md",
+          "template": "morning-routine",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0011",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 61.9,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": null
+        },
+        {
+          "script_path": "content/seo-briefs/PW-07.md",
+          "template": "genz_trend",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0012",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 18.5,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": null
+        },
+        {
+          "script_path": "content/seo-briefs/PW-08.md",
+          "template": "genz_trend",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0013",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 56.8,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": null
+        },
+        {
+          "script_path": "content/seo-briefs/PW-09.md",
+          "template": "productivity_quick_tips",
+          "platforms": [
+            "youtube",
+            "tiktok"
+          ],
+          "status": "pending",
+          "job_id": "job_0014",
+          "video_id": null,
+          "error": null,
+          "duration_sec": 100.2,
+          "started_at": "2026-03-25T05:59:18.626279+00:00",
+          "completed_at": null
+        }
+      ],
+      "started_at": "2026-03-25T04:59:18.626279+00:00",
+      "completed_at": "2026-03-25T06:59:18.626279+00:00",
+      "is_complete": true,
+      "progress_pct": 100.0
+    }
+  ],
+  "active_batch_id": null
+}

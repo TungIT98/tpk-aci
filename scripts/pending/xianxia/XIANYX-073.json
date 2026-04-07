@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-073",
+  "title": "Dau Pha Thuong Khau Episode 13: The Man Who Stole His Father's Crown",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The emperor confesses everything. The deception. The conspiracy. The price his real father paid.",
+    "story_arc": "Usurper's confession → The night of the coup → What was sacrificed → The real father's message → Vow of revenge",
+    "emotion": "Cold rage → Revelation horror → Grief → Acceptance → Dark vow",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the imposter emperor stands in the center of the shattered mirror hall, arms spread wide, as if delivering a speech. Golden candlelight catches the blood-red ruby on his crown. He speaks to the son with the calm of a lecturer. 'I am not your father. I never was.' He smiles. 'I am better.' He gestures at the throne room, the palace, the empire. Camera: wide, imposter emperor in shattered mirror hall delivering cold confession, lecturing about his 'superiority'. 6 seconds.",
+      "camera": "Wide — imposter emperor in shattered mirror hall, arms wide, 'I am better', cold confession, 6s",
+      "narration": "The man had worn his father's face for twenty years. Had sat on his father's throne. Had called himself the emperor. And now — he confessed. Casually. As if it were nothing.",
+      "sfx": "Cold wind through shattered mirrors, imposter's calm voice, distant palace bells, dark ambient"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — vision flashback sequence begins (shown through mirrors): twenty years ago. Two men stand before the throne — his real father and the imposter, who was once his father's closest general. They were friends. Brothers in arms. Until the night of the coup. The imposter draws a sword behind his father's back. His father turns — and smiles. He knew. He had always known. But he let it happen — to protect someone. Camera: medium, flashback vision, the coup as it happened twenty years ago, father's knowing smile. 6 seconds.",
+      "camera": "Medium — flashback vision, coup twenty years ago, friends becoming betrayers, father's knowing smile, 6s",
+      "narration": "His father had been a general before he was emperor. And the man who betrayed him — was his father's closest friend. The one person his father trusted absolutely.",
+      "sfx": "Flashback whoosh, sword drawn, his father's knowing exhale, dark orchestral flashback sting"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — a close-up of a golden locket hanging from the imposter's neck. He opens it. Inside: a portrait of the son — as a baby, held by his real father. 'Your father bargained,' the imposter says. 'His life — for your life. I would kill you both — or I would spare you both and take the throne alone.' He closes the locket. 'He chose you.' Camera: extreme close-up, locket portrait, baby and real father, father's selfless bargain revealed. 6 seconds.",
+      "camera": "Extreme close-up — golden locket, baby portrait with real father, 'he chose you' sacrifice revelation, 6s",
+      "narration": "His father had traded his throne — not for his own life, but for his son's. Twenty years of exile, twenty years of separation, was the price his father paid so he could live.",
+      "sfx": "Locket clicking open, his sharp inhale, imposter's voice, soft emotional strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he stares at the locket portrait. Flash of memory: a man — his father — holding him as a baby, whispering: 'When you are old enough, the compass will show you the way.' The memory fades. Tears stream down his face — not of grief. Of gratitude. His father had not abandoned him. He had saved him. Camera: close-up, tears of gratitude, memory of father's whispered promise, emotional transformation. 6 seconds.",
+      "camera": "Close-up — tears of gratitude, father's whispered promise, emotional transformation from grief to gratitude, 6s",
+      "narration": "His father had not forgotten him. His father had given him everything — his throne, his life, his blessing — and waited twenty years for him to be strong enough to come back for it.",
+      "sfx": "Memory whoosh, father's whispered voice, single tear falling, soft emotional orchestral swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — he wipes his tears. Looks at the imposter. His expression: absolute clarity, cold as winter ice. He removes his commoner's outer robe — underneath: the midnight-blue Hanfu of the imperial bloodline, with the dragon emblem of his father. He straightens. 'My father gave me twenty years to grow strong,' he says. 'It was his greatest gift. And now — I return the favor.' Camera: full-body, imperial bloodline robes revealed, cold vow, dramatic cinematic. 6 seconds. End on his face.",
+      "camera": "Full-body cinematic — imperial robes revealed beneath commoner clothes, cold vow, dramatic stance, 6s",
+      "narration": "His father had given him twenty years. Time to grow. Time to become strong. Time to become the emperor his empire needed. The gift had been perfectly given. Now — it was time to return the favor.",
+      "sfx": "Robe falling, silk rustle, his cold breath, epic rising orchestral, climactic swell"
+    }
+  ],
+  "audio": {
+    "narration": "The man had worn his father's face for twenty years. Had sat on his father's throne. Had called himself the emperor. And now — he confessed. Casually. As if it were nothing. His father had been a general before he was emperor. And the man who betrayed him — was his father's closest friend. The one person his father trusted absolutely. His father had traded his throne — not for his own life, but for his son's. Twenty years of exile, twenty years of separation, was the price his father paid so he could live. His father had not forgotten him. His father had given him everything — his throne, his life, his blessing — and waited twenty years for him to be strong enough to come back for it. His father had given him twenty years. Time to grow. Time to become strong. Time to become the emperor his empire needed. The gift had been perfectly given. Now — it was time to return the favor.",
+    "narration_duration": 28,
+    "bg_music": "Dark confession orchestral, father's sacrifice theme, cold fury rising, dramatic strings and guzheng 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Cold wind through shattered mirrors",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Flashback whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Locket clicking open",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Memory whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Robe falling",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — the imposter emperor stands in the center of the shattered mirror hall, arms spread wide, as if delivering a speech. Golden candlelight catches the blood-red ruby on his crown. He speaks to the son with the calm of a lecturer. 'I am not your father. I never was.' He smiles. 'I am better.' He gestures at the throne room, the palace, the empire. Camera: wide, imposter emperor in shattered mirror hall delivering cold confession, lecturing about his 'superiority'. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — vision flashback sequence begins (shown through mirrors): twenty years ago. Two men stand before the throne — his real father and the imposter, who was once his father's closest general. They were friends. Brothers in arms. Until the night of the coup. The imposter draws a sword behind his father's back. His father turns — and smiles. He knew. He had always known. But he let it happen — to protect someone. Camera: medium, flashback vision, the coup as it happened twenty years ago, father's knowing smile. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — a close-up of a golden locket hanging from the imposter's neck. He opens it. Inside: a portrait of the son — as a baby, held by his real father. 'Your father bargained,' the imposter says. 'His life — for your life. I would kill you both — or I would spare you both and take the throne alone.' He closes the locket. 'He chose you.' Camera: extreme close-up, locket portrait, baby and real father, father's selfless bargain revealed. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — he stares at the locket portrait. Flash of memory: a man — his father — holding him as a baby, whispering: 'When you are old enough, the compass will show you the way.' The memory fades. Tears stream down his face — not of grief. Of gratitude. His father had not abandoned him. He had saved him. Camera: close-up, tears of gratitude, memory of father's whispered promise, emotional transformation. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — he wipes his tears. Looks at the imposter. His expression: absolute clarity, cold as winter ice. He removes his commoner's outer robe — underneath: the midnight-blue Hanfu of the imperial bloodline, with the dragon emblem of his father. He straightens. 'My father gave me twenty years to grow strong,' he says. 'It was his greatest gift. And now — I return the favor.' Camera: full-body, imperial bloodline robes revealed, cold vow, dramatic cinematic. 6 seconds. End on his face."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Tập 13: Kẻ Cướp Vương Miện Cha | Xianxia Việt Sub ⚔️🏯",
+    "youtube_description": "Episode 13 of Dau Pha Thuong Khau. The usurper emperor confesses: the night of the coup, the friendship he betrayed, and the bargain his real father made — his life for his son's freedom. Twenty years of exile was his father's greatest gift. Now the son returns to collect.",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "usurper confession",
+      "father's sacrifice",
+      "crown theft",
+      "revenge vow",
+      "palace intrigue"
+    ],
+    "tiktok_caption": "Kẻ cướp ngai vàng thú nhận: đêm long trời lở đất, tình bạn phản bội, và lời thề hy sinh của cha để đổi lấy sự sống của con — anh trở lại để thu thập ⚔️🏯 Tập 13 DPTK #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — the imposter emperor stands in the center of the shattered mirror hall, arms spread wide, as if delivering a speech. Golden candlelight catches the blood-red ruby on his crown. He speaks to the son with the calm of a lecturer. 'I am not your father. I never was.' He smiles. 'I am better.' He gestures at the throne room, the palace, the empire. Camera: wide, imposter emperor in shattered mirror hall delivering cold confession, lecturing about his 'superiority'. 6 seconds. Shot 2: Medium shot — vision flashback sequence begins (shown through mirrors): twenty years ago. Two men stand before the throne — his real father and the imposter, who was once his father's closest general. They were friends. Brothers in arms. Until the night of the coup. The imposter draws a sword behind his father's back. His father turns — and smiles. He knew. He had always known. But he let it happen — to protect someone. Camera: medium, flashback vision, the coup as it happened twenty years ago, father's knowing smile. 6 seconds. Shot 3: Close-up — a close-up of a golden locket hanging from the imposter's neck. He opens it. Inside: a portrait of the son — as a baby, held by his real father. 'Your father bargained,' the imposter says. 'His life — for your life. I would kill you both — or I would spare you both and take the throne alone.' He closes the locket. 'He chose you.' Camera: extreme close-up, locket portrait, baby and real father, father's selfless bargain revealed. 6 seconds. Shot 4: Close-up — he stares at the locket portrait. Flash of memory: a man — his father — holding him as a baby, whispering: 'When you are old enough, the compass will show you the way.' The memory fades. Tears stream down his face — not of grief. Of gratitude. His father had not abandoned him. He had saved him. Camera: close-up, tears of gratitude, memory of father's whispered promise, emotional transformation. 6 seconds. Shot 5: Full-body cinematic — he wipes his tears. Looks at the imposter. His expression: absolute clarity, cold as winter ice. He removes his commoner's outer robe — underneath: the midnight-blue Hanfu of the imperial bloodline, with the dragon emblem of his father. He straightens. 'My father gave me twenty years to grow strong,' he says. 'It was his greatest gift. And now — I return the favor.' Camera: full-body, imperial bloodline robes revealed, cold vow, dramatic cinematic. 6 seconds. End on his face.",
+  "visual_scene": "Wide shot — the imposter emperor stands in the center of the shattered mirror hall, arms spread wide, as if delivering a speech. Golden candlelight catches the blood-red ruby on his crown. He speaks to the son with the calm of a lecturer. 'I am not your father. I never was.' He smiles. 'I am better.' He gestures at the throne room, the palace, the empire. Camera: wide, imposter emperor in shattered mirror hall delivering cold confession, lecturing about his 'superiority'. 6 seconds. Medium shot — vision flashback sequence begins (shown through mirrors): twenty years ago. Two men stand before the throne — his real father and the imposter, who was once his father's closest general. They were friends. Brothers in arms. Until the night of the coup. The imposter draws a sword behind his father's back. His father turns — and smiles. He knew. He had always known. But he let it happen — to protect someone. Camera: medium, flashback vision, the coup as it happened twenty years ago, father's knowing smile. 6 seconds. Close-up — a close-up of a golden locket hanging from the imposter's neck. He opens it. Inside: a portrait of the son — as a baby, held by his real father. 'Your father bargained,' the imposter says. 'His life — for your life. I would kill you both — or I would spare you both and take the throne alone.' He closes the locket. 'He chose you.' Camera: extreme close-up, locket portrait, baby and real father, father's selfless bargain revealed. 6 seconds. Close-up — he stares at the locket portrait. Flash of memory: a man — his father — holding him as a baby, whispering: 'When you are old enough, the compass will show you the way.' The memory fades. Tears stream down his face — not of grief. Of gratitude. His father had not abandoned him. He had saved him. Camera: close-up, tears of gratitude, memory of father's whispered promise, emotional transformation. 6 seconds. Full-body cinematic — he wipes his tears. Looks at the imposter. His expression: absolute clarity, cold as winter ice. He removes his commoner's outer robe — underneath: the midnight-blue Hanfu of the imperial bloodline, with the dragon emblem of his father. He straightens. 'My father gave me twenty years to grow strong,' he says. 'It was his greatest gift. And now — I return the favor.' Camera: full-body, imperial bloodline robes revealed, cold vow, dramatic cinematic. 6 seconds. End on his face.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 13: The Man Who Stole His Father's Crown",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "usurper confession",
+    "father's sacrifice",
+    "crown theft",
+    "revenge vow",
+    "palace intrigue"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

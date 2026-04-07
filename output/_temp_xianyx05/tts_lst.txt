@@ -1,0 +1,2 @@
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_xianyx05/tts_chunk_0.mp3'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp_xianyx05/tts_chunk_1.mp3'

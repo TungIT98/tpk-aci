@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-79",
+  "title": "Dau Pha Thuong Khau Episode 19: The Arena Falls",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 19,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Collapse, justice served, epic fall, liberation",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "The Blood Arena — which had fed on ten thousand lives for three centuries — collapsed into the earth from which it was born.",
+    "story_arc": "Arena structure destabilizing → Formation collapses into earth → Arena master faces judgment → Silence fighters emerge victorious → The underground village emerges into daylight",
+    "emotion": "Collapse → Triumph → Justice → Liberation → Bittersweet victory",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the Blood Arena. The sand floor CRACKS. Massive fissures race across the arena from the center collapse twenty floors below. The crowd above scrambles — screaming, fleeing. The arena master's platform SINKs — the formation that held the entire structure together now gone. Golden butterflies pour up through the cracks from below. The arena master — ancient, withered — stands alone on the crumbling platform. Camera: wide shot — arena sand floor cracking with massive fissures, crowd scrambling above, platform sinking, golden butterflies rising through cracks, arena master standing alone on crumbling platform. 6 seconds.",
+      "camera": "Wide — arena floor cracking, crowd scrambling above, platform sinking, golden butterflies rising through cracks, arena master standing alone on crumbling platform, 6s",
+      "narration": "The formation was gone — the energy released, the contract fulfilled. And the Blood Arena — built on three centuries of blood — began to collapse into the earth from which it was born.",
+      "sfx": "Arena floor cracking with thunderous roar, crowd screaming and fleeing, platform sinking with groan, golden butterflies with whisper-sound rising, arena master standing in silence, formation collapsing"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium — the arena master tries to climb from the sinking platform. His ancient body — three hundred years catching up with every breath — can barely move. He reaches upward toward the fleeing crowd. 'HELP ME!' he screams — the first time he has ever asked for help. No one comes. No one even looks. The platform sinks further. Camera: medium — arena master trying to climb from sinking platform, ancient body struggling, screaming for help for the first time, crowd fleeing above, no one helping, platform sinking. 6 seconds.",
+      "camera": "Medium — arena master ancient body struggling on sinking platform, screaming for help for the first time, crowd fleeing, no one helping, platform sinking, 6s",
+      "narration": "Three centuries he had watched fighters scream for mercy — and given none. Today — for the first time — he screamed. And the arena he had built gave him the same answer he had given ten thousand times: none.",
+      "sfx": "His scream: help me, platform groaning as it sinks, crowd noise fading, his breath ragged and ancient, stone crumbling beneath him, silence where his empire used to be"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the underground village. The cavern ceiling CRACKS. For the first time in three hundred years — daylight pours in. Real daylight. The villagers look up — weeping. Some fall to their knees. Children see the sun for the first time. The blind woman stands in the center of the village — face lifted toward the light. 'The Silence,' she whispers, 'is over.' Camera: close-up on the blind woman — face lifted toward the first daylight in three hundred years — tears streaming from blind eyes. Then wide shot as the underground village sees the sun for the first time. 6 seconds.",
+      "camera": "Close-up on blind woman face lifted toward first daylight in three hundred years, tears streaming, then wide as underground village sees sun for first time, 6s",
+      "narration": "Three hundred years the Silence had lived in darkness — waiting for this moment. And as the sun broke through the ceiling of their prison — they wept. Not from sorrow. From coming home.",
+      "sfx": "Ceiling cracking with sunlight breaking through, children crying out at first sunlight, villagers weeping softly, blind woman whispering: the silence is over, wind carrying the sound of freedom"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — the arena master stands on the last piece of his platform. The platform sinks below the sand. He falls — into the arena floor. The floor swallows him — the same floor that had swallowed ten thousand fighters. His scream echoes briefly — then stops. The arena is empty. The formation ground is still. Camera: wide shot — arena master's final platform sinking below sand, him falling into the floor, scream echoing briefly, sand closing over him, arena silent and empty, the Blood Arena — finished. 6 seconds.",
+      "camera": "Wide — arena master's final platform sinking, him falling into sand floor, scream echoing briefly, sand closing over him, arena silent and empty, 6s",
+      "narration": "The arena master — who had designed his arena to swallow the weak — was swallowed by it in the end. The ground that had taken ten thousand lives — took its architect last.",
+      "sfx": "Platform sinking with final groan, his scream echoing briefly, sand closing with soft hiss, formation gone silent, crowd noise far above gone, absolute silence where the arena stood, wind through empty sand"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — our fighter stands at the edge of where the arena was. Sand and rubble where blood sport once stood. Around him — the Silence fighters. Above — the crowd watching from the arena walls in stunned silence. Golden butterflies circle the rubble. And in the center — rising from the underground village below — a ladder of stone leading upward. Toward daylight. Our fighter begins to climb. Camera: wide shot — our fighter standing at edge of arena ruins, Silence fighters around him, golden butterflies circling, underground villagers climbing toward daylight on stone ladder, justice done, something new beginning. 6 seconds.",
+      "camera": "Wide — fighter at edge of arena ruins, Silence fighters, golden butterflies, underground villagers climbing toward daylight on stone ladder, something new beginning, 6s",
+      "narration": "The Blood Arena — which had consumed ten thousand lives over three centuries — was gone. And in its place — a hole in the earth. And through that hole — three hundred years of the silenced — climbing toward the sun for the first time.",
+      "sfx": "Wind through empty arena ruins, butterflies with whisper-sound, villagers climbing with joyful breath, our fighter's footsteps on stone ladder ascending toward daylight, silence of justice done, new beginning"
+    }
+  ]
+}

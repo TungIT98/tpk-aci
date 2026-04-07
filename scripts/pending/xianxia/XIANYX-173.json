@@ -1,0 +1,182 @@
+﻿{
+  "id": "XIANYX-173",
+  "title": "Ha Tien Du Episode 33: The Road Home",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 33,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Luân descended from heaven carrying the knowledge of sacrifice. The shadow empire had been waiting — and ambushed him with a thousand soldiers.",
+    "story_arc": "Descent → Ambush → Alone fighting → Elemental combo → Escape",
+    "emotion": "Awe → Revelation → Gratitude → Power → Urgency",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide — a frozen palace of pure blue ice deep in the dragon realm. Eternal winter. Snow falls inside. At the center: a dragon woman — scaled, elegant, with ice crystal hair and ancient eyes — seated on an ice throne. She looks at Luân. 'Your mother's teacher is pleased,' she says. Camera: extreme wide, frozen palace, ice dragon woman on throne, Luân entering in awe. 6 seconds.",
+      "camera": "Extreme wide — frozen palace, ice dragon woman on throne, eternal snow, Luân entering in awe, 6s",
+      "narration": "In the deepest part of the dragon realm, where winter had lasted since the dawn of time, the Ice Master waited. She had taught his mother. And now — she would teach him.",
+      "sfx": "Ice cracking, snow falling, ancient breath, ice dragon woman's calm voice, mystical strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the Ice Master raises one claw. Ice shards rise from the floor — thousands of them — suspended in perfect formation. She demonstrates a BLADE made entirely of ice. 'Your mother learned this technique but could never master it,' she says. 'Can you?' She flicks the blade toward Luân. Camera: close-up, ice blade technique demonstration, Luân catching it mid-air. 6 seconds.",
+      "camera": "Close-up — ice blade technique demonstration, Luân catching it mid-air, mastering it immediately, 6s",
+      "narration": "She offered him the ice blade — a technique his mother had struggled with for decades. He caught it. And in his hand, it sang.",
+      "sfx": "Ice blade singing, shard suspension, Luân catching, her surprised laugh, power hum"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — Luân channels the ice blade. Not just one — a THOUSAND ice blades spiral around him in perfect formation. The Ice Master's eyes widen. She raises her own blades to meet his. The two of them SPAR — ice vs ice, master vs student, in a breathtaking display of frozen combat art. Camera: wide, sparring display, ice shards clashing, frozen sparks flying, beautiful combat ballet. 6 seconds.",
+      "camera": "Wide — sparring with a thousand ice blades each, ice vs ice, frozen combat ballet, stunning display, 6s",
+      "narration": "He sparred with the Ice Master for three hours. By the end, she was no longer teaching. She was competing. And she had not had a worthy competitor in five hundred years.",
+      "sfx": "Ice clashing, frozen sparks, heavy breathing, epic ice combat music, triumphant strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the sparring stops. The Ice Master kneels before him — a dragon who had never knelt to anyone. 'You have surpassed her,' she says of his mother. 'You have surpassed ME.' She places one claw on his forehead — and FLOODS his mind with ten thousand ice techniques. Camera: close-up, her claw on his forehead, his face illuminated by incoming knowledge, tears of pain and gratitude. 6 seconds.",
+      "camera": "Extreme close-up — ten thousand ice techniques flooding his mind, tears of pain and gratitude, master kneeling, 6s",
+      "narration": "She gave him everything. Every technique she had ever learned. Every secret of ice and water and winter. His mother had been her greatest student. And now — Luân had become her greatest master.",
+      "sfx": "Knowledge flooding sound, ice hum crescendo, her whispered 'surpassed me', emotional orchestral swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — a dragon messenger BURSTS into the frozen palace. 'THE SHADOW EMPPIRE ATTACKS THE REALM GATE!' The Ice Master's expression shifts to fury. Luân's expression: cold, focused, ready. He raises one hand — ice blades form in the air. 'Then we end this,' he says. Camera: wide, ice army forming, dragon messenger kneeling, Luân with ice blades ready, shadow empire threat. 6 seconds.",
+      "camera": "Wide — ice army forming, dragon messenger's urgent report, Luân with ice blades ready, shadow empire threat, 6s",
+      "narration": "The shadow empire had attacked. The dragon realm gate was under siege. And he — the mortal who had walked through fire and surpassed the Ice Master — would meet them at the gate.",
+      "sfx": "Dragon messenger burst, urgent alarm bells, ice army forming whoosh, epic war drums"
+    }
+  ],
+  "audio": {
+    "narration": "In the deepest part of the dragon realm, where winter had lasted since the dawn of time, the Ice Master waited. She had taught his mother. And now — she would teach him. She offered him the ice blade — a technique his mother had struggled with for decades. He caught it. And in his hand, it sang. He sparred with the Ice Master for three hours. By the end, she was no longer teaching. She was competing. And she had not had a worthy competitor in five hundred years. She gave him everything. Every technique she had ever learned. Every secret of ice and water and winter. His mother had been her greatest student. And now — Luân had become her greatest master. The shadow empire had attacked. The dragon realm gate was under siege. And he — the mortal who had walked through fire and surpassed the Ice Master — would meet them at the gate.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese battle orchestral, ice mastery theme, frozen combat, shadow empire urgency, tense 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ice cracking",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Ice blade singing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Ice clashing",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Knowledge flooding sound",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Dragon messenger burst",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide — a frozen palace of pure blue ice deep in the dragon realm. Eternal winter. Snow falls inside. At the center: a dragon woman — scaled, elegant, with ice crystal hair and ancient eyes — seated on an ice throne. She looks at Luân. 'Your mother's teacher is pleased,' she says. Camera: extreme wide, frozen palace, ice dragon woman on throne, Luân entering in awe. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the Ice Master raises one claw. Ice shards rise from the floor — thousands of them — suspended in perfect formation. She demonstrates a BLADE made entirely of ice. 'Your mother learned this technique but could never master it,' she says. 'Can you?' She flicks the blade toward Luân. Camera: close-up, ice blade technique demonstration, Luân catching it mid-air. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — Luân channels the ice blade. Not just one — a THOUSAND ice blades spiral around him in perfect formation. The Ice Master's eyes widen. She raises her own blades to meet his. The two of them SPAR — ice vs ice, master vs student, in a breathtaking display of frozen combat art. Camera: wide, sparring display, ice shards clashing, frozen sparks flying, beautiful combat ballet. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the sparring stops. The Ice Master kneels before him — a dragon who had never knelt to anyone. 'You have surpassed her,' she says of his mother. 'You have surpassed ME.' She places one claw on his forehead — and FLOODS his mind with ten thousand ice techniques. Camera: close-up, her claw on his forehead, his face illuminated by incoming knowledge, tears of pain and gratitude. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide shot — a dragon messenger BURSTS into the frozen palace. 'THE SHADOW EMPPIRE ATTACKS THE REALM GATE!' The Ice Master's expression shifts to fury. Luân's expression: cold, focused, ready. He raises one hand — ice blades form in the air. 'Then we end this,' he says. Camera: wide, ice army forming, dragon messenger kneeling, Luân with ice blades ready, shadow empire threat. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Episode 33: The Road Home | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Ha Tien Du Episode 33: The Road Home. Luân descended from heaven carrying the knowledge of sacrifice. The shadow empire had been waiting — and ambushed him with a thousand soldiers.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #hatiendu #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "ice master",
+      "dragon realm",
+      "luân",
+      "ice blade mastery",
+      "shadow empire",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Luân descended from heaven carrying the knowledge of sacrifice. The shadow empire had been waiting — and ambushed him with a thousand soldiers. ⚔️🔥 Ha Tien Du Episode 33: The Road Home | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide — a frozen palace of pure blue ice deep in the dragon realm. Eternal winter. Snow falls inside. At the center: a dragon woman — scaled, elegant, with ice crystal hair and ancient eyes — seated on an ice throne. She looks at Luân. 'Your mother's teacher is pleased,' she says. Camera: extreme wide, frozen palace, ice dragon woman on throne, Luân entering in awe. 6 seconds. Shot 2: Close-up — the Ice Master raises one claw. Ice shards rise from the floor — thousands of them — suspended in perfect formation. She demonstrates a BLADE made entirely of ice. 'Your mother learned this technique but could never master it,' she says. 'Can you?' She flicks the blade toward Luân. Camera: close-up, ice blade technique demonstration, Luân catching it mid-air. 6 seconds. Shot 3: Wide cinematic — Luân channels the ice blade. Not just one — a THOUSAND ice blades spiral around him in perfect formation. The Ice Master's eyes widen. She raises her own blades to meet his. The two of them SPAR — ice vs ice, master vs student, in a breathtaking display of frozen combat art. Camera: wide, sparring display, ice shards clashing, frozen sparks flying, beautiful combat ballet. 6 seconds. Shot 4: Close-up — the sparring stops. The Ice Master kneels before him — a dragon who had never knelt to anyone. 'You have surpassed her,' she says of his mother. 'You have surpassed ME.' She places one claw on his forehead — and FLOODS his mind with ten thousand ice techniques. Camera: close-up, her claw on his forehead, his face illuminated by incoming knowledge, tears of pain and gratitude. 6 seconds. Shot 5: Wide shot — a dragon messenger BURSTS into the frozen palace. 'THE SHADOW EMPPIRE ATTACKS THE REALM GATE!' The Ice Master's expression shifts to fury. Luân's expression: cold, focused, ready. He raises one hand — ice blades form in the air. 'Then we end this,' he says. Camera: wide, ice army forming, dragon messenger kneeling, Luân with ice blades ready, shadow empire threat. 6 seconds.",
+  "visual_scene": "Extreme wide — a frozen palace of pure blue ice deep in the dragon realm. Eternal winter. Snow falls inside. At the center: a dragon woman — scaled, elegant, with ice crystal hair and ancient eyes — seated on an ice throne. She looks at Luân. 'Your mother's teacher is pleased,' she says. Camera: extreme wide, frozen palace, ice dragon woman on throne, Luân entering in awe. 6 seconds. Close-up — the Ice Master raises one claw. Ice shards rise from the floor — thousands of them — suspended in perfect formation. She demonstrates a BLADE made entirely of ice. 'Your mother learned this technique but could never master it,' she says. 'Can you?' She flicks the blade toward Luân. Camera: close-up, ice blade technique demonstration, Luân catching it mid-air. 6 seconds. Wide cinematic — Luân channels the ice blade. Not just one — a THOUSAND ice blades spiral around him in perfect formation. The Ice Master's eyes widen. She raises her own blades to meet his. The two of them SPAR — ice vs ice, master vs student, in a breathtaking display of frozen combat art. Camera: wide, sparring display, ice shards clashing, frozen sparks flying, beautiful combat ballet. 6 seconds. Close-up — the sparring stops. The Ice Master kneels before him — a dragon who had never knelt to anyone. 'You have surpassed her,' she says of his mother. 'You have surpassed ME.' She places one claw on his forehead — and FLOODS his mind with ten thousand ice techniques. Camera: close-up, her claw on his forehead, his face illuminated by incoming knowledge, tears of pain and gratitude. 6 seconds. Wide shot — a dragon messenger BURSTS into the frozen palace. 'THE SHADOW EMPPIRE ATTACKS THE REALM GATE!' The Ice Master's expression shifts to fury. Luân's expression: cold, focused, ready. He raises one hand — ice blades form in the air. 'Then we end this,' he says. Camera: wide, ice army forming, dragon messenger kneeling, Luân with ice blades ready, shadow empire threat. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 23: The Ice Master",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "ice master",
+    "dragon realm",
+    "luân",
+    "ice blade mastery",
+    "shadow empire",
+    "chinese fantasy",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T13:45:47.800Z",
+  "tiktok_url": "/@fai20128/video/7625641740594171156"
+}

@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-86",
+  "title": "Tru Tien Episode 16: Shadow Exchange",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 16,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Power absorption climax, boss fight turn, overwhelming victory, legendary skill display",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Jin-Woo flowed through the Ant King's body like shadow through cracks. Every time the Ant King swung — Jin-Woo absorbed a piece of its power. The Ant King screamed: 'WHAT ARE YOU DOING TO ME?!'",
+    "story_arc": "Jin-Woo flows through Ant King's body as shadow → Absorbs power with each swing → Ant King loses power faster → Ant King panics → Jin-Woo emerges from Ant King's shadow → 'Your power — was never yours.'",
+    "emotion": "Shadow flow → Absorption → Ant King panic → Power reversal → Dominance → Cold delivery",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Slow-motion wide shot — Jin-Woo's shadow form flows through the Ant King's chitin like water through cracks. The Ant King SWINGS blindly. Jin-Woo absorbs a piece of its power — his aura GROWS. Camera: slow-motion wide — shadow form flowing through Ant King chitin, Ant King swinging blindly, Jin-Woo's aura growing with each absorption. 6 seconds.",
+      "camera": "Slow-motion wide — shadow form flowing through Ant King chitin, Ant King swinging blindly, Jin-Woo's aura growing, 6s",
+      "narration": "The Shadow Exchange — wasn't just dodging. It was absorption. Every swing — cost the Ant King power. Every swing — gave Jin-Woo more.",
+      "sfx": "Shadow flowing, power absorbing, Ant King swinging blindly, aura growing, tension breaking"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the Ant King's face goes from cruelty to confusion to FEAR. Its four blade arms slow down. The chitin on its body starts to look — duller. 'STOP! STOP DOING THAT!' Its voice cracks with panic. Camera: close-up — Ant King's face transforming from cruelty to confusion to FEAR, dulling chitin, cracking voice, panicked desperation. 6 seconds.",
+      "camera": "Close-up — Ant King's face transforming from cruelty to confusion to FEAR, dulling chitin, cracking panic voice, 6s",
+      "narration": "The Ant King — realized too late. Every swing was feeding Jin-Woo. Its power was draining. It was becoming the prey.",
+      "sfx": "Ant King fearful voice crack, chitin dulling, power draining, panicked breathing, shadow absorption sound"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — Jin-Woo reforms from the Ant King's shadow. The Ant King — now smaller, weaker. Its chitin is gray. Its blade arms are dull. Jin-Woo stands before it, shadow black eyes glowing. Camera: wide — Jin-Woo reforming from Ant King's shadow, Ant King now smaller and weaker, gray chitin, dull blade arms, shadow black eyes. 6 seconds.",
+      "camera": "Wide — Jin-Woo reforming from Ant King's shadow, Ant King now smaller with gray chitin and dull arms, shadow black eyes glowing, 6s",
+      "narration": "Jin-Woo reformed — from the Ant King's own shadow. And the Ant King — was now smaller. Weaker. Everything it had been — was now Jin-Woo's.",
+      "sfx": "Jin-Woo reforming, Ant King shrinking, power shift sound, shadow aura humming, dramatic silence"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo raises his hand. Shadow soldiers rise from the weakened Ant King — his own ant shadows. The Ant King SCREAMS as its own subjects abandon it. 'YOU CAN'T — THESE ARE MY CHILDREN!' Jin-Woo: 'Were.' Camera: close-up — Jin-Woo raising hand, ant shadows rising from Ant King, Ant King screaming, shadow soldiers turning on creator, Jin-Woo's cold 'Were.' 6 seconds.",
+      "camera": "Close-up — Jin-Woo raising hand, ant shadows rising from Ant King, Ant King screaming, shadow soldiers turning on creator, cold 'Were,' 6s",
+      "narration": "The shadow ants rose from the Ant King — its own children, turned against it. 'These are MY children!' 'Were,' Jin-Woo said. Simply.",
+      "sfx": "Shadow ants rising, Ant King screaming, shadow soldiers turning, Jin-Woo's cold voice, dramatic beat, power reversal"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo walks toward the kneeling weakened Ant King. He looks down at it. 'Your power — was never yours. You stole it from the ants. The dungeon. The hunters who died here.' He raises his finger. 'Now — it returns.' Camera: close-up — Jin-Woo walking toward kneeling Ant King, looking down coldly, finger raised with shadow energy, cold speech. 6 seconds.",
+      "camera": "Close-up — Jin-Woo walking toward kneeling Ant King, looking down coldly, finger raised with shadow energy, 'now it returns,' 6s",
+      "narration": "He walked toward it. And in those final moments — he told the Ant King exactly why it was dying. 'Your power — was stolen. Now it returns.'",
+      "sfx": "Footsteps, cold speech, shadow energy building, anticipation tension, Ant King's last whimper"
+    }
+  ],
+  "audio": {
+    "narration": "The Shadow Exchange — wasn't just dodging. It was absorption. Every swing — cost the Ant King power. Every swing — gave Jin-Woo more. The Ant King — realized too late. Every swing was feeding Jin-Woo. Its power was draining. It was becoming the prey. Jin-Woo reformed — from the Ant King's own shadow. And the Ant King — was now smaller. Weaker. Everything it had been — was now Jin-Woo's. The shadow ants rose from the Ant King — its own children, turned against it. 'These are MY children!' 'Were,' Jin-Woo said. Simply. He walked toward it. And in those final moments — he told the Ant King exactly why it was dying. 'Your power — was stolen. Now it returns.'",
+    "narration_duration": 28,
+    "bg_music": "Epic shadow monarch battle Chinese-Korean orchestral, power absorption climax, Ant King defeated, shadow king domination 110 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Shadow flowing, power absorbing",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Ant King fearful voice, chitin dulling",
+        "volume": 0.6
+      },
+      {
+        "time": 12,
+        "sound": "Jin-Woo reforming, power shift",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Shadow ants rising, screaming, 'Were'",
+        "volume": 0.6
+      },
+      {
+        "time": 24,
+        "sound": "Footsteps, cold speech, shadow energy building",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 16: Shadow Exchange — Sức Mạnh Nguyên Bản | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 16 of Solo Leveling (Trừ Tiên). Jin-Woo flows through the Ant King as shadow — absorbing power with every swing. The Ant King realizes too late: it's becoming prey. Jin-Woo reforms from the Ant King's shadow, now stronger. Its own ant soldiers turn against it. 'Your power — was never yours. You stole it. Now it returns.'",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "Shadow Exchange",
+      "Ant King",
+      "Jin-Woo",
+      "shadow monarch",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Jin-Woo tan vào BÓNG TỐI trong cơ thể Kiến Vương! MỖI LẦN đánh — hắn NUỐT thêm sức mạnh! Kiến Vương yếu dần! Những con kiến của nó... QUAY LẠI TẤN CÔNG nó! 'Sức mạnh ngươi — LÀ ĐỒ ĂN CẮP. Giờ nó TRẢ LẠI.' 🔥 Tập 16",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Shadow flowing through Ant King chitin, Ant King shrinking, Jin-Woo reforming with absorbed power, ant shadows turning on creator, finger raised for final strike",
+  "specific_details": {
+    "subject": "Jin-Woo: shadow form flowing through chitin, then reformed with larger aura, shadow black eyes glowing, finger raised. Ant King: 20m → gray smaller form, dull chitin, dull blade arms, kneeling in fear.",
+    "outfit_exact": "Jin-Woo: black hoodie and jeans (shadow form while flowing, physical when reformed), shadow black/white glowing eyes. Ant King: obsidian-black → gray chitin, four blade arms now dull, insectoid face showing fear.",
+    "setting_details": "Massive underground earthen chamber, shadow energy effects, dramatic lighting showing power transfer, gray color spreading on Ant King",
+    "face_expression": "Jin-Woo: cold determination → shadow black eyes → cold satisfaction. Ant King: cruelty → confusion → fear → panic → kneeling desperation",
+    "body_movement": "Jin-Woo: flowing as shadow → reforming → walking → finger raised. Ant King: swinging blindly → shrinking → kneeling → screaming. Ant shadows: rising from Ant King → turning on creator.",
+    "camera": "Slow-motion shadow flowing, close-up Ant King fear, wide Jin-Woo reform with power, close-up ant shadows rising, close-up finger raised"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright colors, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 16: Jin-Woo vs the Ant King — shadow flowing through chitin, power absorbed",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "Shadow Exchange",
+    "Ant King defeated",
+    "Jin-Woo",
+    "shadow monarch",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T17:30:00Z",
+  "publishedAt": "2026-04-06T02:51:03.748Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625465616605957397"
+}

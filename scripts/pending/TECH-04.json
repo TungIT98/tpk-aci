@@ -1,0 +1,29 @@
+{
+  "id": "TECH-04",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "3 phím tắt Windows cực kỳ hiệu quả mà 95% người dùng chưa biết",
+  "script": "Bạn lãng phí 2 giờ mỗi ngày vì không biết 3 phím tắt Windows này. Windows + Shift + S chụp màn hình cực nhanh. Windows + E mở File Explorer tức thì. Windows + D hiện desktop ngay lập tức. Nhưng đây mới là tip quan trọng: Windows + Ctrl + Shift + B khởi động lại driver đồ họa — fix 90% lỗi màn hình xanh trong 3 giây. Share ngay nếu bạn tiết kiệm được ít nhất 30 phút hôm nay.",
+  "prompt_for_hailuo": "Handsome young man frustrated at a slow Windows laptop at night, dim warm lamp light [Close up on hands reaching for keyboard]. Fast dramatic cut to same man smiling confidently, hands flying across keyboard in slow motion, each keypress creating a burst of cyan light [Overhead tracking shot]. Glowing holographic Windows logo materializing above the keyboard, data streams and shortcuts appearing in neon text [Wide shot showing glowing desk setup]. Modern dark office at night, cyan and blue neon ambient lighting, dramatic productivity hack reveal, cinematic slow motion, 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "windows",
+    "shortcuts",
+    "productivity",
+    "tech",
+    "tips",
+    "pc",
+    "laptop"
+  ],
+  "thumbnail_idea": "Hands flying over keyboard with cyan light bursts, holographic Windows logo",
+  "visual_scene": "A handsome young man sits frustrated at a slow Windows laptop at a dim desk at night, warm lamp light casting long shadows. Close up on his hands reaching for the keyboard in exasperation. A fast dramatic cut — his hands now fly across the keyboard in cinematic slow motion, each keypress creating a burst of vivid cyan light that illuminates his face. Overhead tracking shot swoops in showing the glowing keyboard. A holographic Windows logo materializes above the keyboard, data streams and shortcut key combinations appearing in neon text around it — Win+Shift+S, Win+E, Win+D, Win+Ctrl+Shift+B. The desk setup is modern and dark, cyan and blue neon ambient lighting reflecting off the screen. Wide shot pulls back to reveal the full dramatic productivity hack reveal. Portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Handsome young man frustrated at Windows laptop at night, hands in slow motion flying across keyboard creating cyan light bursts on each keypress, holographic Windows logo materializing above keyboard with neon shortcut key combinations glowing in the air, modern dark office, cyan and blue neon ambient lighting, cinematic slow motion productivity hack reveal, portrait 9:16.",
+  "status": "pending",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-04.mp4",
+  "produced_at": "2026-04-01T04:50:00.000Z",
+  "qc_status": null
+}

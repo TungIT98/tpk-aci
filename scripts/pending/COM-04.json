@@ -1,0 +1,31 @@
+﻿{
+  "id": "COM-04",
+  "category": "comedy",
+  "channel": "TikTok_Viral",
+  "title": "POV: Bạn là developer và bug của bạn không chịu fix — đã 6 tiếng rồi",
+  "script": "POV: Bạn là developer. Lúc 9 giờ sáng, bạn nghĩ sẽ fix bug này trong 30 phút. Bây giờ là 3 giờ chiều. Bạn đã thử mọi thứ. Google Stack Overflow. ChatGPT. Hỏi đồng nghiệp. Tắt máy restart. Mọi thứ. Bug vẫn còn đó. Bạn nhìn màn hình. Màn hình nhìn lại bạn. Một cuộc chiến không hồi kết.",
+  "prompt_for_hailuo": "Developer at standing desk with multiple monitors showing code [Close up code on screen]. Rubs eyes exhausted, looks back at screen [Medium shot]. Types furiously then stops, stares blankly [Close up face confused]. Stands up and walks to whiteboard, draws diagrams [Tracking shot showing messy whiteboard]. Sits back down, deletes everything, retypes [Close up keyboard typing]. Stares at screen with thousand-yard stare [Close up tired face lit by monitor glow]. Dark modern home office at night, blue monitor glow, coffee cups everywhere, chaotic but creative debugging atmosphere, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "pov",
+    "developer",
+    "coding",
+    "comedy",
+    "relatable",
+    "programming",
+    "funny"
+  ],
+  "thumbnail_idea": "Developer staring at multiple monitors with thousand-yard stare, dark room, blue glow",
+  "visual_scene": "A developer at a standing desk setup with three monitors showing dense code and terminal windows, the room dark except for the blue monitor glow. A young man in a hoodie with headphones around his neck types furiously on the keyboard, then suddenly stops and stares blankly into space. He rubs his eyes exhausted, looks back at the screen — nothing has changed. He stands up and walks to a whiteboard covered in messy diagrams and arrows, adding more frantic drawings. He sits back down, highlights and deletes entire blocks of code, retypes them. He leans back and stares at the screen with the thousand-yard stare of someone who has been debugging for hours. Multiple empty coffee cups scattered around the desk. The clock on the wall shows late afternoon. Dark modern home office with dramatic blue monitor lighting, chaotic creative debugging atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, outdoor setting, gym or fitness setting, formal business meeting",
+  "specific_details": "Young man in a gray hoodie with headphones around his neck, sitting and standing at a desk with three monitors showing dense code, terminal windows, and Stack Overflow tabs. He types furiously, deletes, highlights, and retypes code, rubs his eyes exhausted, stares blankly at the screen with thousand-yard stare, walks to a whiteboard covered in messy diagrams and arrows adding more frantically, surrounded by multiple empty coffee cups, dark room lit only by blue monitor glow, late afternoon clock showing hours have passed.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\COM-04.mp4",
+  "produced_at": "2026-03-31T01:56:17.950Z",
+  "produced_by": "ceo-gen-wave2",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T08:51:16.844Z",
+  "tiktok_url": "/@fai20128/video/7625194749414149396"
+}

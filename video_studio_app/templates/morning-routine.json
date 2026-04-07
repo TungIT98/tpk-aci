@@ -1,0 +1,72 @@
+{
+  "name": "Morning Routine",
+  "description": "Start the day with intention — energizing wake-up sequence, routine walkthrough, and motivational closer. Best for productivity and wellness content.",
+  "target_platform": "tiktok",
+  "voice_style": "upbeat, breathy energy, warm — think 'wellness coach meets morning radio host'",
+  "music_mood": "lo-fi hip hop, morning acoustic, positive ambient",
+  "hashtag_suggestions": ["#morningroutine", "#productive", "#daywithme", "#routine", "#mornings", "#selfcare", "#growthmindset"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 3,
+      "narration_prompt": "The 5am morning routine that changed everything about my productivity.",
+      "visual_prompt": "Sunrise time-lapse through bedroom blinds, alarm clock 5:00am, cozy bedroom with warm light spilling in",
+      "camera_movement": "slow push-in from wide bedroom shot to bedside alarm clock detail",
+      "lighting_setup": "warm golden hour natural light streaming through blinds, shallow depth of field, lens flare on edges",
+      "hailuo_style_note": "Use soft warm tones, bokeh background, emphasize light rays through blinds for cinematic feel",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Step one: No phone for the first 20 minutes. I do this before I touch my phone — journal, hydrate, and 10 deep breaths.",
+      "visual_prompt": "POV hands reaching for bedside water bottle, notebook open, morning light on face, close-up of pen writing",
+      "camera_movement": "POV tracking shot, slight tilt down as hands move toward notebook, macro close-up on pen writing",
+      "lighting_setup": "natural softbox from window, side lighting on face, cool blue morning tones with warm desk lamp accent",
+      "hailuo_style_note": "Emphasize tactile detail — water droplets, paper texture, pen tip. Maintain shallow DOF for intimate morning feel",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Step two: Cold plunge or cold shower — 90 seconds. It activates cortisol, sharpens focus, and makes everything else feel easy by comparison.",
+      "visual_prompt": "Bathroom shower POV, water splashing, person stepping out looking refreshed, close-up of face with eyes open",
+      "camera_movement": "POV handheld shake simulation for shower, static close-up for face reaction, subtle push-in on refreshed expression",
+      "lighting_setup": "bathroom fluorescent mixed with window light, slight blue-green tint from water, steam visible in light beams",
+      "hailuo_style_note": "Mist/steam atmosphere adds cinematic texture; sharp face close-up with skin glow from cold water",
+      "transition": "wipe_left"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Step three: Movement — 15 minutes of yoga or a 20-minute walk outside. Sunlight on your face resets your circadian rhythm.",
+      "visual_prompt": "Person in living room doing yoga stretches, outdoor shot of person walking in morning fog, sunlight through trees",
+      "camera_movement": "wide establishing shot, slow tracking pan following yoga flow, pull-out to aerial-style wide for outdoor scene",
+      "lighting_setup": "outdoor: backlit golden hour sun through morning fog, lens flare; indoor: soft neutral ambient with single key light from window",
+      "hailuo_style_note": "Combine indoor yoga sequence with outdoor walk; backlit rim lighting creates professional cinematic quality",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Step four: The power hour — hardest task first. No meetings, no Slack. Just you and your most important work for 60 minutes straight.",
+      "visual_prompt": "Clean desk setup, laptop screen glowing, hands typing, cup of coffee, focused face close-up",
+      "camera_movement": "slow cinematic push-in from overhead desk wide shot to face close-up, subtle pan across desk items",
+      "lighting_setup": "warm desk lamp as key light, laptop screen as fill/rim light, deep shadows for cinematic mood, blue-light glow on face",
+      "hailuo_style_note": "Dark moody workspace aesthetic — screen light illuminating face from below creates compelling cinematic portrait",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 7,
+      "narration_prompt": "Do this for 30 days and watch your output transform. Save this, screenshot it, do it. Your future self will thank you.",
+      "visual_prompt": "Montage of the full routine, person smiling confidently, text overlay '30 days from now...', sunrise closing shot",
+      "camera_movement": "slow montage cross-cuts between routine moments, final pull-back to wide sunrise closing shot",
+      "lighting_setup": "warm triumphant golden light throughout, sunrise warm orange tones, final shot backlit with sun in frame",
+      "hailuo_style_note": "Montage rhythm; sunrise final shot should be iconic — lens flare, backlit silhouette, warm color grade throughout",
+      "transition": "fade_out"
+    }
+  ]
+}

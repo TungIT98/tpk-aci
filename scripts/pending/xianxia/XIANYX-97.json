@@ -1,0 +1,76 @@
+﻿{
+  "id": "XIANYX-97",
+  "title": "Thanh Van Mon Episode 16: The Butterfly Cleansing",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, cultivation/xianxia drama viewers, 18-35 demographic who enjoy powerful spiritual battles and redemption arcs",
+  "tone": "Desperate, powerful, emotional, sacrifice, spiritual light vs corruption",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Queen explained the only way to cleanse the corruption: paint the butterfly spirit a new story. But the painter — would have to remember the original.",
+    "story_arc": "Queen reveals the cure → Must paint butterfly's original beauty → She paints from memory → Corruption fights back → Cleansing begins",
+    "emotion": "Determination → Sorrowful memory → Pain of remembering → Resistance → Beginning of cleansing",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Medium close-up — the Butterfly Queen speaks urgently to our protagonist. 'You can save her. Paint her story. Paint what she was — before the corruption. But you must remember — truly remember — every moment you shared.' The protagonist's face: grief and determination mixed. 'I remember all of it.' The Queen: 'Then paint. And I will hold the gate open while you do.' Camera: medium close-up — queen speaking urgently, protagonist's face of grief and determination, promise made. 6 seconds.",
+      "camera": "Medium close-up — queen revealing cure, protagonist's grief and determination, promise to paint, 6s",
+      "narration": "The cure for corruption: paint the butterfly's original story. Every beautiful memory.",
+      "sfx": "Queen's urgent voice, her steadying breath, jade butterfly humming, distant corruption screaming"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up extreme — she kneels before the corrupted butterfly. The corrupted spirit writhes in agony — half corrupted self fighting for control. She raises her arm — mark blazing. Begins to paint. Light trails appear — forming an image. A beautiful butterfly spirit. Silver wings. Kind eyes. Her friend — before. The corrupted butterfly freezes — staring at the image. Camera: close-up — arm raising, light painting beginning, image of original beauty appearing, corrupted butterfly freezing and staring. 6 seconds.",
+      "camera": "Extreme close-up — painting beginning, image of original beauty appearing, corrupted butterfly freezing and staring, 6s",
+      "narration": "She painted her friend's original beauty. And the corruption — could not deny what it had been.",
+      "sfx": "Brush stroke hum, light painting appearing, corrupted spirit freezing, her quiet voice"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium wide shot — the painting grows. More scenes appear around the corrupted butterfly. Her friend dancing in moonlight. Her friend caring for injured butterflies. Her friend's first flight. Her friend laughing. Each memory — a brush stroke of light. The corruption FIGHTS — the black veins pulse and spread. The protagonist's nose begins to bleed from the effort. Camera: medium wide — painting expanding, memories appearing, corruption fighting back, her nose bleeding from effort. 6 seconds.",
+      "camera": "Medium wide — painting expanding with memories, corruption fighting back, her bleeding from effort, 6s",
+      "narration": "Every memory painted cost her blood. But she kept painting.",
+      "sfx": "Painting expanding, corruption fighting, nose bleeding, her grunt of effort, spirit's agony"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the corrupted butterfly SHRIEKS. The corruption tries to cover her eyes — stop her from seeing the painting. But the protagonist keeps painting. Her entire face is covered in blood now. Her arms shaking. The Queen holds the Silver Gate open behind them. Residents watch in silence. Then — the first black vein begins to RECEDE. Camera: close-up — corruption trying to stop painting, her covered in blood, shaking, first black vein receding, hope. 6 seconds.",
+      "camera": "Close-up — corruption fighting, her covered in blood, first black vein receding, hope, 6s",
+      "narration": "The corruption was losing. One memory at a time — it was being painted away.",
+      "sfx": "Corruption shrieking, her bleeding heavily, first vein receding, Queen's held breath, crowd silent"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Medium shot — the last memory paints itself. The butterfly spirit's original form — fully restored — glowing brilliantly in the air as a painting. The corrupted butterfly looks at the image. Watches. Then — the black veins fall away like ash. Silver wings emerge — pure, luminous, whole. The butterfly looks at our protagonist. Speaks in its original kind voice: 'You remembered me.' Camera: medium — final memory painting, black veins falling away, silver wings emerging, butterfly speaking with original voice. 6 seconds.",
+      "camera": "Medium — final memory painting, restoration, black veins falling, butterfly's original voice, 'You remembered me', 6s",
+      "narration": "The greatest power against corruption — was not light or force. It was memory.",
+      "sfx": "Final memory painting completing, corruption ash falling, wings restoring, butterfly's kind voice, silence"
+    }
+  ],
+  "publishedAt": "2026-04-06T02:51:15.325Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625468096437931285"
+}

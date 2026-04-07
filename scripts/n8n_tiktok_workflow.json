@@ -1,0 +1,97 @@
+{
+  "id": "tpk-tiktok-upload",
+  "name": "TPK Auto Post to TikTok",
+  "nodes": [
+    {
+      "parameters": {
+        "triggerOn": "folder",
+        "path": "C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/content/videos/xianxia",
+        "events": ["add"],
+        "options": {
+          "ignoreInitial": true,
+          "ignored": "!**/captioned.mp4"
+        }
+      },
+      "id": "watch-folder-trigger",
+      "name": "Watch Xianxia Folder",
+      "type": "n8n-nodes-base.localFileTrigger",
+      "typeVersion": 1,
+      "position": [100, 300],
+      "continueOnFail": false
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract video ID from path like content/videos/xianxia/XIANYX-01/captioned.mp4\n// and validate it matches the captioned.mp4 pattern\nconst path = $input.first().json.path;\n\n// Only process captioned.mp4 files\nif (!path || !path.endsWith('captioned.mp4')) {\n  return [];\n}\n\n// Extract video ID (e.g. XIANYX-01)\nconst match = path.match(/([A-Z]+-[A-Z0-9]+)/i);\nconst videoid = match ? match[1].toUpperCase() : null;\n\nif (!videoid) {\n  throw new Error('Could not extract video ID from path: ' + path);\n}\n\nreturn [{json: {\n  videoid: videoid,\n  videoPath: path,\n  uploadUrl: 'http://localhost:5676/upload',\n  notifyUrl: 'http://localhost:3100/api/agents/e3aad368-fab1-4da3-b287-3a65802d84ff/heartbeat/invoke'\n}}];"
+      },
+      "id": "extract-videoid",
+      "name": "Extract Video ID",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [320, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:5676/upload",
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"videoPath\": \"{{ $json.videoPath }}\",\n  \"videoid\": \"{{ $json.videoid }}\"\n}"
+      },
+      "id": "trigger-upload",
+      "name": "Trigger TikTok Upload",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [540, 300],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// Format notification message for Production Manager\nconst input = $input.first().json;\nconst msg = `TikTok upload triggered for ${input.videoid} from ${input.videoPath}`;\nreturn [{json: { message: msg, videoid: input.videoid, success: true }}];"
+      },
+      "id": "format-notify",
+      "name": "Format Notification",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [760, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:3100/api/agents/e3aad368-fab1-4da3-b287-3a65802d84ff/heartbeat/invoke"
+      },
+      "id": "notify-pm",
+      "name": "Notify Production Manager",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [980, 300]
+    }
+  ],
+  "connections": {
+    "Watch Xianxia Folder": {
+      "main": [["Extract Video ID"]]
+    },
+    "Extract Video ID": {
+      "main": [["Trigger TikTok Upload"]]
+    },
+    "Trigger TikTok Upload": {
+      "main": [["Format Notification"]]
+    },
+    "Format Notification": {
+      "main": [["Notify Production Manager"]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "staticData": null,
+  "tags": [],
+  "meta": {
+    "templateCredsSetupCompleted": false,
+    "templateId": null,
+    "templateName": null,
+    "templateDescription": null
+  },
+  "waitTill": null
+}

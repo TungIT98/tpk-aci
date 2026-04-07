@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-058",
+  "title": "Ha Tien Du Episode 8: The River's Final Confession",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 8,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The celestial river had one last secret. A memory so devastating that her mother had drowned herself to make sure no one would ever hear it.",
+    "story_arc": "River visions → The terrible truth about the seal → The enemy's origin story → Mother's final act → The impossible choice",
+    "emotion": "Revelation → Horror → Empathy → Grief → Terrible clarity",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide underwater shot — she dives to the deepest point of the celestial lake. At the very bottom: a door of pure black water, sealed with her mother's water-lock. She touches it. The river shows her EVERYTHING — a montage of visions. Flash: the fire man as a young boy, loved, crying. Flash: her mother betraying HIM to create the seal. Flash: the door was never meant to keep HIM out. Camera: extreme wide, montage of devastating visions around the black door. 6 seconds.",
+      "camera": "Montage — devastating river visions: fire enemy's origin, mother's betrayal, true purpose of door, 6s",
+      "narration": "The river showed her everything. The truth her mother had drowned to protect. And it was worse than she ever imagined.",
+      "sfx": "Vision whoosh, mother's voice, child's cry, orchestral sting, devastating revelation"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — vision montage continues. The fire man was not always evil. He was once a WATER guardian — her mother's partner, her mother's friend. Her mother had BETRAYED him to create the seal, trapping him outside. She had chosen the mortal realm over him. He had burned for three thousand years, becoming the monster she now fought. Camera: extreme close-up on her tearful face as she absorbs the devastating truth. 6 seconds.",
+      "camera": "Close-up — her tearful face absorbing betrayal truth, mother's guilt revealed, 6s",
+      "narration": "Her mother had not died fighting a monster. She had died betraying a friend. And the monster she faced was made — not born — by her mother's choice.",
+      "sfx": "Mother's confession voice, child's distant cry, heartbreaking strings, tears in water"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — she surfaces and confronts the ice boy. 'Everything we know is wrong,' she says. 'My mother wasn't a hero. She was a betrayer.' The ice boy listens. 'Does that change what we do?' he asks quietly. She struggles. The fire man watches from afar, not attacking — waiting for her answer. Camera: medium, emotional confrontation and philosophical question. 6 seconds.",
+      "camera": "Medium — emotional confrontation, 'Does that change what we do?' philosophical moment, fire man watching, 6s",
+      "narration": "Does that change what we do? Three thousand years of suffering. One betrayal that started a war. Did motive matter when the fire was already burning?",
+      "sfx": "Emotional strings, distant fire crackle, quiet tension, philosophical piano"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — she makes her choice. She will NOT destroy the fire man. She will OPEN the door and let him through — to her mother's realm. 'You want to reach her,' she says. 'Then GO. But you release the seal first.' She offers him passage home. Camera: close-up on her compassionate but firm resolve, offering redemption to the enemy. 6 seconds.",
+      "camera": "Close-up — compassionate resolve, offering the fire enemy passage home in exchange for seal release, 6s",
+      "narration": "Her mother had drowned to keep the door closed. She would open it — not in defeat, but in mercy. She would give the fire what it had always wanted: a way home.",
+      "sfx": "Door groaning open, water shifting, compassionate orchestral swell, tension resolving"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — the door slowly OPENS from her side. Celestial light pours through — her mother's realm, beautiful and peaceful. The fire man stares at it. Three thousand years of rage — and beneath it all, longing. His fire begins to cool. Tears of fire stream down his face. She extends her hand. Camera: wide cinematic, fire man facing home after 3000 years, her hand extended, door of light open. 6 seconds. End on his tearful face.",
+      "camera": "Cinematic — door opening, fire man facing his home realm, tears of fire, her hand extended, 6s",
+      "narration": "Three thousand years of fire. And beneath it all — just a boy who wanted to go home.",
+      "sfx": "Door opening, celestial choir, fire cooling, single tear of fire, emotional crescendo"
+    }
+  ],
+  "audio": {
+    "narration": "The river showed her everything. The truth her mother had drowned to protect. And it was worse than she ever imagined. Her mother had not died fighting a monster. She had died betraying a friend. And the monster she faced was made — not born — by her mother's choice. Does that change what we do? Three thousand years of suffering. One betrayal that started a war. Did motive matter when the fire was already burning? Her mother had drowned to keep the door closed. She would open it — not in defeat, but in mercy. She would give the fire what it had always wanted: a way home. Three thousand years of fire. And beneath it all — just a boy who wanted to go home.",
+    "narration_duration": 28,
+    "bg_music": "Deeply emotional Chinese orchestral, erhu solo, mournful yet redemptive, strings building to tearful crescendo 78 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Vision whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Mother's confession voice",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Emotional strings",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Door groaning open",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Door opening",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide underwater shot — she dives to the deepest point of the celestial lake. At the very bottom: a door of pure black water, sealed with her mother's water-lock. She touches it. The river shows her EVERYTHING — a montage of visions. Flash: the fire man as a young boy, loved, crying. Flash: her mother betraying HIM to create the seal. Flash: the door was never meant to keep HIM out. Camera: extreme wide, montage of devastating visions around the black door. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — vision montage continues. The fire man was not always evil. He was once a WATER guardian — her mother's partner, her mother's friend. Her mother had BETRAYED him to create the seal, trapping him outside. She had chosen the mortal realm over him. He had burned for three thousand years, becoming the monster she now fought. Camera: extreme close-up on her tearful face as she absorbs the devastating truth. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — she surfaces and confronts the ice boy. 'Everything we know is wrong,' she says. 'My mother wasn't a hero. She was a betrayer.' The ice boy listens. 'Does that change what we do?' he asks quietly. She struggles. The fire man watches from afar, not attacking — waiting for her answer. Camera: medium, emotional confrontation and philosophical question. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — she makes her choice. She will NOT destroy the fire man. She will OPEN the door and let him through — to her mother's realm. 'You want to reach her,' she says. 'Then GO. But you release the seal first.' She offers him passage home. Camera: close-up on her compassionate but firm resolve, offering redemption to the enemy. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — the door slowly OPENS from her side. Celestial light pours through — her mother's realm, beautiful and peaceful. The fire man stares at it. Three thousand years of rage — and beneath it all, longing. His fire begins to cool. Tears of fire stream down his face. She extends her hand. Camera: wide cinematic, fire man facing home after 3000 years, her hand extended, door of light open. 6 seconds. End on his tearful face."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 8: Lời Thú Tội Cuối Cùng Của Dòng Sông | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 8 of Ha Tien Du. The river reveals the devastating truth: her mother betrayed the fire enemy to create the seal. She faces an impossible choice — destroy him, or offer him the home he was denied.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 9\n#xianxia #ha tiendu #redemption #truth revealed #emotional #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "redemption",
+      "mother's betrayal",
+      "fire enemy's origin",
+      "river memory",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Sự thật khủng khiếp: mẹ cô đã phản bội người lửa để tạo niêm phong — và anh ta chỉ muốn được về nhà ⚔️🌊 Tập 8 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide underwater shot — she dives to the deepest point of the celestial lake. At the very bottom: a door of pure black water, sealed with her mother's water-lock. She touches it. The river shows her EVERYTHING — a montage of visions. Flash: the fire man as a young boy, loved, crying. Flash: her mother betraying HIM to create the seal. Flash: the door was never meant to keep HIM out. Camera: extreme wide, montage of devastating visions around the black door. 6 seconds. Shot 2: Close-up — vision montage continues. The fire man was not always evil. He was once a WATER guardian — her mother's partner, her mother's friend. Her mother had BETRAYED him to create the seal, trapping him outside. She had chosen the mortal realm over him. He had burned for three thousand years, becoming the monster she now fought. Camera: extreme close-up on her tearful face as she absorbs the devastating truth. 6 seconds. Shot 3: Medium shot — she surfaces and confronts the ice boy. 'Everything we know is wrong,' she says. 'My mother wasn't a hero. She was a betrayer.' The ice boy listens. 'Does that change what we do?' he asks quietly. She struggles. The fire man watches from afar, not attacking — waiting for her answer. Camera: medium, emotional confrontation and philosophical question. 6 seconds. Shot 4: Close-up — she makes her choice. She will NOT destroy the fire man. She will OPEN the door and let him through — to her mother's realm. 'You want to reach her,' she says. 'Then GO. But you release the seal first.' She offers him passage home. Camera: close-up on her compassionate but firm resolve, offering redemption to the enemy. 6 seconds. Shot 5: Wide cinematic — the door slowly OPENS from her side. Celestial light pours through — her mother's realm, beautiful and peaceful. The fire man stares at it. Three thousand years of rage — and beneath it all, longing. His fire begins to cool. Tears of fire stream down his face. She extends her hand. Camera: wide cinematic, fire man facing home after 3000 years, her hand extended, door of light open. 6 seconds. End on his tearful face.",
+  "visual_scene": "Extreme wide underwater shot — she dives to the deepest point of the celestial lake. At the very bottom: a door of pure black water, sealed with her mother's water-lock. She touches it. The river shows her EVERYTHING — a montage of visions. Flash: the fire man as a young boy, loved, crying. Flash: her mother betraying HIM to create the seal. Flash: the door was never meant to keep HIM out. Camera: extreme wide, montage of devastating visions around the black door. 6 seconds. Close-up — vision montage continues. The fire man was not always evil. He was once a WATER guardian — her mother's partner, her mother's friend. Her mother had BETRAYED him to create the seal, trapping him outside. She had chosen the mortal realm over him. He had burned for three thousand years, becoming the monster she now fought. Camera: extreme close-up on her tearful face as she absorbs the devastating truth. 6 seconds. Medium shot — she surfaces and confronts the ice boy. 'Everything we know is wrong,' she says. 'My mother wasn't a hero. She was a betrayer.' The ice boy listens. 'Does that change what we do?' he asks quietly. She struggles. The fire man watches from afar, not attacking — waiting for her answer. Camera: medium, emotional confrontation and philosophical question. 6 seconds. Close-up — she makes her choice. She will NOT destroy the fire man. She will OPEN the door and let him through — to her mother's realm. 'You want to reach her,' she says. 'Then GO. But you release the seal first.' She offers him passage home. Camera: close-up on her compassionate but firm resolve, offering redemption to the enemy. 6 seconds. Wide cinematic — the door slowly OPENS from her side. Celestial light pours through — her mother's realm, beautiful and peaceful. The fire man stares at it. Three thousand years of rage — and beneath it all, longing. His fire begins to cool. Tears of fire stream down his face. She extends her hand. Camera: wide cinematic, fire man facing home after 3000 years, her hand extended, door of light open. 6 seconds. End on his tearful face.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 8: The River's Final Confession",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "redemption",
+    "mother's betrayal",
+    "fire enemy's origin",
+    "river memory",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

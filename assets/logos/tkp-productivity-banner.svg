@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&amp;display=swap');
+      .bg { fill: #1A2744; }
+      .wordmark { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 380px; fill: #F8F7F4; letter-spacing: 12px; }
+      .tagline { font-family: 'DM Sans', sans-serif; font-weight: 400; font-size: 72px; fill: #C9A84C; }
+      .pill-label { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 42px; fill: #F8F7F4; }
+      .accent { stroke: #C9A84C; stroke-width: 5; }
+      .divider { fill: #2A3A5C; }
+    </style>
+    <!-- Safe zone indicator (not rendered, just structural guide) -->
+    <!-- Left panel: name + tagline -->
+    <!-- Right panel: content pillars -->
+  </defs>
+
+  <!-- Full background -->
+  <rect width="2560" height="1440" class="bg"/>
+
+  <!-- Subtle texture: diagonal grid lines at 5% opacity -->
+  <g opacity="0.05" stroke="#F8F7F4" stroke-width="1">
+    <line x1="0" y1="1440" x2="2560" y2="0"/>
+    <line x1="320" y1="1440" x2="2560" y2="480"/>
+    <line x1="640" y1="1440" x2="2560" y2="960"/>
+    <line x1="960" y1="1440" x2="2560" y2="1440"/>
+    <line x1="0" y1="0" x2="960" y2="1440"/>
+    <line x1="0" y1="0" x2="1600" y2="1440"/>
+    <line x1="0" y1="0" x2="2240" y2="1440"/>
+  </g>
+
+  <!-- Gold accent line top -->
+  <rect x="80" y="80" width="1200" height="6" fill="#C9A84C" rx="3"/>
+
+  <!-- Left side: channel name block -->
+  <text x="80" y="650" class="wordmark">TKP PRODUCTIVITY</text>
+
+  <!-- Gold accent line below wordmark -->
+  <rect x="80" y="680" width="800" height="6" fill="#C9A84C" rx="3"/>
+
+  <!-- Tagline -->
+  <text x="80" y="820" class="tagline">Work less. Get more done.</text>
+
+  <!-- Divider line -->
+  <rect x="1280" y="200" width="4" height="1040" fill="#2A3A5C" rx="2"/>
+
+  <!-- Right side: content pillars -->
+  <text x="1400" y="380" class="pill-label">CONTENT PILLARS</text>
+
+  <!-- Pillar tags -->
+  <g transform="translate(1400, 440)">
+    <!-- Time Systems -->
+    <rect x="0" y="0" width="460" height="80" fill="#2A3A5C" rx="12"/>
+    <text x="230" y="52" text-anchor="middle" class="pill-label" style="font-size:38px; fill:#C9A84C;">⏱ TIME SYSTEMS</text>
+
+    <!-- Tool Stack -->
+    <rect x="0" y="100" width="460" height="80" fill="#2A3A5C" rx="12"/>
+    <text x="230" y="152" text-anchor="middle" class="pill-label" style="font-size:38px; fill:#C9A84C;">🛠 TOOL STACK</text>
+
+    <!-- Mental Models -->
+    <rect x="0" y="200" width="460" height="80" fill="#2A3A5C" rx="12"/>
+    <text x="230" y="252" text-anchor="middle" class="pill-label" style="font-size:38px; fill:#C9A84C;">🧠 MENTAL MODELS</text>
+  </g>
+
+  <!-- Upload schedule -->
+  <g transform="translate(1400, 820)">
+    <text x="0" y="0" class="pill-label" style="font-size:34px; fill:#64748B;">UPLOAD SCHEDULE</text>
+    <text x="0" y="60" class="pill-label" style="font-size:64px; fill:#F8F7F4;">Tuesdays + Fridays</text>
+    <text x="0" y="120" class="pill-label" style="font-size:32px; fill:#64748B;">Long-form · Shorts · TikTok clips</text>
+  </g>
+
+  <!-- Bottom gold accent line -->
+  <rect x="80" y="1360" width="2400" height="6" fill="#C9A84C" rx="3"/>
+</svg>

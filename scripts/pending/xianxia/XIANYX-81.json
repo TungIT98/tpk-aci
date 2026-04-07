@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-81",
+  "title": "Tru Tien Episode 11: The Shadow Army",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 11,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Power awakening, army building, tension, rising legend",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Jin-Woo had been collecting shadows for months. Today — he opened his shadow army for the first time. One by one they rose. Fifty shadows. Sixty. A hundred. Each one stronger than the last S-rank hunter.",
+    "story_arc": "Shadow collection montage → Jin-Woo decides to reveal his army → Hundreds of shadows rise → The hunters watch in disbelief → 'It's... it's an ARMY?' → Jin-Woo's power revealed",
+    "emotion": "Preparation → Decision → Revelation → Disbelief → Shock → Legendary moment",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Fast montage — Jin-Woo absorbing shadows. A giant orc shadow sucked into his hand. A knight shadow kneeling. A shadow archer firing. Jin-Woo in the dungeon alone, collecting power. Camera: fast montage — shadow absorption moments, giant shadow being absorbed, knight shadow kneeling, power growing silently. 6 seconds.",
+      "camera": "Fast montage — shadow absorption from dungeons, giant shadow being absorbed, knight shadow kneeling, Jin-Woo growing stronger, 6s",
+      "narration": "For months — Jin-Woo had been collecting them. Every dungeon raid. Every shadow that fell. He saved them all.",
+      "sfx": "Shadow absorption sound, dungeon echoes, power growing, his cold determination, shadow kneeling"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide shot — Jin-Woo stands in an empty underground chamber. He raises his hand. Shadow starts to rise. One. Five. Ten. Twenty. Fifty. Camera: wide — Jin-Woo raising hand, shadows rising one by one, count growing rapidly, underground chamber filling with shadows. 6 seconds.",
+      "camera": "Wide — Jin-Woo raising hand, shadows rising one by one rapidly, count increasing, underground chamber filling, 6s",
+      "narration": "He raised his hand. They answered. One shadow rose. Then five. Then fifty. His shadow army — was real.",
+      "sfx": "Shadows rising, power humming, count increasing, wind in chamber, ominous music building"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — A HUNDRED shadows kneel in formation. Giant shadows kneel in front. Knight shadows flank. Archer shadows stand ready. Jin-Woo stands before them — their king. Camera: wide — hundred shadows kneeling in military formation, giant shadows front, knight flanks, Jin-Woo standing as their king. 6 seconds.",
+      "camera": "Wide — hundred shadows kneeling in military formation, Jin-Woo as their king, shadow army assembled, 6s",
+      "narration": "A hundred shadows. Giant warriors. Knights. Archers. All kneeling before him. His shadow army — numbered one hundred.",
+      "sfx": "Shadows kneeling in unison, military formation sound, wind echoing, power aura, Jin-Woo's breathing"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — outside the chamber, two hunters peek through. They see the shadow army. Their faces go pale. One falls backward. 'A... an ARMY?!' Camera: close-up — two hunters' pale shocked faces peeking into chamber, shadow army visible behind, fear and disbelief, one falling backward. 6 seconds.",
+      "camera": "Close-up — two hunters' pale shocked faces peeking, shadow army visible behind, fear and disbelief, one falling backward, 6s",
+      "narration": "Two hunters had followed him in. Now they stood frozen in terror. Because what Jin-Woo commanded — was not one shadow. It was an army.",
+      "sfx": "Hunters' shocked gasps, one falling backward, terrified whispering, shadow army humming, fear silence"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo lowers his hand. The shadow army DISSOLVES into darkness. He walks past the frozen hunters without a word. His voice echoes: 'Tell them. Tell them what you saw.' Camera: close-up — Jin-Woo lowering hand, army dissolving into darkness, walking past frozen hunters, cold voice echoing final words. 6 seconds.",
+      "camera": "Close-up — shadow army dissolving into darkness, Jin-Woo walking past frozen hunters, cold echoing voice, 6s",
+      "narration": "He dissolved the army as quickly as he had summoned it. And as he walked past the frozen hunters — one sentence. 'Tell them. Tell them what you saw.'",
+      "sfx": "Shadows dissolving, his footsteps, cold echoing voice, silence in chamber, ominous aftermath"
+    }
+  ],
+  "audio": {
+    "narration": "For months — Jin-Woo had been collecting them. Every dungeon raid. Every shadow that fell. He saved them all. He raised his hand. They answered. One shadow rose. Then five. Then fifty. His shadow army — was real. A hundred shadows. Giant warriors. Knights. Archers. All kneeling before him. His shadow army — numbered one hundred. Two hunters had followed him in. Now they stood frozen in terror. Because what Jin-Woo commanded — was not one shadow. It was an army. He dissolved the army as quickly as he had summoned it. And as he walked past the frozen hunters — one sentence. 'Tell them. Tell them what you saw.'",
+    "narration_duration": 28,
+    "bg_music": "Dark epic Korean fantasy orchestral, shadow army awakening, hundred shadows, mystery and power 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Shadow absorption, dungeon echoes",
+        "volume": 0.4
+      },
+      {
+        "time": 6,
+        "sound": "Shadows rising, count increasing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Shadows kneeling in unison",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Hunters' shocked gasps, terrified whispers",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Shadows dissolving, cold footsteps, echoing voice",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 11: Quân Đội Bóng Tối | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 11 of Solo Leveling (Trừ Tiên). For months Jin-Woo had been collecting shadows. Today he raised his hand for the first time — and a hundred shadows knelt before him. His shadow army. The two hunters who followed him in — would never be the same.",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "shadow army",
+      "Jin-Woo",
+      "Sung Jin-Woo",
+      "hunters guild",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Jin-Woo NUỐT BÓNG TỐI suốt nhiều tháng! Hôm nay hắn giơ tay lần đầu... MỘT TRĂM BÓNG TỐI quỳ! Hai thợ săn nhìn trộm — đóng băng kinh hoàng! 'Nói cho họ biết. Nói những gì các ngươi thấy.' 🔥 Tập 11",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Shadow absorption montage, hundreds of shadows rising and kneeling in formation, shocked hunters, Jin-Woo dissolving army and walking away",
+  "specific_details": {
+    "subject": "Jin-Woo: black hunter tactical gear, stoic expression, hand raised commanding shadows, then dissolving them and walking away coldly. Hundred shadow soldiers: varied dark armors, kneeling in military formation.",
+    "outfit_exact": "Jin-Woo: black modern tactical hunter gear, dark gray hood, cold expression. Shadow soldiers: dark medieval armor, varied weapons (swords, axes, bows, spears), kneeling in rows.",
+    "setting_details": "Dark underground chamber with stone floor, shadow energy effects, dramatic low lighting, hunters peeking from doorway",
+    "face_expression": "Jin-Woo: cold stoic → commanding → dismissive cold. Hunters: pale shock → terror → frozen speechless",
+    "body_movement": "Jin-Woo: hand raised in command → lowering → walking away. Shadows: rising → kneeling → dissolving. Hunters: peeking → falling back → frozen",
+    "camera": "Fast montage absorption, wide shadow rising, wide army formation, close-up hunters shocked, close-up dissolving and walking"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing outside hunter gear, bright daylight, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 11: A hundred shadow soldiers kneeling before Jin-Woo — the Shadow Army reveal",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "shadow army",
+    "Jin-Woo",
+    "Sung Jin-Woo",
+    "shadow monarch",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T16:40:00Z",
+  "publishedAt": "2026-04-06T02:51:03.746Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625464215435857173"
+}

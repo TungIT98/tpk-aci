@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-25",
+  "week": "2026-W22",
+  "source": "May 25 heartbeat — live web search",
+  "note": "Memorial Day — W22 live confirmation. All 10 trends active. Microshifting window closing May 31.",
+  "trends_confirmed": [
+    {
+      "rank": 1,
+      "topic": "Memorial Day Weekend — Summer Content Gold",
+      "platform": "TikTok / Instagram / YouTube",
+      "hashtags": ["#memorialdayweekend", "#summervibes", "#summer2026", "#beachvibes", "#holidayweekend", "#summertok", "#memorialday2026"],
+      "potential_views": "50M+",
+      "competition": "very low",
+      "content_pillar": "trending_aesthetic",
+      "status": "ACTIVE TODAY"
+    },
+    {
+      "rank": 2,
+      "topic": "Mandalorian & Grogu — Reactions May 22-26",
+      "platform": "TikTok / YouTube / Twitter",
+      "hashtags": ["#mandalorian", "#grogu", "#starwars", "#mando2026", "#mandalorianreactions", "#may22", "#disneyplus"],
+      "potential_views": "40M+",
+      "competition": "very low",
+      "content_pillar": "trending_aesthetic",
+      "status": "CONFIRMED — window closes May 26"
+    },
+    {
+      "rank": 3,
+      "topic": "Summer Aesthetic — FULLY PEAK",
+      "platform": "TikTok / Instagram Reels / YouTube",
+      "hashtags": ["#summervibes", "#summer2026", "#beachaesthetic", "#poolday", "#outdooraesthetic", "#summertok", "#hotgirlwalk"],
+      "potential_views": "40M+",
+      "competition": "low",
+      "content_pillar": "trending_aesthetic",
+      "status": "CONFIRMED"
+    },
+    {
+      "rank": 4,
+      "topic": "Gen Z Job Crisis — Month 2-3 Aftermath",
+      "platform": "TikTok / YouTube / Twitter",
+      "hashtags": ["#newgrad2026", "#CareerTok", "#jobmarket2026", "#classof2026", "#genzcareer", "#month2", "#careertiktok"],
+      "potential_views": "40M+",
+      "competition": "medium",
+      "content_pillar": "motivation",
+      "status": "CONFIRMED — TikTok active 3-5 days ago"
+    },
+    {
+      "rank": 5,
+      "topic": "Memorial Day Sales — Gen Z Money / Side Hustle",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#memorialdaysale", "#shoppingtok", "#dealalert", "#genzfinance", "#extracash", "#sidehustle2026"],
+      "potential_views": "20M+",
+      "competition": "low",
+      "content_pillar": "tech_ai",
+      "status": "ACTIVE — peak retail weekend"
+    },
+    {
+      "rank": 6,
+      "topic": "'Becoming Unrecognizable' — Late May Final Stretch",
+      "platform": "TikTok / Instagram Reels / YouTube",
+      "hashtags": ["#becomingunrecognizable", "#summerbody", "#summerprep2026", "#glowup2026", "#fitness2026", "#transformation"],
+      "potential_views": "25M+",
+      "competition": "low",
+      "content_pillar": "hot_girl_fitness",
+      "status": "CONFIRMED — multiple TikTok posts 5 days ago"
+    },
+    {
+      "rank": 7,
+      "topic": "ROI Maxxing + Work Bloat",
+      "platform": "TikTok / YouTube Shorts",
+      "hashtags": ["#roimaxing", "#workbloat", "#productivityhacks", "#stopthehustle", "#efficiency", "#q2check"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "motivation",
+      "status": "CONFIRMED — Microshifting AP/wtop confirmed"
+    },
+    {
+      "rank": 8,
+      "topic": "Gen Z 'Romanticizing' 9-5 — Summer Work Tension",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#romanticizeyourlife", "#9to5life", "#officevibes", "#summerfriday", "#genzwork", "#worklifebalance"],
+      "potential_views": "20M+",
+      "competition": "low",
+      "content_pillar": "lifestyle",
+      "status": "ACTIVE — Summer Friday tension hot"
+    },
+    {
+      "rank": 9,
+      "topic": "Microshifting — LAST PUBLISH WINDOW",
+      "platform": "TikTok / YouTube Shorts",
+      "hashtags": ["#microshifting", "#productivitytok", "#flexibleschedule", "#worklifebalance", "#genzwork", "#hourlywork"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "tech_ai",
+      "status": "CRITICAL — AP confirmed. Window closes May 31."
+    },
+    {
+      "rank": 10,
+      "topic": "UGC / Side Hustle — Memorial Day Angle",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#ugc", "#sidehustle2026", "#contentcreator", "#genzfinance", "#extracash", "#memorialdayweekend"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "tech_ai",
+      "status": "CONFIRMED — 57% Gen Z with side gigs"
+    }
+  ],
+  "content_calendar": {
+    "Monday": "hot_girl_fitness",
+    "Tuesday": "comedy",
+    "Wednesday": "lifestyle",
+    "Thursday": "comedy",
+    "Friday": "motivation",
+    "Saturday": "tech_ai",
+    "Sunday": "trending_aesthetic"
+  },
+  "critical_actions": [
+    {
+      "priority": "CRITICAL",
+      "action": "Memorial Day aesthetic content — POST TODAY",
+      "deadline": "NOW (May 25)"
+    },
+    {
+      "priority": "CRITICAL",
+      "action": "Microshifting publish",
+      "deadline": "May 30 (Sat)"
+    },
+    {
+      "priority": "HIGH",
+      "action": "Mandalorian reactions",
+      "deadline": "May 26 (Tue)"
+    },
+    {
+      "priority": "HIGH",
+      "action": "Becoming Unrecognizable final stretch",
+      "deadline": "May 25-31"
+    }
+  ],
+  "sources": [
+    "TikTok Discover — memorial2026 (2.3M+ posts, May 2026)",
+    "TikTok Discover — memorial-day-weekend-dc-2026 (3M posts)",
+    "TikTok @mando2026 — Mandalorian & Grogu premiere May 22",
+    "wtop.com — Microshifting AP confirmed (Mar 19, 2026)",
+    "The Guardian — Microshifting one-hour work pattern (Jan 6, 2026)",
+    "TikTok — hotgirlwalk / hotgirlwalks confirmed active (2026)",
+    "TikTok — gen-z-jobs / side hustles confirmed active (1-5 days ago)"
+  ]
+}

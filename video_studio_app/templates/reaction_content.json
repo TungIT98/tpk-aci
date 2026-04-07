@@ -1,0 +1,62 @@
+{
+  "name": "Reaction Content",
+  "description": "First-react, then-analyze format — initial visceral reaction, deeper analysis, final take. Best for reacting to news, other creators' content, trending videos, industry drama, and 'I saw this so you don't have to' content.",
+  "target_platform": "tiktok",
+  "voice_style": "energetic initial reaction, then more measured and analytical — shifts energy: loud/visceral reaction → thoughtful analysis → calm authoritative takeaway",
+  "music_mood": "dramatic sting for reaction moment, beat drop for punchline, clean background music under analysis sections",
+  "hashtag_suggestions": ["#reaction", "#react", "#fyp", "#viral", "#opinion", "#letsdiscuss", "#breaking"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "Everyone is sharing this and nobody is talking about what I just saw. I need 60 seconds of your time because this changes something.",
+      "visual_prompt": "Person holding phone up showing video to camera, shocked expression, phone screen visible in frame, hand gesturing in disbelief, text overlay 'WAIT WHAT'",
+      "camera_movement": "medium close-up, phone-in-frame composition, energetic reaction gestures",
+      "lighting_setup": "phone screen glow as primary light source, ring light fill on face, dark room aesthetic",
+      "hailuo_style_note": "Dark room + phone screen aesthetic is the reaction genre signature; shock expression must be clear and readable at medium shot",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 15,
+      "narration_prompt": "My initial reaction: I genuinely gasped. [Brief description of what was seen without spoiling too much]. I watched it three times to make sure I wasn't misunderstanding. I wasn't.",
+      "visual_prompt": "Person's face cycling through genuine reaction expressions — shock, confusion, processing, nodding, split screen showing video playing and person watching, phone or screen recording aesthetic",
+      "camera_movement": "medium close-up static, cut to split-screen composition, steady on face",
+      "lighting_setup": "phone screen glow dominant, slightly brighter fill than hook for clarity, warm face tones",
+      "hailuo_style_note": "Expression cycling is the content — expressions must be genuine and readable; split screen adds production value",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "But here's what nobody is talking about. The real story here is not what happened — it's why it happened. [Analysis point one]. And separately — [analysis point two]. This is actually part of a pattern that [expert or contextual observation].",
+      "visual_prompt": "Person shifting energy — more serious expression, graphic appearing behind them with key analysis points, bullet points materializing, person gesturing while explaining, more studio-lit professional look",
+      "camera_movement": "medium close-up, steady professional framing, slight push-in on key insight beats",
+      "lighting_setup": "professional studio two-point lighting, cooler authoritative tones, clean background",
+      "hailuo_style_note": "Lighting shift signals energy shift — brighter and more professional signals 'analyst mode'; graphics should be clean and brand-consistent",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 10,
+      "narration_prompt": "Final take: This is either a turning point or a distraction. I'm leaning toward turning point. But we will know more in six months. Bookmark this and come back.",
+      "visual_prompt": "Person giving final direct-to-camera statement, confident energy, screen showing calendar or countdown graphic, person tapping temple 'remember this moment', assured expression",
+      "camera_movement": "medium close-up, confident steady hold, subtle push-in on 'turning point'",
+      "lighting_setup": "warm authoritative light, confident and assured tones, slightly warmer than analysis section",
+      "hailuo_style_note": "Final take is authority moment — steady confident framing; calendar/countdown graphic plants 'come back' hook",
+      "transition": "fade"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Do you agree? Drop your take in the comments — I read everything. Follow for more reactions and breakdowns.",
+      "visual_prompt": "Person pointing at comment section, debate-style prompt, person smiling, follow button visible, comment icon pulsing",
+      "camera_movement": "medium close-up, energetic but warm CTA",
+      "lighting_setup": "warm friendly energy, inviting community feel",
+      "hailuo_style_note": "Debate prompt energy — this should feel like an invitation to a conversation, not a broadcast",
+      "transition": "fade_out"
+    }
+  ]
+}

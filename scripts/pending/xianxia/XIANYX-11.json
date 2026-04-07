@@ -1,0 +1,198 @@
+﻿{
+  "id": "XIANYX-11",
+  "title": "Trieu Tien Episode 3: The Sect Master's Arrival",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 3,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling and climactic warrior duels",
+  "tone": "Heroic, fierce, tragic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The army was just the beginning. The one who destroyed her father stood before her now — wearing his jade bracelet like a trophy. And the blade remembered everything.",
+    "story_arc": "Aftermath of first strike — more soldiers charge — she cuts through effortlessly — soldiers part — Sect Master arrives wearing her father's jade bracelet — she charges — blade guides her to the killing stroke",
+    "emotion": "Cold fury → Triumphant ease → Memory awakening → Tragic recognition → Devastating resolve",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the aftermath of the first soldier's dissolution. Smoke rises where iron and flesh became crimson light. She stands at the top of the inner sanctum steps, ancient dark crimson sword held ready in her bloodied hands. Three more soldiers in the lead wave — iron halberds raised, screaming — charge up the steps. Behind them, fifty more soldiers are massing in the outer courtyard. She does not run. She does not hesitate. The blade hums in her grip — alive, eager, remembering. Camera: wide shot, three soldiers charging up stone steps toward her, smoke rising, her solitary crimson figure at the top with blade ready. Slow dolly in to medium shot as she shifts her stance. 6 seconds.",
+      "camera": "Dolly in — three soldiers charging up steps, smoke, solitary warrior, 6s",
+      "narration": "One soldier dissolved into light. But the army behind him did not retreat — they surged forward, believing numbers would overwhelm a woman in silk. They had not yet learned what her father's blade had always known.",
+      "sfx": "Iron boots thundering on stone steps, war drums pounding intensely, soldiers screaming war cries, blade humming with ancient hunger, wind howling through broken temple gates"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium close-up — she moves like water. One fluid lateral arc — the first soldier's halberd shaft splinters, his body dissolves. She pivots without stopping — second arc — second soldier's helmet and skull part, crimson light racing up the blade. Third soldier manages one swing of his sword — she ducks beneath it with inhuman grace and drives the blade upward through his chin. His body dissolves. Three soldiers — three heartbeats. Each dissolution floods her with visions: her father's hand on this same blade, cutting down ten men in a single breath. Tears stream down her face but her strike does not falter. Camera: medium close-up, three rapid successive arc strikes in fluid motion, each soldier dissolving into crimson light absorbed by blade, her tears falling as her father's battle memories flash across her face. 6 seconds.",
+      "camera": "Close-up — three rapid arc strikes, dissolves, tears as father memories flash, 6s",
+      "narration": "Three soldiers fell in three heartbeats. And with each one — the blade poured her father's memories into her mind. He had been magnificent. And now — so was she.",
+      "sfx": "Sword arc whoosh through air three times in succession, iron shattering, bodies dissolving with whoosh, crimson energy absorption, her breath sharp and controlled, tear splash"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — the remaining soldiers in the courtyard freeze. They stare up at her in disbelief. One woman in crimson silk — bloodied, tear-streaked — standing over three dissolved comrades. No one has moved. No one is charging. Then — the soldiers begin to part. A ripple of fear and reverence moves through them. They bow their heads. From the shattered outer gates, a figure walks alone through the parting crowd. He wears immaculate gold-embroidered elder robes, his white beard perfectly groomed, his bearing imperial. A jade seal hangs at his waist — carved with a phoenix crest. She stares. Her blood runs cold. She knows that jade seal. Her father wore its twin. Camera: wide shot, remaining soldiers parting and bowing, figure in gold robes walking alone through them, her solitary figure at the top of the steps, blade lowered slightly as she recognizes the jade seal. Slow zoom in on the jade seal at his waist. 6 seconds.",
+      "camera": "Wide + zoom in — soldiers parting, gold-robed figure walking, jade seal zoom, 6s",
+      "narration": "The soldiers parted — not in retreat, but in worship. And through them walked the man she had dreamed of killing since she was old enough to understand what he had done. The Sect Master. The one who had signed her father's execution order.",
+      "sfx": "Soldiers' boots stopping, fearful whispers, crowd parting like water, wind dropping to silence, her breath catching in her throat, heartbeat thundering"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he stops at the base of the steps. He looks up at her — and his cold eyes widen for one fraction of a second. Recognition. Then his gaze drops to the ancient crimson blade in her hands. His face drains of color. 'That blade,' he whispers — his voice carries perfectly across the courtyard. 'That was supposed to be destroyed.' She raises the blade. On its surface, beneath three hundred years of grime and bloodstain, the characters on the blade's spine glow faint gold — the name of the blade's true owner. Her father's name. He signed the order that took the Sword Saint's life. He stole this blade from the evidence vault. He wore the jade seal as a trophy. Camera: close-up on the Sect Master's face — his widening eyes of recognition and fear. Then a flash cut to his hand touching the jade seal at his waist — the twin of her father's. Then close-up on the blade's surface, characters glowing gold — her father's name engraved beneath the grime. 6 seconds.",
+      "camera": "Close-up — Sect Master's face recognition + jade seal hand + blade glowing father's name, 6s",
+      "narration": "He wore her father's jade seal on his belt like a trophy. The same seal her father had worn the day he was executed. And the blade — the blade had never forgotten the hand that forged it — or the one who signed the order that ended its master.",
+      "sfx": "His whisper carrying across silent courtyard, jade seal clinking softly, blade characters glowing with ancient resonance hum, wind suddenly stopping, her breath sharp with fury"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Medium close-up — she charges. No hesitation. No fear. The blade leads — and her body follows. The Sect Master raises both hands, golden spiritual energy erupting between his palms — the same technique he used to execute her father three hundred years ago. She does not stop. She does not deflect. She drives the blade directly into the center of his golden light. The blade screams — literally screams — a sound of joy and fury intertwined. The golden light shatters. The blade pierces the Sect Master's chest. He stares down at it — disbelieving. His hands fall to his sides. 'Impossible,' he breathes. 'You are just a woman — ' She meets his eyes. 'I am my father's blood.' The blade erupts with crimson light. His body dissolves — iron robes and all — absorbed into the blade that her father had carried into a thousand battles. Camera: medium close-up, her charge down the steps, the blade piercing through golden light, the Sect Master's disbelieving face as crimson light consumes him, her face — tear-streaked, fierce, finally at peace. End on the blade held high, glowing crimson in the dawn light. 6 seconds.",
+      "camera": "Push in — charge, blade through golden light, dissolve, tear-streaked fierce face, blade held high, 6s",
+      "narration": "She drove her father's blade through the golden light — the same technique he had used to execute its master. And as the Sect Master dissolved into crimson light absorbed by the blade, she finally understood — she was never just the Sword Saint's daughter. She was the Sword Saint's blade. And the blade — had finally come home.",
+      "sfx": "Iron-shod boots striking stone as she charges, golden spiritual energy clash and shatter, blade scream of fury and joy, body dissolving with whoosh, crimson energy roaring into blade, wind finally breaking silence with triumphant howl"
+    }
+  ],
+  "audio": {
+    "narration": "One soldier dissolved into light. But the army behind him did not retreat — they surged forward, believing numbers would overwhelm a woman in silk. They had not yet learned what her father's blade had always known. Three soldiers fell in three heartbeats. And with each one — the blade poured her father's memories into her mind. He had been magnificent. And now — so was she. The soldiers parted — not in retreat, but in worship. And through them walked the man she had dreamed of killing since she was old enough to understand what he had done. The Sect Master. The one who had signed her father's execution order. He wore her father's jade seal on his belt like a trophy. The same seal her father had worn the day he was executed. And the blade — the blade had never forgotten the hand that forged it — or the one who signed the order that ended its master. She drove her father's blade through the golden light — the same technique he had used to execute its master. And as the Sect Master dissolved into crimson light absorbed by the blade, she finally understood — she was never just the Sword Saint's daughter. She was the Sword Saint's blade. And the blade — had finally come home.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese orchestral xianxia soundtrack, erhu and guzheng leading, powerful building crescendo, tragic yet triumphant, gold and crimson tones, 88 BPM building to triumphant 100 BPM climax",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "iron boots thundering and war drums pounding",
+        "volume": 0.7
+      },
+      {
+        "time": 6,
+        "sound": "three sword arcs in succession and bodies dissolving",
+        "volume": 0.8
+      },
+      {
+        "time": 12,
+        "sound": "soldiers parting and fearful whispers",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "jade seal clink and blade character resonance",
+        "volume": 0.7
+      },
+      {
+        "time": 24,
+        "sound": "golden light shatter and blade scream of fury",
+        "volume": 0.9
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — aftermath of dissolved soldier. Smoke rising from stone steps. Three soldiers in black armor with iron halberds charging up stone steps toward a young woman in crimson Hanfu with gold embroidery standing at the top. She holds an ancient dark crimson sword ready in bloodied hands. Behind the three soldiers, fifty more soldiers mass in outer courtyard. She shifts stance, blade humming. Camera: wide shot, slow dolly in to medium shot as she shifts stance with blade ready. [Dolly in — soldiers charging up steps, solitary warrior]"
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium close-up — young woman in crimson Hanfu executes three rapid successive arc strikes in fluid motion. Halberd shafts splinter and soldiers' bodies dissolve into crimson light absorbed by the blade. Tears stream down her face as her father's battle memories flash across her expression. Three dissolves in three heartbeats. Camera: medium close-up, three rapid arc strikes, bodies dissolving, her tear-streaked face as memories flash. [Close-up — three rapid arc strikes, dissolves, tears as father memories]"
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide shot — remaining soldiers frozen, then parting and bowing their heads. A figure in immaculate gold-embroidered elder robes with white beard walks alone through the parting crowd. A jade seal with phoenix crest hangs at his waist. She stands at top of steps, blade lowered, staring at the jade seal with cold recognition. Camera: wide shot soldiers parting, gold-robed figure walking alone, her solitary figure on steps, blade lowered. Slow zoom in on jade seal at his waist. [Wide + zoom — soldiers parting, gold-robed figure, jade seal zoom]"
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — Sect Master's cold eyes widening in recognition as he looks at the ancient crimson blade in her hands. His face drains of color. His hand moves to touch the jade seal at his waist — the twin of a missing seal. Flash cut: ancient characters glowing gold on the blade's surface beneath grime — a father's name. Camera: close-up Sect Master's face widening in fear, his hand on jade seal, then blade surface with glowing father's name. [Close-up — Sect Master face + jade seal + blade glowing father's name]"
+    },
+    {
+      "shot": 5,
+      "prompt": "Medium close-up — young woman in crimson Hanfu charges down steps. Blade leads. Sect Master raises both hands, golden spiritual energy erupting between palms. She drives blade directly into golden light. Blade screams with fury. Golden light shatters. Blade pierces Sect Master's chest. His body dissolves into crimson light absorbed by blade. Her face — tear-streaked, fierce, at peace. She holds blade high, glowing crimson in dawn light. Camera: medium close-up charge, blade through golden light, dissolve, tear-streaked fierce face, blade held high. [Push in — charge, blade through light, dissolve, blade held high]"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 3: Trưởng Lão Giáo Đáo | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 3 of Trieu Tien. Three soldiers fell in three heartbeats. Then the army parted — and the man who signed her father's execution order walked through. He wore her father's jade seal like a trophy. And when she drove the ancient blade through his golden light, the Sword Saint's blade finally came home.\n\n🔥 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 4\n#xianxia #chinesefantasy #wuxia #swordsaint #sectmaster #crimsonhanfu #cultivation #epic #fantasy #dramatic #avenger #father",
+    "youtube_tags": [
+      "xianxia",
+      "chinese fantasy",
+      "wuxia",
+      "sword saint",
+      "sect master",
+      "crimson hanfu",
+      "cultivation",
+      "epic fantasy",
+      "fantasy",
+      "dramatic",
+      "avenger",
+      "father",
+      "warrior woman",
+      "trieu tien"
+    ],
+    "tiktok_caption": "Ba người lính ngã xuống trong 3 nhịp tim. Rồi người đàn ông đã giết cha cô bước tới... ⚔️ | Xianxia Việt Sub #xianxia",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_fierce_tragic (MiniMax speech-02-hd, speed 1.0, slight reverb, fury then sorrowful then iron determination tone)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — aftermath of dissolved soldier, smoke rising. Three soldiers in black armor charging up stone steps toward young woman in crimson Hanfu with gold embroidery standing at the top. Ancient dark crimson sword held ready in bloodied hands. Fifty soldiers massing in courtyard behind. Camera: wide shot, slow dolly in to medium shot as she shifts stance with blade ready. Shot 2: Medium close-up — young woman executes three rapid successive arc strikes in fluid motion. Soldiers' bodies dissolve into crimson light absorbed by blade. Tears stream down her face as father's battle memories flash. Camera: medium close-up, three rapid arc strikes, dissolves, tear-streaked face with memories. Shot 3: Wide shot — remaining soldiers frozen then parting and bowing. Figure in immaculate gold-embroidered elder robes with white beard walks alone through crowd. Jade seal with phoenix crest at his waist. She stares at the jade seal. Camera: wide shot soldiers parting, gold-robed figure walking alone, her solitary figure on steps, blade lowered. Slow zoom in on jade seal. Shot 4: Close-up — Sect Master's cold eyes widening in recognition looking at ancient crimson blade. His face drains of color. His hand touches jade seal at waist. Ancient characters glowing gold on blade surface beneath grime — a father's name. Camera: close-up Sect Master face widening in fear, jade seal hand, blade glowing father's name. Shot 5: Medium close-up — young woman charges down steps, blade leading. Sect Master raises both hands, golden spiritual energy erupting between palms. She drives blade into golden light. Blade screams. Golden light shatters. Blade pierces his chest. Body dissolves into crimson light absorbed by blade. Her face tear-streaked, fierce, at peace. Holds blade high glowing crimson in dawn light. Camera: medium close-up charge, blade through golden light, dissolve, tear-streaked fierce face, blade held high.",
+  "visual_scene": "Ancient Taoist temple at dawn, smoke rising from dissolved soldier's ash on stone steps. Three soldiers in black iron armor charging up stone steps. A young woman in flowing crimson Hanfu with gold embroidery and phoenix hairpin standing alone at top, ancient dark crimson sword in bloodied hands. Remaining fifty soldiers massing in outer courtyard then parting and bowing. A figure in immaculate gold-embroidered elder robes with white beard and jade phoenix seal at waist walking alone through parting crowd. Golden spiritual energy clashing with crimson blade light. Sect Master's body dissolving into crimson light absorbed by the blade. Her tear-streaked fierce face as blade is held high glowing crimson in dawn light. Cinematic portrait 9:16 vertical framing. Heroic, fierce, tragic, triumphant atmosphere.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, porcelain skin, fierce determined eyes burning gold when spiritually empowered, tear-streaked in moments of memory, strong jawline with graceful edges",
+    "outfit_exact": "Flowing crimson Hanfu with gold phoenix embroidery on hems and sleeves, wide sleeves, high waist sash, phoenix gold hairpin with jade eyes crowning elaborate updo, blood staining her palms and the sword hilt",
+    "setting_details": "Ancient Taoist temple inner sanctum steps, cracked stone, smoke from dissolved soldiers, dawn light, shattered outer gates, gold-robed Sect Master in courtyard, golden spiritual energy clashing with crimson blade",
+    "face_expression": "Shot 1: Cold fury, blade ready. Shot 2: Tears streaming as father memories flood in during combat. Shot 3: Cold recognition staring at jade seal. Shot 4: Pure fury seeing father's name on blade. Shot 5: Tear-streaked, fierce, at peace, holding blade high",
+    "body_movement": "Shot 1: Stance shifting, blade ready on top step. Shot 2: Three rapid arc strikes in fluid succession, pivoting without stopping. Shot 3: Blade lowering slightly as she recognizes jade seal. Shot 4: Blade raised, fury building. Shot 5: Charge down steps, drive blade through golden light, hold blade high",
+    "camera": "Shot 1: Dolly in (wide to medium, solitary warrior with blade ready). Shot 2: Close-up (three rapid strikes, dissolves, tears). Shot 3: Wide + zoom (soldiers parting, gold-robed figure, jade seal zoom). Shot 4: Close-up (face + seal + blade name). Shot 5: Push in (charge, blade through light, dissolve, blade held high)"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, landscape orientation, warm cheerful colors, blue supernatural glow",
+  "thumbnail_idea": "Young woman in crimson Hanfu with gold phoenix hairpin standing at top of ancient temple steps, ancient dark crimson sword driven through the chest of a gold-robed elder, her face tear-streaked but fierce and at peace, dawn light around her, the blade glowing crimson — title 'TRIEU TIEN EP.3' in crimson gold flame font on dark background",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "wuxia",
+    "sword saint",
+    "sect master",
+    "crimson hanfu",
+    "warrior woman",
+    "avenger",
+    "father",
+    "epic",
+    "fantasy",
+    "dramatic",
+    "cultivation",
+    "trieu tien"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-02T05:20:00Z",
+  "videoFile": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-11.mp4",
+  "produced_at": "2026-04-03T01:01:21.939ZZ",
+  "caption": "Ba người lính ngã xuống trong 3 nhịp tim. Rồi người đàn ông đã giết cha cô bước tới... ⚔️ | Xianxia Việt Sub #xianxia",
+  "publishedAt": "2026-04-03T05:58:25.560Z",
+  "tiktok_url": "/@fai20128/video/7624408043857431828",
+  "tiktok_uploaded_at": "2026-04-03T01:04:44.053Z",
+  "tiktok_status": "uploaded"
+}

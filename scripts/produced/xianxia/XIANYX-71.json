@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-71",
+  "title": "Dau Pha Thuong Khau Episode 11: The Forbidden Floor",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Dark discovery, forbidden secrets, escalating danger, conspiracy deepens",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "Below the arena — twenty floors deeper than anyone knew existed.",
+    "story_arc": "Investigating missing fighters → Hidden stairs discovered → Descending into darkness → Ancient cells revealed → The real arena exposed",
+    "emotion": "Curiosity → Unease → Horror → Revelation → Rage",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the Battlefield Arena's foundation level. Dark. Damp. Our fighter stands before a wall that shouldn't be there — old brick, newer than the arena above. Fresh mortar. Someone had sealed something. He runs his hand along the wall. Hollow. Behind him, the distant roar of arena crowds above ground. Camera: wide shot — dark foundation, sealed wall, contrast with distant crowd roar, investigative tension. 6 seconds.",
+      "camera": "Wide shot — dark foundation, sealed wall, distant crowd roars, investigation tension, 6s",
+      "narration": "The arena was built on top of something. Something someone wanted forgotten.",
+      "sfx": "Dripping water, distant crowd roar muffled, his hand on cold wall, echo"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — he punches through the sealed wall. Brick and mortar crumble. A passage is revealed — stone stairs descending into absolute darkness. Cold air rises from below — carrying a smell. Old blood. He lights a torch. The flame doesn't go up — it goes sideways. The air below pulls the fire. He stares into the abyss. Camera: close-up — wall breaking, passage revealed, cold air pushing flame sideways, torch pulled downward. 6 seconds.",
+      "camera": "Close-up — wall breaking, passage, cold air pulling torch flame sideways, into the abyss, 6s",
+      "narration": "The air below was so cold it pulled fire downward. Nothing living should be down there.",
+      "sfx": "Wall crumbling, brick falling, cold wind rushing upward, torch flame fighting air"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — he descends. Floor after floor of ancient cells. Each one — holding marks. Scratch marks on walls. Counting marks. Hundreds per cell. Some cells had skulls. Some had chains fused to bone. He counts the floors. Ten. Fifteen. Twenty floors below the arena. Twenty floors of horror. Camera: medium — descending stairs, cells with marks and skulls, horror accumulating with each floor, torch light on bones. 6 seconds.",
+      "camera": "Medium — descending, cells with scratch marks and skulls, horror accumulating floor by floor, 6s",
+      "narration": "Twenty floors below. Twenty floors of the arena's hidden history.",
+      "sfx": "Footsteps descending, water dripping, chain rattling, his sharp breathing, echo of horror"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — floor twenty. A vast chamber. Dozens of ancient corpses in preserved cultivation robes. They are arranged in a perfect circle. In the center — a massive formation circle carved into the floor, still faintly glowing red. Every corpse has its chest open — cores removed. A cultivation massacre. Our fighter stands at the entrance, torch casting flickering light across dozens of preserved bodies. Camera: wide shot — vast chamber, dozens of preserved corpses in circle, formation glowing red, horror. 6 seconds.",
+      "camera": "Wide shot — chamber, dozens of preserved corpses in circle, chest cavities empty, red formation glowing, 6s",
+      "narration": "Cultivation cores — stolen. Dozens of cultivators — murdered. For a formation.",
+      "sfx": "His sharp inhale, formation humming, wind through chamber, distant echoes"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — on the wall behind the formation: carved text in ancient script. He reads it aloud, translating: 'THE BLOOD ARENA FORMATION. POWER DRAWN FROM THE DEAD. WHEN TEN THOUSAND DIE — THE GOD WILL RISE.' His torch light illuminates the entire wall — covered in tally marks. He counts. Nine thousand nine hundred. Almost full. Camera: extreme close-up — ancient text, tally marks, count of 9900, his horrified realization. 6 seconds.",
+      "camera": "Extreme close-up — ancient text revealed, tally marks, almost full, his horror, 6s",
+      "narration": "Ten thousand deaths to summon a god. And nine thousand nine hundred had already been counted.",
+      "sfx": "His voice echoing, tally marks being counted, formation humming louder, heartbeat stopping"
+    }
+  ]
+}

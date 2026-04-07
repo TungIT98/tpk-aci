@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-64",
+  "title": "Trieu Tien Episode 14: The Ancient Sword Wakes",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 14,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Climactic power awakening, ancient weapon claimed, legendary moment",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The sword had waited for two heirs. One blade. Two hands. One destiny.",
+    "story_arc": "Both hands on the blade → Light explosion → The Sword Saint's spirit appears → His final teaching → The blade splits",
+    "emotion": "Anticipation → Power explosion → Shock → Grief → Resolve",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Close-up extreme — Trieu Tien's hand and Trieu Huong's hand grasp the ancient blade simultaneously. White and crimson energy flows from their hands down the blade simultaneously. The entire altar ERUPTS with light — pure white-gold. Stone shatters. The blade is free. Both women's faces: extreme effort, extreme wonder. Camera: extreme close-up — both hands on blade, energy flowing down, altar erupting with light. 6 seconds.",
+      "camera": "Extreme close-up — both hands on blade, energy erupting, altar shattering, light, 6s",
+      "narration": "Two hands on one blade. And the sword that had waited thirty years — finally answered.",
+      "sfx": "Stone shattering, blade unsheathing sound, two gasps, massive energy burst, wind explosion"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide shot — a spirit materializes in the light. The Sword Saint — translucent, glowing white. His robes, his bearing, his eyes — exactly like the hairpins. He looks at both women. His two daughters. His expression: infinite sadness mixed with pride. His voice echoes: 'My girls.' Trieu Tien and Huong freeze, staring. Camera: wide shot — spirit materializing in light, two women frozen staring, Sword Saint's translucent form. 6 seconds.",
+      "camera": "Wide shot — Sword Saint spirit materializing, two women frozen, majestic spirit form, 6s",
+      "narration": "And in the light — the Sword Saint himself appeared. One last time.",
+      "sfx": "Spirit materializing, ethereal wind, deep bass hum, Sword Saint's echoing voice, tears"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the Sword Saint's spirit extends both hands toward his daughters. Trieu Tien reaches out — her hand passes through the spirit. She can't touch him. Tears stream down her face. He smiles sadly. Speaks: 'I could not stay. But the blade — I divided it. So you would find each other.' He gestures at the blade in their hands. Camera: close-up — her hand passing through spirit, tears, spirit gesturing to the blade. 6 seconds.",
+      "camera": "Close-up — hand passing through spirit, tears, spirit gesturing to blade, 6s",
+      "narration": "He divided the blade deliberately. So they would have to find each other to wield it.",
+      "sfx": "Her sob, spirit's soft voice, wind, heartbeat"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the blade in their hands begins to split along its length. With a sound like a bell, it separates into two distinct blades — one crimson-edged, one pure white. Identical to each woman's cultivation energy. Trieu Tien holds the crimson blade. Huong holds the white blade. The Sword Saint's spirit begins to fade. Camera: close-up — blade splitting into two, each woman holding one, spirit beginning to fade. 6 seconds.",
+      "camera": "Close-up — blade splitting, each woman holding one, spirit fading, light dimming, 6s",
+      "narration": "The blade split. One for each daughter. His final gift.",
+      "sfx": "Bell sound, blade splitting, two women gasping, spirit fading, wind dying"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — the Sword Saint's spirit is almost transparent. He bows to both daughters — the full respect bow of a master. Then — he is gone. Dust particles scatter in the moonlight. The two women stand alone, each holding half of the legendary blade. They look at each other. Then at the sky. Trieu Tien: 'We finish what he started.' Camera: wide shot — bow, spirit fading, dust scattering, two women holding blades, looking at sky. 6 seconds.",
+      "camera": "Wide shot — full bow, spirit fading to dust, two women alone holding blades, resolve in eyes, 6s",
+      "narration": "The Sword Saint's final lesson: strength was never meant to be carried alone.",
+      "sfx": "Spirit vanishing, dust settling, two women breathing, wind, orchestral finale"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-64.mp4",
+  "produced_at": "2026-04-05T14:06:31.850Z",
+  "publishedAt": "2026-04-06T01:36:20.494Z",
+  "tiktok_url": "/@fai20128/video/7625453737384873237"
+}

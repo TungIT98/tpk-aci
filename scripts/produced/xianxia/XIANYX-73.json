@@ -1,0 +1,74 @@
+{
+  "id": "XIANYX-73",
+  "title": "Dau Pha Thuong Khau Episode 13: The Formation Reversal",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Revelation, forbidden knowledge, desperate hope, tension building",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "produced",
+  "concept": {
+    "hook": "Every formation has a reversal point — and he found the ancient text that proved it.",
+    "story_arc": "Searching ancient records → Forbidden text discovered → Formation reversal diagram → The weakness identified → Racing against time",
+    "emotion": "Desperation → Discovery → Hope → Horror → Determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the secret archive, night. Our fighter is surrounded by hundreds of ancient scrolls, documents, formation charts. He sits cross-legged before a massive stone wall covered in carved formation diagrams — the same pattern as floor twenty. Red ink marks circle key points. He traces ancient text with shaking fingers. Around him, candles flicker. The formation hums faintly from below — accelerating. Camera: wide shot — archive with scattered documents, formation diagrams on stone wall, fighter tracing ancient text, red ink marks, candles flickering, hum from below. 6 seconds.",
+      "camera": "Wide — archive at night, hundreds of scrolls, formation diagrams on wall, fighter tracing ancient text, red ink marks, 6s",
+      "narration": "The Blood Arena Formation required ten thousand deaths to summon its god. Nine thousand nine hundred had been counted. One hundred remained.",
+      "sfx": "Candles flickering, pages turning, his rapid breathing, formation hum growing louder from below, ink scratching on paper"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — he turns a crumbling page. Ancient script with a diagram: the Blood Arena Formation drawn in black ink. But in the margin — someone had written in red, three hundred years ago: 'THE REVERSAL. THE FORMATION FLOWS TOWARD THE MASTER. REVERSE THE FLOW — AND THE GOD DRAINS THE MASTER INSTEAD.' He stares. The reversal point is marked on the diagram — center of the formation circle, twenty floors below. Camera: close-up — crumbling ancient page, formation diagram in black ink, margin note in red ink: THE REVERSAL, reversal point marked at center. His eyes widening with realization. 6 seconds.",
+      "camera": "Close-up — ancient page with formation diagram, margin note in red: THE REVERSAL, reversal point marked, his eyes widening, 6s",
+      "narration": "The arena master's own ancestor had discovered the reversal. And had been silenced for it. Three hundred years — and no one had known.",
+      "sfx": "Page turning, quill scratching, his sharp intake of breath, wind through archive, formation hum pulsing louder"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — he pulls another scroll. A portrait: the arena founder's face — the same face as the current master. But this portrait has a note beneath it: 'FOUNDER TRIED REVERSAL. FAILED. GOD DRAINED HIM PARTIALLY. HE BECAME PART IMMORTAL — PART VESSEL. THE FAILURE — HE DID NOT HAVE THE SACRIFICE. THE FORMATION NEEDED A WILLING DEATH AT THE CENTER — NOT A FORCED ONE.' He reads, translating: a willing sacrifice at the reversal point. Camera: medium — scroll with founder portrait and note, his translating face, realization dawning, formation diagram glowing faintly on the page. 6 seconds.",
+      "camera": "Medium — scroll with founder portrait and note about willing sacrifice, his translating face, formation diagram glowing, 6s",
+      "narration": "The founder had tried to reverse the formation — and it had partially worked. He had become immortal — but trapped in his own design. And the key was a willing death at the reversal point.",
+      "sfx": "Scroll unrolling with rustle, his translating voice, wind howling through archive, formation humming, candle flame bending toward the scroll"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up extreme — the formation hum from below ERUPTS. Every candle in the archive SNUFFS simultaneously. In the darkness: red light pulses from the floor twenty floors below — visible through ancient cracks in the stone. The formation is accelerating. The arena master knows someone is here. Camera: close-up extreme — candles snuffing simultaneously, darkness, then red formation light pulsing up through stone cracks, the entire floor glowing blood red. His face illuminated by the red pulse. 6 seconds.",
+      "camera": "Extreme close-up — candles snuffing, darkness, red formation light pulsing through stone cracks, his face lit blood red, 6s",
+      "narration": "The formation accelerated. The arena master had felt the disturbance. One hundred matches remained — and he would not let anyone stop it now.",
+      "sfx": "All candles extinguishing with simultaneous whoosh, silence, then formation hum erupting deep below, red pulse through stone with deep resonant throb, his heartbeat thundering, stone cracking"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — he stands. He looks at the scroll in his hands — THE REVERSAL. His face: terror and resolve mixed. He has to find someone willing to die at the center. Someone who knows what they are doing. The archive door SLAMS open. The arena master stands in the doorway, bathed in red formation light from below. 'You found my ancestor's failure,' he says calmly. 'Now — die with it.' Camera: close-up — his face of terror and resolve, then the arena master in doorway bathed in red formation light, immortal smile, death sentence spoken. 6 seconds.",
+      "camera": "Close-up — his face of terror and resolve, arena master in doorway bathed in red light, immortal smile, 6s",
+      "narration": "The reversal required a willing death. And the arena master — who had spent three centuries ensuring no one would ever make that choice — stood between him and the only chance to stop the god.",
+      "sfx": "Scroll falling, his footsteps backing away, arena master appearing in doorway with red light, immortal calm voice: die with it, formation roar intensifying"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot1_scaled.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot2_scaled.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot3_scaled.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot4_scaled.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot5_scaled.mp4'

@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-055",
+  "title": "Ha Tien Du Episode 5: The First Chosen",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 5,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Before her, there was another — a woman who once stood at the edge of the celestial falls and chose to drown rather than let the fire through.",
+    "story_arc": "Memory of mother → Teaching the boy → Ancient battle records → She inherits the mantle → First training montage",
+    "emotion": "Nostalgia → Bonding → Revelation → Determination → Training begins",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — she and the ice boy stand before an ancient ice sculpture garden frozen in time. Sculptures of warriors, generals, kings — all frozen mid-battle. At the center: a sculpture of her mother on her knees at the edge of the waterfall, holding the ice sword (before it was given to the boy). The boy touches the sculpture and it begins to thaw. Her mother's frozen tears become real water. Camera: wide, ice thawing dramatically. 6 seconds.",
+      "camera": "Wide — ice sculpture garden thawing, revealing mother's frozen form, 6s",
+      "narration": "She had drowned so the door would stay sealed. But she had left something behind. Not just the sword. Not just the water. She had left instructions — frozen in ice, waiting to thaw.",
+      "sfx": "Ice cracking, water flowing, emotional orchestral swell, mother's voice whisper"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she teaches the boy to hear the water. Both kneel at the edge of a pool. Their hands in the water together. Blue-white light pulses through the water showing them everything: the history of the falls, her mother's sacrifice, the fire enemy's origins. The boy gasps. She smiles. First real connection. Camera: medium, their hands in glowing water, slow push in to their faces. 6 seconds.",
+      "camera": "Close-up — both hands in glowing water, sharing visions, first true connection, 6s",
+      "narration": "The water showed no judgment. It simply showed truth. And in that truth, they found something neither had expected: a shared purpose.",
+      "sfx": "Water humming, shared breath, soft emotional piano, guzheng note"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she reads from an ancient water-script on a cave wall, illuminated by her own glowing hand. The script details the prophecy: the Bridge (her), the Guardian (the boy), and the Enemy (fire man). Together they must refill the celestial seal or the fire will boil the mortal world ocean dry. Camera: close-up on glowing water-script, her face illuminated blue. 6 seconds.",
+      "camera": "Close-up — reading glowing water-script on cave wall, prophecy revealed, 6s",
+      "narration": "The prophecy had named them three thousand years before they were born. She was not the first bridge. She was the third and final one. And if she failed — there would be no fourth.",
+      "sfx": "Ancient script glow, water drip, tense strings, revelation sting"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — she stands at the very edge of the UPWARD waterfall. Behind her, the boy practices ice sword forms on the cliff. Ice shards fly like a blizzard. She extends both hands toward the sky — the waterfall doubles in intensity, the water reaching higher into the heavens. The celestial realm visibly RESPONDS — golden light breaks through clouds above. Camera: wide aerial, her power meeting celestial realm golden light. 6 seconds.",
+      "camera": "Wide aerial — her power meeting celestial realm light, boy training below in ice blizzard, 6s",
+      "narration": "She was not chosen. She had chosen herself. And in that choice was more power than any prophecy had ever predicted.",
+      "sfx": "Water roaring upward, ice shattering, golden celestial light, epic choir"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body shot at sunset — she and the boy stand side by side on the cliff. The sun sets behind them in a blaze of gold and crimson. The ice boy in white, her in ice-blue, silhouetted against the sunset with the waterfall behind them. They both look toward the horizon where dark smoke rises — the fire enemy's territory. Camera: wide cinematic silhouette against sunset, slow fade to black. 6 seconds.",
+      "camera": "Cinematic silhouette — both facing dark horizon together, sunset, slow fade to black, 6s",
+      "narration": "Together they would face the fire. Together they would refill the seal. And together — they would either save both worlds, or lose them both trying.",
+      "sfx": "Epic xianxia music swell, soft fade, tension drums at end"
+    }
+  ],
+  "audio": {
+    "narration": "She had drowned so the door would stay sealed. But she had left something behind. Not just the sword. Not just the water. She had left instructions — frozen in ice, waiting to thaw. The water showed no judgment. It simply showed truth. And in that truth, they found something neither had expected: a shared purpose. The prophecy had named them three thousand years before they were born. She was not the first bridge. She was the third and final one. And if she failed — there would be no fourth. She was not chosen. She had chosen herself. And in that choice was more power than any prophecy had ever predicted. Together they would face the fire. Together they would refill the seal. And together — they would either save both worlds, or lose them both trying.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese orchestral, inspiring and melancholic, erhu solo over strings, rising finale 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ice cracking",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Water humming",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Ancient script glow",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Water roaring upward",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Epic xianxia music swell",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — she and the ice boy stand before an ancient ice sculpture garden frozen in time. Sculptures of warriors, generals, kings — all frozen mid-battle. At the center: a sculpture of her mother on her knees at the edge of the waterfall, holding the ice sword (before it was given to the boy). The boy touches the sculpture and it begins to thaw. Her mother's frozen tears become real water. Camera: wide, ice thawing dramatically. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she teaches the boy to hear the water. Both kneel at the edge of a pool. Their hands in the water together. Blue-white light pulses through the water showing them everything: the history of the falls, her mother's sacrifice, the fire enemy's origins. The boy gasps. She smiles. First real connection. Camera: medium, their hands in glowing water, slow push in to their faces. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she reads from an ancient water-script on a cave wall, illuminated by her own glowing hand. The script details the prophecy: the Bridge (her), the Guardian (the boy), and the Enemy (fire man). Together they must refill the celestial seal or the fire will boil the mortal world ocean dry. Camera: close-up on glowing water-script, her face illuminated blue. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — she stands at the very edge of the UPWARD waterfall. Behind her, the boy practices ice sword forms on the cliff. Ice shards fly like a blizzard. She extends both hands toward the sky — the waterfall doubles in intensity, the water reaching higher into the heavens. The celestial realm visibly RESPONDS — golden light breaks through clouds above. Camera: wide aerial, her power meeting celestial realm golden light. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body shot at sunset — she and the boy stand side by side on the cliff. The sun sets behind them in a blaze of gold and crimson. The ice boy in white, her in ice-blue, silhouetted against the sunset with the waterfall behind them. They both look toward the horizon where dark smoke rises — the fire enemy's territory. Camera: wide cinematic silhouette against sunset, slow fade to black. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 5: Người Được Chọn Đầu Tiên | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 5 of Ha Tien Du. She discovers she is the third and final Bridge. With the ice boy at her side, she begins training to face the fire enemy and save both realms.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 6\n#xianxia #ha tiendu #training #prophecy #celestial #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "training",
+      "prophecy",
+      "celestial seal",
+      "bridge and guardian",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô là cầu nối thứ ba và cuối cùng — cùng chàng trai băng chiến đấu chống lại ngọn lửa sẽ thiêu đốt cả hai thế giới ⚔️🌊 Tập 5 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — she and the ice boy stand before an ancient ice sculpture garden frozen in time. Sculptures of warriors, generals, kings — all frozen mid-battle. At the center: a sculpture of her mother on her knees at the edge of the waterfall, holding the ice sword (before it was given to the boy). The boy touches the sculpture and it begins to thaw. Her mother's frozen tears become real water. Camera: wide, ice thawing dramatically. 6 seconds. Shot 2: Medium shot — she teaches the boy to hear the water. Both kneel at the edge of a pool. Their hands in the water together. Blue-white light pulses through the water showing them everything: the history of the falls, her mother's sacrifice, the fire enemy's origins. The boy gasps. She smiles. First real connection. Camera: medium, their hands in glowing water, slow push in to their faces. 6 seconds. Shot 3: Close-up — she reads from an ancient water-script on a cave wall, illuminated by her own glowing hand. The script details the prophecy: the Bridge (her), the Guardian (the boy), and the Enemy (fire man). Together they must refill the celestial seal or the fire will boil the mortal world ocean dry. Camera: close-up on glowing water-script, her face illuminated blue. 6 seconds. Shot 4: Wide cinematic — she stands at the very edge of the UPWARD waterfall. Behind her, the boy practices ice sword forms on the cliff. Ice shards fly like a blizzard. She extends both hands toward the sky — the waterfall doubles in intensity, the water reaching higher into the heavens. The celestial realm visibly RESPONDS — golden light breaks through clouds above. Camera: wide aerial, her power meeting celestial realm golden light. 6 seconds. Shot 5: Full-body shot at sunset — she and the boy stand side by side on the cliff. The sun sets behind them in a blaze of gold and crimson. The ice boy in white, her in ice-blue, silhouetted against the sunset with the waterfall behind them. They both look toward the horizon where dark smoke rises — the fire enemy's territory. Camera: wide cinematic silhouette against sunset, slow fade to black. 6 seconds.",
+  "visual_scene": "Wide shot — she and the ice boy stand before an ancient ice sculpture garden frozen in time. Sculptures of warriors, generals, kings — all frozen mid-battle. At the center: a sculpture of her mother on her knees at the edge of the waterfall, holding the ice sword (before it was given to the boy). The boy touches the sculpture and it begins to thaw. Her mother's frozen tears become real water. Camera: wide, ice thawing dramatically. 6 seconds. Medium shot — she teaches the boy to hear the water. Both kneel at the edge of a pool. Their hands in the water together. Blue-white light pulses through the water showing them everything: the history of the falls, her mother's sacrifice, the fire enemy's origins. The boy gasps. She smiles. First real connection. Camera: medium, their hands in glowing water, slow push in to their faces. 6 seconds. Close-up — she reads from an ancient water-script on a cave wall, illuminated by her own glowing hand. The script details the prophecy: the Bridge (her), the Guardian (the boy), and the Enemy (fire man). Together they must refill the celestial seal or the fire will boil the mortal world ocean dry. Camera: close-up on glowing water-script, her face illuminated blue. 6 seconds. Wide cinematic — she stands at the very edge of the UPWARD waterfall. Behind her, the boy practices ice sword forms on the cliff. Ice shards fly like a blizzard. She extends both hands toward the sky — the waterfall doubles in intensity, the water reaching higher into the heavens. The celestial realm visibly RESPONDS — golden light breaks through clouds above. Camera: wide aerial, her power meeting celestial realm golden light. 6 seconds. Full-body shot at sunset — she and the boy stand side by side on the cliff. The sun sets behind them in a blaze of gold and crimson. The ice boy in white, her in ice-blue, silhouetted against the sunset with the waterfall behind them. They both look toward the horizon where dark smoke rises — the fire enemy's territory. Camera: wide cinematic silhouette against sunset, slow fade to black. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 5: The First Chosen",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "training",
+    "prophecy",
+    "celestial seal",
+    "bridge and guardian",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

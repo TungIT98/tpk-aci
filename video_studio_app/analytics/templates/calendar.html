@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+{% block title %}Upload Calendar{% endblock %}
+
+{% block content %}
+{% import calendar as cal_mod %}
+
+<!-- ── Header ─────────────────────────────────────────────────────────── -->
+<div class="d-flex align-items-center justify-content-between mb-4">
+    <div>
+        <h2 class="mb-0" style="color:#e2e8f0; font-weight:800;">
+            <i class="bi bi-calendar3-week text-purple me-2"></i>Upload Calendar
+        </h2>
+        <p class="text-muted mb-0" style="font-size:0.85rem;">Schedule and track video uploads</p>
+    </div>
+    <div class="d-flex align-items-center gap-2">
+        {% set prev_month = (month - 1) if month > 1 else 12 %}
+        {% set prev_year = year if month > 1 else year - 1 %}
+        <a href="/calendar?year={{ prev_year }}&month={{ prev_month }}" class="btn btn-outline-purple btn-sm">
+            <i class="bi bi-chevron-left"></i>
+        </a>
+        <span class="badge bg-dark px-3 py-2" style="font-size:0.9rem;">{{ ["","January","February","March","April","May","June","July","August","September","October","November","December"][month] }} {{ year }}</span>
+        {% set next_month = (month + 1) if month < 12 else 1 %}
+        {% set next_year = year if month < 12 else year + 1 %}
+        <a href="/calendar?year={{ next_year }}&month={{ next_month }}" class="btn btn-outline-purple btn-sm">
+            <i class="bi bi-chevron-right"></i>
+        </a>
+    </div>
+</div>
+
+<!-- ── Schedule stats ───────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+    {% for label, count, color in [
+        ('Scheduled', stats.scheduled, '#3b82f6'),
+        ('Posted', stats.posted, '#10b981'),
+        ('Missed', stats.missed, '#ef4444'),
+        ('Cancelled', stats.cancelled, '#64748b'),
+        ('Overdue', stats.overdue, '#f59e0b'),
+    ] %}
+    <div class="col-6 col-md-2">
+        <div class="card p-3 text-center">
+            <div style="font-size:1.75rem; font-weight:800; color:{{ color }};">{{ count }}</div>
+            <div style="font-size:0.72rem; text-transform:uppercase; color:#64748b; letter-spacing:0.06em;">{{ label }}</div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- ── Calendar grid ──────────────────────────────────────────────────── -->
+<div class="card p-3">
+    {% set day_names = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'] %}
+
+    <!-- Day header row -->
+    <div class="row g-0 text-center mb-2">
+        {% for d in day_names %}
+        <div class="col" style="font-size:0.75rem; color:#64748b; text-transform:uppercase; letter-spacing:0.06em; padding:0.5rem 0;">
+            {{ d }}
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Calendar cells -->
+    {% for week in cal_mod.Calendar(firstweekday=cal_mod.SUNDAY).monthdatescalendar(year, month) %}
+    <div class="row g-0 mb-1">
+        {% for day in week %}
+            {% set day_key = day.strftime('%Y-%m-%d') %}
+            {% set is_current_month = (day.month == month) %}
+            {% set is_today = (day_key == today_key) %}
+            {% set day_items = calendar.get(day_key, []) %}
+
+            <div class="col" style="min-height:100px; {% if not is_current_month %}opacity:0.3;{% endif %}">
+                <div class="d-flex flex-column h-100"
+                     style="border:1px solid rgba(255,255,255,0.06); border-radius:0.5rem; overflow:hidden;">
+                    <!-- Day number -->
+                    <div class="px-2 py-1"
+                         style="font-size:0.8rem; font-weight:700; color:{% if is_today %}#fff{% elif is_current_month %}#e2e8f0{% else %}#475569{% endif %}; background:{% if is_today %}var(--brand-primary){% endif %};">
+                        {{ day.day }}
+                    </div>
+                    <!-- Events -->
+                    <div class="flex-grow-1 p-1" style="overflow-y:auto; font-size:0.68rem;">
+                        {% for sv in day_items %}
+                        <div class="mb-1 p-1 rounded text-truncate"
+                             style="background:{% if sv.upload_status=='posted' %}rgba(16,185,129,0.2){% elif sv.upload_status=='missed' %}rgba(239,68,68,0.2){% elif sv.upload_status=='cancelled' %}rgba(100,116,139,0.2){% else %}rgba(59,130,246,0.2){% endif %}; border-left:2px solid {% if sv.upload_status=='posted' %}#10b981{% elif sv.upload_status=='missed' %}#ef4444{% elif sv.upload_status=='cancelled' %}#64748b{% else %}#3b82f6{% endif %}; cursor:default;"
+                             title="{{ sv.title }} — {{ sv.platform }} @ {{ sv.scheduled_datetime[11:16] if sv.scheduled_datetime else '' }}">
+                            <div style="color:#e2e8f0; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+                                {{ sv.title or sv.video_id or sv.scheduled_video_id }}
+                            </div>
+                            <div class="d-flex align-items-center gap-1 flex-wrap">
+                                <span class="badge badge-platform-{{ sv.platform }}"
+                                      style="font-size:0.58rem; padding:0 0.2rem; line-height:1.2;">{{ sv.platform }}</span>
+                                <span style="color:#64748b; font-size:0.62rem;">
+                                    {{ sv.scheduled_datetime[11:16] if sv.scheduled_datetime else '' }}
+                                </span>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>
+
+<!-- ── Legend ─────────────────────────────────────────────────────────── -->
+<div class="d-flex gap-4 mt-3 flex-wrap" style="font-size:0.78rem; color:#64748b;">
+    <span><span style="color:#3b82f6;">●</span> Scheduled</span>
+    <span><span style="color:#10b981;">●</span> Posted</span>
+    <span><span style="color:#ef4444;">●</span> Missed</span>
+    <span><span style="color:#64748b;">●</span> Cancelled</span>
+    <span><span style="color:#f59e0b;">●</span> Overdue (>1hr past)</span>
+</div>
+{% endblock %}

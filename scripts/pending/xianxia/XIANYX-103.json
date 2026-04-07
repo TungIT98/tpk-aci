@@ -1,0 +1,177 @@
+﻿{
+  "id": "XIANYX-103",
+  "title": "Muc Than Ky Episode 13: The Boy Who Ate the Forbidden Character",
+  "category": "xianxia",
+  "channel": "Muc Than Ky",
+  "series": "Muc Than Ky",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "A child ate a character from the scroll — now he is transforming into whatever that character represented.",
+    "story_arc": "Mysterious illness → Character consumed → Transformation begins → Character's power awakens → Desperate cure search",
+    "emotion": "Concern → Alarm → Horror → Awe → Determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — a small village clinic. Villagers crowd around a wooden bed where a small boy, maybe eight years old, lies motionless. His parents kneel beside him, terrified. The village doctor examines him with shaking hands. Camera: wide, village crowd at clinic, tense atmosphere, slow pan toward the bed. 6 seconds.",
+      "camera": "Pan — wide village clinic crowd to close-up on motionless boy, 6s",
+      "narration": "They brought the boy to every doctor in the province. No one could explain what was happening. His body was becoming something that had no name in any medical text.",
+      "sfx": "Village crowd murmur, parents weeping, doctor uncertain, incense smoke"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme close-up — the boy's face. His skin has developed FAINT GOLDEN GLOWING CHARACTERS moving beneath it — like living calligraphy moving through his veins. His eyes flutter. When they open — they are filled with flowing golden script. He speaks in a voice that is not his own — ancient, deep, regal. Camera: extreme close-up on glowing script under skin, golden-character eyes, slow zoom in. 6 seconds.",
+      "camera": "Zoom in — extreme close-up on golden glowing characters under skin, boy speaking in ancient regal voice, 6s",
+      "narration": "He said words no child could know. The names of dead emperors. The locations of lost cities. He was no longer just a boy. He was becoming a living scroll — a library written in flesh.",
+      "sfx": "Golden script hum, deep ancient voice, his heartbeat, ethereal energy"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Flashback / medium shot — we see how it happened. The boy, days ago, playing in the archive ruins. He finds a torn piece of skin scroll on the ground. He is hungry — he has no food. He looks at the character on the scrap — it depicts FOOD, plenty, abundance. He EATS the scrap. The character sinks into his stomach and glows. Camera: flashback, hungry boy eating skin scroll scrap, character glowing in stomach. 6 seconds.",
+      "camera": "Flashback — hungry boy eating skin scroll scrap, character glowing in his stomach, 6s",
+      "narration": "He had been so hungry. The character on the scrap showed overflowing rice bowls and roasted meat. He ate it to fill his stomach. He did not know that once a character was eaten — it rewrote the person who consumed it.",
+      "sfx": "Archive wind, paper crinkle, boy's hunger, character dissolving, stomach glow"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he arrives at the clinic. He examines the boy. His expression: grave. He recognizes the character — it is 'abundance.' The boy's body is transforming — producing food from nowhere. Rice grows from his fingertips. Water flows from his feet into puddles. He is becoming prosperity itself. Camera: close-up on the boy's transforming body, rice growing from fingertips, water flowing, him watching with growing concern. 6 seconds.",
+      "camera": "Close-up — rice growing from boy's fingertips, water flowing from feet, body transforming, 6s",
+      "narration": "The character was 'abundance.' And it was not killing the boy — it was BLESSING him. Every cell of his body was becoming a wellspring of prosperity. But he was only eight. He would not survive the transformation into a living god.",
+      "sfx": "Rice grain falling, water trickling, his worried breath, transformation hum, strings rising"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — he sits beside the boy. He takes out a special brush — made of bone and silver. He dips it in ink he has carried for twenty years. He begins to write a NEW character over the boy's heart — to give him balance, to slow the transformation. The boy calms. Camera: full-body, him writing over the boy's heart with bone brush, golden character sinking into chest, boy calming, slow push in. 6 seconds.",
+      "camera": "Push in — full body writing over boy's heart with bone brush to close-up on golden character sinking in, 6s",
+      "narration": "He could not undo what was done. But he could write a character of BALANCE beside the blessing. Not to take the power away — but to slow it. To let the boy grow into his gift. One character at a time.",
+      "sfx": "Bone brush writing, golden ink on skin, boy's breathing steadying, spiritual balance hum, hopeful flute"
+    }
+  ],
+  "audio": {
+    "narration": "They brought the boy to every doctor in the province. No one could explain what was happening. His body was becoming something that had no name in any medical text. He said words no child could know. The names of dead emperors. The locations of lost cities. He was no longer just a boy. He was becoming a living scroll — a library written in flesh. He had been so hungry. The character on the scrap showed overflowing rice bowls and roasted meat. He ate it to fill his stomach. He did not know that once a character was eaten — it rewrote the person who consumed it. The character was 'abundance.' And it was not killing the boy — it was BLESSING him. Every cell of his body was becoming a wellspring of prosperity. But he was only eight. He would not survive the transformation into a living god. He could not undo what was done. But he could write a character of BALANCE beside the blessing. Not to take the power away — but to slow it. To let the boy grow into his gift. One character at a time.",
+    "narration_duration": 28,
+    "bg_music": "Emotional Chinese orchestral, transformation tension, hopeful ending, village atmosphere, gentle 78 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Village crowd murmur",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Golden script hum",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Archive wind",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Rice grain falling",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Bone brush writing",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — a small village clinic. Villagers crowd around a wooden bed where a small boy, maybe eight years old, lies motionless. His parents kneel beside him, terrified. The village doctor examines him with shaking hands. Camera: wide, village crowd at clinic, tense atmosphere, slow pan toward the bed. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Extreme close-up — the boy's face. His skin has developed FAINT GOLDEN GLOWING CHARACTERS moving beneath it — like living calligraphy moving through his veins. His eyes flutter. When they open — they are filled with flowing golden script. He speaks in a voice that is not his own — ancient, deep, regal. Camera: extreme close-up on glowing script under skin, golden-character eyes, slow zoom in. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Flashback / medium shot — we see how it happened. The boy, days ago, playing in the archive ruins. He finds a torn piece of skin scroll on the ground. He is hungry — he has no food. He looks at the character on the scrap — it depicts FOOD, plenty, abundance. He EATS the scrap. The character sinks into his stomach and glows. Camera: flashback, hungry boy eating skin scroll scrap, character glowing in stomach. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — he arrives at the clinic. He examines the boy. His expression: grave. He recognizes the character — it is 'abundance.' The boy's body is transforming — producing food from nowhere. Rice grows from his fingertips. Water flows from his feet into puddles. He is becoming prosperity itself. Camera: close-up on the boy's transforming body, rice growing from fingertips, water flowing, him watching with growing concern. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — he sits beside the boy. He takes out a special brush — made of bone and silver. He dips it in ink he has carried for twenty years. He begins to write a NEW character over the boy's heart — to give him balance, to slow the transformation. The boy calms. Camera: full-body, him writing over the boy's heart with bone brush, golden character sinking into chest, boy calming, slow push in. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Muc Than Ky Tập 13: Đứa Trẻ Ăn Chữ Cấm | Xianxia Việt Sub ⚔️🖌️",
+    "youtube_description": "Episode 13 of Muc Than Ky. A hungry child ate a character from the forbidden scroll — now he is transforming into whatever that character represented. He is becoming a living wellspring of abundance. He may not survive becoming a god.\n\n🖌️ Muc Than Ky — Original Chinese Fantasy Series\n📌 Follow for Episode 14 — The Palace Built on Buried Words\n#xianxia #muc than ky #living scroll #transformation #abundance #epic",
+    "youtube_tags": [
+      "xianxia",
+      "muc than ky",
+      "boy eating forbidden character",
+      "living scroll",
+      "character transformation",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Đứa trẻ đói ăn một chữ từ cuộn cấm — giờ đang BIẾN ĐỔI thành điều chữ đó tượng trưng. Nó đang trở thành sung túc ngay trong cơ thể bé nhỏ ⚔️🖌️ Tập 13 Muc Than Ky #xianxia #cổtrang",
+    "playlist": "Muc Than Ky"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — a small village clinic. Villagers crowd around a wooden bed where a small boy, maybe eight years old, lies motionless. His parents kneel beside him, terrified. The village doctor examines him with shaking hands. Camera: wide, village crowd at clinic, tense atmosphere, slow pan toward the bed. 6 seconds. Shot 2: Extreme close-up — the boy's face. His skin has developed FAINT GOLDEN GLOWING CHARACTERS moving beneath it — like living calligraphy moving through his veins. His eyes flutter. When they open — they are filled with flowing golden script. He speaks in a voice that is not his own — ancient, deep, regal. Camera: extreme close-up on glowing script under skin, golden-character eyes, slow zoom in. 6 seconds. Shot 3: Flashback / medium shot — we see how it happened. The boy, days ago, playing in the archive ruins. He finds a torn piece of skin scroll on the ground. He is hungry — he has no food. He looks at the character on the scrap — it depicts FOOD, plenty, abundance. He EATS the scrap. The character sinks into his stomach and glows. Camera: flashback, hungry boy eating skin scroll scrap, character glowing in stomach. 6 seconds. Shot 4: Close-up — he arrives at the clinic. He examines the boy. His expression: grave. He recognizes the character — it is 'abundance.' The boy's body is transforming — producing food from nowhere. Rice grows from his fingertips. Water flows from his feet into puddles. He is becoming prosperity itself. Camera: close-up on the boy's transforming body, rice growing from fingertips, water flowing, him watching with growing concern. 6 seconds. Shot 5: Full-body cinematic — he sits beside the boy. He takes out a special brush — made of bone and silver. He dips it in ink he has carried for twenty years. He begins to write a NEW character over the boy's heart — to give him balance, to slow the transformation. The boy calms. Camera: full-body, him writing over the boy's heart with bone brush, golden character sinking into chest, boy calming, slow push in. 6 seconds.",
+  "visual_scene": "Wide shot — a small village clinic. Villagers crowd around a wooden bed where a small boy, maybe eight years old, lies motionless. His parents kneel beside him, terrified. The village doctor examines him with shaking hands. Camera: wide, village crowd at clinic, tense atmosphere, slow pan toward the bed. 6 seconds. Extreme close-up — the boy's face. His skin has developed FAINT GOLDEN GLOWING CHARACTERS moving beneath it — like living calligraphy moving through his veins. His eyes flutter. When they open — they are filled with flowing golden script. He speaks in a voice that is not his own — ancient, deep, regal. Camera: extreme close-up on glowing script under skin, golden-character eyes, slow zoom in. 6 seconds. Flashback / medium shot — we see how it happened. The boy, days ago, playing in the archive ruins. He finds a torn piece of skin scroll on the ground. He is hungry — he has no food. He looks at the character on the scrap — it depicts FOOD, plenty, abundance. He EATS the scrap. The character sinks into his stomach and glows. Camera: flashback, hungry boy eating skin scroll scrap, character glowing in stomach. 6 seconds. Close-up — he arrives at the clinic. He examines the boy. His expression: grave. He recognizes the character — it is 'abundance.' The boy's body is transforming — producing food from nowhere. Rice grows from his fingertips. Water flows from his feet into puddles. He is becoming prosperity itself. Camera: close-up on the boy's transforming body, rice growing from fingertips, water flowing, him watching with growing concern. 6 seconds. Full-body cinematic — he sits beside the boy. He takes out a special brush — made of bone and silver. He dips it in ink he has carried for twenty years. He begins to write a NEW character over the boy's heart — to give him balance, to slow the transformation. The boy calms. Camera: full-body, him writing over the boy's heart with bone brush, golden character sinking into chest, boy calming, slow push in. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Muc Than Ky Episode 13: The Boy Who Ate the Forbidden Character",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "muc than ky",
+    "boy eating forbidden character",
+    "living scroll",
+    "character transformation",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z",
+  "publishedAt": "2026-04-06T02:38:47.579Z",
+  "tiktok_url": "/@fai20128/video/7625469842522492180"
+}

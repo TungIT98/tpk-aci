@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-73",
+  "title": "Dau Pha Thuong Khau Episode 13: The Jia Blade Academy",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "New location, rival school introduced, competitive challenge, underdog rising",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Jia Blade Academy — the empire's most prestigious combat school — challenged every sect to a student tournament. First place prize: the legendary Skyfire Pill. Xiao Yan signed up alone.",
+    "story_arc": "Jia Blade Academy challenge arrives → Rival students mocked Xiao Yan's sect → Tournament bracket announced → Xiao Yan vs. the academy's champion student → The match begins",
+    "emotion": "Challenge → Mockery → Determination → Tournament atmosphere → Match begins → First strike lands",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — massive arena stadium, thousands of spectators. Jia Blade Academy students sit in the honored section — their uniforms pristine white. Xiao Yan's sect sits in the common section. The tournament banner reads: 'All-Sect Student Combat Tournament.' Camera: wide — massive arena, Jia Blade Academy in white, Xiao Yan's sect outnumbered, tournament atmosphere. 6 seconds.",
+      "camera": "Wide — massive arena stadium with thousands of spectators, Jia Blade Academy in white section, 6s",
+      "narration": "The Jia Blade Academy. The empire's most prestigious combat school. Their students wore white — a symbol that no dirt would ever stain them.",
+      "sfx": "Crowd roar, tournament drums, academy students chanting, Xiao Yan's sect outnumbered, dramatic horn"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the academy's champion student, Na Jin, stands in the arena. He wears white martial robes, a jade medallion of rank, and carries a ceremonial jia blade. His presence radiates arrogance. 'Who wants to be first?' His blade FANS OUT with wind qi. Camera: close-up — Na Jin's arrogant face, jade medallion, wind blade fanning out, challenger stance. 6 seconds.",
+      "camera": "Close-up — Na Jin's arrogant face, wind qi blade fanning out, champion challenger stance, 6s",
+      "narration": "Na Jin. Five consecutive tournament championships. His wind blade had broken seventeen opponents in one strike.",
+      "sfx": "Wind blade whooshing, wind qi crackling, crowd gasping, arrogant laughter, blade activation sound"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — the announcer points at Xiao Yan. 'And from the废物 sect... Xiao Yan!' Laughter erupts from the Jia Blade students. They throw garbage at him as he walks to the arena. Xiao Yan's expression is perfectly calm. Camera: medium — announcer pointing, garbage thrown at walking Xiao Yan, his perfect calm, academy students laughing. 6 seconds.",
+      "camera": "Medium — announcer pointing at Xiao Yan, garbage thrown at him walking to arena, his perfect calm, 6s",
+      "narration": "They threw garbage at him. He walked through it. Because he knew — in five minutes — they would all be silent.",
+      "sfx": "Garbage thrown, crowd laughing, his footsteps calm and measured, ominous music building, wind in arena"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan steps into the arena. Na Jin sneers. 'Walk away,废物. You won't even be able to draw your blade.' Xiao Yan raises one finger. Na Jin frowns. Xiao Yan: 'One strike. That's all I need.' Na Jin's eyes narrow. Camera: close-up — Xiao Yan's raised finger, Na Jin's confused sneer, the one-finger challenge, arena tension building. 6 seconds.",
+      "camera": "Close-up — Xiao Yan's one-finger challenge, Na Jin's confused sneer, arena tension peak, 6s",
+      "narration": "'One strike.' The crowd fell silent. Na Jin — undefeated champion — raised his wind blade. This was going to be over in seconds.",
+      "sfx": "Silence falling, wind blade humming, Na Jin's blade raising, tension drumbeat, crowd holding breath"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Slow-motion wide shot — Na Jin's wind blade SLASHES toward Xiao Yan. Blue flame IGNITES on Xiao Yan's single raised finger. One point of blue fire against the wind blade. The two techniques COLLIDE. Camera: slow-motion wide — wind blade vs. single blue flame point, collision moment, arena freeze-frame. 6 seconds.",
+      "camera": "Slow-motion wide — Na Jin's wind blade clashing with Xiao Yan's single blue flame finger, collision freeze-frame, 6s",
+      "narration": "One finger. One flame. The collision — silenced everyone in the arena.",
+      "sfx": "Techniques colliding, explosive impact, crowd gasp, blue flame roaring, impact echo in arena"
+    }
+  ],
+  "audio": {
+    "narration": "The Jia Blade Academy. The empire's most prestigious combat school. Their students wore white — a symbol that no dirt would ever stain them. Na Jin. Five consecutive tournament championships. His wind blade had broken seventeen opponents in one strike. They threw garbage at him. He walked through it. Because he knew — in five minutes — they would all be silent. 'One strike.' The crowd fell silent. Na Jin — undefeated champion — raised his wind blade. This was going to be over in seconds. One finger. One flame. The collision — silenced everyone in the arena.",
+    "narration_duration": 28,
+    "bg_music": "Epic tournament battle, Chinese orchestral, wind vs. fire clash, rising tension 100 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Crowd roar, tournament drums",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Wind blade whooshing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Garbage thrown, his calm footsteps",
+        "volume": 0.4
+      },
+      {
+        "time": 18,
+        "sound": "Arena silence, tension drumbeat",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Collision explosion",
+        "volume": 0.7
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 13: Giác Đao Học Viện | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Episode 13 of Đấu Phá Thương Khung. The Jia Blade Academy — the empire's most prestigious combat school — challenges all sects to a student tournament. First prize: the legendary Skyfire Pill. Xiao Yan signs up alone. His first opponent: Na Jin, five-time consecutive champion. His challenge: 'One strike. That's all I need.'",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "jia blade academy",
+      "Na Jin",
+      "tournament",
+      "wind blade",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Học Viện Giác Đao hàng đầu đế chế tổ chức đại hội đấu sinh! Đối thủ: Na Jin vô địch 5 năm liên tiếp. Xiao Yan chỉ dùng 1 NGÓN TAY 🔥 Tập 13 Đấu Phá Thương Khung",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Massive arena stadium, white-robed Jia Blade Academy students, Na Jin's wind blade, garbage thrown at Xiao Yan, one-finger challenge, collision moment",
+  "specific_details": {
+    "subject": "Na Jin: handsome young champion, 20-23 years old, white martial robes with academy crest, jade medallion, arrogant smirk. Xiao Yan: black robes, single blue flame on raised finger, perfectly calm cold expression.",
+    "outfit_exact": "Na Jin: pristine white martial robes, jade medallion of rank, ceremonial jia blade with wind qi. Xiao Yan: black robes with fire spirit pattern, hair in high bun, blue flame on index finger during technique.",
+    "setting_details": "Massive outdoor arena with tiered stone seating, tournament banner, honored sections for academies, common section for minor sects, dramatic afternoon lighting with dust particles",
+    "face_expression": "Na Jin: arrogant smirk and then sudden shock/frown. Xiao Yan: perfect calm → cold confidence → satisfied determination",
+    "body_movement": "Na Jin: champion entrance, wind blade fan stance. Xiao Yan: calm walk through garbage, single finger raised challenge, technique stance",
+    "camera": "Wide tournament establishing, close-up character reactions, medium clash moment, slow-motion final collision"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight outdoor, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 13: Xiao Yan vs. Na Jin — one finger flame vs. wind blade",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "jia blade academy",
+    "Na Jin",
+    "tournament",
+    "wind blade",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T15:20:00Z",
+  "publishedAt": "2026-04-06T02:51:03.742Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625461414760697108"
+}

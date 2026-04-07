@@ -1,0 +1,29 @@
+{
+  "id": "WC-01",
+  "channel": "World Cup",
+  "title": "When Your Team Scores at the World Cup 😱⚽",
+  "script": "You can feel the stadium shake before the ball even hits the net. The roar of 80,000 fans hits you like a wall. Every stranger becomes your best friend in that one second. The ground vibrates. The flags wave as one. You jump. You scream. You hug the person next to you — you don't even know their name. This is why we watch. This is why we live for this moment.",
+  "prompt_for_hailuo": "Young woman with long dark hair, red team jersey, sits in packed World Cup stadium, eyes locked on the pitch [Static shot, wide angle showing sea of fans]. Goal is scored — stadium erupts — she jumps up with both arms raised high, screaming with pure joy [Tracking shot following her jump upward]. Confetti rains down, flags wave wildly, crowd surges [Push in on her face, eyes closed, elated smile]. Second clip: she grabs the stranger next to her and they hug and jump together [Tracking shot sweeping across celebrating crowd]. Stadium lights blaze, fireworks flash, the moment freezes [Pull out to reveal full stadium grandeur, aerial feel]. Live World Cup stadium, night match, electric atmosphere, cinematic lighting, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "worldcup",
+    "football",
+    "celebration",
+    "stadium",
+    "goals",
+    "soccer"
+  ],
+  "thumbnail_idea": "Woman with arms raised in packed stadium, confetti falling, scoreboard visible in background",
+  "visual_scene": "Packed World Cup stadium at night, 80,000 fans in vibrant jerseys and scarves, floodlights blazing, confetti raining from above, flags waving in synchronized waves, fireworks exploding above the stands, young woman with long dark hair in red team jersey standing in packed crowd section, arms raised high, eyes closed with elated smile, stranger hugging her mid-celebration beside her, camera at mid-ground showing crowd surging as one organism. Electric atmosphere, cinematic golden light mixing with stadium floodlights, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame with no motion, landscape orientation, dark underexposed scene, empty stadium, few people",
+  "specific_details": "Young woman with long dark hair, wearing a red team jersey, standing in a packed World Cup stadium section surrounded by 80,000 fans in vibrant jerseys and scarves, jumping with both arms raised high screaming with eyes closed and an elated smile as confetti rains down and flags wave wildly, hugging a stranger beside her mid-celebration, set at a packed World Cup stadium at night with floodlights blazing, fireworks exploding above the stands, and the camera capturing the crowd surging as one organism in electric celebration.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-27T09:00:00Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "tiktok_uploaded_at": "2026-03-30T04:01:48.271Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\WC-01.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

@@ -1,0 +1,76 @@
+﻿{
+  "id": "XIANYX-96",
+  "title": "Thanh Van Mon Episode 15: The Corrupted Butterfly",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, cultivation/xianxia drama viewers, 18-35 demographic who enjoy dark corruption arcs and the tragedy of a once-beautiful kingdom falling",
+  "tone": "Dark corruption, terror emerging, beauty defiled, horror and grief",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Silver Gate — the gate she could not open — had opened itself. Something was coming through. Something that used to be beautiful.",
+    "story_arc": "Silver Gate cracks open by itself → A corrupted butterfly spirit emerges → Black veins on once-luminous wings → The corruption spreads → Kingdom in panic",
+    "emotion": "Dread → Shock → Horror → Panic → Desperate protection",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the Silver Butterfly Gate — a massive mirror of liquid silver in the cavern wall — begins to ripple. Then crack. Silver light turns dark. The entire kingdom feels it — a tremor. Residents look up. Children clutch parents. Something is pushing through from the other side. Camera: wide shot — Silver Gate cracking, silver turning dark, entire kingdom noticing, terror beginning. 6 seconds.",
+      "camera": "Wide shot — Silver Gate cracking open by itself, silver turning dark, entire kingdom feeling it, 6s",
+      "narration": "The Silver Gate — which only opened for the pure of heart — was forcing itself open.",
+      "sfx": "Gate cracking, silver darkening, kingdom trembling, residents looking up, children crying"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — a butterfly spirit pushes through the cracked gate. Beautiful once — luminous silver wings, graceful form. Now — black veins cover every wing. The silver is gray, cracked, rotting. Its eyes — once kind — are now pits of void darkness. It looks at the kingdom. Screams — a sound no butterfly spirit should make. Camera: medium — corrupted butterfly spirit emerging, beautiful wings now black-veined and rotting, void eyes, terrible scream. 6 seconds.",
+      "camera": "Medium — corrupted butterfly spirit emerging, beautiful wings now black-veined and rotting, void eyes, 6s",
+      "narration": "A butterfly spirit — corrupted. Its beauty — turned to poison.",
+      "sfx": "Corrupted wing movement, void eyes, terrible scream, gate cracking further, residents screaming"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the corrupted butterfly flies over the kingdom. Where its shadow passes — flowers wilt. Crystal buildings crack. Butterfly-winged residents fall — unconscious, drained. Its black-veined wings spread wider — and the corruption spreads faster. The Queen screams: 'SHELTER! GET THE CHILDREN TO SHELTER!' Camera: close-up — shadow causing flowers to wilt, buildings cracking, residents falling, queen's desperate command. 6 seconds.",
+      "camera": "Close-up — shadow causing destruction, flowers wilting, buildings cracking, residents falling, queen commanding shelter, 6s",
+      "narration": "Its shadow alone — was killing the kingdom. Flower by flower. Crystal by crystal.",
+      "sfx": "Corruption spreading, flowers wilting, crystal cracking, residents screaming, queen's command"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium close-up — our protagonist runs through panicked crowds toward the Silver Gate. Her butterfly mark is burning. The jade butterfly in her robes is SCREAMING — a high-pitched warning she can barely hear over the chaos. She sees the corrupted spirit — and freezes. She knows that butterfly. Camera: medium — running through panicked crowds, mark burning, jade screaming, seeing the corrupted spirit and freezing. 6 seconds.",
+      "camera": "Medium — running through crowds, mark burning, jade screaming, freezing at sight of corrupted spirit, 6s",
+      "narration": "She recognized the corrupted butterfly. And that recognition — terrified her more than the corruption itself.",
+      "sfx": "Crowds screaming, running footsteps, mark burning, jade butterfly screaming, her sharp gasp"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — the corrupted butterfly turns. Sees our protagonist. Its void eyes widen. It SPEAKS — in a broken, corrupted voice: 'Sister.' She falls to her knees. The corrupted butterfly was her companion. Her friend. The butterfly that guided her through the butterfly realm. Now — twisted. Ruined. And it still knew her face. Camera: extreme close-up — void eyes speaking 'sister,' her falling to knees, grief and horror. 6 seconds.",
+      "camera": "Extreme close-up — corrupted spirit speaking 'sister,' her falling to knees, grief and horror, 6s",
+      "narration": "The corruption had taken someone she loved. And it still wore her friend's voice.",
+      "sfx": "Corrupted voice speaking, her knees hitting ground, crowd screaming in background, jade wailing"
+    }
+  ],
+  "publishedAt": "2026-04-06T01:50:42.449Z",
+  "tiktok_url": "/@fai20128/video/7625457442876394772"
+}

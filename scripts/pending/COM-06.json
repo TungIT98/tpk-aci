@@ -1,0 +1,31 @@
+﻿{
+  "id": "COM-06",
+  "category": "comedy",
+  "channel": "TikTok_Viral",
+  "title": "POV: Bạn thức dậy lúc 5h sáng nhưng vẫn không làm được gì hữu ích",
+  "script": "POV: Bạn thức dậy lúc 5 giờ. Đúng như các influencer said. Bạn đã làm đúng mọi thứ. Thức dậy sớm. Tập thể dục. Thiền. Viết journal. Một tách coffee. Và rồi bạn ngồi xuống bàn làm việc. Và không làm được gì cả. Vì não bạn lúc 5 giờ sáng không hoạt động. Đây là sự thật mà không ai nói cho bạn.",
+  "prompt_for_hailuo": "Woman at 5AM in cozy dark bedroom, alarm clock glowing red [Close up alarm clock 5:00 AM]. Opens eyes reluctantly, sits up slowly [Medium shot]. Does yoga stretches by window [Tracking shot morning stretches]. Makes elaborate coffee with oat milk [Close up coffee art]. Sits at desk with laptop, stares at screen blankly [Medium shot]. Lies head on desk after 10 minutes [Wide shot woman slumped over desk]. Cozy dark bedroom with warm lamp light, early dawn blue light from window, relatable comedy morning routine, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "pov",
+    "morningroutine",
+    "productivity",
+    "comedy",
+    "relatable",
+    "5am",
+    "funny"
+  ],
+  "thumbnail_idea": "Woman slumped over desk at 5AM morning, laptop open, dramatic comedy failure moment",
+  "visual_scene": "A cozy dark bedroom at 5AM illuminated only by a glowing red alarm clock showing 5:00, a woman in pajamas opening her eyes reluctantly and sitting up slowly with immense effort. She does yoga stretches by the window in the early dawn blue light, making a full elaborate pour-over coffee with oat milk art. She sits at her desk with her laptop open, notebook and pen ready, journal open — everything perfectly set up for productivity. She stares at the screen blankly for 10 seconds. Twenty seconds. One minute. She slowly collapses her head onto the desk dramatically, her arms falling limp at her sides, the laptop screen still dark. The morning light slowly getting brighter through the window while she remains face-down on the desk. Cozy dark bedroom with warm lamp light mixing with early dawn blue from window, comedic contrast between perfect setup and complete productivity failure, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright sunny day, outdoor scene, gym or fitness setting, formal office setting, late evening scene",
+  "specific_details": "Young woman in soft comfortable pajamas, waking up reluctantly at 5AM illuminated by glowing red alarm clock, doing morning yoga stretches by the window with early dawn blue light, making an elaborate pour-over coffee with oat milk and beautiful foam art, sitting at a perfectly organized desk setup with laptop notebook and journal, staring blankly at screen for minutes, dramatically collapsing face-down onto the desk with arms limp, cozy dark bedroom with warm lamp and blue dawn light.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\COM-06.mp4",
+  "produced_at": "2026-03-31T01:56:40.573Z",
+  "produced_by": "ceo-gen-wave2",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T08:52:45.942Z",
+  "tiktok_url": "/@fai20128/video/7625195130726911252"
+}

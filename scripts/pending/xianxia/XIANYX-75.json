@@ -1,0 +1,154 @@
+﻿{
+  "id": "XIANYX-75",
+  "title": "Dau Pha Thuong Khau Episode 15: The Skyfire Pill",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Victory claimed, treasure obtained, new power unlocked, anticipation for next battle",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The announcer's voice echoed: 'First place — Xiao Yan of the废物 sect!' The Skyfire Pill sat before him: fire-type pill that could push a Dou Shi to Dou Wang level in one night.",
+    "story_arc": "Tournament results announced → Skyfire Pill awarded → Xiao Yan's enemies in audience watch with killing intent → He swallows the pill alone → The transformation begins",
+    "emotion": "Triumph → Surprise → Tension → Danger → Anticipation",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — tournament announcer holds the Skyfire Pill high. It glows orange-red like a miniature sun. 'First place — Xiao Yan!' The arena erupts. His sect members leap to their feet. Camera: wide — announcer holding glowing Skyfire Pill, arena erupting, Xiao Yan's sect celebrating. 6 seconds.",
+      "camera": "Wide — announcer holding glowing orange-red Skyfire Pill, arena erupting, Xiao Yan's sect celebrating, 6s",
+      "narration": "The Skyfire Pill. Worth more than most sect treasuries. And Xiao Yan — the废物 — had won it.",
+      "sfx": "Announcer's voice, arena erupting, Xiao Yan sect celebration, triumphant music swell, pill humming with power"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Na Jin rises slowly. He looks at Xiao Yan. Then bows deeply. The arena gasps. The academy students' faces — white with shock. A champion bowing to a废物?! Na Jin: 'Your skill — I acknowledge.' Camera: close-up — Na Jin's deep bow, academy students shocked, arena gasps, magnanimous moment. 6 seconds.",
+      "camera": "Close-up — Na Jin's deep bow, academy students' shocked white faces, magnanimous respect moment, 6s",
+      "narration": "The five-time champion bowed. In front of the entire empire's cultivation world — he acknowledged Xiao Yan's skill.",
+      "sfx": "Arena gasp, Na Jin's bow acknowledgment, academy shock, respectful silence, wind in arena"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — a dark-eyed elder in the gallery watches Xiao Yan receive the Skyfire Pill. Killing intent flickers in his eyes. 'So the废物 has the Flame Emperor's fire AND the Skyfire Pill...' The elder whispers to a subordinate. Camera: close-up — elder's dark eyes with killing intent, subordinate listening, dark conspiratorial whisper, shadow falling over face. 6 seconds.",
+      "camera": "Close-up — elder with dark killing intent eyes, whispering to subordinate, dark shadow over face, 6s",
+      "narration": "But not everyone celebrated. Elder Hai Kun — who had sabotaged Xiao Yan's father years ago — saw his newest enemy being crowned.",
+      "sfx": "Dark music undertone, killing intent whisper, ominous wind, elder's cold breathing, shadow falling"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan sits alone in his room. The Skyfire Pill in his palm, glowing orange-red. He looks at it. This pill — could advance him two full levels. Or kill him if used wrong. Camera: close-up — Skyfire Pill glowing in palm, Xiao Yan's determined face, orange light on his features, fire cultivation room. 6 seconds.",
+      "camera": "Close-up — Skyfire Pill glowing in palm, Xiao Yan's determined face in orange light, fire cultivation room, 6s",
+      "narration": "The Skyfire Pill. It could advance a Dou Shi to Dou Wang — two levels higher than his father had ever reached. Or destroy his meridians completely.",
+      "sfx": "Pill humming with fire energy, his breathing, fire cultivation room crackling, anticipation tension, wind outside"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Extreme close-up — Xiao Yan SWALLOWS the Skyfire Pill. It burns going down — literally. His chest ERUPTS with orange fire. His cultivation stage SURGES. He screams as fire transformation begins. Camera: extreme close-up — pill swallowed, chest erupting with orange fire, cultivation surge, scream of transformation, meridians igniting. 6 seconds.",
+      "camera": "Extreme close-up — Skyfire Pill swallowed, chest erupting with orange fire, cultivation surge, scream of transformation, 6s",
+      "narration": "He swallowed it. Fire exploded through his meridians. He was either about to become the strongest of his generation — or die trying.",
+      "sfx": "Pill swallowing sound, fire explosion in body, cultivation surge, his scream, meridians igniting, power rushing"
+    }
+  ],
+  "audio": {
+    "narration": "The Skyfire Pill. Worth more than most sect treasuries. And Xiao Yan — the废物 — had won it. The five-time champion bowed. In front of the entire empire's cultivation world — he acknowledged Xiao Yan's skill. But not everyone celebrated. Elder Hai Kun — who had sabotaged Xiao Yan's father years ago — saw his newest enemy being crowned. The Skyfire Pill. It could advance a Dou Shi to Dou Wang — two levels higher than his father had ever reached. Or destroy his meridians completely. He swallowed it. Fire exploded through his meridians. He was either about to become the strongest of his generation — or die trying.",
+    "narration_duration": 28,
+    "bg_music": "Epic triumphant with dark undertone, fire cultivation, power surge, danger and triumph 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Arena eruption, triumphant swell",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Arena gasp, bow acknowledgment",
+        "volume": 0.4
+      },
+      {
+        "time": 12,
+        "sound": "Dark undertone, killing intent",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Pill humming, fire crackling",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Fire explosion, scream of transformation",
+        "volume": 0.7
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 15: Thiên Hỏa Đan | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 15 of Đấu Phá Thương Khung. Xiao Yan wins the Skyfire Pill — a treasure that could push a Dou Shi to Dou Wang level. But Elder Hai Kun, who sabotaged Xiao Yan's father, has taken notice. And Xiao Yan is about to swallow the pill alone — a dangerous gamble that could make him or destroy him.",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "skyfire pill",
+      "Xiao Yan cultivation",
+      "elder hai kun",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Xiao Yan thắng THIÊN HỎA ĐAN — viên thuốc có thể đẩy hắn lên cấp Đấu Vương! Nhưng gian tế đang theo dõi... Hắn nuốt đan dược một mình 🔥 Tập 15",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Arena with glowing Skyfire Pill, Na Jin's bow, dark elder with killing intent, Skyfire Pill in palm, fire meridians exploding",
+  "specific_details": {
+    "subject": "Xiao Yan: black robes, holding glowing orange-red Skyfire Pill, then chest erupting with orange fire during transformation. Elder Hai Kun: older man, 50s, dark robes, cruel eyes with killing intent, sitting in sect gallery shadow.",
+    "outfit_exact": "Xiao Yan: black robes with fire spirit pattern, high warrior bun, orange fire erupting from chest during transformation. Elder Hai Kun: dark sect elder robes, shadow over face, cruel expression.",
+    "setting_details": "Tournament arena, sect gallery with shadows, private fire cultivation room with stone walls and fire spirit formation, dramatic orange/red lighting during pill transformation",
+    "face_expression": "Xiao Yan: triumph → determination → pain of transformation. Elder Hai Kun: calculating cruelty → killing intent",
+    "body_movement": "Xiao Yan: receiving pill → alone in room → swallowing pill → body erupting with fire. Elder Hai Kun: watching → whispering order",
+    "camera": "Wide arena announcement, close-up Na Jin bow and elder dark eyes, medium pill in palm, extreme close-up fire explosion"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 15: Skyfire Pill transformation — fire erupts through meridians",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "skyfire pill",
+    "Xiao Yan",
+    "cultivation breakthrough",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T15:40:00Z",
+  "publishedAt": "2026-04-06T02:51:03.743Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625462115674918164"
+}

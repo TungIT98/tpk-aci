@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-15",
+  "week": "2026-W16",
+  "trending": [
+    {
+      "rank": 1,
+      "topic": "Coachella 2026 — Weekend 1 Content Drop",
+      "platform": "TikTok / YouTube / Instagram",
+      "hashtags": ["#Coachella2026", "#Coachella", "#SabrinaCarpenter", "#CoachellaStyle", "#FestivalFit"],
+      "potential_views": "200M+",
+      "competition": "high",
+      "content_pillar": "trending_aesthetic",
+      "notes": "Wknd 1 shows were Apr 10–12. Content flood is NOW. Audio: 'If You Wanna Get With Me' (Altégo remix) is brand intro trend."
+    },
+    {
+      "rank": 2,
+      "topic": "Euphoria Season 3 Reactions — 5-Year Time Jump",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#EuphoriaS3", "#Euphoria", "#SydneySweeney", "#EuphoriaReactions", "#TVTikTok"],
+      "potential_views": "80M+",
+      "competition": "medium",
+      "content_pillar": "movie_review",
+      "notes": "Premiered April 12. Rosalía cast. 5-year time jump is major talking point. Reactions, outfit recaps, character analysis all trending."
+    },
+    {
+      "rank": 3,
+      "topic": "Gen Z Job Market Crisis — Peak Graduation Anxiety",
+      "platform": "TikTok / YouTube / Twitter",
+      "hashtags": ["#newgrad2026", "#CareerTok", "#jobmarket2026", "#genzcareer", "#sidehustle"],
+      "potential_views": "50M+",
+      "competition": "medium",
+      "content_pillar": "motivation",
+      "notes": "April = peak graduation season. Worst entry-level market in 37 years. 48% Gen Z in gig work. Strong anchor for GZ/PW content."
+    },
+    {
+      "rank": 4,
+      "topic": "Japanese Walking — #1 Fitness Trend 2026",
+      "platform": "TikTok / Instagram Reels",
+      "hashtags": ["#JapaneseWalking", "#M盖章散步", "#walktok", "#fitnesstok2026", "#mindfulexercise"],
+      "potential_views": "30M+",
+      "competition": "low",
+      "content_pillar": "hot_girl_fitness",
+      "notes": "Instagram confirmed #1 fitness trend. Cultural angle: Vietnamese audience resonates with Asian wellness trends. PERMANENT anchor."
+    },
+    {
+      "rank": 5,
+      "topic": "Chinamaxxing — Forbes/NPR/CNN Confirmed Viral",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#chinamaxxing", "#jawline", "#facetheory", "#softmaxing", "#viral"],
+      "potential_views": "20M+",
+      "competition": "low",
+      "content_pillar": "lifestyle",
+      "notes": "Forbes + NPR + CNN confirmed. Vietnam cultural relevance HIGH. Early mover window still open."
+    },
+    {
+      "rank": 6,
+      "topic": "Color Hunting Challenge — Low-Production Viral",
+      "platform": "TikTok",
+      "hashtags": ["#colorhunting", "#colorchallenge", "#challenge", "#lowproduction", "#creative"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "trending_aesthetic",
+      "notes": "Creators photograph everything in assigned color all day. Low production = fast to create. Audio hook drives virality."
+    },
+    {
+      "rank": 7,
+      "topic": "ROI Maxxing — Outcome-Based Productivity",
+      "platform": "TikTok / YouTube Shorts",
+      "hashtags": ["#roimaxing", "#outcomebased", "#productivitytok", "#smartsaving", "#genzfinance"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "tech_ai",
+      "notes": "Still rising, low competition. 'What gives the best ROI' framing resonates with 2026 Gen Z audience."
+    },
+    {
+      "rank": 8,
+      "topic": "Micro-Side Hustles — Early Mover Opportunity",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#microsidehustle", "#sidehustle2026", "#extracash", "#passiveincome", "#genzfinance"],
+      "potential_views": "20M+",
+      "competition": "medium",
+      "content_pillar": "motivation",
+      "notes": "Forbes Mar 5 confirmed new category. Side gig economy + job market crisis = perfect storm."
+    },
+    {
+      "rank": 9,
+      "topic": "HYROX Fitness Race Prep — 2026's Obstacle Trend",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#HYROX", "#hyroxtraining", "#fitnesstok2026", "#raceprep", "#functional"],
+      "potential_views": "10M+",
+      "competition": "low",
+      "content_pillar": "hot_girl_fitness",
+      "notes": "Functional fitness race growing globally. 'My HYROX prep journey' format is gold. Emerging — not yet saturated."
+    },
+    {
+      "rank": 10,
+      "topic": "Michael Biopic — Pre-Release Window",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#MichaelMovie", "#MichaelJackson", "#MJ", "#biopic2026", "#prime"],
+      "potential_views": "30M+",
+      "competition": "medium",
+      "content_pillar": "movie_review",
+      "notes": "Releases April 24 on Prime Video. Pre-release hype building NOW. 'Things you didn't know about Michael Jackson' format is evergreen."
+    }
+  ],
+  "content_calendar": {
+    "Monday": "trending_aesthetic",
+    "Tuesday": "movie_review",
+    "Wednesday": "hot_girl_fitness",
+    "Thursday": "lifestyle",
+    "Friday": "motivation",
+    "Saturday": "tech_ai",
+    "Sunday": "trending_aesthetic"
+  },
+  "sources": [
+    "Newengen — Top TikTok Trends April 2026",
+    "Startups.co.uk — 6 Social Media Trends April 2026",
+    "Postigniter — Latest TikTok Trends 2026"
+  ]
+}

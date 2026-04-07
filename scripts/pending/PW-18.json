@@ -1,0 +1,30 @@
+{
+  "id": "PW-18",
+  "category": "productivity",
+  "channel": "Productivity Worker",
+  "title": "The Calendar Blocking Method That Finally Made Me Feel in Control",
+  "script": "The average knowledge worker checks their email 74 times a day and switches tasks 566 times. That's not working hard — that's working chaos. Calendar blocking is the opposite: you pre-decide what you'll work on and when, before the world fills your schedule for you. Start with your non-negotiables — exercise, sleep, deep work. Block those first. Then fill around them. A 90-minute deep work block is more valuable than 6 hours of scattered attention. Treat your calendar like your most valuable asset. Because it is.",
+  "prompt_for_hailuo": "Messy digital calendar: dozens of tiny scattered event blocks, chaos [Screen close-up]. Hand drags and organizes blocks into clear color-coded sections [Montage of calendar being cleaned]. Calendar transforms: clear deep work blocks, meeting blocks, break blocks, all color-coded [Screen wide shot]. Person at desk during a blocked deep work session, fully focused, coffee untouched [Medium shot]. Clock shows 90 minutes passing, person completes major task [Montage of task completion]. Calm organized calendar, person's satisfied expression [Split screen: before chaos vs after control]. Minimalist home office, clean desk, natural morning light, portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "calendar blocking",
+    "time management",
+    "focus",
+    "productivity",
+    "deep work",
+    "schedule"
+  ],
+  "thumbnail_idea": "Messy scattered calendar blocks vs clean organized color-coded blocks — 'FEEL IN CONTROL' text overlay",
+  "visual_scene": "A clean home office desk with a laptop open to Google Calendar. The screen shows a chaotic, overwhelming calendar — dozens of tiny, disorganized event blocks scattered throughout the day in no discernible pattern. A hand reaches in and begins dragging and organizing: deep work sessions get deep blue blocks, meetings get orange, breaks get green, exercise gets purple. The calendar transforms into a beautiful, color-coded, intentionally structured day. The person sits at their desk during a 90-minute deep work block, completely focused, untouched coffee beside them. A clock animates showing 90 minutes passing quickly. The person completes a major task — a thick document checked off, code shipped, presentation done. Split-screen comparison: chaotic scattered calendar on the left, clean organized calendar on the right. Morning light fills the minimal home office. Portrait 9:16.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, messy chaotic office, dark moody lighting, crowded overfilled calendar blocks, loud garish colors",
+  "specific_details": "Person at a clean minimalist home office desk with a laptop showing a chaotic scattered calendar being reorganized into clean color-coded blocks — blue for deep work, orange for meetings, green for breaks — sitting in a 90-minute focused deep work session with untouched coffee, clock animating through 90 minutes, major task completed, split-screen before-and-after of calendar chaos versus calendar control, natural morning light, portrait 9:16.",
+  "status": "published",
+  "published_at": "2026-03-30T13:50:00Z",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T10:13:00Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\PW-18.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z"
+}

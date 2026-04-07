@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-59",
+  "title": "Ha Tien Du Episode 9: The Sect Discovers",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 9,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Tense manhunt, conspiracy unraveling, danger closing in",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "They found the broken disciple. And the black energy residue that never lies.",
+    "story_arc": "Sect discovers body → Elders convened → Black residue analyzed → Elder in blue summoned → The trap begins",
+    "emotion": "Alarm → Urgency → Shock → Cold calculation → Ominous preparation",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect's medical pavilion at dawn. Several elders in golden robes surround a lying figure on a stone bed — the broken disciple, barely alive, covered in bandages. One Elder examines the chest wound. His face goes pale. 'This energy signature.' He turns to others. 'This is not our sect's technique.' The elders exchange shocked looks. Camera: wide shot — elders gathered around bed, alarm spreading, dawn light through windows. 6 seconds.",
+      "camera": "Wide shot — medical pavilion, elders alarmed, broken disciple, dawn light, 6s",
+      "narration": "By dawn, the sect elders had gathered. And what they found — terrified them.",
+      "sfx": "Elders murmuring, medical instruments clinking, injured disciple's shallow breathing, bell tolling"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — an elder holds a jade diagnostic plate over the chest wound. The plate glows dark purple — wrong color for sect techniques. Characters appear in the air above the plate: 'Forbidden — Serpent Lineage — Execute on Sight.' The Elder reading it gasps. Others step back. Camera: close-up — jade plate glowing wrong color, forbidden characters appearing, elders stepping back in fear. 6 seconds.",
+      "camera": "Close-up — jade diagnostic plate, dark purple glow, forbidden characters, fear, 6s",
+      "narration": "The diagnostic jade could not lie. Forbidden serpent cultivation. Maximum severity.",
+      "sfx": "Jade glowing hum, shocked gasps, distant alarm bell beginning to ring"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — the Elder in blue robes stands at the edge of the group. His expression: carefully neutral. One young elder approaches him: 'Brother, what do you make of this?' The blue-robed Elder's eyes flicker — briefly toward Ha Tien Du's quarters in the distance. He says calmly: 'We must search all disciples.' Camera: medium shot — blue-robed Elder, his neutral face, brief glance toward distant quarters. 6 seconds.",
+      "camera": "Medium — blue-robed Elder, neutral face, subtle glance toward Ha Tien Du's quarters, 6s",
+      "narration": "The Elder who had given him power — now sat among the investigators. Smiling.",
+      "sfx": "Elders arguing, the blue Elder's calm voice cutting through, distant footsteps"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Ha Tien Du in his small room. He senses something. Looks at his black-veined hands. The veins are glowing faintly — he can't suppress them. He clenches his fists. Forces the glow down. But the effort shows on his face — veins bulging. Someone is coming closer. He looks toward the door. Camera: close-up — his hands suppressing glow, veins bulging, he looks toward approaching footsteps. 6 seconds.",
+      "camera": "Close-up — suppressing black veins with effort, tense listening toward door, 6s",
+      "narration": "The black serpent energy was getting harder to hide. Someone was searching for it.",
+      "sfx": "His labored breathing, suppressing energy crackling, approaching footsteps on stone, heartbeat"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — a squad of eight senior disciples surrounds Ha Tien Du's room. Torches lit. Weapons drawn. They burst open the door — empty. The room is completely empty. No one inside. Torn gray robe hanging on a nail. On the bed: a single black serpent scale. The squad leader picks it up. His face: grave. Camera: wide shot — empty room, eight disciples, black scale glowing faintly on palm. 6 seconds.",
+      "camera": "Wide shot — empty room, squad surrounding, black scale glowing on leader's palm, 6s",
+      "narration": "He was gone. And he left them only one message — a single black scale.",
+      "sfx": "Door crashing open, silence at empty room, scale being picked up, ominous silence"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-59.mp4",
+  "produced_at": "2026-04-05T14:04:17.644Z",
+  "publishedAt": "2026-04-06T01:29:10.134Z",
+  "tiktok_url": "/@fai20128/video/7625451888787426581"
+}

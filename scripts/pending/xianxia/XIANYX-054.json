@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-054",
+  "title": "Ha Tien Du Episode 4: The Boy Who Was Born from a Waterfall",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 4,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "They said he was born when a waterfall gave birth to a boy. He had no parents, no past, and a sword made of living ice.",
+    "story_arc": "Mysterious boy arrives → Ice sword revelation → Shared past connection → The third player appears → Alliance formed",
+    "emotion": "Curiosity → Wonder → Mystery → Tension → Unlikely alliance",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing shot — she stands at the base of the celestial waterfall, now calm and flowing normally. A young man in ice-white and grey Hanfu falls from the TOP of the waterfall and lands in the pool below without a splash — he simply phases through the water. He emerges DRY, holding a sword of pure living ice that reforms in his hand. He has no memory of his own birth. Camera: wide, slow-motion fall through water, emergence dry. 6 seconds.",
+      "camera": "Slow-mo — falling through waterfall, emerging completely dry with ice sword, 6s",
+      "narration": "They said he was born when a waterfall gave birth to a boy. He fell from the sky with no name, no past, and a sword made of living ice.",
+      "sfx": "Water cascading, ice crystallizing, ethereal wind, mysterious strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he walks through the water toward her, each step creating ice flowers that bloom and shatter underfoot. His eyes: pale grey, ancient, haunted. He stops three meters from her and looks directly into her eyes. He speaks three words: 'You have her eyes.' She freezes. Who? Her mother? The ghost in the water? Camera: medium two-shot, slow approach and recognition moment. 6 seconds.",
+      "camera": "Two-shot — his approach through ice flowers, 'You have her eyes' recognition, 6s",
+      "narration": "You have her eyes. The woman who drowned so that the door would stay sealed. He knew her mother. And he had been waiting — in the waterfall — for someone with her eyes to find him.",
+      "sfx": "Ice flowers blooming, footsteps, echo of her mother's voice, tension strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she reaches toward his ice sword. He does not阻止. Her fingers touch the blade. A flash of vision: his birth — the waterfall splitting open, a BABY crying, a woman's hand placing him inside the waterfall's heart, the woman: her mother. Tears stream down her face. The sword pulses with warm light around her hand. Camera: extreme close-up on her tearful hand touching the glowing ice sword. 6 seconds.",
+      "camera": "Close-up — her hand touching ice sword, vision of mother's sacrifice, 6s",
+      "narration": "Her mother had placed him inside the waterfall — not as a baby, but as a guardian. Waiting for her daughter to find him. Waiting for the two of them to meet.",
+      "sfx": "Vision whoosh, ice humming, mother's voice whisper, tear drop, emotional swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — a THIRD figure appears on a cliff across the canyon — a man in blood-red Hanfu with phoenix embroidery, a sword of living fire crackling in his grip. He laughs. 'The bridge and the waterfall. Finally reunited.' He implies these two are destined to face him. He vanishes in a burst of flame. Camera: wide establishing with three figures across canyon landscape. 6 seconds.",
+      "camera": "Wide establishing — three figures across canyon, fire man vanishing in flame, 6s",
+      "narration": "The bridge between worlds and the waterfall's guardian. Two children of the celestial waters. And their enemy — the man of fire who had started this war three thousand years ago.",
+      "sfx": "Fire crackling, ominous laugh echo, dramatic orchestral sting, tension building"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body shot — she and the ice boy stand side by side facing the direction where the fire man vanished. She in ice-blue, he in ice-white. Together their combined water energy creates a massive WHOOSHING sound as it rises visibly around them — a spiral of ice-blue light. They look at each other, nod once. Alliance formed. Camera: two-shot, their combined power creating a spiral of ice-blue light, slow cinematic push in. 6 seconds.",
+      "camera": "Two-shot — combined ice-blue power spiral, alliance formed, cinematic push in, 6s",
+      "narration": "She was the bridge. He was the guardian. Together, they were the last hope against the fire that would boil the sky.",
+      "sfx": "Power whoosh, ice hum, two voices saying 'Together', epic orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "They said he was born when a waterfall gave birth to a boy. He fell from the sky with no name, no past, and a sword made of living ice. You have her eyes. The woman who drowned so that the door would stay sealed. He knew her mother. And he had been waiting — in the waterfall — for someone with her eyes to find him. Her mother had placed him inside the waterfall — not as a baby, but as a guardian. Waiting for her daughter to find him. Waiting for the two of them to meet. The bridge between worlds and the waterfall's guardian. Two children of the celestial waters. And their enemy — the man of fire who had started this war three thousand years ago. She was the bridge. He was the guardian. Together, they were the last hope against the fire that would boil the sky.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese fantasy orchestral, erhu and guzheng duet, mysterious and heroic, building tension 82 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Water cascading",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Ice flowers blooming",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Vision whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Fire crackling",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Power whoosh",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing shot — she stands at the base of the celestial waterfall, now calm and flowing normally. A young man in ice-white and grey Hanfu falls from the TOP of the waterfall and lands in the pool below without a splash — he simply phases through the water. He emerges DRY, holding a sword of pure living ice that reforms in his hand. He has no memory of his own birth. Camera: wide, slow-motion fall through water, emergence dry. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he walks through the water toward her, each step creating ice flowers that bloom and shatter underfoot. His eyes: pale grey, ancient, haunted. He stops three meters from her and looks directly into her eyes. He speaks three words: 'You have her eyes.' She freezes. Who? Her mother? The ghost in the water? Camera: medium two-shot, slow approach and recognition moment. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she reaches toward his ice sword. He does not阻止. Her fingers touch the blade. A flash of vision: his birth — the waterfall splitting open, a BABY crying, a woman's hand placing him inside the waterfall's heart, the woman: her mother. Tears stream down her face. The sword pulses with warm light around her hand. Camera: extreme close-up on her tearful hand touching the glowing ice sword. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — a THIRD figure appears on a cliff across the canyon — a man in blood-red Hanfu with phoenix embroidery, a sword of living fire crackling in his grip. He laughs. 'The bridge and the waterfall. Finally reunited.' He implies these two are destined to face him. He vanishes in a burst of flame. Camera: wide establishing with three figures across canyon landscape. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body shot — she and the ice boy stand side by side facing the direction where the fire man vanished. She in ice-blue, he in ice-white. Together their combined water energy creates a massive WHOOSHING sound as it rises visibly around them — a spiral of ice-blue light. They look at each other, nod once. Alliance formed. Camera: two-shot, their combined power creating a spiral of ice-blue light, slow cinematic push in. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 4: Đứa Trẻ Từ Thác Nước Sinh Ra | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 4 of Ha Tien Du. A boy born from a waterfall. A sword of living ice. An ancient enemy of fire. And an alliance forged in celestial water.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 5\n#xianxia #ha tiendu #ice sword #water guardian #fire enemy #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "ice boy",
+      "water guardian",
+      "fire enemy",
+      "alliance",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Anh ta sinh ra từ trong thác nước, mang theo kiếm băng sống và ký ức về mẹ cô ⚔️🌊 Tập 4 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing shot — she stands at the base of the celestial waterfall, now calm and flowing normally. A young man in ice-white and grey Hanfu falls from the TOP of the waterfall and lands in the pool below without a splash — he simply phases through the water. He emerges DRY, holding a sword of pure living ice that reforms in his hand. He has no memory of his own birth. Camera: wide, slow-motion fall through water, emergence dry. 6 seconds. Shot 2: Medium shot — he walks through the water toward her, each step creating ice flowers that bloom and shatter underfoot. His eyes: pale grey, ancient, haunted. He stops three meters from her and looks directly into her eyes. He speaks three words: 'You have her eyes.' She freezes. Who? Her mother? The ghost in the water? Camera: medium two-shot, slow approach and recognition moment. 6 seconds. Shot 3: Close-up — she reaches toward his ice sword. He does not阻止. Her fingers touch the blade. A flash of vision: his birth — the waterfall splitting open, a BABY crying, a woman's hand placing him inside the waterfall's heart, the woman: her mother. Tears stream down her face. The sword pulses with warm light around her hand. Camera: extreme close-up on her tearful hand touching the glowing ice sword. 6 seconds. Shot 4: Wide shot — a THIRD figure appears on a cliff across the canyon — a man in blood-red Hanfu with phoenix embroidery, a sword of living fire crackling in his grip. He laughs. 'The bridge and the waterfall. Finally reunited.' He implies these two are destined to face him. He vanishes in a burst of flame. Camera: wide establishing with three figures across canyon landscape. 6 seconds. Shot 5: Full-body shot — she and the ice boy stand side by side facing the direction where the fire man vanished. She in ice-blue, he in ice-white. Together their combined water energy creates a massive WHOOSHING sound as it rises visibly around them — a spiral of ice-blue light. They look at each other, nod once. Alliance formed. Camera: two-shot, their combined power creating a spiral of ice-blue light, slow cinematic push in. 6 seconds.",
+  "visual_scene": "Wide establishing shot — she stands at the base of the celestial waterfall, now calm and flowing normally. A young man in ice-white and grey Hanfu falls from the TOP of the waterfall and lands in the pool below without a splash — he simply phases through the water. He emerges DRY, holding a sword of pure living ice that reforms in his hand. He has no memory of his own birth. Camera: wide, slow-motion fall through water, emergence dry. 6 seconds. Medium shot — he walks through the water toward her, each step creating ice flowers that bloom and shatter underfoot. His eyes: pale grey, ancient, haunted. He stops three meters from her and looks directly into her eyes. He speaks three words: 'You have her eyes.' She freezes. Who? Her mother? The ghost in the water? Camera: medium two-shot, slow approach and recognition moment. 6 seconds. Close-up — she reaches toward his ice sword. He does not阻止. Her fingers touch the blade. A flash of vision: his birth — the waterfall splitting open, a BABY crying, a woman's hand placing him inside the waterfall's heart, the woman: her mother. Tears stream down her face. The sword pulses with warm light around her hand. Camera: extreme close-up on her tearful hand touching the glowing ice sword. 6 seconds. Wide shot — a THIRD figure appears on a cliff across the canyon — a man in blood-red Hanfu with phoenix embroidery, a sword of living fire crackling in his grip. He laughs. 'The bridge and the waterfall. Finally reunited.' He implies these two are destined to face him. He vanishes in a burst of flame. Camera: wide establishing with three figures across canyon landscape. 6 seconds. Full-body shot — she and the ice boy stand side by side facing the direction where the fire man vanished. She in ice-blue, he in ice-white. Together their combined water energy creates a massive WHOOSHING sound as it rises visibly around them — a spiral of ice-blue light. They look at each other, nod once. Alliance formed. Camera: two-shot, their combined power creating a spiral of ice-blue light, slow cinematic push in. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 4: The Boy Who Was Born from a Waterfall",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "ice boy",
+    "water guardian",
+    "fire enemy",
+    "alliance",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

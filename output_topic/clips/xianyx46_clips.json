@@ -1,0 +1,32 @@
+{
+  "shot1": {
+    "id": 8710889,
+    "url": "https://videos.pexels.com/video-files/8710889/8710889-hd_1080_1920_30fps.mp4",
+    "duration": 12,
+    "height": 1920
+  },
+  "shot2": {
+    "id": 9467029,
+    "url": "https://videos.pexels.com/video-files/9467029/9467029-hd_1080_1920_25fps.mp4",
+    "duration": 28,
+    "height": 1920
+  },
+  "shot3": {
+    "id": 9645577,
+    "url": "https://videos.pexels.com/video-files/9645577/9645577-hd_1080_1920_25fps.mp4",
+    "duration": 11,
+    "height": 1920
+  },
+  "shot4": {
+    "id": 9467029,
+    "url": "https://videos.pexels.com/video-files/9467029/9467029-hd_1080_1920_25fps.mp4",
+    "duration": 28,
+    "height": 1920
+  },
+  "shot5": {
+    "id": 31368547,
+    "url": "https://videos.pexels.com/video-files/31368547/13385731_1080_1920_30fps.mp4",
+    "duration": 9,
+    "height": 1920
+  }
+}

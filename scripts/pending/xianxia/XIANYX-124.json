@@ -1,0 +1,181 @@
+﻿{
+  "id": "XIANYX-124",
+  "title": "Trieu Tien Episode 24: The Flame Emperor's Sealed Memories",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 24,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The battle was won and the breakthrough achieved — but the Flame Emperor had one final gift. Three thousand years of sealed memories, about to flood into Xiao Yan's mind at once.",
+    "story_arc": "Judge grants memory transfer → Memories begin → Betrayal revealed → Original tragedy → Legacy understood",
+    "emotion": "Curiosity → Shock → Horror → Grief → Understanding",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide — the Flame Emperor descends from the judges' stand. He is no longer ghostly — his form solidifies with three thousand years of accumulated power. He places one hand on Xiao Yan's forehead. 'You are ready,' he says. Camera: wide, Flame Emperor descending, solidifying from spirit, hand on Xiao Yan's forehead, 'you are ready' moment. 6 seconds.",
+      "camera": "Wide — Flame Emperor descending, solidifying from spirit, hand on forehead, 'you are ready', 6s",
+      "narration": "The Flame Emperor had guarded these memories for three thousand years. Sealed. Locked away where no one could use them — or be destroyed by them. And now, finally, a worthy vessel.",
+      "sfx": "Flame Emperor descending, ancient power solidifying, memory seal cracking, anticipation strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the memories flood in. First: the ORIGINAL FLAME EMPEROR — young, powerful, ruling a united Chinese continent. He had a wife. A family. A world at peace. Camera: close-up, memory flood, original young Flame Emperor ruling, peaceful world, wife and family, 'golden age' vision. 6 seconds.",
+      "camera": "Close-up — memory flood, original young Flame Emperor, peaceful world, wife and family, 6s",
+      "narration": "Three thousand years ago, the Flame Emperor was not an emperor at all. He was a teacher. A healer. A man who wanted nothing more than to see the continent at peace. And he had achieved it.",
+      "sfx": "Memory flood, peaceful world, gentle music, golden age vision, hope strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the memories darken. The BETRAYAL: his closest disciples — twelve Dou Zuns he had trained and loved — conspired with the Sky Fortune Saint. They stabbed him at midnight during a ceremony. His wife died trying to shield him. Camera: close-up, memory of midnight betrayal, twelve disciples stabbing, wife dying, Sky Fortune Saint watching, 'original tragedy' horror. 6 seconds.",
+      "camera": "Close-up — midnight betrayal memory, twelve disciples stabbing, wife dying, Sky Fortune Saint watching, 6s",
+      "narration": "The twelve he had taught. The twelve he had loved. They had conspired with his greatest rival — the Sky Fortune Saint — to destroy him at the moment of his greatest vulnerability. And his wife had died for him.",
+      "sfx": "Betrayal reveal, stabbing, wife falling, dark music, horror strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan's face is wet with TEARS OF FIRE. The Flame Emperor's memories are his own now — the grief, the rage, the three thousand years of watching from the spirit realm. His eyes hold three millennia of sorrow. Camera: close-up, Xiao Yan's face wet with tears of fire, grief expression, three thousand years of sorrow, 'legacy understood' moment. 6 seconds.",
+      "camera": "Close-up — tears of fire streaming, grief expression, sorrowful flame eyes, legacy understood, 6s",
+      "narration": "Xiao Yan understood now. The cold exterior, the sealed memories, the technique passed down through generations — it was not anger. It was grief. Three thousand years of grief, carried by one man who had lost everything.",
+      "sfx": "Tears of fire, grief music, sorrowful strings, understanding swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide — Xiao Yan opens his eyes. The Flame Emperor's form is fading — his work is done. Xiao Yan places his hand over his heart where the signet burns. 'I will finish what you started,' he whispers. The Flame Emperor smiles and dissolves into flame. Camera: wide, Flame Emperor fading and dissolving into flame, Xiao Yan's hand over heart, 'I will finish it' vow, 6 seconds.",
+      "camera": "Wide — Flame Emperor dissolving into flame, Xiao Yan's hand over heart, vow moment, fading legacy, 6s",
+      "narration": "The Flame Emperor had carried this burden alone for three thousand years. And now, with Xiao Yan — his heir — he was finally free. The legacy had been passed. The复仇 — the revenge — would not be his to complete alone.",
+      "sfx": "Flame Emperor dissolving, promise music, ethereal orchestral, hope for closure"
+    }
+  ],
+  "audio": {
+    "narration": "The Flame Emperor had guarded these memories for three thousand years. Sealed. Locked away where no one could use them — or be destroyed by them. And now, finally, a worthy vessel. Three thousand years ago, the Flame Emperor was not an emperor at all. He was a teacher. A healer. A man who wanted nothing more than to see the continent at peace. And he had achieved it. The twelve he had taught. The twelve he had loved. They had conspired with his greatest rival — the Sky Fortune Saint — to destroy him at the moment of his greatest vulnerability. And his wife had died for him. Xiao Yan understood now. The cold exterior, the sealed memories, the technique passed down through generations — it was not anger. It was grief. Three thousand years of grief, carried by one man who had lost everything. The Flame Emperor had carried this burden alone for three thousand years. And now, with Xiao Yan — his heir — he was finally free. The legacy had been passed. The复仇 — the revenge — would not be his to complete alone.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese battle orchestral, flame emperor theme, Jia Academy atmosphere, dou qi combat, 95-100 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Flame Emperor descending",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Memory flood",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Betrayal reveal",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Tears of fire",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Flame Emperor dissolving",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide — the Flame Emperor descends from the judges' stand. He is no longer ghostly — his form solidifies with three thousand years of accumulated power. He places one hand on Xiao Yan's forehead. 'You are ready,' he says. Camera: wide, Flame Emperor descending, solidifying from spirit, hand on Xiao Yan's forehead, 'you are ready' moment. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the memories flood in. First: the ORIGINAL FLAME EMPEROR — young, powerful, ruling a united Chinese continent. He had a wife. A family. A world at peace. Camera: close-up, memory flood, original young Flame Emperor ruling, peaceful world, wife and family, 'golden age' vision. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — the memories darken. The BETRAYAL: his closest disciples — twelve Dou Zuns he had trained and loved — conspired with the Sky Fortune Saint. They stabbed him at midnight during a ceremony. His wife died trying to shield him. Camera: close-up, memory of midnight betrayal, twelve disciples stabbing, wife dying, Sky Fortune Saint watching, 'original tragedy' horror. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — Xiao Yan's face is wet with TEARS OF FIRE. The Flame Emperor's memories are his own now — the grief, the rage, the three thousand years of watching from the spirit realm. His eyes hold three millennia of sorrow. Camera: close-up, Xiao Yan's face wet with tears of fire, grief expression, three thousand years of sorrow, 'legacy understood' moment. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide — Xiao Yan opens his eyes. The Flame Emperor's form is fading — his work is done. Xiao Yan places his hand over his heart where the signet burns. 'I will finish what you started,' he whispers. The Flame Emperor smiles and dissolves into flame. Camera: wide, Flame Emperor fading and dissolving into flame, Xiao Yan's hand over heart, 'I will finish it' vow, 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 24: Ký Ức Hoàng Đế Bị Phong Ấn | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Episode 24 of Trieu Tien. The Flame Emperor transfers three thousand years of sealed memories to Xiao Yan — revealing the original betrayal by twelve disciples and the Sky Fortune Saint, and the tragic death of the Flame Emperor's wife.\n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 25\n#xianxia #trieu tien #flame emperor #betrayal #tragedy",
+    "youtube_tags": [
+      "xianxia",
+      "trie u tien",
+      "flame emperor memories",
+      "betrayal",
+      "sky fortune saint",
+      "tragedy",
+      "xiao yan",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Ba ngàn năm ký ức bị phong ấn bùng nổ trong tâm trí — vợ Hoàng Đế chết vì anh, mười hai đồ đệ phản bội, Thất Tài Lương Thánh đứng xem. Anh khóc lửa. ⚔️🔥 Tập 24 Trieu Tien #xianxia #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide — the Flame Emperor descends from the judges' stand. He is no longer ghostly — his form solidifies with three thousand years of accumulated power. He places one hand on Xiao Yan's forehead. 'You are ready,' he says. Camera: wide, Flame Emperor descending, solidifying from spirit, hand on Xiao Yan's forehead, 'you are ready' moment. 6 seconds. Shot 2: Close-up — the memories flood in. First: the ORIGINAL FLAME EMPEROR — young, powerful, ruling a united Chinese continent. He had a wife. A family. A world at peace. Camera: close-up, memory flood, original young Flame Emperor ruling, peaceful world, wife and family, 'golden age' vision. 6 seconds. Shot 3: Close-up — the memories darken. The BETRAYAL: his closest disciples — twelve Dou Zuns he had trained and loved — conspired with the Sky Fortune Saint. They stabbed him at midnight during a ceremony. His wife died trying to shield him. Camera: close-up, memory of midnight betrayal, twelve disciples stabbing, wife dying, Sky Fortune Saint watching, 'original tragedy' horror. 6 seconds. Shot 4: Close-up — Xiao Yan's face is wet with TEARS OF FIRE. The Flame Emperor's memories are his own now — the grief, the rage, the three thousand years of watching from the spirit realm. His eyes hold three millennia of sorrow. Camera: close-up, Xiao Yan's face wet with tears of fire, grief expression, three thousand years of sorrow, 'legacy understood' moment. 6 seconds. Shot 5: Wide — Xiao Yan opens his eyes. The Flame Emperor's form is fading — his work is done. Xiao Yan places his hand over his heart where the signet burns. 'I will finish what you started,' he whispers. The Flame Emperor smiles and dissolves into flame. Camera: wide, Flame Emperor fading and dissolving into flame, Xiao Yan's hand over heart, 'I will finish it' vow, 6 seconds.",
+  "visual_scene": "Wide — the Flame Emperor descends from the judges' stand. He is no longer ghostly — his form solidifies with three thousand years of accumulated power. He places one hand on Xiao Yan's forehead. 'You are ready,' he says. Camera: wide, Flame Emperor descending, solidifying from spirit, hand on Xiao Yan's forehead, 'you are ready' moment. 6 seconds. Close-up — the memories flood in. First: the ORIGINAL FLAME EMPEROR — young, powerful, ruling a united Chinese continent. He had a wife. A family. A world at peace. Camera: close-up, memory flood, original young Flame Emperor ruling, peaceful world, wife and family, 'golden age' vision. 6 seconds. Close-up — the memories darken. The BETRAYAL: his closest disciples — twelve Dou Zuns he had trained and loved — conspired with the Sky Fortune Saint. They stabbed him at midnight during a ceremony. His wife died trying to shield him. Camera: close-up, memory of midnight betrayal, twelve disciples stabbing, wife dying, Sky Fortune Saint watching, 'original tragedy' horror. 6 seconds. Close-up — Xiao Yan's face is wet with TEARS OF FIRE. The Flame Emperor's memories are his own now — the grief, the rage, the three thousand years of watching from the spirit realm. His eyes hold three millennia of sorrow. Camera: close-up, Xiao Yan's face wet with tears of fire, grief expression, three thousand years of sorrow, 'legacy understood' moment. 6 seconds. Wide — Xiao Yan opens his eyes. The Flame Emperor's form is fading — his work is done. Xiao Yan places his hand over his heart where the signet burns. 'I will finish what you started,' he whispers. The Flame Emperor smiles and dissolves into flame. Camera: wide, Flame Emperor fading and dissolving into flame, Xiao Yan's hand over heart, 'I will finish it' vow, 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Trieu Tien Episode 24: The Flame Emperor's Sealed Memories",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "trie u tien",
+    "flame emperor memories",
+    "betrayal",
+    "sky fortune saint",
+    "tragedy",
+    "xiao yan",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-06T04:30:00Z",
+  "publishedAt": "2026-04-06T14:01:13.926Z",
+  "tiktok_url": "/@fai20128/video/7625645720493772052"
+}

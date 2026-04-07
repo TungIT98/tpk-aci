@@ -1,0 +1,5 @@
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output\tien-nghich\TN-05\TN-05-01.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output\tien-nghich\TN-05\TN-05-02.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output\tien-nghich\TN-05\TN-05-03.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output\tien-nghich\TN-05\TN-05-04.mp4'
+file 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output\tien-nghich\TN-05\TN-05-05.mp4'

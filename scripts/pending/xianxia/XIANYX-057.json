@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-057",
+  "title": "Ha Tien Du Episode 7: The Fire That Learns",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 7,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The fire enemy was not just burning. He was studying her. Learning her water. Adapting. And he had found a new weapon: her own fear.",
+    "story_arc": "First attack → Ice boy's capture → Fire adapts to water → She must innovate → New technique born",
+    "emotion": "Confidence → Betrayal → Shock → Desperation → Breakthrough",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide cinematic battle — she and the ice boy face the fire man on the surface of the celestial lake. He stands on a pillar of solidified lava. She raises the lake water around him. Ice boy sends ice shards. The fire man laughs and the fire ADAPTS — his flames turn blue-white, counteracting the water. He had studied her. His fire now burned HOTTER when wet. Camera: wide battle, water and fire clashing with blue-white adaptation. 6 seconds.",
+      "camera": "Wide battle — fire adapting to water, blue-white flames counteracting ice, 6s",
+      "narration": "He had spent three thousand years learning water. Every technique she knew — he had already found its counter. He was not just powerful. He was intelligent.",
+      "sfx": "Fire whoosh, water sizzling, adaptive flame crack, battle drums"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — ice boy is knocked down. The fire man chains him with LIVING fire chains that burn through ice. The boy screams. The fire man holds the chain casually. 'Give me the Bridge's heart,' he says. 'Or I melt your waterfall guardian piece by piece.' She freezes — chains tightening on the ice boy. Camera: close-up on her anguished face watching the ice boy being tortured. 6 seconds.",
+      "camera": "Close-up — ice boy in fire chains, her anguished face, villain's threat, 6s",
+      "narration": "He had taken the boy hostage. The one person she had let herself care about. He was using her own heart against her — and it was working.",
+      "sfx": "Fire crackling, ice boy scream, her sharp inhale, dark tension strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — she makes an impossible choice. She channels ALL the lake's water into a sphere around herself — removing the water FROM the fire chains. The fire chains have nothing to burn and shatter. The ice boy is freed. But she is now alone, surrounded by her own sphere of water, exposed. Camera: wide shot of her radical repositioning, freeing the boy but exposing herself. 6 seconds.",
+      "camera": "Wide — she removes all water from fire chains, freeing boy but exposing herself, 6s",
+      "narration": "She gave up her shield to save him. And in that moment of absolute exposure — she discovered something her mother never had. A fire that burned inside her own water.",
+      "sfx": "Water imploding into sphere, chains shattering, moment of silence, her breath"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme close-up — close-up on her face as she channels something NEW. Steam — not from heat but from her WILL. She makes the water boil from her mind outward. She creates steam that is HOTTER than fire. The fire man steps back, genuinely surprised. Steam is water that has transcended itself. She has created the counter. Camera: extreme close-up on her glowing fierce face, steam pouring from her eyes and hands. 6 seconds.",
+      "camera": "Extreme close-up — steam powers erupting from her, fire man stepping back surprised, 6s",
+      "narration": "Steam. Water that had transcended its nature. Not ice against fire. Not water against fire. Something new. She had learned to make water so hot it burned.",
+      "sfx": "Steam whoosh, magical energy new sound, fire man gasp, emotional epic crescendo"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — steam and fire collide. She is wreathed in living steam, he is wreathed in living fire. They clash at the center of the lake. The ice boy recovers and joins her — ice and steam together. The fire man's expression shifts from confident to concerned. The combined attack PUSHES him back. Camera: wide cinematic clash of elements, epic slow push in on fire man's concerned face. 6 seconds.",
+      "camera": "Wide cinematic — ice+steam vs fire, fire man pushed back, concerned expression, 6s",
+      "narration": "He had adapted to water. He had learned ice. But he had never faced steam — water that burned. And together with the ice boy, she had found something he could not counter: the two of them.",
+      "sfx": "Elemental clash, epic orchestral battle music, triumphant strings emerging"
+    }
+  ],
+  "audio": {
+    "narration": "He had spent three thousand years learning water. Every technique she knew — he had already found its counter. He was not just powerful. He was intelligent. He had taken the boy hostage. The one person she had let herself care about. He was using her own heart against her — and it was working. She gave up her shield to save him. And in that moment of absolute exposure — she discovered something her mother never had. A fire that burned inside her own water. Steam. Water that had transcended its nature. Not ice against fire. Not water against fire. Something new. She had learned to make water so hot it burned. He had adapted to water. He had learned ice. But he had never faced steam — water that burned. And together with the ice boy, she had found something he could not counter: the two of them.",
+    "narration_duration": 28,
+    "bg_music": "Epic battle orchestral, urgent drums, innovative new theme (steam), building to triumphant crescendo 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Fire whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Fire crackling",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Water imploding into sphere",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Steam whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Elemental clash",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide cinematic battle — she and the ice boy face the fire man on the surface of the celestial lake. He stands on a pillar of solidified lava. She raises the lake water around him. Ice boy sends ice shards. The fire man laughs and the fire ADAPTS — his flames turn blue-white, counteracting the water. He had studied her. His fire now burned HOTTER when wet. Camera: wide battle, water and fire clashing with blue-white adaptation. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — ice boy is knocked down. The fire man chains him with LIVING fire chains that burn through ice. The boy screams. The fire man holds the chain casually. 'Give me the Bridge's heart,' he says. 'Or I melt your waterfall guardian piece by piece.' She freezes — chains tightening on the ice boy. Camera: close-up on her anguished face watching the ice boy being tortured. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide shot — she makes an impossible choice. She channels ALL the lake's water into a sphere around herself — removing the water FROM the fire chains. The fire chains have nothing to burn and shatter. The ice boy is freed. But she is now alone, surrounded by her own sphere of water, exposed. Camera: wide shot of her radical repositioning, freeing the boy but exposing herself. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Extreme close-up — close-up on her face as she channels something NEW. Steam — not from heat but from her WILL. She makes the water boil from her mind outward. She creates steam that is HOTTER than fire. The fire man steps back, genuinely surprised. Steam is water that has transcended itself. She has created the counter. Camera: extreme close-up on her glowing fierce face, steam pouring from her eyes and hands. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — steam and fire collide. She is wreathed in living steam, he is wreathed in living fire. They clash at the center of the lake. The ice boy recovers and joins her — ice and steam together. The fire man's expression shifts from confident to concerned. The combined attack PUSHES him back. Camera: wide cinematic clash of elements, epic slow push in on fire man's concerned face. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 7: Lửa Học Cách Thích Nghi | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 7 of Ha Tien Du. The fire enemy captures the ice boy and adapts to her water techniques. She must innovate — and discovers steam: water that burns.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 8\n#xianxia #ha tiendu #steam power #water vs fire #epic battle #chinese fantasy",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "steam power",
+      "fire enemy",
+      "water adaptation",
+      "battle",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Lửa thích nghi với nước. Cô tạo ra LƯUỢN — nước nóng đến mức bỏng rát, vũ khí mới chống lại kẻ thù ba ngàn năm ⚔️🌊 Tập 7 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide cinematic battle — she and the ice boy face the fire man on the surface of the celestial lake. He stands on a pillar of solidified lava. She raises the lake water around him. Ice boy sends ice shards. The fire man laughs and the fire ADAPTS — his flames turn blue-white, counteracting the water. He had studied her. His fire now burned HOTTER when wet. Camera: wide battle, water and fire clashing with blue-white adaptation. 6 seconds. Shot 2: Close-up — ice boy is knocked down. The fire man chains him with LIVING fire chains that burn through ice. The boy screams. The fire man holds the chain casually. 'Give me the Bridge's heart,' he says. 'Or I melt your waterfall guardian piece by piece.' She freezes — chains tightening on the ice boy. Camera: close-up on her anguished face watching the ice boy being tortured. 6 seconds. Shot 3: Wide shot — she makes an impossible choice. She channels ALL the lake's water into a sphere around herself — removing the water FROM the fire chains. The fire chains have nothing to burn and shatter. The ice boy is freed. But she is now alone, surrounded by her own sphere of water, exposed. Camera: wide shot of her radical repositioning, freeing the boy but exposing herself. 6 seconds. Shot 4: Extreme close-up — close-up on her face as she channels something NEW. Steam — not from heat but from her WILL. She makes the water boil from her mind outward. She creates steam that is HOTTER than fire. The fire man steps back, genuinely surprised. Steam is water that has transcended itself. She has created the counter. Camera: extreme close-up on her glowing fierce face, steam pouring from her eyes and hands. 6 seconds. Shot 5: Wide cinematic — steam and fire collide. She is wreathed in living steam, he is wreathed in living fire. They clash at the center of the lake. The ice boy recovers and joins her — ice and steam together. The fire man's expression shifts from confident to concerned. The combined attack PUSHES him back. Camera: wide cinematic clash of elements, epic slow push in on fire man's concerned face. 6 seconds.",
+  "visual_scene": "Wide cinematic battle — she and the ice boy face the fire man on the surface of the celestial lake. He stands on a pillar of solidified lava. She raises the lake water around him. Ice boy sends ice shards. The fire man laughs and the fire ADAPTS — his flames turn blue-white, counteracting the water. He had studied her. His fire now burned HOTTER when wet. Camera: wide battle, water and fire clashing with blue-white adaptation. 6 seconds. Close-up — ice boy is knocked down. The fire man chains him with LIVING fire chains that burn through ice. The boy screams. The fire man holds the chain casually. 'Give me the Bridge's heart,' he says. 'Or I melt your waterfall guardian piece by piece.' She freezes — chains tightening on the ice boy. Camera: close-up on her anguished face watching the ice boy being tortured. 6 seconds. Wide shot — she makes an impossible choice. She channels ALL the lake's water into a sphere around herself — removing the water FROM the fire chains. The fire chains have nothing to burn and shatter. The ice boy is freed. But she is now alone, surrounded by her own sphere of water, exposed. Camera: wide shot of her radical repositioning, freeing the boy but exposing herself. 6 seconds. Extreme close-up — close-up on her face as she channels something NEW. Steam — not from heat but from her WILL. She makes the water boil from her mind outward. She creates steam that is HOTTER than fire. The fire man steps back, genuinely surprised. Steam is water that has transcended itself. She has created the counter. Camera: extreme close-up on her glowing fierce face, steam pouring from her eyes and hands. 6 seconds. Wide cinematic — steam and fire collide. She is wreathed in living steam, he is wreathed in living fire. They clash at the center of the lake. The ice boy recovers and joins her — ice and steam together. The fire man's expression shifts from confident to concerned. The combined attack PUSHES him back. Camera: wide cinematic clash of elements, epic slow push in on fire man's concerned face. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 7: The Fire That Learns",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "steam power",
+    "fire enemy",
+    "water adaptation",
+    "battle",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

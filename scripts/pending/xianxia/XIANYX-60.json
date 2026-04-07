@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-60",
+  "title": "Ha Tien Du Episode 10: The Serpent Escapes",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 10,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Climactic escape, forbidden arts unleashed, freedom at a price",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The sect walls were high. The punishment for escape was death. He jumped anyway.",
+    "story_arc": "Rooftop escape attempt → Caught by Elder → Black serpent unleashed → Wall destroyed → Vanishes into the night",
+    "emotion": "Desperation → Capture → Rage → Destruction → Cold freedom",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect outer wall at night. Full moon. Ha Tien Du runs along the top of the wall, sprinting. Below him: the outside world. Freedom. Behind him, torches light up — a dozen disciples have spotted him. 'STOP HIM!' shouts echo. He doesn't look back. He jumps — off the wall into the dark forest beyond. Camera: wide shot — running on wall, jump into darkness, torches behind. 6 seconds.",
+      "camera": "Wide shot — running on wall, torches behind, leap into darkness, 6s",
+      "narration": "He ran. Faster than he had ever run. The wall fell behind him.",
+      "sfx": "Running footsteps on stone, shouts behind, wind rushing, his breathing"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — mid-leap, a figure appears in his path. The blue-robed Elder. Standing calmly in the forest clearing. Moonlight behind him. 'I told you not to leave.' Ha Tien Du tries to stop — too late. He crashes into the Elder's outstretched palm. The Elder doesn't move. The impact stops Ha Tien Du dead. Black energy erupts from both of them. Camera: medium shot — collision, two energies meeting, moonlight silhouette. 6 seconds.",
+      "camera": "Medium — mid-air collision with Elder, two energies meeting, moonlight, 6s",
+      "narration": "But the Elder was waiting. He always knew when his serpents would strike.",
+      "sfx": "Collision impact, two energies clashing, leaves swirling, Elder's calm voice"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — Ha Tien Du's face. Terrified. The Elder's hand on his chest — black energy flowing both ways. 'You think you can escape me?' The Elder's void-black eyes bore into Ha Tien Du's normal eye. Then — Ha Tien Du's black eye flares. He speaks through gritted teeth: 'You gave me power. You didn't give me loyalty.' Black energy erupts from his body — violently severing the Elder's connection. Camera: extreme close-up — void eyes, terror, then defiant black eye flare, connection severed. 6 seconds.",
+      "camera": "Extreme close-up — void eyes, terror, defiant black eye flare, connection severing, 6s",
+      "narration": "The serpent bit back. And the Elder's own energy — turned against him.",
+      "sfx": "Energy violently severing, Elder's surprised grunt, Ha Tien Du's roar, trees shaking"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium wide shot — Ha Tien Du staggers back. The Elder stands stunned — genuinely surprised. Blood drips from the Elder's nose. The Elder wipes it. Looks at his own blood. Then — smiles. 'Impressive.' Ha Tien Du turns and runs deeper into the forest. The Elder does not follow. He just watches. The sect disciples' torches are approaching from the wall. Camera: medium shot — Elder wiping blood and smiling, Ha Tien Du running, torches approaching. 6 seconds.",
+      "camera": "Medium — Elder smiling at blood, Ha Tien Du running into darkness, torches approaching, 6s",
+      "narration": "The Elder let him go. And no one understood why.",
+      "sfx": "Running through forest, torches approaching, Elder's quiet laugh, wind"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Ha Tien Du emerges from the forest at dawn. A vast new world stretches before him. Mountains in the distance. No sect walls. No sect disciples. Just the world. He is free. His torn gray robe. His black-veined arms. His half-dark face. He looks back once — at the distant sect peaks barely visible. Then turns to the horizon. Camera: wide shot — dawn horizon, mountains, solitary figure with torn robe, looking to the horizon. 6 seconds.",
+      "camera": "Wide shot — dawn horizon, vast new world, solitary figure, looking to horizon, 6s",
+      "narration": "Free from the sect. But bound by the serpent. His journey was just beginning.",
+      "sfx": "Wind, birds singing at dawn, his slow exhalation, epic orchestral swell, silence at end"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-60.mp4",
+  "produced_at": "2026-04-05T14:04:41.140Z",
+  "publishedAt": "2026-04-06T01:30:36.175Z",
+  "tiktok_url": "/@fai20128/video/7625452284461337876"
+}

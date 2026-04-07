@@ -1,0 +1,31 @@
+﻿{
+  "id": "PW-16",
+  "category": "productivity",
+  "channel": "Productivity Worker",
+  "title": "The 'Inbox Zero' Method That Actually Takes Less Than 30 Minutes",
+  "script": "Inbox Zero isn't about replying to everything. It's about deciding — for every single email — what action it requires. Four options: delete it, delegate it, respond to it, or defer it. That's it. The two-minute rule applies: if you can reply in two minutes, do it now. If not, defer it to a task manager or a dedicated reply folder. The goal isn't to empty your inbox — it's to empty your brain. When your inbox is chaos, your mind is chaos. Clear one, you clear the other.",
+  "prompt_for_hailuo": "Overwhelming inbox: 4,000 unread emails filling screen [Extreme wide shot]. Hands approach keyboard with calm determination [Medium shot]. Emails fly by: trash icon, forward arrow, reply checkmark, folder icon [Fast montage of email triage]. Each email visibly disappearing from inbox [Screen close-up]. Inbox counter drops: 4,000 to 2,000 to 500 to zero [Screen graphic animation]. Person sits back, coffee in hand, empty inbox visible, serene smile [Wide shot]. Modern minimalist desk setup, clean white aesthetic, satisfying organization visuals, portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "inbox zero",
+    "email management",
+    "productivity",
+    "organization",
+    "time management",
+    "workflow"
+  ],
+  "thumbnail_idea": "Overwhelming email inbox on left, empty inbox on right — '30 MINUTES' timer between them",
+  "visual_scene": "A clean minimalist desk setup with an Apple laptop. The screen shows an overwhelming inbox: 4,000 unread emails with messages piled high. A person sits down, takes a calm breath, and places their hands on the keyboard with quiet determination. Rapid satisfying montage: emails being trashed with a satisfying swoosh, forwarded with an arrow, replied to with a checkmark, or sorted into folders. The inbox counter visibly drops — 4,000, then 2,000, then 500, then 47, then zero. The screen transitions to a pristine empty inbox with a subtle 'You've got this!' watermark. The person leans back, holds a steaming coffee cup, and smiles a genuine, relieved smile. Clean white minimalist desk aesthetic, satisfying visual pacing, portrait 9:16.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, messy chaotic office, dark lighting, stressful atmosphere, work piling up visual",
+  "specific_details": "Professional sitting at a clean minimalist white desk with a laptop showing an overwhelming 4000-unread inbox, triaging emails one by one with satisfying visuals — deleting, forwarding, replying, or sorting — the counter dropping visibly to zero, the person leaning back with a relieved smile holding a coffee cup, clean white minimalist aesthetic, portrait 9:16.",
+  "status": "published",
+  "published_at": "2026-03-30T13:50:00Z",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T10:11:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\PW-16.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:24:23.126Z",
+  "tiktok_url": "/@fai20128/video/7625203291965803797"
+}

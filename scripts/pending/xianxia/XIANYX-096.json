@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-096",
+  "title": "Thanh Van Mon Episode 16: The Archive of Last Words",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A library of final words spoken by every person who died in the palace. She finds her mother's — but it was not addressed to her father.",
+    "story_arc": "Entering the archive, Reading last words, Finding her mother's entry, The true recipient, Shocking betrayal",
+    "emotion": "Grief, Curiosity, Discovery, Shock, Revelation",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing shot — an ancient library underground, deeper than the palace itself. Thousands of small jade tablets arranged in floor-to-ceiling shelves. Each jade tablet glows with a faint light — the color corresponding to the emotion of the last words spoken. She walks between the shelves, her footsteps echoing. Camera: wide shot of the infinite jade tablet archive, her small figure walking between glowing shelves. 6 seconds.",
+      "camera": "Wide — underground archive of glowing jade tablets, her small figure among thousands of last words, 6s",
+      "narration": "Beneath the palace, there was an archive of last words. Every person who had died within the palace walls — their final words preserved in jade, their emotions crystallized with them.",
+      "sfx": "Echoing footsteps, jade hum resonance, wind from deep underground, reverent silence"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she pulls a jade tablet from the shelf at random. She holds it to her forehead — the words flow into her mind directly: Tell my son I planted the peony for him, not for the garden. A woman gardener's voice, warm, tired, relieved. She pulls another: I forgive the Emperor. I always did. A concubine's voice, quiet, bitter. Camera: medium shot, jade tablet to forehead, tears streaming as voices flood in. 6 seconds.",
+      "camera": "Two-shot — her holding jade tablets, tears streaming as hundreds of voices flood her mind, 6s",
+      "narration": "The jade remembered not just the words — but the voice, the emotion, the exact moment of death. She could feel their fear, their relief, their unfinished love.",
+      "sfx": "Jade resonance, multiple voices overlapping, emotional swell, tear drop, mournful strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she searches the shelves frantically. She finds it. Her mother's tablet — blue-gray light, the color of deep sorrow. She holds it to her forehead. Her mother's voice: Tell him I never loved him. Not once. Every kiss was a lie. Tell him the child is not his — and I will take that secret to my grave with joy. She drops the tablet. It shatters on the stone floor. Camera: extreme close-up on her face as she hears her mother's devastating last words. 6 seconds.",
+      "camera": "Extreme close-up — her face hearing mother's last words about a lie and a secret child, 6s",
+      "narration": "Her mother's last words were not a farewell. They were an accusation. And a confession. The child was not his. Someone else's blood ran through her veins. Someone the palace had erased.",
+      "sfx": "Jade shattering, mother's voice echoing, breath stopped, heartbeat silence, devastating strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — she picks up the broken jade pieces with shaking hands. Underneath the tablet's resting spot on the shelf, carved into the wood: a name. Not her father. General Minh Truong — Executed 17 years ago. She gasps. She recognizes the name from the scroll. He was the first erasure of her mother's era. Camera: medium shot, her staring at the carved name, pieces of jade in her hands, understanding dawning. 6 seconds.",
+      "camera": "Medium — broken jade pieces in her hands, carved name beneath the shelf spot, her dawning understanding, 6s",
+      "narration": "General Minh Truong. Executed seventeen years ago. Erased from every record. But not from her mother's heart. And not — now — from her memory.",
+      "sfx": "Jade pieces clicking, breath unsteady, revelation strings, wind rising"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she hears footsteps. She turns. Linh, the hundred-named girl, stands at the end of the row. She holds up her scroll to the light. Minh Truong was your real father. The Emperor killed him and erased him. Then he married your mother to cover it up. And when you were born — he tried to erase you too. She shows the final entry on the scroll: Baby Girl — Erased At Birth — Status: ALIVE. Camera: cinematic close-up on both faces — Linh steady, her shattered and reborn. 6 seconds. End on her standing taller.",
+      "camera": "Close-up — Linh revealing her true lineage, Baby Girl Erased At Birth — ALIVE, her standing tall, 6s",
+      "narration": "She was the erased child. Born erased. Survived erased. And now — she would erase the eraser. Her real father was Minh Truong. And she was very much alive.",
+      "sfx": "Revelation gong, footsteps stopping, scroll rustle, determination bass, epic resolve"
+    }
+  ],
+  "audio": {
+    "narration": "Beneath the palace, there was an archive of last words. Every person who had died within the palace walls — their final words preserved in jade, their emotions crystallized with them. The jade remembered not just the words — but the voice, the emotion, the exact moment of death. She could feel their fear, their relief, their unfinished love. Her mother's last words were not a farewell. They were an accusation. And a confession. The child was not his. Someone else's blood ran through her veins. Someone the palace had erased. General Minh Truong. Executed seventeen years ago. Erased from every record. But not from her mother's heart. And not — now — from her memory. She was the erased child. Born erased. Survived erased. And now — she would erase the eraser. Her real father was Minh Truong. And she was very much alive.",
+    "narration_duration": 28,
+    "bg_music": "Devastating Chinese orchestral, mother's voice theme, revelation strings, grief to fury, dramatic 75 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Echoing footsteps",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Jade resonance",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Jade shattering",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Jade pieces clicking",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Revelation gong",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing shot — an ancient library underground, deeper than the palace itself. Thousands of small jade tablets arranged in floor-to-ceiling shelves. Each jade tablet glows with a faint light — the color corresponding to the emotion of the last words spoken. She walks between the shelves, her footsteps echoing. Camera: wide shot of the infinite jade tablet archive, her small figure walking between glowing shelves. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she pulls a jade tablet from the shelf at random. She holds it to her forehead — the words flow into her mind directly: Tell my son I planted the peony for him, not for the garden. A woman gardener's voice, warm, tired, relieved. She pulls another: I forgive the Emperor. I always did. A concubine's voice, quiet, bitter. Camera: medium shot, jade tablet to forehead, tears streaming as voices flood in. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she searches the shelves frantically. She finds it. Her mother's tablet — blue-gray light, the color of deep sorrow. She holds it to her forehead. Her mother's voice: Tell him I never loved him. Not once. Every kiss was a lie. Tell him the child is not his — and I will take that secret to my grave with joy. She drops the tablet. It shatters on the stone floor. Camera: extreme close-up on her face as she hears her mother's devastating last words. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Medium shot — she picks up the broken jade pieces with shaking hands. Underneath the tablet's resting spot on the shelf, carved into the wood: a name. Not her father. General Minh Truong — Executed 17 years ago. She gasps. She recognizes the name from the scroll. He was the first erasure of her mother's era. Camera: medium shot, her staring at the carved name, pieces of jade in her hands, understanding dawning. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she hears footsteps. She turns. Linh, the hundred-named girl, stands at the end of the row. She holds up her scroll to the light. Minh Truong was your real father. The Emperor killed him and erased him. Then he married your mother to cover it up. And when you were born — he tried to erase you too. She shows the final entry on the scroll: Baby Girl — Erased At Birth — Status: ALIVE. Camera: cinematic close-up on both faces — Linh steady, her shattered and reborn. 6 seconds. End on her standing taller."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 16: Kho Lời Cuối | Xianxia Việt Sub ⚔️📜",
+    "youtube_description": "Episode 16 of Thanh Van Mon. The archive of last words reveals her mother's final confession: she never loved the Emperor. Every kiss was a lie. The child was not his. Under the jade tablet, her real father's name is carved: General Minh Truong — erased seventeen years ago. She was erased at birth. She is alive.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 17 — The Emperor's Real Confession\n#xianxia #thanhvanmon #last words archive #true identity #erased father #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "archive of last words",
+      "mother's confession",
+      "erased father",
+      "true identity",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Lời cuối của mẹ cô: 'Con không phải con của Hoàng Đế. Cha cô là ai?' Mẹ cô giữ bí mật này đến CÙNG. Và cô sống sót dù đã bị xóa từ khi mới sinh ⚔️📜 Tập 16 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing shot — an ancient library underground, deeper than the palace itself. Thousands of small jade tablets arranged in floor-to-ceiling shelves. Each jade tablet glows with a faint light — the color corresponding to the emotion of the last words spoken. She walks between the shelves, her footsteps echoing. Camera: wide shot of the infinite jade tablet archive, her small figure walking between glowing shelves. 6 seconds. Shot 2: Medium shot — she pulls a jade tablet from the shelf at random. She holds it to her forehead — the words flow into her mind directly: Tell my son I planted the peony for him, not for the garden. A woman gardener's voice, warm, tired, relieved. She pulls another: I forgive the Emperor. I always did. A concubine's voice, quiet, bitter. Camera: medium shot, jade tablet to forehead, tears streaming as voices flood in. 6 seconds. Shot 3: Close-up — she searches the shelves frantically. She finds it. Her mother's tablet — blue-gray light, the color of deep sorrow. She holds it to her forehead. Her mother's voice: Tell him I never loved him. Not once. Every kiss was a lie. Tell him the child is not his — and I will take that secret to my grave with joy. She drops the tablet. It shatters on the stone floor. Camera: extreme close-up on her face as she hears her mother's devastating last words. 6 seconds. Shot 4: Medium shot — she picks up the broken jade pieces with shaking hands. Underneath the tablet's resting spot on the shelf, carved into the wood: a name. Not her father. General Minh Truong — Executed 17 years ago. She gasps. She recognizes the name from the scroll. He was the first erasure of her mother's era. Camera: medium shot, her staring at the carved name, pieces of jade in her hands, understanding dawning. 6 seconds. Shot 5: Close-up — she hears footsteps. She turns. Linh, the hundred-named girl, stands at the end of the row. She holds up her scroll to the light. Minh Truong was your real father. The Emperor killed him and erased him. Then he married your mother to cover it up. And when you were born — he tried to erase you too. She shows the final entry on the scroll: Baby Girl — Erased At Birth — Status: ALIVE. Camera: cinematic close-up on both faces — Linh steady, her shattered and reborn. 6 seconds. End on her standing taller.",
+  "visual_scene": "Wide establishing shot — an ancient library underground, deeper than the palace itself. Thousands of small jade tablets arranged in floor-to-ceiling shelves. Each jade tablet glows with a faint light — the color corresponding to the emotion of the last words spoken. She walks between the shelves, her footsteps echoing. Camera: wide shot of the infinite jade tablet archive, her small figure walking between glowing shelves. 6 seconds. Medium shot — she pulls a jade tablet from the shelf at random. She holds it to her forehead — the words flow into her mind directly: Tell my son I planted the peony for him, not for the garden. A woman gardener's voice, warm, tired, relieved. She pulls another: I forgive the Emperor. I always did. A concubine's voice, quiet, bitter. Camera: medium shot, jade tablet to forehead, tears streaming as voices flood in. 6 seconds. Close-up — she searches the shelves frantically. She finds it. Her mother's tablet — blue-gray light, the color of deep sorrow. She holds it to her forehead. Her mother's voice: Tell him I never loved him. Not once. Every kiss was a lie. Tell him the child is not his — and I will take that secret to my grave with joy. She drops the tablet. It shatters on the stone floor. Camera: extreme close-up on her face as she hears her mother's devastating last words. 6 seconds. Medium shot — she picks up the broken jade pieces with shaking hands. Underneath the tablet's resting spot on the shelf, carved into the wood: a name. Not her father. General Minh Truong — Executed 17 years ago. She gasps. She recognizes the name from the scroll. He was the first erasure of her mother's era. Camera: medium shot, her staring at the carved name, pieces of jade in her hands, understanding dawning. 6 seconds. Close-up — she hears footsteps. She turns. Linh, the hundred-named girl, stands at the end of the row. She holds up her scroll to the light. Minh Truong was your real father. The Emperor killed him and erased him. Then he married your mother to cover it up. And when you were born — he tried to erase you too. She shows the final entry on the scroll: Baby Girl — Erased At Birth — Status: ALIVE. Camera: cinematic close-up on both faces — Linh steady, her shattered and reborn. 6 seconds. End on her standing taller.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 16: The Archive of Last Words",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "archive of last words",
+    "mother's confession",
+    "erased father",
+    "true identity",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

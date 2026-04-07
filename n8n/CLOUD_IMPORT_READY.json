@@ -1,0 +1,113 @@
+{
+  "name": "TKP Full Video Production Pipeline",
+  "nodes": [
+    {
+      "id": "schedule-trigger",
+      "name": "Daily 8AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [100, 300],
+      "parameters": {
+        "rule": {
+          "kind": "schedule",
+          "expression": "0 8 * * *"
+        }
+      }
+    },
+    {
+      "id": "read-script",
+      "name": "Read Script JSON",
+      "type": "n8n-nodes-base.readBinaryFile",
+      "typeVersion": 1,
+      "position": [350, 300],
+      "parameters": {
+        "filePath": "/scripts/pending/VID-001.json"
+      }
+    },
+    {
+      "id": "parse-script",
+      "name": "Parse Script Data",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2.2,
+      "position": [600, 300],
+      "mode": "manual",
+      "assignments": {
+        "assignments": [
+          {"id": "script_id", "name": "script_id", "type": "string", "value": "={{ JSON.parse($binary.data).id }}"},
+          {"id": "title", "name": "title", "type": "string", "value": "={{ JSON.parse($binary.data).title }}"},
+          {"id": "prompt", "name": "prompt", "type": "string", "value": "={{ JSON.parse($binary.data).prompt_for_hailuo }}"},
+          {"id": "duration", "name": "duration", "type": "number", "value": "={{ JSON.parse($binary.data).duration_seconds || 6 }}"},
+          {"id": "tags", "name": "tags", "type": "string", "value": "={{ JSON.parse($binary.data).tags ? JSON.parse($binary.data).tags.join(', ') : '' }}"}
+        ]
+      }
+    },
+    {
+      "id": "call-openclaw",
+      "name": "Generate Video - OpenClaw",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [850, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:18789/webhook/tkp-generate-video",
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"script_id\": \"{{ $json.script_id }}\",\n  \"prompt\": \"{{ $json.prompt }}\",\n  \"title\": \"{{ $json.title }}\"\n}",
+        "options": {"timeout": 600000}
+      }
+    },
+    {
+      "id": "check-result",
+      "name": "Check Result",
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 1,
+      "position": [1100, 300],
+      "dataType": "string",
+      "value1": "={{ $json.status }}",
+      "rules": {
+        "rules": [
+          {"value2": "success", "operation": "equals", "output": 0},
+          {"value2": "failed", "operation": "equals", "output": 1}
+        ]
+      },
+      "fallbackOutput": 1
+    },
+    {
+      "id": "discord-success",
+      "name": "Discord - Success",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [1350, 200],
+      "parameters": {
+        "webhook": {"url": "YOUR_DISCORD_WEBHOOK_URL"},
+        "text": "🎬 **Video Generated!**\n\nScript ID: {{ $json.script_id }}\nTitle: {{ $json.title }}\nYouTube: {{ $json.youtube_url }}"
+      }
+    },
+    {
+      "id": "discord-fail",
+      "name": "Discord - Failed",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [1350, 400],
+      "parameters": {
+        "webhook": {"url": "YOUR_DISCORD_WEBHOOK_URL"},
+        "text": "❌ **Video Failed!**\n\nScript ID: {{ $json.script_id }}\nError: {{ $json.error }}"
+      }
+    }
+  ],
+  "connections": {
+    "Daily 8AM": {"main": [[{"node": "Read Script JSON", "type": "main", "index": 0}]]},
+    "Read Script JSON": {"main": [[{"node": "Parse Script Data", "type": "main", "index": 0}]]},
+    "Parse Script Data": {"main": [[{"node": "Generate Video - OpenClaw", "type": "main", "index": 0}]]},
+    "Generate Video - OpenClaw": {"main": [[{"node": "Check Result", "type": "main", "index": 0}]]},
+    "Check Result": {
+      "main": [
+        [{"node": "Discord - Success", "type": "main", "index": 0}],
+        [{"node": "Discord - Failed", "type": "main", "index": 0}]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Lifestyle Day in the Life",
+  "description": "Day-in-the-life vlog format — structured time-of-day segments with ambient energy shifts. Best for 'day in my life', routine content, productivity lifestyle, and aspirational day-in-the-life content.",
+  "target_platform": "tiktok",
+  "voice_style": "natural, conversational, warm — voiceover narrates each segment; transitions mark time-of-day shifts; energy rises mid-day and relaxes by evening",
+  "music_mood": "playlist-style progression — calm ambient morning, upbeat electronic afternoon, mellow acoustic evening, peaceful night",
+  "hashtag_suggestions": ["#dayinmylife", "#routine", "#morningroutine", "#lifestyle", "#vlog", "#withme", "#dayinmylife", "#productive"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "morning",
+      "duration_sec": 15,
+      "narration_prompt": "5am. The house is completely silent. This is my favorite hour — no notifications, no one needing anything from me. Just me and the work.",
+      "visual_prompt": "Dark bedroom transitioning to golden 5am light, alarm clock close-up, coffee brewing in slow motion, person walking barefoot to desk, morning fog outside window, cozy aesthetic",
+      "camera_movement": "slow time-lapse from dark to light, cinematic push-in to desk, steady tracking shot to coffee",
+      "lighting_setup": "pre-dawn: very dim blue ambient; dawn transition: golden hour light creeping in; warm cozy lamp on desk as focal point",
+      "hailuo_style_note": "5am atmosphere is the hero — dark-to-golden light transition is cinematic; foggy window detail adds mood",
+      "transition": "time_lapse"
+    },
+    {
+      "type": "work",
+      "duration_sec": 25,
+      "narration_prompt": "Deep work block. Phone is across the room. Notebooks open. Three-hour sprint on the most important project of the day. This is where the real output happens.",
+      "visual_prompt": "Clean desk setup from overhead angle, laptop screen visible with work, coffee cup, notebook with handwriting, person typing in flow state, music playing on speakers, time-lapse of hours passing",
+      "camera_movement": "overhead static on desk, macro close-up on notebook writing, slow time-lapse across work session",
+      "lighting_setup": "warm desk lamp as key light, natural window light as secondary, laptop screen glow, cozy productive warmth",
+      "hailuo_style_note": "Overhead desk setup is an aspirational visual; time-lapse across work session creates satisfying 'deep work' visualization",
+      "transition": "crossfade"
+    },
+    {
+      "type": "break",
+      "duration_sec": 10,
+      "narration_prompt": "Lunch break. Real food, not at my desk. 30 minutes to disconnect completely. Non-negotiable.",
+      "visual_prompt": "Person making a simple meal, food plating in close-up, eating at a proper table by window, phone face-down on counter, person stretching or walking outside briefly",
+      "camera_movement": "medium shot of meal prep, overhead plating close-up, static medium on person eating, smooth walk outside",
+      "lighting_setup": "bright natural window light, clean white plates, fresh food tones, peaceful daylight",
+      "hailuo_style_note": "Phone face-down detail is the emotional anchor — it signals the boundary; bright daylight signals energy and rest",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "afternoon",
+      "duration_sec": 15,
+      "narration_prompt": "Afternoon sprint. Meetings done. Admin done. Two more hours of focused afternoon work — lighter tasks, emails, anything that doesn't need peak cognitive energy.",
+      "visual_prompt": "Afternoon light shifting through office window, person responding to messages, calendar check, afternoon coffee or tea, person making quick calls",
+      "camera_movement": "medium shots, calendar/phone inserts, steady pace cuts between tasks",
+      "lighting_setup": "golden afternoon light through window, warm amber tones, relaxed but productive energy",
+      "hailuo_style_note": "Afternoon light is visually distinct from morning — warmer and more golden; calendar/phone inserts are productivity lifestyle markers",
+      "transition": "time_lapse"
+    },
+    {
+      "type": "evening",
+      "duration_sec": 15,
+      "narration_prompt": "5:30pm. Laptop closed. This is the boundary. No work emails after this hour. Workout, dinner, time with people I care about. Work was the means — not the point.",
+      "visual_prompt": "Laptop closing in slow motion, gym bag being packed or workout clothes changing, sunset light through window, person heading out the door, smile at camera",
+      "camera_movement": "slow motion on laptop closing, cinematic wide shot of sunset, smooth tracking to door",
+      "lighting_setup": "warm golden sunset through window, triumphant warm tones, laptop closing as metaphor highlighted with rim light",
+      "hailuo_style_note": "Laptop-closing-in-slow-motion is the visual thesis statement; sunset light makes it cinematic",
+      "transition": "crossfade"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "That's a day in my life. What does yours look like? Drop it in the comments. And follow for more.",
+      "visual_prompt": "Evening calm scene, person relaxed on couch or balcony, starry sky or city lights, follow button on screen, person looking at camera with slight smile",
+      "camera_movement": "static medium close-up on relaxed person, starry city lights in background, warm direct address",
+      "lighting_setup": "warm evening ambient, city lights or stars in background, soft cool blue night tones contrasting warm person light",
+      "hailuo_style_note": "Evening CTA contrasts busy day — calm energy signals community invitation; starry background adds aspirational quality",
+      "transition": "fade_out"
+    }
+  ]
+}

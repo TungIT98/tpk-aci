@@ -1,0 +1,8 @@
+{
+  "name": "Alex",
+  "description": "young professional, warm smile, short dark hair, casual business attire",
+  "lora_path": null,
+  "reference_image_paths": [],
+  "style": "cinematic",
+  "seed": 12345
+}

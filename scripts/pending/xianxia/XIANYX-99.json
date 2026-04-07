@@ -1,0 +1,76 @@
+﻿{
+  "id": "XIANYX-99",
+  "title": "Thanh Van Mon Episode 18: The Realm of Unwritten Things",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 18,
+  "audience": "Fans of Chinese fantasy, cultivation/xianxia drama viewers, 18-35 demographic who enjoy surreal, nightmarish, visually stunning otherworld sequences",
+  "tone": "Surreal, terrifying, empty, fading, haunting, fighting to stay real",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The realm of the Shadow Scribe had no color, no sound, no memory — only the things that had been written out of existence. Including — herself.",
+    "story_arc": "She steps through the gate → The unwritten realm revealed → She begins to fade → Must paint herself into existence → The Shadow Scribe waits",
+    "emotion": "Cold entry → Horror at emptiness → Beginning to fade → Fighting to exist → Confronting the Scribe",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — she steps through the Silver Gate. Into absolute nothing. No color — everything is varying shades of gray and white. No sound — complete silence. No ground — she floats. No memory — faces she tries to remember are blank. Around her — shapes of things that have been erased. Half-formed creatures. Ghost outlines of people. A world that was written — out. Camera: wide establishing shot — absolute emptiness, gray nothing, floating, ghost shapes of erased things. 6 seconds.",
+      "camera": "Wide establishing shot — absolute nothing realm, no color, no sound, no ground, ghost shapes, 6s",
+      "narration": "The realm of unwritten things. No color. No sound. No memory. Nothing that had been — remained.",
+      "sfx": "Complete silence except her breathing, heartbeat echoing in void, her gasp, nothing else"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — she looks at her hands. They are fading. Transparency spreading from her fingertips upward. She tries to speak — her voice sounds distant, thin. She touches her butterfly mark — it is dimming. She is being written out — just by being here. Panicked — she raises her arm to paint. But there is nothing TO paint with in a realm of nothing. Camera: close-up — hands fading in transparency, voice thin and distant, mark dimming, desperation rising. 6 seconds.",
+      "camera": "Close-up — hands fading, voice becoming thin, mark dimming, desperation, nothing to paint with, 6s",
+      "narration": "She was being erased. Just by being here. In a world of things that no longer existed.",
+      "sfx": "Her fading heartbeat, her thin voice, nothing, complete void silence"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she falls to her knees — if they are even knees in this place. She presses her hands against where the ground should be. Remembers — concrete. Stone. Crystal. Her mind creates a shape. She paints with her mind — and light TRAILS appear in the air. She LAUGHS — she can paint here. She draws a butterfly — it flutters — real. Camera: close-up — falling, pressing ground, remembering, painting with mind, light trail, butterfly appearing and fluttering. 6 seconds.",
+      "camera": "Close-up — falling, pressing nothing, remembering stone, painting with mind, butterfly appearing and fluttering, 6s",
+      "narration": "She could paint here too. Memory was her canvas. And she remembered everything.",
+      "sfx": "Painting with mind hum, butterfly appearing with flutter, her surprised laugh, echo"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — she paints herself into existence. Layer by layer. Color fills her robe — crimson red. The butterfly mark blazes — gold. Her face solidifies. Her hair flows — black with hints of silver. She becomes MORE REAL than everything around her. Then — the Shadow Scribe appears. A figure made of pure void — ink-black — holding a brush of pure darkness. Speaks: 'You dare paint in my realm.' Camera: medium — painting herself into solid existence, color and form, Shadow Scribe appearing in pure void with dark brush. 6 seconds.",
+      "camera": "Medium — painting herself real, full color and form, Shadow Scribe appearing in pure void, dark brush, 6s",
+      "narration": "She painted herself back into existence. And the Shadow Scribe — had finally found his match.",
+      "sfx": "Painting becoming solid, color filling world, Shadow Scribe appearing, dark brush materializing, void humming"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — the Shadow Scribe raises his dark brush. Begins to write a character in the air — 'UNWRITTEN.' She raises her arm — paints a counter-character in golden light — 'WRITTEN.' The two characters clash in mid-air. The entire void realm shudders. Neither giving ground. The Shadow Scribe speaks: 'Your ancestor erased me. Now I erase you.' She responds: 'My ancestor erased you with ink. I will erase you with butterflies.' Camera: extreme close-up — two characters clashing in void, shadow vs butterfly, realm shuddering, declaration. 6 seconds.",
+      "camera": "Extreme close-up — shadow character vs butterfly character clashing in void, realm shuddering, declaration, 6s",
+      "narration": "Butterfly against shadow. Memory against erasure. The final battle — written in light and void.",
+      "sfx": "Characters clashing, void realm shuddering, two voices declaring, dark and light colliding, epic clash"
+    }
+  ],
+  "publishedAt": "2026-04-06T02:51:15.326Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625468795490159892"
+}

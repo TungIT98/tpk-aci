@@ -1,0 +1,155 @@
+﻿{
+  "id": "XIANYX-72",
+  "title": "Dau Pha Thuong Khau Episode 12: The Ninefold Burning Heaven",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Training montage, power awakening, rival humiliation, comedic revenge",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The sect elders gave him three days to reach Dou Shi — impossible for any废物废物 (waste). Xiao Yan opened the Flame Emperor's fire technique manual and laughed.",
+    "story_arc": "Three-day deadline issued → Flame Emperor's technique discovered → Training montage → Breaking through Dou Shi → Rivals who mocked him now stare in shock → The old废物 stands before them transformed",
+    "emotion": "Mockery → Discovery → Determination → Training intensity → Triumph → Humiliation of rivals",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — sect training hall. Elder stands before the assembled disciples. 'Three days. Reach Dou Shi (Fight Master) level — or leave this sect FOREVER.' Disciples gasp. The Elder points at Xiao Yan. 'You especially.' Laughter ripples through the disciples. Camera: wide — elder announcing challenge, disciples laughing, Xiao Yan silent and still. 6 seconds.",
+      "camera": "Wide — elder announcing three-day challenge, disciples laughing at Xiao Yan, 6s",
+      "narration": "Three days to reach Dou Shi level. An impossible task — designed to humiliate him into leaving the sect.",
+      "sfx": "Elder's cold voice, disciples laughing mockingly, Xiao Yan's silence, ominous background tone"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan's hands on an ancient, burned scroll. Title reads: 'Ninefold Burning Heaven Fire Arts — First Fold.' He inhales sharply. The Flame Emperor's fire technique — one he could actually use at his current level. Camera: close-up — ancient burned scroll, Xiao Yan's eyes glowing blue with understanding, fire writing appearing. 6 seconds.",
+      "camera": "Close-up — ancient burned scroll with fire technique, Xiao Yan's blue glowing eyes, fire writing appearing, 6s",
+      "narration": "The Flame Emperor's personal fire arts. And for the first time — he could actually practice them. The waste was about to become a weapon.",
+      "sfx": "Scroll unfurling, ancient paper rustling, energy awakening, fire writing glowing, his sharp inhale"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — Xiao Yan training in a volcanic cave. Blue flames wrap around his body in a specific pattern — the first fold of the Ninefold Burning Heaven technique. His cultivation stage rises. Meridians burning, but the fire guides them correctly. He breaks through to Dou Shi. Camera: medium — volcanic cave training, blue flames wrapping in technique pattern, breakthrough moment. 6 seconds.",
+      "camera": "Medium — volcanic cave training, blue flames wrapping technique pattern, breakthrough to Dou Shi level, 6s",
+      "narration": "Day two. His meridians burned as the fire reshaped them. By midnight — he broke through to Dou Shi. Three days compressed into two.",
+      "sfx": "Flames roaring, breakthrough explosion, power surge sound, his determined breathing, cave wind"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the elder's face turns pale. Xiao Yan stands in the sect hall. His presence has completely changed — blue flames flickering behind him. 'That's... that's Dou Shi aura?!' The elder stumbles back. The disciples who laughed earlier freeze. Camera: close-up — elder's shocked face, Xiao Yan's transformed presence with blue flames, disciples frozen in shock. 6 seconds.",
+      "camera": "Close-up — elder's shocked pale face, Xiao Yan's transformed presence with blue flames flickering, 6s",
+      "narration": "The elder's face went pale. Dou Shi aura — from a废物? In three days? No one who had laughed at him could meet his eyes.",
+      "sfx": "Astonished gasp, shocked silence, power aura humming, blue flame crackling, disciples' horrified whispers"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Xiao Yan walks through the training hall. Every disciple parts for him. Blue flames trail his footsteps. He passes the elder and whispers: 'I told you I'd make you regret it.' He continues walking. The elder falls to his knees. Camera: wide — Xiao Yan walking through parting disciples, blue flames trailing, elder dropping to his knees in shock and fear. 6 seconds.",
+      "camera": "Wide — Xiao Yan walking through parting disciples, blue flames trailing, elder falling to knees, 6s",
+      "narration": "He walked through the hall like an emperor through his kingdom. The one who had mocked him the loudest — now knelt in the dust.",
+      "sfx": "Footsteps echoing, disciples parting, his cold whisper, elder's knees hitting ground, triumphant orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "Three days to reach Dou Shi level. An impossible task — designed to humiliate him into leaving the sect. The Flame Emperor's personal fire arts. And for the first time — he could actually practice them. The waste was about to become a weapon. Day two. His meridians burned as the fire reshaped them. By midnight — he broke through to Dou Shi. Three days compressed into two. The elder's face went pale. Dou Shi aura — from a废物? In three days? No one who had laughed at him could meet his eyes. He walked through the hall like an emperor through his kingdom. The one who had mocked him the loudest — now knelt in the dust.",
+    "narration_duration": 28,
+    "bg_music": "Epic rising Chinese orchestral, power awakening, breakthrough intensity, triumphant revenge 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Elder's cold announcement",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Scroll unfurling, ancient energy",
+        "volume": 0.4
+      },
+      {
+        "time": 12,
+        "sound": "Breakthrough explosion",
+        "volume": 0.6
+      },
+      {
+        "time": 18,
+        "sound": "Astonished gasp",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Footsteps echoing, triumphant swell",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 12: Cửu Trọng Hỏa Thiên | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 12 of Đấu Phá Thương Khung (Battle Through the Heavens). Xiao Yan receives an impossible three-day deadline — reach Dou Shi level or leave the sect forever. But he just found the Flame Emperor's Ninefold Burning Heaven Fire Arts. What happens when a废物 masters the technique of an emperor in just three days?",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "ninefold burning heaven",
+      "Xiao Yan breakthrough",
+      "dou shi",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Thiếu chủ bị coi là PHẾ VẬT nhận deadline 3 NGÀY phải đạt cấp Đấu Sư — bất khả thi! Nhưng hắn vừa tìm được CỬU TRỌNG HỎA THIÊN của Hoàng Đế Hỏa Diệt 🔥 Tập 12",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Sect training hall, ancient burned scroll, volcanic cave training, breakthrough to Dou Shi, rivals in shock, elder kneeling",
+  "specific_details": {
+    "subject": "Handsome young man, 18-22 years old, sharp and increasingly confident features, black robes that show signs of volcanic training (singed edges), lean muscular build, eyes that now glow with blue flame when using power",
+    "outfit_exact": "Black ancient Chinese martial robes with silver trim, slightly burned/singed edges from volcanic training, fire spirit patterns appearing on back during technique use, hair in high warrior bun with loose strands. Faint blue flame trail from footsteps during climax.",
+    "setting_details": "Sect training hall with stone pillars, ancient burned scroll room, volcanic cave with magma streams, dramatic lighting throughout",
+    "face_expression": "Cold determination building to confident smirk — ending in cold satisfaction",
+    "body_movement": "Technique training movements, breakthrough pose, emperor's walk through parting crowd",
+    "camera": "Wide establishing shots, close-up on reactions and scroll, medium training shots, climactic wide walk"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 12: Xiao Yan walks through the sect — elder kneeling in shock",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "ninefold burning heaven",
+    "Xiao Yan",
+    "dou shi",
+    "breakthrough",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T15:10:00Z",
+  "publishedAt": "2026-04-06T02:51:03.741Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625461050892176661"
+}

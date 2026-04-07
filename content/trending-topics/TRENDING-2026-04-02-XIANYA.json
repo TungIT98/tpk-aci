@@ -1,0 +1,173 @@
+{
+  "date": "2026-04-02",
+  "week": "2026-W14",
+  "channel": "Xianxia Short Drama (TikTok/TikTok Shorts)",
+  "prepared_by": "SEO Specialist",
+  "purpose": "Xianxia/cultivation trend research for XIANYX production pipeline",
+  "sources": ["TikTok #xianxia (8.1M+ posts)", "TikTok #chinesecultivationfantasy", "YouTube Shorts #xianxia #cultivation", "Bilibili Donghua 2026", "TikTok Discover: Xianxia Drama 2026 (3.6M posts)", "TikTok: New Chinese Short Dramas 2026 (8.1M posts)", "TikTok: Chinese Historical Drama April 2026 (7.6M posts)"],
+  "trending": [
+    {
+      "rank": 1,
+      "topic": "Xianxia Short Drama — Episode Cliffhanger Format",
+      "platform": "TikTok",
+      "hashtags": ["#xianxia", "#chinesedrama", "#wuxia", "#cultivation", "#dramaclip", "#shortdrama", "#chinesecultivation"],
+      "potential_views": "50M+",
+      "competition": "low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "Short drama format (5-8 episodes per arc) is exploding on TikTok. 8.1M+ posts for 'new Chinese short dramas 2026'. Cliffhanger per-episode format drives repeat views and follows.",
+      "seo_title_template": "Episode {N} — {Emotion Hook} | {Title}",
+      "caption_hook": "He never expected to be reborn with this gift... Episode {N}",
+      "publish_window": "Daily 6-9PM local, weekends 12-3PM"
+    },
+    {
+      "rank": 2,
+      "topic": "Cultivation Rebirth / Regression Trope",
+      "platform": "TikTok / YouTube Shorts",
+      "hashtags": ["#reincarnation", "#rebirth", "#cultivation", "#xianxia", "#immortal", "#powerscaling", "#transmigration"],
+      "potential_views": "30M+",
+      "competition": "low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "Rebirth/regression story arcs are the #1 traffic driver in xianxia webnovels. Audience already primed for 'he died and came back stronger' narratives. XIANYX-01 (Trieu Tien) uses this exact arc.",
+      "seo_title_template": "He Died {X} Times Before He Understood | {Episode Title}",
+      "caption_hook": "He died 500 times to become immortal... but by life 500, he forgot what it meant to be human.",
+      "publish_window": "Tue-Thu 7-10PM"
+    },
+    {
+      "rank": 3,
+      "topic": "Male Lead Overpowered (OP Protagonist) Compilation",
+      "platform": "TikTok / YouTube Shorts",
+      "hashtags": ["#overpowered", "#protagonist", "#cultivation", "#xianxia", "#anime", "#donghua", "#powerscaling"],
+      "potential_views": "20M+",
+      "competition": "very_low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "'Overpowered Legends' compilation YouTube Shorts are going viral (6 days ago, trending). OP protagonist is the most-clipped xianxia format. Good for compilation clips strategy alongside original episodes.",
+      "seo_title_template": "The Moment He Became UNSTOPPABLE | {Series Name} Compilation",
+      "caption_hook": "The scene where he stops hiding his true power.",
+      "publish_window": "Mon/Wed/Sat 6-9PM"
+    },
+    {
+      "rank": 4,
+      "topic": "Top Xianxia Webnovels 2026 — Ranking/List Content",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#xianxia", "#webnovel", "#cultivation", "#top10", "#mustread", "#chinesefantasy", "#danmei"],
+      "potential_views": "10M+",
+      "competition": "very_low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "Regular list/ranking content ('Top 5 Xianxia Webnovels of 2026' — 114 likes, Mar 15 2026) is evergreen and low competition. XIANYX series can cross-promote with list content.",
+      "seo_title_template": "Top {N} Xianxia Webnovels of 2026 (Cultivation Ranked)",
+      "caption_hook": "You won't believe #1. These cultivation novels will consume your entire year.",
+      "publish_window": "Sat-Sun 10AM-2PM"
+    },
+    {
+      "rank": 5,
+      "topic": "Top 10 Cultivation Donghua 2026 — Animated Adaptation Hype",
+      "platform": "YouTube Shorts / TikTok",
+      "hashtags": ["#donghua", "#cultivation", "#xianxia", "#anime", "#bilibili", "#2026anime", "#fantasy"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "Bilibili's 'Immortality 5' donghua episode 15 has 58K views. '10 New Cultivation Donghua of 2026 Worth Watching NOW' (Feb 2) is trending. Cross-pollination opportunity between donghua fans and short drama fans.",
+      "seo_title_template": "Top 10 Cultivation Donghua 2026 — Overpowered Legends!",
+      "caption_hook": "The cultivation donghua taking anime fans by storm in 2026.",
+      "publish_window": "Mon/Wed 7-10PM"
+    },
+    {
+      "rank": 6,
+      "topic": "Xianxia Soundtrack / Audio — Epic Cultivation Music Trend",
+      "platform": "TikTok",
+      "hashtags": ["#xianxia", "#cultivationsoundtrack", "#wuxiamusic", "#epicmusic", "#dramasoundtrack", "#chinesedrama"],
+      "potential_views": "8M+",
+      "competition": "very_low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "Original Chinese drama OSTs (soundtracks) are a separate viral category on TikTok. 'Immortal cultivation music' aesthetic videos are popular. XIANYX can use trending audio alongside video.",
+      "seo_title_template": "{Series Name} OST | The Moment His Power Awakens",
+      "caption_hook": "This is the soundtrack for every xianxia protagonist's awakening moment.",
+      "publish_window": "Daily 5-8PM"
+    },
+    {
+      "rank": 7,
+      "topic": "Chinese Historical Drama April 2026 — New Season Drop",
+      "platform": "TikTok",
+      "hashtags": ["#chinesedrama", "#historicaldrama", "#2026drama", "#xianxia", "#cndrama", "#newdrama", "#dramatok"],
+      "potential_views": "25M+",
+      "competition": "medium",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "7.6M+ posts for 'Chinese Historical Drama April 2026'. April 2026 has multiple new Chinese drama drops. Peak season for xianxia/cultivation content discovery. XIANYX episodes should release now to ride the wave.",
+      "seo_title_template": "New Chinese Xianxia Drama {Episode} | {Arc Name}",
+      "caption_hook": "New episode just dropped. The cultivation world will never be the same.",
+      "publish_window": "Daily 6-9PM, boost frequency Wed-Fri"
+    },
+    {
+      "rank": 8,
+      "topic": "POV: You Are a Cultivator / Immortal POV Series",
+      "platform": "TikTok",
+      "hashtags": ["#pov", "#xianxia", "#cultivator", "#immortal", "#povtok", "#fantasy", "#dramatic"],
+      "potential_views": "12M+",
+      "competition": "very_low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "POV format ('POV: you become a cultivator') is highly engaging on TikTok. POV text overlays on XIANYX clips can significantly boost reach. Good for hooks and teaser trailers.",
+      "seo_title_template": "POV: You Just Awakened Your {Power Type} | Xianxia",
+      "caption_hook": "POV: you just broke through to the next realm. Nobody noticed... yet.",
+      "publish_window": "Daily 7-10PM"
+    },
+    {
+      "rank": 9,
+      "topic": "Xianxia Villainess / Female Cultivator Arc",
+      "platform": "TikTok / Instagram Reels",
+      "hashtags": ["#villainess", "#femalecultivator", "#xianxia", "#strongfemalecharacter", "#danmei", "#rebirth", "#dramatic"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "Female cultivator / villainess-rebirth arcs are a massive subgenre. Strong crossover with romance xianxia audience. XIANYX series should feature female cultivator characters prominently in thumbnails and hooks.",
+      "seo_title_template": "She Was Called Weak. Then She Awakened. | {Series Name}",
+      "caption_hook": "The villainess everyone mocked... until her next breakthrough.",
+      "publish_window": "Sat-Sun 10AM-2PM"
+    },
+    {
+      "rank": 10,
+      "topic": "Cultivation Realm System Explainer — Infotainment",
+      "platform": "TikTok / YouTube Shorts",
+      "hashtags": ["#cultivationrealms", "#xianxiaexplained", "#immortal", "#powerscaling", "#fantasy", "#worldbuilding"],
+      "potential_views": "8M+",
+      "competition": "very_low",
+      "content_pillar": "xianxia_cultivation",
+      "trend_note": "Explainer content ('what is cultivation?', 'cultivation realm system explained') is low competition and evergreen. Great companion content for viewers new to the genre. Boosts channel authority and watch time.",
+      "seo_title_template": "Xianxia Cultivation Explained in {N} Minutes | Realm System Guide",
+      "caption_hook": "Qi Condensation. Golden Core. Nascent Soul. What's the REAL strongest realm?",
+      "publish_window": "Sun 10AM-2PM"
+    }
+  ],
+  "content_calendar": {
+    "Monday": "xianxia_compilation",
+    "Tuesday": "xianxia_new_episode",
+    "Wednesday": "xianxia_new_episode",
+    "Thursday": "xianxia_new_episode",
+    "Friday": "xianxia_pov_hook",
+    "Saturday": "xianxia_female_cultivator",
+    "Sunday": "xianxia_explainer_infotainment"
+  },
+  "countdowns": {
+    "xo_kitty_s3": { "event": "XO, Kitty Season 3 (Netflix)", "status": "dropped_today", "relevance": "crossover audience" },
+    "the_boys_s5": { "premiere": "2026-04-08", "days_remaining": 6, "relevance": "movie_review_tiktok" },
+    "coachella_2026": { "start": "2026-04-10", "days_remaining": 8, "relevance": "trending_music_audio" }
+  },
+  "top_hashtag_stack": {
+    "broad_reach": ["#xianxia", "#wuxia", "#cultivation", "#chinesedrama", "#fantasy"],
+    "niche_target": ["#dramaclip", "#shortdrama", "#chinesecultivationfantasy", "#cultivationnovel"],
+    "trending_audio": ["#dontoliver", "#boomclap"],
+    "platform_tags": ["#fyp", "#foryoupage", "#viral", "#foryou", "#trending"]
+  },
+  "action_items": [
+    { "priority": "CRITICAL", "action": "XIANYX episode release cadence — at least 1 new episode daily this week to ride April drama drop wave", "deadline": "2026-04-02 to 2026-04-05" },
+    { "priority": "HIGH", "action": "Add POV text overlays to all XIANYX clips — POV format is a top-performing xianxia trend", "deadline": "2026-04-03" },
+    { "priority": "HIGH", "action": "Create female cultivator character highlight clips — villainess/female cultivator subgenre is booming", "deadline": "2026-04-04" },
+    { "priority": "MEDIUM", "action": "Produce 'Cultivation Realm Explained' companion video — low competition, high authority", "deadline": "2026-04-05" },
+    { "priority": "MEDIUM", "action": "Cross-reference with trending Chinese drama audio — sync XIANYX clips with trending OST aesthetic", "deadline": "2026-04-03" }
+  ],
+  "seo_notes": {
+    "title_format": "Episode {N} — {Emotion Word} | {Series Title} | Xianxia Short Drama",
+    "description_template": "Episode {N} of {Series Name}. {1-sentence cliffhanger hook}. Follow for new episodes of {Series Name} — the xianxia cultivation series everyone is talking about. #xianxia #cultivation #chinesedrama #wuxia #fantasy",
+    "tiktok_caption_length": "Under 150 chars for hook, then 3-5 hashtags, then 2-3 niche tags",
+    "posting_frequency": "1-2 episodes per day minimum, 3 if production allows — drama drop season"
+  }
+}

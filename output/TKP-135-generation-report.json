@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-29T03:46:09.699Z",
+  "results": [
+    {
+      "id": "AESTH-01",
+      "status": "success",
+      "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\AESTH-01.mp4",
+      "prompt": "Beautiful woman with natural wavy hair, wearing flowy white dress, standing on c",
+      "elapsed_s": 7
+    },
+    {
+      "id": "COM-01",
+      "status": "success",
+      "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\COM-01.mp4",
+      "prompt": "Beautiful girl sitting on bed, staring at phone nervously, typing and deleting m",
+      "elapsed_s": 7
+    },
+    {
+      "id": "LIFE-01",
+      "status": "success",
+      "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\LIFE-01.mp4",
+      "prompt": "Beautiful woman with messy bun, oversized sweater, holding steaming coffee mug, ",
+      "elapsed_s": 7
+    },
+    {
+      "id": "MOT-01",
+      "status": "success",
+      "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\MOT-01.mp4",
+      "prompt": "Beautiful confident woman with red lipstick, business casual outfit, walking int",
+      "elapsed_s": 7
+    },
+    {
+      "id": "MOVIE-01",
+      "status": "success",
+      "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\MOVIE-01.mp4",
+      "prompt": "Beautiful woman sitting in airplane seat, watching tablet screen, eyes getting t",
+      "elapsed_s": 7
+    },
+    {
+      "id": "TECH-01",
+      "status": "success",
+      "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\TECH-01.mp4",
+      "prompt": "Futuristic humanoid robot with realistic face, LED eyes lighting up softly, sitt",
+      "elapsed_s": 7
+    }
+  ]
+}

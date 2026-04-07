@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-089",
+  "title": "Tru Tien Episode 19: The Last Person to Forget",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 19,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "She tests the forgetting curse on herself — and erases everything. Her name. Her power. Her reason. She forgets even why she became a witch.",
+    "story_arc": "Self-test decided → Curse spoken on herself → Memories dissolving → Identity fading → Near-total forgetting",
+    "emotion": "Determination → Fear → Dissolution → Panic → Last fragment",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Close-up at dawn — she stands before a still pond in a forest clearing. The grimoire lies open beside her on a stone. She has made her decision: she will test the curse on herself — to know what it truly means to forget. She kneels by the water. Camera: close-up, dawn pond, her kneel, grimoire beside her, mirror reflection, testing decision. 6 seconds.",
+      "camera": "Close-up — dawn pond, her kneel, grimoire open beside her, mirror reflection, testing the curse on herself, 6s",
+      "narration": "She would be the last person to test the forgetting curse. She would erase her own memories — to understand exactly what she was asking the world to release.",
+      "sfx": "Water still, dawn bird, her knees touching stone, grimoire rustling, determination breath, silence"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme close-up — she speaks the curse over her reflection. The water RIPPLES. Her reflection changes — becomes younger, less weary. Memories visibly leave her face like mist. She watches herself forget. Her eyes: confused. Who is she? Camera: extreme close-up, her face in water as memories visibly leave, her younger self emerging, identity confusion. 6 seconds.",
+      "camera": "Extreme close-up — curse spoken over water reflection, memories visibly leaving like mist, her face becoming younger, identity confusion, 6s",
+      "narration": "She watched herself forget. Line by line — her memories rose from her face like morning mist and dissolved into the water. Her grandmother's face. The cottage. The war. Gone.",
+      "sfx": "Curse speaking, water rippling, mist leaving face, younger face emerging, her confused breath, haunting sound"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — she stands, confused. She looks at the grimoire. She does not recognize it. She looks at her hands — stained with ink and blood. She does not know why. She walks away from the pond — forgetting the grimoire, forgetting her purpose. Camera: medium, her confused walk away from pond, leaving grimoire behind, ink and blood on hands she doesn't understand, wandering. 6 seconds.",
+      "camera": "Medium — confused walk away from pond, leaving grimoire behind, ink and blood on hands she doesn't understand, wandering, memory lost, 6s",
+      "narration": "She walked away from the grimoire. She did not know why it was there. She did not know why her hands were stained. She had forgotten everything — including why she had spent her life learning to carry pain.",
+      "sfx": "Footsteps walking away, water settling, wind, confused breathing, grimoire left behind, haunting silence"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — she stops in the forest. Something is wrong. She places her hand on a tree — and KNOWS it is two hundred years old. She touches a flower — and KNOWS its Latin name. She has forgotten her IDENTITY — but her WITCH POWER remains. It is the one thing the curse could not erase. Camera: close-up, her hand on tree then flower, power without memory, identity lost but magic remaining. 6 seconds.",
+      "camera": "Close-up — hand on ancient tree knowing age, hand on flower knowing Latin name, witch power remaining despite memory loss, 6s",
+      "narration": "She had forgotten her name. Her grandmother. Her purpose. But the witch power — the thing she had been BORN with — the curse could not touch. Memory was one thing. Nature was another.",
+      "sfx": "Her hand on tree, her sharp inhale, power hum, nature knowledge flooding in, identity vs nature, revelation"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she falls to her knees in the forest, overwhelmed. Half of her is gone — her memories, her story, her reason. Half of her remains — the witch who can feel every pain, heal every wound, carry every curse. She does not know she is crying. But the tears fall anyway. Camera: close-up, her kneeling overwhelmed, tears falling, half gone half remaining, identity crisis, beauty in loss. 6 seconds.",
+      "camera": "Close-up — her kneeling overwhelmed in forest, tears falling, half identity gone, half witch remaining, beauty in loss, 6s",
+      "narration": "She had forgotten everything. Her name. Her grandmother. The war. And yet — she was still crying. The witch who remembered pain even after she forgot everything else. That was the cruelest irony of all.",
+      "sfx": "Her knees hitting forest floor, tears falling, wind in trees, her confused sob, identity loss, haunting beautiful strings"
+    }
+  ],
+  "audio": {
+    "narration": "She would be the last person to test the forgetting curse. She would erase her own memories — to understand exactly what she was asking the world to release. She watched herself forget. Line by line — her memories rose from her face like morning mist and dissolved into the water. Her grandmother's face. The cottage. The war. Gone. She walked away from the grimoire. She did not know why it was there. She did not know why her hands were stained. She had forgotten everything — including why she had spent her life learning to carry pain. She had forgotten her name. Her grandmother. Her purpose. But the witch power — the thing she had been BORN with — the curse could not touch. Memory was one thing. Nature was another. She had forgotten everything. Her name. Her grandmother. The war. And yet — she was still crying. The witch who remembered pain even after she forgot everything else. That was the cruelest irony of all.",
+    "narration_duration": 28,
+    "bg_music": "Haunting ethereal Chinese orchestral, self-erasure theme, identity dissolving, memory fading, haunting emptiness 60 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Water still",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Curse speaking",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Footsteps walking away",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Her hand on tree",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Her knees hitting forest floor",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Close-up at dawn — she stands before a still pond in a forest clearing. The grimoire lies open beside her on a stone. She has made her decision: she will test the curse on herself — to know what it truly means to forget. She kneels by the water. Camera: close-up, dawn pond, her kneel, grimoire beside her, mirror reflection, testing decision. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Extreme close-up — she speaks the curse over her reflection. The water RIPPLES. Her reflection changes — becomes younger, less weary. Memories visibly leave her face like mist. She watches herself forget. Her eyes: confused. Who is she? Camera: extreme close-up, her face in water as memories visibly leave, her younger self emerging, identity confusion. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — she stands, confused. She looks at the grimoire. She does not recognize it. She looks at her hands — stained with ink and blood. She does not know why. She walks away from the pond — forgetting the grimoire, forgetting her purpose. Camera: medium, her confused walk away from pond, leaving grimoire behind, ink and blood on hands she doesn't understand, wandering. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — she stops in the forest. Something is wrong. She places her hand on a tree — and KNOWS it is two hundred years old. She touches a flower — and KNOWS its Latin name. She has forgotten her IDENTITY — but her WITCH POWER remains. It is the one thing the curse could not erase. Camera: close-up, her hand on tree then flower, power without memory, identity lost but magic remaining. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she falls to her knees in the forest, overwhelmed. Half of her is gone — her memories, her story, her reason. Half of her remains — the witch who can feel every pain, heal every wound, carry every curse. She does not know she is crying. But the tears fall anyway. Camera: close-up, her kneeling overwhelmed, tears falling, half gone half remaining, identity crisis, beauty in loss. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 19: Người Cuối Cùng Quên Lãng | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 19 of Tru Tien. She tests the forgetting curse on herself — and erases EVERYTHING. Her name. Her power. Her reason. She forgets even why she became a witch. The one thing the curse cannot erase: her witch nature.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "self forgetting curse",
+      "identity dissolves",
+      "memory erased",
+      "last witch loses herself",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô thử cấm chú quên lãng trên chính mình — và xóa MỌI THỨ. Tên cô. Sức mạnh. Lý do. Cô quên cả việc tại sao mình trở thành phù thủy. Một thứ cấm chú không thể xóa: bản chất phù thủy của cô ⚔️✨ Tập 19 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Close-up at dawn — she stands before a still pond in a forest clearing. The grimoire lies open beside her on a stone. She has made her decision: she will test the curse on herself — to know what it truly means to forget. She kneels by the water. Camera: close-up, dawn pond, her kneel, grimoire beside her, mirror reflection, testing decision. 6 seconds. Shot 2: Extreme close-up — she speaks the curse over her reflection. The water RIPPLES. Her reflection changes — becomes younger, less weary. Memories visibly leave her face like mist. She watches herself forget. Her eyes: confused. Who is she? Camera: extreme close-up, her face in water as memories visibly leave, her younger self emerging, identity confusion. 6 seconds. Shot 3: Medium shot — she stands, confused. She looks at the grimoire. She does not recognize it. She looks at her hands — stained with ink and blood. She does not know why. She walks away from the pond — forgetting the grimoire, forgetting her purpose. Camera: medium, her confused walk away from pond, leaving grimoire behind, ink and blood on hands she doesn't understand, wandering. 6 seconds. Shot 4: Close-up — she stops in the forest. Something is wrong. She places her hand on a tree — and KNOWS it is two hundred years old. She touches a flower — and KNOWS its Latin name. She has forgotten her IDENTITY — but her WITCH POWER remains. It is the one thing the curse could not erase. Camera: close-up, her hand on tree then flower, power without memory, identity lost but magic remaining. 6 seconds. Shot 5: Close-up — she falls to her knees in the forest, overwhelmed. Half of her is gone — her memories, her story, her reason. Half of her remains — the witch who can feel every pain, heal every wound, carry every curse. She does not know she is crying. But the tears fall anyway. Camera: close-up, her kneeling overwhelmed, tears falling, half gone half remaining, identity crisis, beauty in loss. 6 seconds.",
+  "visual_scene": "Close-up at dawn — she stands before a still pond in a forest clearing. The grimoire lies open beside her on a stone. She has made her decision: she will test the curse on herself — to know what it truly means to forget. She kneels by the water. Camera: close-up, dawn pond, her kneel, grimoire beside her, mirror reflection, testing decision. 6 seconds. Extreme close-up — she speaks the curse over her reflection. The water RIPPLES. Her reflection changes — becomes younger, less weary. Memories visibly leave her face like mist. She watches herself forget. Her eyes: confused. Who is she? Camera: extreme close-up, her face in water as memories visibly leave, her younger self emerging, identity confusion. 6 seconds. Medium shot — she stands, confused. She looks at the grimoire. She does not recognize it. She looks at her hands — stained with ink and blood. She does not know why. She walks away from the pond — forgetting the grimoire, forgetting her purpose. Camera: medium, her confused walk away from pond, leaving grimoire behind, ink and blood on hands she doesn't understand, wandering. 6 seconds. Close-up — she stops in the forest. Something is wrong. She places her hand on a tree — and KNOWS it is two hundred years old. She touches a flower — and KNOWS its Latin name. She has forgotten her IDENTITY — but her WITCH POWER remains. It is the one thing the curse could not erase. Camera: close-up, her hand on tree then flower, power without memory, identity lost but magic remaining. 6 seconds. Close-up — she falls to her knees in the forest, overwhelmed. Half of her is gone — her memories, her story, her reason. Half of her remains — the witch who can feel every pain, heal every wound, carry every curse. She does not know she is crying. But the tears fall anyway. Camera: close-up, her kneeling overwhelmed, tears falling, half gone half remaining, identity crisis, beauty in loss. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 19: The Last Person to Forget",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "self forgetting curse",
+    "identity dissolves",
+    "memory erased",
+    "last witch loses herself",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

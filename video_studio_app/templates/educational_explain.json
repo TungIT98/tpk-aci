@@ -1,0 +1,82 @@
+{
+  "name": "Educational Explain",
+  "description": "Structured explainer format — hook, intro, 3 clear points, conclusion. Best for educational content, how things work, concept breakdowns, and 'here's what you need to know' content.",
+  "target_platform": "tiktok",
+  "voice_style": "clear, engaging, slightly faster than normal speech — confident teacher energy; pauses after key points for visual beats",
+  "music_mood": "upbeat acoustic, clean electronic, study beats — present but not overpowering narration",
+  "hashtag_suggestions": ["#learnontiktok", "#education", "#explain", "#howto", "#knowledge", "#fyp", "#DidYouKnow"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "You have been using this wrong your entire life. Here's the right way — and it takes 30 seconds.",
+      "visual_prompt": "Person looking confused, close-up of hands doing task incorrectly, X mark appearing, then question face switching to lightbulb moment, bold text 'YOU'RE DOING IT WRONG'",
+      "camera_movement": "static close-up on confused face, cut to hands close-up doing wrong method, cut to lightbulb moment",
+      "lighting_setup": "neutral studio key light for face clarity, accent light on hands, high contrast for X mark graphic",
+      "hailuo_style_note": "Confusion-to-clarity arc is the format hook; make the 'wrong' method look genuinely wrong with visual cues",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "intro",
+      "duration_sec": 10,
+      "narration_prompt": "In this video I'm breaking down exactly how it works, why the common approach fails, and the exact method used by experts. Let's go.",
+      "visual_prompt": "Person pointing at camera introducing topic, graphic showing '3 KEY POINTS' appearing, whiteboard or digital diagram in background, clean modern setting",
+      "camera_movement": "medium close-up direct address, subtle pan toward diagram in background, return to camera",
+      "lighting_setup": "clean two-point lighting, key from above-right, fill from left, bright and academic feel",
+      "hailuo_style_note": "Clean academic aesthetic builds trust; the '3 KEY POINTS' graphic should be bold and scannable instantly",
+      "transition": "wipe_left"
+    },
+    {
+      "type": "content",
+      "duration_sec": 12,
+      "narration_prompt": "Point one: Most people skip this step entirely. But it's the foundation everything else builds on. Without it, nothing else works.",
+      "visual_prompt": "Number '1' appearing large on screen, diagram building step by step, person explaining with hand gestures, graphic animation of foundation being laid",
+      "camera_movement": "medium shot with graphic overlay appearing in frame, steady hold during diagram animation",
+      "lighting_setup": "blue accent on diagram elements, warm skin tones, animated graphic glow effect",
+      "hailuo_style_note": "Diagram animation is shareable on its own; number '1' should be large and bold, brand-colored",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 12,
+      "narration_prompt": "Point two: Here's where most people give up. But if you push through this specific barrier, you unlock the compound effect — everything accelerates from here.",
+      "visual_prompt": "Number '2' appearing, graph going up steeply, person at turning point moment, upward arrow animation, mountain climbing metaphor visual",
+      "camera_movement": "medium shot, slight tilt up to match upward energy of the metaphor, hold on steep graph",
+      "lighting_setup": "warmer tones for breakthrough energy, slight lens flare on upward arrow, triumphant feeling",
+      "hailuo_style_note": "Breakthrough point deserves the energy bump — warmer color, upward camera tilt, and the graph animation should be satisfying",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 12,
+      "narration_prompt": "Point three: This is the habit that separates the top 10% from everyone else. It's simple. Most people know it. Almost no one actually does it consistently.",
+      "visual_prompt": "Number '3' appearing, checkmark appearing over consistent habit, person on couch vs person taking action side-by-side comparison, discipline graphic",
+      "camera_movement": "cut between two side-by-side scenes (couch vs action), balanced composition for contrast",
+      "lighting_setup": "dim gray tones for 'couch' scene, bright warm tones for 'action' scene — lighting IS the contrast",
+      "hailuo_style_note": "Lighting-as-contrast is subtle but powerful; viewers feel the difference before you even explain it",
+      "transition": "crossfade"
+    },
+    {
+      "type": "conclusion",
+      "duration_sec": 5,
+      "narration_prompt": "Three points: foundation, breakthrough, habit. That's it. That's the whole framework.",
+      "visual_prompt": "All three points appearing together as a framework diagram, person summarizing, clean summary graphic, numbers 1-2-3 connected",
+      "camera_movement": "static medium close-up with graphic overlay, confident summary delivery",
+      "lighting_setup": "clean bright key light, all three numbers glowing in brand colors",
+      "hailuo_style_note": "Clean framework diagram is highly save-worthy; the 'that's it' delivery should feel confident and complete",
+      "transition": "fade"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Follow for more explainers like this. Drop a comment — what topic should I break down next?",
+      "visual_prompt": "Person pointing at follow button, comment section preview, person smiling at camera, 'FOLLOW' text pulsing",
+      "camera_movement": "medium close-up, warm friendly direct address",
+      "lighting_setup": "warm inviting light, friendly energy, slight lens flare",
+      "hailuo_style_note": "Warm and genuine — educational creators build loyalty through consistency; CTA should feel like inviting a friend",
+      "transition": "fade_out"
+    }
+  ]
+}

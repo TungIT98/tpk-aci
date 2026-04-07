@@ -1,0 +1,29 @@
+{
+  "id": "VID-001",
+  "channel": "Productivity Worker",
+  "title": "The 2-Minute Rule That Eliminates Procrastination",
+  "script": "The 2-minute rule says if a task takes less than 2 minutes, do it now instead of putting it off. Imagine your inbox is full. Instead of dreading it, just handle each email as it comes. Reply, delete, or file. No more backlog. The same goes for making your bed, washing one dish, or sending that quick email. Small wins create momentum. And momentum beats procrastination every time.",
+  "prompt_for_hailuo": "Young professional sits at desk, stares at overflowing inbox [Static shot]. Opens laptop with sigh. Handles first email quickly [Tracking shot following hands on keyboard]. Smiles and marks complete [Push in on screen showing checkmark]. Handles second email, third email [Montage of quick wins]. Closes laptop satisfied, leans back [Pull out to show organized desk]. Modern office, bright morning light, productivity mood, dynamic camera movements.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "productivity",
+    "procrastination",
+    "timemanagement",
+    "tips",
+    "motivation"
+  ],
+  "thumbnail_idea": "Person at desk with '2 min' timer overlay, clean workspace",
+  "status": "published",
+  "created_by": "CEO (Human)",
+  "created_at": "2026-03-27T09:30:00Z",
+  "video_path": "output_topic/videos/VID-001.mp4",
+  "youtube_url": "https://youtube.com/shorts/QzwyXe5QYgA",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "uploaded_at": "2026-03-27T10:00:00Z",
+  "visual_scene": "A young professional woman with natural straight dark hair and minimal makeup wearing a casual smart-casual top sitting at a bright modern home office desk in soft morning light, staring at a laptop screen showing an overflowing email inbox — hundreds of unread emails — with an expression of slight overwhelm mixed with determination, sighing heavily before opening the laptop. Close-up on her hands opening the laptop and hovering over the keyboard with focused energy, the cursor blinking on the first unread email. She handles each email rapidly — typing a quick reply, flagging for follow-up, or deleting — fingers flying across the keyboard with growing confidence and speed, each action deliberate and efficient. She marks the final email complete with a satisfied exhale and leans back in her chair with a genuine warm smile and arms raised in quiet victory, the inbox showing '0 unread' on the screen glowing behind her in the bright home office morning light. Modern home office, soft natural morning light, productivity triumph atmosphere, cinematic.",
+  "specific_details": "Young professional woman with natural straight dark hair and minimal makeup wearing a casual smart-casual top sitting at a bright modern home office desk in soft morning light staring at a laptop screen showing an overflowing email inbox with hundreds of unread emails with slight overwhelm mixed with determination and a heavy sigh before opening the laptop; close-up on her hands opening the laptop and hovering over the keyboard with focused energy and the cursor blinking on the first unread email; she handles each email rapidly — typing a quick reply, flagging for follow-up, or deleting — with fingers flying across the keyboard in growing confidence and speed, each action deliberate and efficient; final shot of her marking the last email complete with a satisfied exhale leaning back in her chair with a genuine warm smile and arms raised in quiet victory, inbox showing '0 unread' glowing on the screen behind her in the bright morning light home office, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, harsh fluorescent office lighting, messy cluttered desk, sad or anxious expression, outdoor scene, flat overcast lighting",
+  "produced_at": "2026-03-31T05:38:48.840Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

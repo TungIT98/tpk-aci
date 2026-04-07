@@ -1,0 +1,182 @@
+﻿{
+  "id": "XIANYX-174",
+  "title": "Ha Tien Du Episode 34: The Last Gift",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 34,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Luân returned home to find shadow already there — his people trapped. He poured his elemental mastery into the barrier — and became everything he had left.",
+    "story_arc": "Return → Horror → Confrontation → Sacrifice → Safe",
+    "emotion": "Horror → Urgency → Desperation → Power clash → Holding the line",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide aerial — the dragon realm gate under siege. The 'army' reveals itself: not soldiers but a SINGLE ENTITY — a churning column of PURE LIVING SHADOW, miles tall, stretching from the lake bed to the clouds. Ancient. Formless. Consuming everything it touches. The dragons fire ice and water at it — and it absorbs it all. Camera: extreme wide aerial, shadow entity consuming the gate, dragons firing futile attacks. 6 seconds.",
+      "camera": "Extreme wide aerial — miles-tall shadow entity at the gate, absorbing dragon fire and ice, terrifying scale, 6s",
+      "narration": "The shadow empire was not an army. It was a single entity — formless, ancient, and older than the dragon realm itself. It had been waiting for the gate to open. Waiting for him.",
+      "sfx": "Shadow roiling, dragon fire absorbed, ancient entity roar, dark ominous bass"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide cinematic — Luân stands at the gate alongside the Ice Master and dragon king. They form a LINE — water, ice, and fire. Luân raises both hands: the Water of Origin and his ice blades together create a WHITE LIGHT barrier. The shadow crashes against it. They HOLD — barely. Camera: wide, three-way barrier holding against shadow entity, dragon king and Ice Master flanking Luân, desperate resistance. 6 seconds.",
+      "camera": "Wide — white light barrier at the gate, shadow crashing against it, three guardians holding the line, 6s",
+      "narration": "He stood at the gate with the Water of Origin in one hand and ice blades in the other. Behind him: the dragon realm. Before him: the end of everything. And he would not move.",
+      "sfx": "Shadow crashing, white light barrier humming, dragon king's effort grunt, epic orchestral clash"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the shadow entity speaks. Its voice: a thousand voices, all the people it had consumed. 'The Water of Origin will not save you, Luân. I am older than water. I am older than fire. I am the darkness before the first star.' Luân's eyes widen — but he does not retreat. Camera: close-up, shadow entity speaking with a thousand voices, Luân's widening eyes but unwavering stance. 6 seconds.",
+      "camera": "Close-up — shadow entity speaking with thousand voices, ancient proclamation, Luân's unwavering resolve despite terror, 6s",
+      "narration": "It had consumed civilizations. It had drunk suns. And now it told him — gently, almost kindly — that his water meant nothing. And still he did not move.",
+      "sfx": "Shadow entity's thousand-voice speech, ancient bass rumble, Luân's heartbeat, tense silence then orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide — Luân makes a choice. He RELEASES the Water of Origin — not as a shield but as a WEAPON. He throws it INTO the shadow entity. The water spreads inside the shadow — and LIGHT begins to spread from within it. The shadow SCREAMS. The dragons watch in shock. Camera: wide, Water of Origin exploding inside shadow entity, light spreading from within, shadow screaming. 6 seconds.",
+      "camera": "Wide — Water of Origin thrown INTO shadow, light spreading from within, shadow entity screaming, dragons watching shocked, 6s",
+      "narration": "He had one chance. Not to shield. Not to defend. To attack. To put the Water of Origin — the essence of all water, all life, all beginning — inside the shadow. And let light do what force could not.",
+      "sfx": "Water projectile whoosh, shadow screaming, light spreading, dragon gasp, epic orchestral climax"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Extreme close-up — the shadow entity begins to dissolve from within. But it lashes out one final time — a tendril of pure darkness aimed at Luân's heart. He does not dodge. He catches it with his bare hand. It burns. He holds on. 'I am the bridge,' he whispers. 'And bridges do not break.' Camera: extreme close-up, his burning hand holding shadow tendril, tears of pain, absolute resolve, golden light erupting. 6 seconds.",
+      "camera": "Extreme close-up — his burning hand holding shadow tendril, tears of pain, absolute resolve, golden light erupting from him, 6s",
+      "narration": "Bridges do not break. They hold. And in that moment of holding — when he would not let go even as the shadow burned his hand to bone — the Water of Origin completed its work. The shadow began to die.",
+      "sfx": "Shadow dissolving scream, his burning hand, single whispered line, golden light eruption, epic orchestral finale"
+    }
+  ],
+  "audio": {
+    "narration": "The shadow empire was not an army. It was a single entity — formless, ancient, and older than the dragon realm itself. It had been waiting for the gate to open. Waiting for him. He stood at the gate with the Water of Origin in one hand and ice blades in the other. Behind him: the dragon realm. Before him: the end of everything. And he would not move. It had consumed civilizations. It had drunk suns. And now it told him — gently, almost kindly — that his water meant nothing. And still he did not move. He had one chance. Not to shield. Not to defend. To attack. To put the Water of Origin — the essence of all water, all life, all beginning — inside the shadow. And let light do what force could not. Bridges do not break. They hold. And in that moment of holding — when he would not let go even as the shadow burned his hand to bone — the Water of Origin completed its work. The shadow began to die.",
+    "narration_duration": 28,
+    "bg_music": "Epic dark orchestral, shadow entity theme, water of origin light, desperate hero stand, climactic battle music 100 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Shadow roiling",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Shadow crashing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Shadow entity's thousand-voice speech",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Water projectile whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Shadow dissolving scream",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide aerial — the dragon realm gate under siege. The 'army' reveals itself: not soldiers but a SINGLE ENTITY — a churning column of PURE LIVING SHADOW, miles tall, stretching from the lake bed to the clouds. Ancient. Formless. Consuming everything it touches. The dragons fire ice and water at it — and it absorbs it all. Camera: extreme wide aerial, shadow entity consuming the gate, dragons firing futile attacks. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide cinematic — Luân stands at the gate alongside the Ice Master and dragon king. They form a LINE — water, ice, and fire. Luân raises both hands: the Water of Origin and his ice blades together create a WHITE LIGHT barrier. The shadow crashes against it. They HOLD — barely. Camera: wide, three-way barrier holding against shadow entity, dragon king and Ice Master flanking Luân, desperate resistance. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — the shadow entity speaks. Its voice: a thousand voices, all the people it had consumed. 'The Water of Origin will not save you, Luân. I am older than water. I am older than fire. I am the darkness before the first star.' Luân's eyes widen — but he does not retreat. Camera: close-up, shadow entity speaking with a thousand voices, Luân's widening eyes but unwavering stance. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide — Luân makes a choice. He RELEASES the Water of Origin — not as a shield but as a WEAPON. He throws it INTO the shadow entity. The water spreads inside the shadow — and LIGHT begins to spread from within it. The shadow SCREAMS. The dragons watch in shock. Camera: wide, Water of Origin exploding inside shadow entity, light spreading from within, shadow screaming. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Extreme close-up — the shadow entity begins to dissolve from within. But it lashes out one final time — a tendril of pure darkness aimed at Luân's heart. He does not dodge. He catches it with his bare hand. It burns. He holds on. 'I am the bridge,' he whispers. 'And bridges do not break.' Camera: extreme close-up, his burning hand holding shadow tendril, tears of pain, absolute resolve, golden light erupting. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Episode 34: The Last Gift | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Ha Tien Du Episode 34: The Last Gift. Luân returned home to find shadow already there — his people trapped. He poured his elemental mastery into the barrier — and became everything he had left.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #hatiendu #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "shadow empire",
+      "water of origin",
+      "luân",
+      "epic battle",
+      "darkness vs light",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Luân returned home to find shadow already there — his people trapped. He poured his elemental mastery into the barrier — and became everything he had left. ⚔️🔥 Ha Tien Du Episode 34: The Last Gift | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide aerial — the dragon realm gate under siege. The 'army' reveals itself: not soldiers but a SINGLE ENTITY — a churning column of PURE LIVING SHADOW, miles tall, stretching from the lake bed to the clouds. Ancient. Formless. Consuming everything it touches. The dragons fire ice and water at it — and it absorbs it all. Camera: extreme wide aerial, shadow entity consuming the gate, dragons firing futile attacks. 6 seconds. Shot 2: Wide cinematic — Luân stands at the gate alongside the Ice Master and dragon king. They form a LINE — water, ice, and fire. Luân raises both hands: the Water of Origin and his ice blades together create a WHITE LIGHT barrier. The shadow crashes against it. They HOLD — barely. Camera: wide, three-way barrier holding against shadow entity, dragon king and Ice Master flanking Luân, desperate resistance. 6 seconds. Shot 3: Close-up — the shadow entity speaks. Its voice: a thousand voices, all the people it had consumed. 'The Water of Origin will not save you, Luân. I am older than water. I am older than fire. I am the darkness before the first star.' Luân's eyes widen — but he does not retreat. Camera: close-up, shadow entity speaking with a thousand voices, Luân's widening eyes but unwavering stance. 6 seconds. Shot 4: Wide — Luân makes a choice. He RELEASES the Water of Origin — not as a shield but as a WEAPON. He throws it INTO the shadow entity. The water spreads inside the shadow — and LIGHT begins to spread from within it. The shadow SCREAMS. The dragons watch in shock. Camera: wide, Water of Origin exploding inside shadow entity, light spreading from within, shadow screaming. 6 seconds. Shot 5: Extreme close-up — the shadow entity begins to dissolve from within. But it lashes out one final time — a tendril of pure darkness aimed at Luân's heart. He does not dodge. He catches it with his bare hand. It burns. He holds on. 'I am the bridge,' he whispers. 'And bridges do not break.' Camera: extreme close-up, his burning hand holding shadow tendril, tears of pain, absolute resolve, golden light erupting. 6 seconds.",
+  "visual_scene": "Extreme wide aerial — the dragon realm gate under siege. The 'army' reveals itself: not soldiers but a SINGLE ENTITY — a churning column of PURE LIVING SHADOW, miles tall, stretching from the lake bed to the clouds. Ancient. Formless. Consuming everything it touches. The dragons fire ice and water at it — and it absorbs it all. Camera: extreme wide aerial, shadow entity consuming the gate, dragons firing futile attacks. 6 seconds. Wide cinematic — Luân stands at the gate alongside the Ice Master and dragon king. They form a LINE — water, ice, and fire. Luân raises both hands: the Water of Origin and his ice blades together create a WHITE LIGHT barrier. The shadow crashes against it. They HOLD — barely. Camera: wide, three-way barrier holding against shadow entity, dragon king and Ice Master flanking Luân, desperate resistance. 6 seconds. Close-up — the shadow entity speaks. Its voice: a thousand voices, all the people it had consumed. 'The Water of Origin will not save you, Luân. I am older than water. I am older than fire. I am the darkness before the first star.' Luân's eyes widen — but he does not retreat. Camera: close-up, shadow entity speaking with a thousand voices, Luân's widening eyes but unwavering stance. 6 seconds. Wide — Luân makes a choice. He RELEASES the Water of Origin — not as a shield but as a WEAPON. He throws it INTO the shadow entity. The water spreads inside the shadow — and LIGHT begins to spread from within it. The shadow SCREAMS. The dragons watch in shock. Camera: wide, Water of Origin exploding inside shadow entity, light spreading from within, shadow screaming. 6 seconds. Extreme close-up — the shadow entity begins to dissolve from within. But it lashes out one final time — a tendril of pure darkness aimed at Luân's heart. He does not dodge. He catches it with his bare hand. It burns. He holds on. 'I am the bridge,' he whispers. 'And bridges do not break.' Camera: extreme close-up, his burning hand holding shadow tendril, tears of pain, absolute resolve, golden light erupting. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 24: The Shadow Empire's True Form",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "shadow empire",
+    "water of origin",
+    "luân",
+    "epic battle",
+    "darkness vs light",
+    "chinese fantasy",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T13:47:12.296Z",
+  "tiktok_url": "/@fai20128/video/7625642093582568725"
+}

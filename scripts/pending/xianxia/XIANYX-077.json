@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-077",
+  "title": "Dau Pha Thuong Khau Episode 17: The Coronation of Ghosts",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 17,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The coronation ceremony summons the ghosts of every emperor who came before. They approve — or reject — his rule.",
+    "story_arc": "Coronation ceremony begins → Ghosts materialize → Each ghost judges → His father appears → Ancestors' approval",
+    "emotion": "Solemnity → Supernatural awe → Dread → Profound grief → Triumphant relief",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the grand coronation hall. Hundreds of court officials in ceremonial robes. Incense burning. Drums. Ancient horns. The throne on the highest dais, draped in imperial yellow. Courtiers line both sides in perfect silence. He stands at the far end of the hall — alone — as the old crown is carried toward him on a velvet pillow by two eunuchs. Camera: wide establishing, coronation hall, silent court, crown approaching on velvet pillow. 6 seconds.",
+      "camera": "Wide establishing — grand coronation hall, hundreds of officials, crown on velvet pillow approaching, solemn silence, 6s",
+      "narration": "Every emperor before him had stood at this moment. Had walked this hall. Had faced this throne. And now — the dynasty's ghosts would judge whether he was worthy.",
+      "sfx": "Coronation drums, ancient horns, court silence, footsteps, distant bell"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide cinematic — as he bows before the throne, the hall DARKENS. Candles extinguish one by one. Cold wind sweeps through. And then — GHOSTS materialize throughout the hall. Every emperor who had ever ruled — translucent, shimmering in silver-blue imperial robes. They stand among the living court officials. Twenty generations of emperors. They turn their ancient eyes on him. Camera: wide, coronation hall filling with translucent emperor ghosts, living and dead sharing the same space. 6 seconds.",
+      "camera": "Wide — coronation hall darkening, candles extinguishing, emperor ghosts materializing, living and dead sharing hall, 6s",
+      "narration": "The coronation of every emperor summoned the ghosts of those who came before. To approve — or reject. Every ruler who had ever sat on this throne — watching him, judging him, deciding if he belonged.",
+      "sfx": "Candles extinguishing, cold wind whoosh, ghost materialization sound, ancient voices murmuring, eerie orchestral"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — each emperor ghost approaches him one by one. They examine him closely — touching his face, his hands, his robes. Some nod slowly. Some shake their heads. The fifth emperor — a notorious tyrant — grabs his throat. 'Not worthy,' he hisses. Other ghosts pull the tyrant back. Camera: extreme close-up, emperor ghosts examining him, tyrant grabbing his throat, 'Not worthy', intense judgment moment. 6 seconds.",
+      "camera": "Extreme close-up — emperor ghosts examining him one by one, tyrant ghost grabbing throat, 'Not worthy', intense supernatural judgment, 6s",
+      "narration": "Twenty generations of emperors. Not all of them had been wise. Not all of them had been kind. And the worst of them — the tyrants — were always the most vocal in their rejection of the new heir.",
+      "sfx": "Ghostly grip, tyrant hissing, other ghosts intervening, tension strings, his held breath"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Full-body cinematic — his father's ghost materializes at the center of the hall. The kind emperor — young, gentle-faced, the same face from the locket portrait. He is the most radiant of all the ghosts — not cold silver but warm gold. He walks through the other ghosts to his son. He looks at him — and smiles. Not a word. Just a smile. Camera: full-body, father's warm golden ghost, walking through ghosts to his son, warm smile, wordless. 6 seconds.",
+      "camera": "Full-body cinematic — father's warm golden ghost, same face from locket portrait, walking through ghosts to son, warm smile, 6s",
+      "narration": "His father had died on this throne — murdered by a friend. And now his ghost stood before his son — not as a cold emperor, but as a father. He had waited twenty years for this moment.",
+      "sfx": "Ghost materializing warmly, his breath catching, father's ghost footsteps, soft golden glow, emotional swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — his father's ghost places one translucent hand on his shoulder. A blessing. A transfer of power. The other emperor ghosts react — some nod, some kneel, even the tyrant bows his head. The father ghost looks at the crown — then at his son — and nods once. 'He is worthy.' The ghosts fade. He reaches for the crown. Camera: wide, father's hand blessing on shoulder, all ghosts bowing, crown being taken, coronation confirmed by ghosts. 6 seconds. End on his face crowned.",
+      "camera": "Wide cinematic — father's hand blessing, all ghosts bowing, crown taken, coronation confirmed by dynasty's ancestors, 6s",
+      "narration": "Twenty generations of emperors had approved. Even the tyrants had bowed. And his father — the kindest emperor the dynasty had ever known — had given his final blessing. He was emperor. In life and in death — his father's son.",
+      "sfx": "Ghost blessing whoosh, ghosts bowing, crown being placed, epic orchestral climax, triumphant swell"
+    }
+  ],
+  "audio": {
+    "narration": "Every emperor before him had stood at this moment. Had walked this hall. Had faced this throne. And now — the dynasty's ghosts would judge whether he was worthy. The coronation of every emperor summoned the ghosts of those who came before. To approve — or reject. Every ruler who had ever sat on this throne — watching him, judging him, deciding if he belonged. Twenty generations of emperors. Not all of them had been wise. Not all of them had been kind. And the worst of them — the tyrants — were always the most vocal in their rejection of the new heir. His father had died on this throne — murdered by a friend. And now his ghost stood before his son — not as a cold emperor, but as a father. He had waited twenty years for this moment. Twenty generations of emperors had approved. Even the tyrants had bowed. And his father — the kindest emperor the dynasty had ever known — had given his final blessing. He was emperor. In life and in death — his father's son.",
+    "narration_duration": 28,
+    "bg_music": "Epic supernatural coronation orchestral, ghost judgment theme, father's golden blessing, triumphant ancestor approval 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Coronation drums",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Candles extinguishing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Ghostly grip",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Ghost materializing warmly",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Ghost blessing whoosh",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the grand coronation hall. Hundreds of court officials in ceremonial robes. Incense burning. Drums. Ancient horns. The throne on the highest dais, draped in imperial yellow. Courtiers line both sides in perfect silence. He stands at the far end of the hall — alone — as the old crown is carried toward him on a velvet pillow by two eunuchs. Camera: wide establishing, coronation hall, silent court, crown approaching on velvet pillow. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide cinematic — as he bows before the throne, the hall DARKENS. Candles extinguish one by one. Cold wind sweeps through. And then — GHOSTS materialize throughout the hall. Every emperor who had ever ruled — translucent, shimmering in silver-blue imperial robes. They stand among the living court officials. Twenty generations of emperors. They turn their ancient eyes on him. Camera: wide, coronation hall filling with translucent emperor ghosts, living and dead sharing the same space. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — each emperor ghost approaches him one by one. They examine him closely — touching his face, his hands, his robes. Some nod slowly. Some shake their heads. The fifth emperor — a notorious tyrant — grabs his throat. 'Not worthy,' he hisses. Other ghosts pull the tyrant back. Camera: extreme close-up, emperor ghosts examining him, tyrant grabbing his throat, 'Not worthy', intense judgment moment. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Full-body cinematic — his father's ghost materializes at the center of the hall. The kind emperor — young, gentle-faced, the same face from the locket portrait. He is the most radiant of all the ghosts — not cold silver but warm gold. He walks through the other ghosts to his son. He looks at him — and smiles. Not a word. Just a smile. Camera: full-body, father's warm golden ghost, walking through ghosts to his son, warm smile, wordless. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — his father's ghost places one translucent hand on his shoulder. A blessing. A transfer of power. The other emperor ghosts react — some nod, some kneel, even the tyrant bows his head. The father ghost looks at the crown — then at his son — and nods once. 'He is worthy.' The ghosts fade. He reaches for the crown. Camera: wide, father's hand blessing on shoulder, all ghosts bowing, crown being taken, coronation confirmed by ghosts. 6 seconds. End on his face crowned."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Tập 17: Lễ Đăng Quang Của Hoàng Hồn | Xianxia Việt Sub ⚔️🏯",
+    "youtube_description": "Episode 17 of Dau Pha Thuong Khau. The coronation ceremony summons the ghosts of every emperor who came before — twenty generations of rulers judging whether he is worthy. His father's ghost materializes in golden light and gives his blessing. The ancestors approve.",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "coronation ceremony",
+      "emperor ghosts",
+      "ancestors judge",
+      "father's ghost blessing",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Lễ đăng quang triệu hồi hồn của mọi hoàng đế trước — 20 thế hệ cai trị phán xét anh ta có xứng đáng. Hồn cha anh xuất hiện trong ánh sáng vàng và ban phước. Tổ tiên đồng ý ⚔️🏯 Tập 17 DPTK #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the grand coronation hall. Hundreds of court officials in ceremonial robes. Incense burning. Drums. Ancient horns. The throne on the highest dais, draped in imperial yellow. Courtiers line both sides in perfect silence. He stands at the far end of the hall — alone — as the old crown is carried toward him on a velvet pillow by two eunuchs. Camera: wide establishing, coronation hall, silent court, crown approaching on velvet pillow. 6 seconds. Shot 2: Wide cinematic — as he bows before the throne, the hall DARKENS. Candles extinguish one by one. Cold wind sweeps through. And then — GHOSTS materialize throughout the hall. Every emperor who had ever ruled — translucent, shimmering in silver-blue imperial robes. They stand among the living court officials. Twenty generations of emperors. They turn their ancient eyes on him. Camera: wide, coronation hall filling with translucent emperor ghosts, living and dead sharing the same space. 6 seconds. Shot 3: Close-up — each emperor ghost approaches him one by one. They examine him closely — touching his face, his hands, his robes. Some nod slowly. Some shake their heads. The fifth emperor — a notorious tyrant — grabs his throat. 'Not worthy,' he hisses. Other ghosts pull the tyrant back. Camera: extreme close-up, emperor ghosts examining him, tyrant grabbing his throat, 'Not worthy', intense judgment moment. 6 seconds. Shot 4: Full-body cinematic — his father's ghost materializes at the center of the hall. The kind emperor — young, gentle-faced, the same face from the locket portrait. He is the most radiant of all the ghosts — not cold silver but warm gold. He walks through the other ghosts to his son. He looks at him — and smiles. Not a word. Just a smile. Camera: full-body, father's warm golden ghost, walking through ghosts to his son, warm smile, wordless. 6 seconds. Shot 5: Wide cinematic — his father's ghost places one translucent hand on his shoulder. A blessing. A transfer of power. The other emperor ghosts react — some nod, some kneel, even the tyrant bows his head. The father ghost looks at the crown — then at his son — and nods once. 'He is worthy.' The ghosts fade. He reaches for the crown. Camera: wide, father's hand blessing on shoulder, all ghosts bowing, crown being taken, coronation confirmed by ghosts. 6 seconds. End on his face crowned.",
+  "visual_scene": "Wide establishing — the grand coronation hall. Hundreds of court officials in ceremonial robes. Incense burning. Drums. Ancient horns. The throne on the highest dais, draped in imperial yellow. Courtiers line both sides in perfect silence. He stands at the far end of the hall — alone — as the old crown is carried toward him on a velvet pillow by two eunuchs. Camera: wide establishing, coronation hall, silent court, crown approaching on velvet pillow. 6 seconds. Wide cinematic — as he bows before the throne, the hall DARKENS. Candles extinguish one by one. Cold wind sweeps through. And then — GHOSTS materialize throughout the hall. Every emperor who had ever ruled — translucent, shimmering in silver-blue imperial robes. They stand among the living court officials. Twenty generations of emperors. They turn their ancient eyes on him. Camera: wide, coronation hall filling with translucent emperor ghosts, living and dead sharing the same space. 6 seconds. Close-up — each emperor ghost approaches him one by one. They examine him closely — touching his face, his hands, his robes. Some nod slowly. Some shake their heads. The fifth emperor — a notorious tyrant — grabs his throat. 'Not worthy,' he hisses. Other ghosts pull the tyrant back. Camera: extreme close-up, emperor ghosts examining him, tyrant grabbing his throat, 'Not worthy', intense judgment moment. 6 seconds. Full-body cinematic — his father's ghost materializes at the center of the hall. The kind emperor — young, gentle-faced, the same face from the locket portrait. He is the most radiant of all the ghosts — not cold silver but warm gold. He walks through the other ghosts to his son. He looks at him — and smiles. Not a word. Just a smile. Camera: full-body, father's warm golden ghost, walking through ghosts to his son, warm smile, wordless. 6 seconds. Wide cinematic — his father's ghost places one translucent hand on his shoulder. A blessing. A transfer of power. The other emperor ghosts react — some nod, some kneel, even the tyrant bows his head. The father ghost looks at the crown — then at his son — and nods once. 'He is worthy.' The ghosts fade. He reaches for the crown. Camera: wide, father's hand blessing on shoulder, all ghosts bowing, crown being taken, coronation confirmed by ghosts. 6 seconds. End on his face crowned.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 17: The Coronation of Ghosts",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "coronation ceremony",
+    "emperor ghosts",
+    "ancestors judge",
+    "father's ghost blessing",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

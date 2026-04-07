@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-66",
+  "title": "Trieu Tien Episode 16: The Army Returns",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "War drums, doom approaching, terror and resolve, dramatic escalation",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The army her mother came from — had finally come to finish what they started.",
+    "story_arc": "Scout returns screaming → Army banners on horizon → Sect elders debate → Trieu Tien steps forward → Dual blades raised",
+    "emotion": "Terror → Doom → Debate → Courage → Defiant stand",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect's watchtower at dawn. A scout bursts through the door, gasping. 'THE CRIMSON SUN ARMY! THEY'RE COMING!' He collapses. Other disciples rush to him. The Sect Master's face goes pale. Through the window — in the distant mist — hundreds of banners appear. Crimson sun on black. The army from Trieu Tien's mother's homeland. Camera: wide shot — scout collapsing, faces going pale, distant crimson banners appearing in mist. 6 seconds.",
+      "camera": "Wide shot — scout collapsing, alarm spreading, distant crimson banners in mist, doom, 6s",
+      "narration": "The army that had burned the capital — was returning. Twenty years later.",
+      "sfx": "Scout gasping, disciples rushing, distant war drums beginning, wind dying"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium wide shot — the elders' council chamber. Voices clash. 'We cannot match their numbers.' 'We must evacuate.' 'We stand and die.' The Sect Master sits silent. Then — the door opens. Trieu Tien and Trieu Huong enter, blades on their backs. All eyes turn to them. The Sect Master: 'The enemy — is your mother's army.' Trieu Tien's face: calm. Terrifyingly calm. Camera: medium wide — council chamber arguing, door opening, two women entering, calm face. 6 seconds.",
+      "camera": "Medium wide — council arguing, two women entering, calm defiance, 6s",
+      "narration": "The Sect Master told them. Their mother's army had come. And Trieu Tien — smiled.",
+      "sfx": "Elders arguing, door opening, silence falling, his calm statement, her terrifying calm"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — Trieu Tien removes her crimson phoenix hairpin. Holds it in her palm. Speaks: 'My mother chose my father. She chose the sect. She chose us.' She places the hairpin back in her hair. Looks at the elders. 'Now we choose the sect. Let them come.' Trieu Huong steps forward. Unsheathes her white blade. The two blades gleam. Camera: extreme close-up — hairpin in palm, placing it back, eyes of steel, blade unsheathing. 6 seconds.",
+      "camera": "Extreme close-up — hairpin in palm, placing it back with resolve, eyes of steel, blade gleaming, 6s",
+      "narration": "She chose the sect. Her mother chose love over duty. Now she chose duty over everything.",
+      "sfx": "Hairpin clicking into hair, blade unsheathing, silence in council, heartbeat"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — the sect's outer gates. The two women stand at the very front. Behind them — every disciple. Young and old. The Sect Master beside them. In the distance — the Crimson Sun Army. A thousand strong. War drums pounding. Their commander — a massive figure in black armor — raises his hand. The army stops. The commander: 'Give us the Sword Saint's daughter. And we leave the sect in peace.' Camera: wide shot — two women at gates facing thousand-strong army, commander speaking. 6 seconds.",
+      "camera": "Wide shot — two women at gates, thousand-strong army, commander addressing them, 6s",
+      "narration": "A thousand soldiers. One demand. Two women with blades raised.",
+      "sfx": "War drums, army marching stopping, commander's voice echoing, wind, heartbeat"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — Trieu Tien raises her crimson blade. Speaks loud enough for the army to hear: 'I am the Sword Saint's daughter. My mother was General Bao of the Crimson Sun.' Gasps from the army ranks. She continues: 'And I will show you what the Sword Saint's legacy — truly means.' The hairpin blazes crimson. The blade blazes white-crimson. Trieu Huong beside her, blade blazing. Camera: extreme close-up — hairpin blazing, both blades blazing, defiant declaration, army watching. 6 seconds.",
+      "camera": "Extreme close-up — hairpin and blade blazing, defiant declaration, two women standing, 6s",
+      "narration": "She claimed her mother's name. She claimed her father's legacy. And she made them one.",
+      "sfx": "Blade blazing, hairpin blazing, army gasps, wind rising, epic orchestral swell"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-66.mp4",
+  "produced_at": "2026-04-05T14:07:48.589Z",
+  "publishedAt": "2026-04-06T01:39:12.692Z",
+  "tiktok_url": "/@fai20128/video/7625454473573387541"
+}

@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-086",
+  "title": "Tru Tien Episode 16: The Witch's Final Truth",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Her grandmother's ghost appears in the cottage where she died. The grimoire was never a curse. It was a test. And her granddaughter had finally passed it.",
+    "story_arc": "Grandmother ghost appears → Test revealed → Grimoire truth → Inheritance accepted → New witch crowned",
+    "emotion": "Shock → Revelation → Understanding → Grief → Transcendence",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot at midnight — she sits at her grandmother's desk in the burned cottage, grimoire open, surrounded by dozens of pages she has written. She is exhausted, blood-stained, weeping. The candles blow out — all at once. A figure materializes in the doorway. Her grandmother. Translucent, glowing. The same face. Camera: wide, midnight cottage, grandmother's ghost materializing, exhausted witch at desk. 6 seconds.",
+      "camera": "Wide — midnight burned cottage, all candles blowing out, grandmother's ghost materializing, exhausted witch, 6s",
+      "narration": "She had written thirty-seven new curses. She had carried the pain of ten thousand wounds. And now — at midnight — her grandmother came to tell her why.",
+      "sfx": "Candles extinguishing, silence, wind through broken walls, ghostly materialization hum, tension building"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the grandmother speaks in a voice like wind through bamboo. 'You passed the test.' She looks up, tearful. 'What test?' The grandmother gestures to the grimoire. 'The curse to undo the war. Every witch in our line tried to use it. Every one of them FAILED. They could not bear the cost.' She shows her scars — hundreds of them, covering her translucent arms. Camera: close-up, grandmother's translucent scarred arms, 'every witch tried, every one failed', test revealed. 6 seconds.",
+      "camera": "Close-up — grandmother's translucent scarred arms, 'every witch tried, every one failed', test revealed, witch history, 6s",
+      "narration": "Every witch in our line tried to use the curse to undo the war. Every one of them FAILED. The pain was too great. They could not bear the cost — and so the grimoire remained sealed. Until you.",
+      "sfx": "Grandmother's ethereal voice, scar revealing sound, her sharp inhale, history revelation, emotional swell"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — grandmother kneels beside her, translucent hand on her shoulder. 'The grimoire was never a book of curses. It was a TEST. To find the one witch strong enough to BEAR the full cost of undoing war — and wise enough to WRITE new curses for the suffering it could not touch.' She sobs. Her grandmother smiles. Camera: medium, grandmother's translucent hand on her shoulder, smile, inheritance offered. 6 seconds.",
+      "camera": "Medium — grandmother kneeling, translucent hand on her shoulder, smile, inheritance of witch power, emotional moment, 6s",
+      "narration": "The grimoire was never a curse. It was a test. And in writing thirty-seven new curses — in bearing both body wounds and heart wounds — you passed the test your grandmother, and her mother, and every witch before could not.",
+      "sfx": "Grandmother's hand on shoulder, her sob, candle light returning, inheritance hum, emotional release"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the grandmother fades. But before she goes, she places a glowing flower — a witch's lily — in her granddaughter's hair. 'You are the last witch of our line. The grimoire is yours. What you write next — will change the world.' The grandmother dissolves into cherry blossom petals and moonlight. Camera: close-up, glowing witch's lily placed in hair, grandmother dissolving into petals, moonlight. 6 seconds.",
+      "camera": "Close-up — glowing witch's lily placed in hair, grandmother dissolving into cherry blossom petals and moonlight, inheritance complete, 6s",
+      "narration": "You are the last witch of our line. The grimoire is yours. And what you write next — will change the world. Her grandmother dissolved — and in her place, a witch was born.",
+      "sfx": "Lily placing sound, petal falling, moonlight hum, grandmother dissolving, her breath, transcendence theme"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic at dawn — she stands in the cottage doorway, witch's lily glowing in her hair, grimoire glowing at her side, surrounded by the thirty-seven pages she has written. The sun rises behind her. Below the valley: a world of healed bodies and broken hearts waiting for her next curse. She opens the grimoire to a fresh page. Camera: wide cinematic, dawn, witch crowned at doorway, grimoire open to fresh page, world waiting, sunrise. 6 seconds.",
+      "camera": "Wide cinematic — dawn, witch crowned at cottage doorway, glowing lily in hair, grimoire open to fresh page, world below waiting, sunrise, 6s",
+      "narration": "She had passed the test. The grimoire was no longer a curse to be feared — it was a BLANK BOOK waiting to be filled. And she — the last witch of the line — would write the cures the world needed most.",
+      "sfx": "Sunrise warmth, wind, grimoire page turning, her breath of purpose, epic dawn theme, witch coronation"
+    }
+  ],
+  "audio": {
+    "narration": "She had written thirty-seven new curses. She had carried the pain of ten thousand wounds. And now — at midnight — her grandmother came to tell her why. Every witch in our line tried to use the curse to undo the war. Every one of them FAILED. The pain was too great. They could not bear the cost — and so the grimoire remained sealed. Until you. The grimoire was never a curse. It was a test. And in writing thirty-seven new curses — in bearing both body wounds and heart wounds — you passed the test your grandmother, and her mother, and every witch before could not. You are the last witch of our line. The grimoire is yours. And what you write next — will change the world. Her grandmother dissolved — and in her place, a witch was born. She had passed the test. The grimoire was no longer a curse to be feared — it was a BLANK BOOK waiting to be filled. And she — the last witch of the line — would write the cures the world needed most.",
+    "narration_duration": 28,
+    "bg_music": "Transcendent Chinese orchestral, grandmother ghost theme, test passed, witch coronation, dawn of new era 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Candles extinguishing",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Grandmother's ethereal voice",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Grandmother's hand on shoulder",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Lily placing sound",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Sunrise warmth",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot at midnight — she sits at her grandmother's desk in the burned cottage, grimoire open, surrounded by dozens of pages she has written. She is exhausted, blood-stained, weeping. The candles blow out — all at once. A figure materializes in the doorway. Her grandmother. Translucent, glowing. The same face. Camera: wide, midnight cottage, grandmother's ghost materializing, exhausted witch at desk. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the grandmother speaks in a voice like wind through bamboo. 'You passed the test.' She looks up, tearful. 'What test?' The grandmother gestures to the grimoire. 'The curse to undo the war. Every witch in our line tried to use it. Every one of them FAILED. They could not bear the cost.' She shows her scars — hundreds of them, covering her translucent arms. Camera: close-up, grandmother's translucent scarred arms, 'every witch tried, every one failed', test revealed. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — grandmother kneels beside her, translucent hand on her shoulder. 'The grimoire was never a book of curses. It was a TEST. To find the one witch strong enough to BEAR the full cost of undoing war — and wise enough to WRITE new curses for the suffering it could not touch.' She sobs. Her grandmother smiles. Camera: medium, grandmother's translucent hand on her shoulder, smile, inheritance offered. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the grandmother fades. But before she goes, she places a glowing flower — a witch's lily — in her granddaughter's hair. 'You are the last witch of our line. The grimoire is yours. What you write next — will change the world.' The grandmother dissolves into cherry blossom petals and moonlight. Camera: close-up, glowing witch's lily placed in hair, grandmother dissolving into petals, moonlight. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic at dawn — she stands in the cottage doorway, witch's lily glowing in her hair, grimoire glowing at her side, surrounded by the thirty-seven pages she has written. The sun rises behind her. Below the valley: a world of healed bodies and broken hearts waiting for her next curse. She opens the grimoire to a fresh page. Camera: wide cinematic, dawn, witch crowned at doorway, grimoire open to fresh page, world waiting, sunrise. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 16: Sự Thật Cuối Cùng Của Phù Thủy | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 16 of Tru Tien. Her grandmother's ghost appears. The grimoire was never a curse — it was a TEST. Every witch before failed. She passed. A glowing witch's lily placed in her hair. She is crowned the last witch of the line.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "grandmother ghost",
+      "grimoire test passed",
+      "witch crowned",
+      "inheritance accepted",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Bóng ma bà ngoại xuất hiện. Sách cấm không phải cấm chú — nó là BÀI KIỂM TRA. Mọi phù thủy trước đó đều THẤT BẠI. Cô đỗ. Hoa lily phù thủy được đặt trên tóc. Cô được tôn là phù thủy cuối cùng của dòng họ ⚔️✨ Tập 16 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot at midnight — she sits at her grandmother's desk in the burned cottage, grimoire open, surrounded by dozens of pages she has written. She is exhausted, blood-stained, weeping. The candles blow out — all at once. A figure materializes in the doorway. Her grandmother. Translucent, glowing. The same face. Camera: wide, midnight cottage, grandmother's ghost materializing, exhausted witch at desk. 6 seconds. Shot 2: Close-up — the grandmother speaks in a voice like wind through bamboo. 'You passed the test.' She looks up, tearful. 'What test?' The grandmother gestures to the grimoire. 'The curse to undo the war. Every witch in our line tried to use it. Every one of them FAILED. They could not bear the cost.' She shows her scars — hundreds of them, covering her translucent arms. Camera: close-up, grandmother's translucent scarred arms, 'every witch tried, every one failed', test revealed. 6 seconds. Shot 3: Medium shot — grandmother kneels beside her, translucent hand on her shoulder. 'The grimoire was never a book of curses. It was a TEST. To find the one witch strong enough to BEAR the full cost of undoing war — and wise enough to WRITE new curses for the suffering it could not touch.' She sobs. Her grandmother smiles. Camera: medium, grandmother's translucent hand on her shoulder, smile, inheritance offered. 6 seconds. Shot 4: Close-up — the grandmother fades. But before she goes, she places a glowing flower — a witch's lily — in her granddaughter's hair. 'You are the last witch of our line. The grimoire is yours. What you write next — will change the world.' The grandmother dissolves into cherry blossom petals and moonlight. Camera: close-up, glowing witch's lily placed in hair, grandmother dissolving into petals, moonlight. 6 seconds. Shot 5: Wide cinematic at dawn — she stands in the cottage doorway, witch's lily glowing in her hair, grimoire glowing at her side, surrounded by the thirty-seven pages she has written. The sun rises behind her. Below the valley: a world of healed bodies and broken hearts waiting for her next curse. She opens the grimoire to a fresh page. Camera: wide cinematic, dawn, witch crowned at doorway, grimoire open to fresh page, world waiting, sunrise. 6 seconds.",
+  "visual_scene": "Wide shot at midnight — she sits at her grandmother's desk in the burned cottage, grimoire open, surrounded by dozens of pages she has written. She is exhausted, blood-stained, weeping. The candles blow out — all at once. A figure materializes in the doorway. Her grandmother. Translucent, glowing. The same face. Camera: wide, midnight cottage, grandmother's ghost materializing, exhausted witch at desk. 6 seconds. Close-up — the grandmother speaks in a voice like wind through bamboo. 'You passed the test.' She looks up, tearful. 'What test?' The grandmother gestures to the grimoire. 'The curse to undo the war. Every witch in our line tried to use it. Every one of them FAILED. They could not bear the cost.' She shows her scars — hundreds of them, covering her translucent arms. Camera: close-up, grandmother's translucent scarred arms, 'every witch tried, every one failed', test revealed. 6 seconds. Medium shot — grandmother kneels beside her, translucent hand on her shoulder. 'The grimoire was never a book of curses. It was a TEST. To find the one witch strong enough to BEAR the full cost of undoing war — and wise enough to WRITE new curses for the suffering it could not touch.' She sobs. Her grandmother smiles. Camera: medium, grandmother's translucent hand on her shoulder, smile, inheritance offered. 6 seconds. Close-up — the grandmother fades. But before she goes, she places a glowing flower — a witch's lily — in her granddaughter's hair. 'You are the last witch of our line. The grimoire is yours. What you write next — will change the world.' The grandmother dissolves into cherry blossom petals and moonlight. Camera: close-up, glowing witch's lily placed in hair, grandmother dissolving into petals, moonlight. 6 seconds. Wide cinematic at dawn — she stands in the cottage doorway, witch's lily glowing in her hair, grimoire glowing at her side, surrounded by the thirty-seven pages she has written. The sun rises behind her. Below the valley: a world of healed bodies and broken hearts waiting for her next curse. She opens the grimoire to a fresh page. Camera: wide cinematic, dawn, witch crowned at doorway, grimoire open to fresh page, world waiting, sunrise. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 16: The Witch's Final Truth",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "grandmother ghost",
+    "grimoire test passed",
+    "witch crowned",
+    "inheritance accepted",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,218 @@
+{
+  "date": "2026-04-01",
+  "week": "W14",
+  "day": "Wednesday",
+  "q": "Q2",
+  "dayOfQ": 1,
+  "heartbeatAgent": "seo-specialist",
+  "heartbeatAgentId": "9ff4e340-dd34-4476-9238-da8fdbce0873",
+  "sources": [
+    "tokchart.com (LIVE April 1, 2026)",
+    "newengen.com April 2026 TikTok Trends (March 30, 2026)",
+    "Spotify 'TikTok Songs 2026 APRIL' playlist (361 tracks)",
+    "YouTube 'Top 50 TikTok Songs This Week 2026 April'",
+    "Variety/IGN — Avatar: The Last Airbender S2 announcement (1 day ago)",
+    "marca.com — Coachella 2026 confirmed headliners"
+  ],
+  "tokchart": {
+    "lastUpdated": "2026-04-01",
+    "note": "tokchart LIVE confirmed — first fresh data in days",
+    "topAudio": {
+      "rank": 1,
+      "track": "024_ks_sheik_2",
+      "matchedSong": "Terserah Kamu",
+      "artist": "KS SHEIK",
+      "ugc": 1690000,
+      "dailyGrowth": 128824,
+      "dailyGrowthPct": 9.89
+    },
+    "top10": [
+      { "rank": 1, "track": "024_ks_sheik_2", "artist": "KS SHEIK", "ugc": 1690000, "dailyGrowth": 128824, "decision": "USE" },
+      { "rank": 2, "track": "TAKA LA DENTRO", "artist": "SEKIMANE/Mc GW", "ugc": 906186, "dailyGrowth": 58121, "decision": "REGIONAL" },
+      { "rank": 3, "track": "Rails", "artist": "Children of Danu", "ugc": 345553, "dailyGrowth": 39236, "dailyGrowthPct": 17.22, "decision": "FASTEST_GROWTH_PCT" },
+      { "rank": 4, "track": "Oneness", "artist": "Sean Evenett", "ugc": 549366, "dailyGrowth": 35531, "dailyGrowthPct": 8.02, "decision": "PLATEAU" },
+      { "rank": 5, "track": "Little Birdie", "artist": "InternetCity", "ugc": 1475454, "dailyGrowth": 50210, "decision": "REGIONAL" }
+    ]
+  },
+  "trending": [
+    {
+      "rank": 1,
+      "topic": "The Boys Season 5 — FINAL SEASON",
+      "platform": "TikTok/YouTube/Prime Video",
+      "hashtags": ["#theboys", "#theboyss5", "#primevideo", "#finalseason", "#supestok"],
+      "potential_views": "50M+",
+      "competition": "medium",
+      "content_pillar": "movie_review",
+      "days_away": 7,
+      "premiere_date": "2026-04-08",
+      "priority": "CRITICAL"
+    },
+    {
+      "rank": 2,
+      "topic": "Coachella 2026 — Sabrina Carpenter/Justin Bieber/Karol G",
+      "platform": "TikTok/YouTube",
+      "hashtags": ["#coachella2026", "#coachellagrwm", "#festivaloutfit", "#sabrinacarpenter", "#festivalszn"],
+      "potential_views": "100M+",
+      "competition": "high",
+      "content_pillar": "trending_aesthetic",
+      "days_away": 9,
+      "event_dates": "2026-04-10 to 2026-04-19",
+      "priority": "CRITICAL",
+      "note": "Wavytalk official hair tools partner — GRWM brand angle. 250K passes sold out in 13 hours."
+    },
+    {
+      "rank": 3,
+      "topic": "Malcolm in the Middle: Life's Still Unfair — NEW",
+      "platform": "TikTok/Hulu/Disney+",
+      "hashtags": ["#malcolmthemiddle", "#lifesstillunfair", "#nostalgiatok", "#2000sbaby", "#frankiereyes"],
+      "potential_views": "20M+",
+      "competition": "very_low",
+      "content_pillar": "comedy",
+      "days_away": 9,
+      "premiere_date": "2026-04-10",
+      "priority": "CRITICAL",
+      "note": "FIRST-MOVER WINDOW OPEN. 4-episode revival, original cast returns, 20th anniversary. Gen Z nostalgia gold."
+    },
+    {
+      "rank": 4,
+      "topic": "Euphoria Season 3 — 5-Year Time Jump",
+      "platform": "TikTok/HBO Max/Instagram",
+      "hashtags": ["#euphoria", "#euphorias3", "#hbo", "#hbotok", "#rosalia", "#thefateofophelia"],
+      "potential_views": "40M+",
+      "competition": "medium",
+      "content_pillar": "movie_review",
+      "days_away": 11,
+      "premiere_date": "2026-04-12",
+      "priority": "CRITICAL"
+    },
+    {
+      "rank": 5,
+      "topic": "024_ks_sheik_2 (Terserah Kamu) — Top TikTok Audio",
+      "platform": "TikTok",
+      "hashtags": ["#trendingsound", "#viral", "#tiktokviral", "#fyp"],
+      "potential_views": "5B+",
+      "competition": "low",
+      "content_pillar": "trending_aesthetic",
+      "ugc": 1690000,
+      "dailyGrowth": 128824,
+      "priority": "HIGH"
+    },
+    {
+      "rank": 6,
+      "topic": "Gen Z Side Stacking — Multiple Simultaneous Side Hustles",
+      "platform": "TikTok/YouTube/Reddit",
+      "hashtags": ["#sidestacking", "#sidehustle", "#genzfinance", "#incomestacking", "#extracash"],
+      "potential_views": "10M+",
+      "competition": "low",
+      "content_pillar": "motivation",
+      "priority": "HIGH",
+      "note": "57% Gen Z have side hustles — evolving to multiple simultaneously"
+    },
+    {
+      "rank": 7,
+      "topic": "Michael Jackson Biopic 'Michael'",
+      "platform": "TikTok/YouTube",
+      "hashtags": ["#michaeljackson", "#michaelmovie", "#mj", "#biopic2026"],
+      "potential_views": "30M+",
+      "competition": "low",
+      "content_pillar": "movie_review",
+      "days_away": 23,
+      "premiere_date": "2026-04-24",
+      "priority": "HIGH"
+    },
+    {
+      "rank": 8,
+      "topic": "Big Guy — Ice Spice (SpongeBob Movie Tie-In)",
+      "platform": "TikTok/YouTube Shorts",
+      "hashtags": ["#bigguy", "#icespice", "#spongebob2026", "#festivalaudio", "#memetok"],
+      "potential_views": "15M+",
+      "competition": "very_low",
+      "content_pillar": "trending_aesthetic",
+      "days_away": 3,
+      "premiere_date": "2026-04-04",
+      "priority": "HIGH",
+      "note": "Perfect GRWM tie-in for Coachella — 6 days before Coachella W1"
+    },
+    {
+      "rank": 9,
+      "topic": "Ken Carson 'overseas' — YouTube Shorts Dominant",
+      "platform": "YouTube Shorts/TikTok",
+      "hashtags": ["#overseas", "#kencarson", "#trendingsong", "#youtubeshorts"],
+      "potential_views": "10M+",
+      "competition": "low",
+      "content_pillar": "trending_aesthetic",
+      "priority": "MEDIUM"
+    },
+    {
+      "rank": 10,
+      "topic": "Avatar: The Last Airbender Season 2 — NEW",
+      "platform": "TikTok/Netflix/YouTube",
+      "hashtags": ["#avatar", "#thelastairbender", "#atlanextseason", "#tophbeifong", "#netflix"],
+      "potential_views": "5M+",
+      "competition": "medium",
+      "content_pillar": "movie_review",
+      "days_away": 86,
+      "premiere_date": "2026-06-25",
+      "priority": "MEDIUM",
+      "note": "Official announcement March 31, 2026. Add to June calendar. Countdown starts May."
+    }
+  ],
+  "content_calendar": {
+    "Monday": "hot_girl_fitness",
+    "Tuesday": "tech_ai",
+    "Wednesday": "lifestyle",
+    "Thursday": "comedy",
+    "Friday": "motivation",
+    "Saturday": "trending_aesthetic",
+    "Sunday": "trending_aesthetic"
+  },
+  "cultural_countdown": {
+    "the_boys_s5": { "days": 7, "date": "2026-04-08", "priority": "CRITICAL" },
+    "coachella_w1": { "days": 9, "dates": "2026-04-10 to 2026-04-12", "priority": "CRITICAL" },
+    "malcolm_middle": { "days": 9, "date": "2026-04-10", "priority": "CRITICAL", "is_new": true },
+    "euphoria_s3": { "days": 11, "date": "2026-04-12", "priority": "CRITICAL" },
+    "michael_biopic": { "days": 23, "date": "2026-04-24", "priority": "HIGH" },
+    "avatar_tla_s2": { "days": 86, "date": "2026-06-25", "priority": "MEDIUM", "is_new": true }
+  },
+  "audio_priority": [
+    { "track": "024_ks_sheik_2", "artist": "KS SHEIK", "ugc": 1690000, "dailyGrowth": 128824, "use": true },
+    { "track": "Rails", "artist": "Children of Danu", "ugc": 345553, "dailyGrowth": 39236, "pct": 17.22, "use": true, "note": "Fastest growth pct" },
+    { "track": "Big Guy", "artist": "Ice Spice", "use": true, "note": "Apr 4 drop — Coachella tie-in" },
+    { "track": "overseas", "artist": "Ken Carson", "use": true },
+    { "track": "No Pole", "artist": "Don Toliver", "use": true },
+    { "track": "Illegal", "artist": "PinkPantheress", "use": true },
+    { "track": "Rock", "artist": "Stepz", "use": true },
+    { "track": "VYZEE", "artist": "SOPHIE", "use": true }
+  ],
+  "new_discoveries": [
+    {
+      "name": "Malcolm in the Middle: Life's Still Unfair",
+      "type": "cultural_event",
+      "premiere_date": "2026-04-10",
+      "platform": "Hulu/Disney+",
+      "reason": "Gen Z nostalgia first-mover, 20th anniversary, 4-episode revival, original cast returns",
+      "priority": "CRITICAL"
+    },
+    {
+      "name": "Avatar: The Last Airbender Season 2",
+      "type": "cultural_event",
+      "premiere_date": "2026-06-25",
+      "platform": "Netflix",
+      "reason": "Official announcement March 31, 2026. Toph Beifong confirmed. Anime/live-action crossover.",
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Spotify April 2026 Audio Additions",
+      "type": "audio",
+      "note": "Big Guy, overseas, No Pole, Illegal, GloRilla collabs, Stepz Rock, VYZEE by SOPHIE — Spotify playlist 361 tracks, 2.4K saves",
+      "priority": "MEDIUM"
+    }
+  ],
+  "action_items": [
+    { "priority": "CRITICAL", "action": "Malcolm in the Middle — brief content team ASAP", "deadline": "2026-04-02" },
+    { "priority": "CRITICAL", "action": "The Boys S5 countdown — start posting", "deadline": "2026-04-02 to 2026-04-07" },
+    { "priority": "CRITICAL", "action": "Coachella GRWM — begin Apr 4", "deadline": "2026-04-04 to 2026-04-09" },
+    { "priority": "HIGH", "action": "Big Guy Ice Spice audio — use Apr 4+", "deadline": "2026-04-04" },
+    { "priority": "MEDIUM", "action": "Avatar TLA S2 — add to June calendar", "deadline": "2026-04-05" }
+  ]
+}

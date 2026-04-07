@@ -1,0 +1,29 @@
+{
+  "id": "TECH-10",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "Deepfake giờ đây có thể giả mạo cả CEO — đây là cách nhận biết",
+  "script": "Deepfake giờ đây tinh đến mức video call với sếp cũng có thể là giả. Năm 2025, một công ty ở Hong Kong mất 25 triệu USD vì deepfake audio giả làm sếp gọi điện. Với AI 2026, bất kỳ ai cũng có thể tạo deepfake chỉ từ 3 giây voice note. Nhưng có 3 dấu hiệu để nhận biết: ánh mắt không chớp, tóc không chuyển động tự nhiên, và giọng nói thiếu cảm xúc thực. Chia sẻ để bảo vệ càng nhiều người càng tốt.",
+  "prompt_for_hailuo": "Split screen: left shows a realistic CEO face that is clearly AI-generated with subtle digital artifacts around the edges, right shows the same scene but real [Side by side comparison]. Glitch effect rippling across the fake face revealing digital layers underneath [Extreme close up glitch]. Real human face with natural blinking and micro-expressions [Close up natural face]. Warning shield icon with scanning effect [Overlay graphic]. Dark dramatic room, red and green split lighting, cyberpunk fraud detection aesthetic, 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "deepfake",
+    "ai",
+    "scam",
+    "security",
+    "tech",
+    "fraud",
+    "awareness"
+  ],
+  "thumbnail_idea": "Split screen: AI fake vs real face, red/green split lighting, glitch artifacts",
+  "visual_scene": "Split screen setup in a dark dramatic room lit by split red and green lighting. Left side: a hyper-realistic CEO face that appears genuine at first glance, but subtle digital artifacts shimmer around the edges — slight pixelation at the hairline, eyes that don't quite blink naturally. Right side: the same scene with the real human face, natural blinking, organic micro-expressions, authentic skin texture. An extreme close up glitch effect ripples across the fake face — digital layers, face mesh grids, and algorithm watermarks revealed beneath the surface. Then focus shifts to the real human face, showing natural blinking patterns and authentic micro-expressions. A warning shield icon materializes with a scanning effect sweeping across the screen, detecting the deepfake. Red and green split lighting reinforces the fake vs real contrast. Portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Split screen in dark dramatic room with red and green split lighting, left side hyper-realistic CEO face with digital artifacts shimmering at edges (pixelation at hairline, unnatural blinking), right side real human face with natural blinking and micro-expressions, extreme close up glitch effect rippling across fake face revealing digital mesh layers and algorithm watermarks, warning shield icon with scanning effect overlay, portrait 9:16.",
+  "status": "pending",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-10.mp4",
+  "produced_at": "2026-04-01T04:50:00.000Z",
+  "qc_status": null
+}

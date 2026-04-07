@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-65",
+  "title": "Trieu Tien Episode 15: The Crimson and the White",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Battle training, dual cultivation, sisterly bond tested, power grows",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Two blades. Two sisters. They had to learn to fight as one — or die as two.",
+    "story_arc": "First real dual combat → Clashing instead of matching → Tempers flare → Hairpins pulse together → Perfect synchronization",
+    "emotion": "Frustration → Anger → Hurt → Breakthrough → Perfect harmony",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — cliff edge training ground. Wind howling. Trieu Tien and Trieu Huong face each other with their new blades — crimson and white. The first strike — perfectly synchronized. Their blades clash. The combined energy is unstable. It EXPLODES outward — a wave of energy that cracks the stone beneath their feet. Both fly backward. Camera: wide shot — blades clashing, energy explosion, crack in stone, both flying back. 6 seconds.",
+      "camera": "Wide shot — blade clash, energy explosion, cracked stone, both flying back, 6s",
+      "narration": "The Dual Blade Requiem should have been perfect. But something was wrong.",
+      "sfx": "Blades clashing, energy explosion, stone cracking, wind howling, gasp"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Trieu Tien stands, angry. 'You pulled your strike!' Huong: 'You went too wide!' They argue. Trieu Tien: 'He never taught me your cold precision.' Huong: 'He never taught me your reckless passion.' They glare at each other. Both holding their blades tightly. The hairpins pulse out of sync — one red, one white. Camera: close-up — arguing faces, hairpins pulsing out of sync, anger visible. 6 seconds.",
+      "camera": "Close-up — arguing, hairpins pulsing out of sync, anger, hurt, 6s",
+      "narration": "They were mirrors — and mirrors only reflect when they face each other honestly.",
+      "sfx": "Argue voices rising, blades humming, hairpins chiming discordantly, wind"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — Trieu Tien lowers her blade. Says quietly: 'I lost him because of how I am. Too emotional. Too reckless.' Huong's face softens. Huong: 'I was abandoned because I was too cold. Too controlled.' They stare at each other. Trieu Tien: 'He made us both wrong.' Huong: 'Maybe he made us both right.' The hairpins pulse — now in sync. Camera: extreme close-up — vulnerability, understanding, hairpins pulsing in sync. 6 seconds.",
+      "camera": "Extreme close-up — vulnerability, understanding, hairpins pulsing in sync, 6s",
+      "narration": "Two different wounds. The same root. And finally — understanding.",
+      "sfx": "Quiet breathing, hairpins chiming in harmony, wind dying, heartbeat"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — they raise their blades simultaneously. This time — their energy flows perfectly together. White and crimson spiral around each other like a double helix. The hairpins glow in perfect synchronization — same intensity, same rhythm. Their movements mirror exactly. The stone cracked before — now glows with stable combined energy. Camera: medium — perfect synchronization, dual helix energy, hairpins glowing in perfect sync, 6s.",
+      "camera": "Medium — perfect energy sync, dual helix spiral, hairpins glowing perfectly, 6s",
+      "narration": "And then — it clicked. Perfect synchronization. Two halves of one whole.",
+      "sfx": "Blades singing, energy humming perfectly, hairpins chiming in harmony, wind swirling gently"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — they strike together. One final combined strike — their dual-energy blade arc carves through the air and hits a massive stone pillar. The pillar splits cleanly in two — white on one side, crimson on the other. Both halves glow with residual energy. They stand side by side, blades raised. Breathing in perfect unison. The wind dies. Camera: wide shot — combined strike, pillar split white and crimson, two women side by side, wind dying. 6 seconds.",
+      "camera": "Wide shot — combined strike, pillar split perfectly, two women side by side, harmony achieved, 6s",
+      "narration": "Two different wounds healed. One perfect blade. The Sword Saint's true legacy — complete.",
+      "sfx": "Stone splitting clean, energy dissipating, two breaths in unison, wind stopping, triumphant hum"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-65.mp4",
+  "produced_at": "2026-04-05T14:07:13.398Z",
+  "publishedAt": "2026-04-06T01:37:46.707Z",
+  "tiktok_url": "/@fai20128/video/7625454125110643988"
+}

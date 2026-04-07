@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-082",
+  "title": "Tru Tien Episode 12: The Price of Undoing Pain",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Using the curse meant she would feel every wound she closed, every grief she reversed. By noon, she had felt the death of ten thousand soldiers — in her own body.",
+    "story_arc": "Price revealed → Soldier after soldier → Widow's grief floods in → Body breaking → Desperate choice",
+    "emotion": "Agony → Overflow → Horror → Breakdown → Desperation",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot at dawn — she stands in the war valley, surrounded by dozens of healed soldiers, restored widows, reunited families. They kneel before her, weeping with gratitude. But she is not celebrating. She collapses to her knees — blood pouring from her nose, her ears, her eyes. Every wound she healed is now in HER body. Camera: wide, grateful healed crowd kneeling, her collapsing in blood at center, dawn light. 6 seconds.",
+      "camera": "Wide — grateful healed crowd kneeling, her collapsing in blood at center, dawn valley, 6s",
+      "narration": "By dawn, she had healed thirty soldiers. And in her body she bore thirty wounds. Each one screamed.",
+      "sfx": "Crowd weeping, her blood dripping, dawn wind, ominous choral swell"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme close-up — her POV: vision blurring. She feels a soldier's gut wound — her own stomach tears. She feels a widow's grief — her own heart shatters. Multiple sensations layered. She claws at the ground, screaming. The grimoire beside her GLOWS. Camera: extreme close-up, her POV distortion, layered pain, ground clawing, glowing grimoire. 6 seconds.",
+      "camera": "Extreme close-up — her POV distortion, layered pain from multiple soldiers, clawing ground, glowing grimoire beside her, 6s",
+      "narration": "She felt a soldier's spear through his chest — her own ribs cracking inward. She felt a widow's three-year grief — her own heart dissolving. And there were ten thousand more wounds to feel.",
+      "sfx": "Gut wound tearing sound, heart shattering sound, her scream layered, grimoire pulsing, horror strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — a healed soldier approaches her. He kneels. 'What is your price, witch?' She looks up, face covered in blood, and says: 'Every wound you survived — I am surviving it NOW. In your place. So that you don't have to.' He stares. She collapses again. Camera: medium two-shot, soldier's shocked kneel, her bloody explanation, her collapse, blood pooling. 6 seconds.",
+      "camera": "Two-shot — healed soldier's shocked kneel, her bloody explanation, her collapse, blood pooling, 6s",
+      "narration": "Every wound you survived — I am surviving it now. In your place. So that you don't have to carry it anymore.",
+      "sfx": "Her collapse thud, soldier's sharp breath, blood pooling spreading, emotional orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — she lies on the ground, barely conscious. Blood everywhere. But her hand — her hand still reaches toward the grimoire. She will NOT stop. She opens it again. The curse adds MORE names. She accepts another wave of pain. Tears and blood mix on her face. Camera: close-up, bloody ground, her conscious hand reaching to grimoire, more names appearing. 6 seconds.",
+      "camera": "Close-up — her bloody face on ground, hand reaching to grimoire, curse adding more names, tear and blood mix, 6s",
+      "narration": "She could have stopped. The curse would have waited. But for every name in that book, there was a person who deserved to live without pain. And she would carry it for them.",
+      "sfx": "Her weak hand dragging, page turning, her sob, blood spreading, determined strings"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic at sunset — she stands on a hill, barely upright. She is ALIVE. Blood-stained, shaking, but alive. Below her: a valley of healed survivors. They look up at her with fear and awe. She looks at the grimoire — pages still filling. The curse is not done with her. Camera: wide cinematic, blood-stained woman on hill at sunset, healed valley below, grimoire still filling, survival stance. 6 seconds.",
+      "camera": "Wide cinematic — blood-stained woman standing on hill at sunset, healed valley below, grimoire still filling, survival stance, 6s",
+      "narration": "She had survived ten thousand wounds in one day. And the curse was still writing. Still adding names. And she had made her choice: she would carry them all.",
+      "sfx": "Wind, distant survivor murmur, her exhausted breath, sunset orchestral, dark determination"
+    }
+  ],
+  "audio": {
+    "narration": "By dawn, she had healed thirty soldiers. And in her body she bore thirty wounds. Each one screamed. She felt a soldier's spear through his chest — her own ribs cracking inward. She felt a widow's three-year grief — her own heart dissolving. And there were ten thousand more wounds to feel. Every wound you survived — I am surviving it now. In your place. So that you don't have to carry it anymore. She could have stopped. The curse would have waited. But for every name in that book, there was a person who deserved to live without pain. And she would carry it for them. She had survived ten thousand wounds in one day. And the curse was still writing. Still adding names. And she had made her choice: she would carry them all.",
+    "narration_duration": 28,
+    "bg_music": "Horrific emotional Chinese orchestral, pain transference theme, blood sacrifice, ten thousand wounds, suffering carried 65 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Crowd weeping",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Gut wound tearing sound",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Her collapse thud",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Her weak hand dragging",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Wind",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot at dawn — she stands in the war valley, surrounded by dozens of healed soldiers, restored widows, reunited families. They kneel before her, weeping with gratitude. But she is not celebrating. She collapses to her knees — blood pouring from her nose, her ears, her eyes. Every wound she healed is now in HER body. Camera: wide, grateful healed crowd kneeling, her collapsing in blood at center, dawn light. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Extreme close-up — her POV: vision blurring. She feels a soldier's gut wound — her own stomach tears. She feels a widow's grief — her own heart shatters. Multiple sensations layered. She claws at the ground, screaming. The grimoire beside her GLOWS. Camera: extreme close-up, her POV distortion, layered pain, ground clawing, glowing grimoire. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — a healed soldier approaches her. He kneels. 'What is your price, witch?' She looks up, face covered in blood, and says: 'Every wound you survived — I am surviving it NOW. In your place. So that you don't have to.' He stares. She collapses again. Camera: medium two-shot, soldier's shocked kneel, her bloody explanation, her collapse, blood pooling. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — she lies on the ground, barely conscious. Blood everywhere. But her hand — her hand still reaches toward the grimoire. She will NOT stop. She opens it again. The curse adds MORE names. She accepts another wave of pain. Tears and blood mix on her face. Camera: close-up, bloody ground, her conscious hand reaching to grimoire, more names appearing. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic at sunset — she stands on a hill, barely upright. She is ALIVE. Blood-stained, shaking, but alive. Below her: a valley of healed survivors. They look up at her with fear and awe. She looks at the grimoire — pages still filling. The curse is not done with her. Camera: wide cinematic, blood-stained woman on hill at sunset, healed valley below, grimoire still filling, survival stance. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 12: Cái Giá Của Việc Xóa Đau | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 12 of Tru Tien. Using the curse means she feels every wound she closes — in her own body. By noon, she has borne the pain of ten thousand soldiers. Nose, ears, eyes — bleeding everywhere. She refuses to stop.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "price of healing",
+      "pain transferred",
+      "blood magic",
+      "suffering carried",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Dùng cấm chú có nghĩa cô CHỊU đau của tất cả người cô chữa lành — trong chính cơ thể mình. Mười ngàn vết thương trong một ngày. Cô từ chối dừng lại ⚔️💀 Tập 12 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot at dawn — she stands in the war valley, surrounded by dozens of healed soldiers, restored widows, reunited families. They kneel before her, weeping with gratitude. But she is not celebrating. She collapses to her knees — blood pouring from her nose, her ears, her eyes. Every wound she healed is now in HER body. Camera: wide, grateful healed crowd kneeling, her collapsing in blood at center, dawn light. 6 seconds. Shot 2: Extreme close-up — her POV: vision blurring. She feels a soldier's gut wound — her own stomach tears. She feels a widow's grief — her own heart shatters. Multiple sensations layered. She claws at the ground, screaming. The grimoire beside her GLOWS. Camera: extreme close-up, her POV distortion, layered pain, ground clawing, glowing grimoire. 6 seconds. Shot 3: Medium shot — a healed soldier approaches her. He kneels. 'What is your price, witch?' She looks up, face covered in blood, and says: 'Every wound you survived — I am surviving it NOW. In your place. So that you don't have to.' He stares. She collapses again. Camera: medium two-shot, soldier's shocked kneel, her bloody explanation, her collapse, blood pooling. 6 seconds. Shot 4: Close-up — she lies on the ground, barely conscious. Blood everywhere. But her hand — her hand still reaches toward the grimoire. She will NOT stop. She opens it again. The curse adds MORE names. She accepts another wave of pain. Tears and blood mix on her face. Camera: close-up, bloody ground, her conscious hand reaching to grimoire, more names appearing. 6 seconds. Shot 5: Wide cinematic at sunset — she stands on a hill, barely upright. She is ALIVE. Blood-stained, shaking, but alive. Below her: a valley of healed survivors. They look up at her with fear and awe. She looks at the grimoire — pages still filling. The curse is not done with her. Camera: wide cinematic, blood-stained woman on hill at sunset, healed valley below, grimoire still filling, survival stance. 6 seconds.",
+  "visual_scene": "Wide shot at dawn — she stands in the war valley, surrounded by dozens of healed soldiers, restored widows, reunited families. They kneel before her, weeping with gratitude. But she is not celebrating. She collapses to her knees — blood pouring from her nose, her ears, her eyes. Every wound she healed is now in HER body. Camera: wide, grateful healed crowd kneeling, her collapsing in blood at center, dawn light. 6 seconds. Extreme close-up — her POV: vision blurring. She feels a soldier's gut wound — her own stomach tears. She feels a widow's grief — her own heart shatters. Multiple sensations layered. She claws at the ground, screaming. The grimoire beside her GLOWS. Camera: extreme close-up, her POV distortion, layered pain, ground clawing, glowing grimoire. 6 seconds. Medium shot — a healed soldier approaches her. He kneels. 'What is your price, witch?' She looks up, face covered in blood, and says: 'Every wound you survived — I am surviving it NOW. In your place. So that you don't have to.' He stares. She collapses again. Camera: medium two-shot, soldier's shocked kneel, her bloody explanation, her collapse, blood pooling. 6 seconds. Close-up — she lies on the ground, barely conscious. Blood everywhere. But her hand — her hand still reaches toward the grimoire. She will NOT stop. She opens it again. The curse adds MORE names. She accepts another wave of pain. Tears and blood mix on her face. Camera: close-up, bloody ground, her conscious hand reaching to grimoire, more names appearing. 6 seconds. Wide cinematic at sunset — she stands on a hill, barely upright. She is ALIVE. Blood-stained, shaking, but alive. Below her: a valley of healed survivors. They look up at her with fear and awe. She looks at the grimoire — pages still filling. The curse is not done with her. Camera: wide cinematic, blood-stained woman on hill at sunset, healed valley below, grimoire still filling, survival stance. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 12: The Price of Undoing Pain",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "price of healing",
+    "pain transferred",
+    "blood magic",
+    "suffering carried",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

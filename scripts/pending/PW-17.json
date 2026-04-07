@@ -1,0 +1,30 @@
+{
+  "id": "PW-17",
+  "category": "productivity",
+  "channel": "Productivity Worker",
+  "title": "How to Handle a Boss Who Takes Credit for Your Work",
+  "script": "A boss who takes credit for your work is playing a power game, not an oversight. The mistake most people make: they stay silent, seethe quietly, and then blow up later — which destroys the relationship and their reputation. The smart play: document everything in writing, from day one. A Slack message, an email, a shared doc. When your boss presents your work in a meeting, the paper trail speaks for you. Then, in private: 'Hey, I noticed my analysis on X was presented — just wanted to make sure you have full context on my contributions for future reviews.' Calm. Factual. Undeniable.",
+  "prompt_for_hailuo": "Person at desk, writes detailed email proposal, hits send with satisfaction [Screen close-up]. Days later: boss presents the same idea in a meeting, takes full credit [Meeting room: boss standing at whiteboard, person sitting visibly stunned]. Person privately approaches boss's desk, calm but firm conversation [Two-shot]. Person sends follow-up email summarizing the conversation [Screen close-up with send confirmation]. Person leaves office at end of day, head held high, confident walk [Tracking shot out the door]. Modern corporate office, professional lighting, cinematic emotional arc, portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "workplace conflict",
+    "boss",
+    "credit",
+    "career advice",
+    "professional",
+    "office politics"
+  ],
+  "thumbnail_idea": "Person at desk looking shocked, speech bubble showing boss claiming 'This was MY idea', 'DOCUMENT EVERYTHING' text overlay",
+  "visual_scene": "A corporate office mid-afternoon. A professional sits at their desk composing a detailed, well-researched email proposal — the kind of work they're proud of. They hit send with visible satisfaction. Fast forward: a meeting room where the boss stands confidently at a whiteboard, presenting the exact same idea as their own to a captive audience. The professional sits stunned in the audience, their jaw tightening. Then a private scene: the professional approaches the boss's desk, has a calm but firm one-on-one conversation. The boss shifts uncomfortably. The professional sends a follow-up email summarizing what was discussed. End of the workday: the professional walks out of the office, head held high, confident stride, with golden hour light. Modern corporate office, natural light, cinematic emotional arc, portrait 9:16.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark moody lighting, exaggerated drama, shouting or heated argument",
+  "specific_details": "Professional at a corporate desk writing a detailed proposal email, sending it, then later sitting stunned in a meeting as the boss takes full credit for the same idea standing at a whiteboard, having a calm but firm private conversation with the boss afterward, sending a follow-up email, and walking confidently out of the office at golden hour with head held high, modern corporate office aesthetic, portrait 9:16.",
+  "status": "published",
+  "published_at": "2026-03-30T13:50:00Z",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T10:12:00Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\PW-17.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z"
+}

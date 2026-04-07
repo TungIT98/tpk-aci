@@ -1,0 +1,30 @@
+{
+  "id": "COM-05",
+  "category": "comedy",
+  "channel": "TikTok_Viral",
+  "title": "POV: Bạn nói tiếng Anh với accent Việt trong interview — và mọi thứ trở nên rất thật",
+  "script": "POV: Bạn trong phỏng interview. Họ hỏi: 'Tell me about yourself.' Và bạn bắt đầu. 'Okay, sooo... my name is... uhh... Minh, and I am very very excited to be here today.' Giọng của bạn lên cao hơn bình thường 3 octave. Bạn biết mình đang nghe rất lạ. Họ cũng biết. Nhưng không ai nói gì. Chỉ có sự im lặng. Và nụ cười professional.",
+  "prompt_for_hailuo": "Young Vietnamese woman sitting across interview table in modern office [Medium shot two-shot]. Interviewer asks question [Close up woman listening intently]. Responds in English with visible effort, accent comes through [Close up face nervous smile]. Interviewer nods professionally, takes notes [Wide shot]. Woman looks at camera with knowing look [Direct address to camera]. Modern corporate office, professional lighting, comedic contrast between formal setting and awkward accent moment, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "pov",
+    "interview",
+    "accent",
+    "comedy",
+    "relatable",
+    "funny",
+    "vietnamese"
+  ],
+  "thumbnail_idea": "Vietnamese woman in interview saying awkward English, professional office, knowing look to camera",
+  "visual_scene": "A modern sleek corporate office with a glass interview room, a young Vietnamese woman sitting across a clean white table from a professional interviewer in a suit. The interviewer asks a question calmly. The woman listens intently, then responds in English with visible effort — her Vietnamese accent coming through noticeably, her voice slightly higher pitched and slower than normal as she carefully pronounces each word: 'Okay, sooo... my name is... uhh... Minh, and I am very very excited to be here today.' The interviewer nods professionally and takes notes on a notepad, the most neutral professional expression on their face. The woman glances at the camera with a knowing look — the universal expression of 'you know exactly what I'm talking about' — before turning back to the interviewer with a determined professional smile. Modern corporate office with clean professional lighting, comedic contrast between the formal setting and her awkward accent moment, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark moody lighting, casual home setting, gym or fitness setting, street food stall setting",
+  "specific_details": "Young Vietnamese woman in professional interview attire (white blouse, blazer, dark trousers) sitting across a glass interview table in a sleek modern corporate office, listening to interviewer question, responding in carefully pronounced English with noticeable Vietnamese accent and slightly higher voice, glancing at camera with knowing relatable look, interviewer nodding professionally and taking notes, clean professional corporate office lighting.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\COM-05.mp4",
+  "produced_at": "2026-03-31T01:56:33.382Z",
+  "produced_by": "ceo-gen-wave2",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

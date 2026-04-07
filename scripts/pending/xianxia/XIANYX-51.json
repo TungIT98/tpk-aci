@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-51",
+  "title": "Ha Tien Du Episode 1: The Worthless Disciple",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 1,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Dark, gritty, determined, slow-burn redemption, bitter-sweet",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "In a world where spiritual roots determine your worth — he has none.",
+    "story_arc": "Broken courtyard → Mocked by disciples → Forbidden book falls → First secret page → Silent resolve",
+    "emotion": "Bitterness → Shame → Shock → Wonder → Iron determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide shot — a ruined stone courtyard at dusk. A young man in a torn gray disciple's robe kneels in a mud puddle, head bowed. His face is bruised, lip split. Around him, five other disciples in pristine white robes stand mockingly. One kicks mud into his face. The sky is overcast, storm clouds gathering. Broken training dummies scattered around. Camera: extreme wide establishing shot, slow push in toward the kneeling figure. 6 seconds.",
+      "camera": "Push in — extreme wide to medium shot, 6s",
+      "narration": "In the Seven Peaks Sect, spiritual roots determined everything. And he had none.",
+      "sfx": "Rain beginning to fall, mocking laughter echoing, mud splatter"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the young man slowly raises his head. Mud drips from his face. His eyes are not angry — they are cold. A silent, simmering fury. Behind him, the sect's grand hall glows with golden light. Before him, the outer courtyard — cold, dark, damp. Camera: medium shot, static on his face, slow pull back to reveal the contrast between his world and theirs. 6 seconds.",
+      "camera": "Slow pull back — medium to wide, revealing the contrast, 6s",
+      "narration": "Kicked out of the inner sect at twelve. Given only dishwashing duties at nineteen.",
+      "sfx": "Distant golden music from the hall, rain intensifying, his own breathing"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — his hand, trembling with rage, picks up a fallen object from the mud. It is an ancient book, cover rotted away. The pages are yellow, ink faded. A symbol on the cover: a black serpent eating its own tail. He stares at it in disbelief. Rain drips onto the pages. Camera: close-up on his hand and the book, then slow zoom to his stunned eyes. 6 seconds.",
+      "camera": "Close-up on book, then zoom to eyes, 6s",
+      "narration": "Then one night, something fell from the sky. Something forbidden.",
+      "sfx": "Rain on ancient paper, his sharp inhale, thunder rolling in the distance"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium close-up — he sits alone in his tiny storage-room home, a single candle flickering. He turns the pages with trembling fingers. Each page shows a diagram of meridian points — completely different from sect teachings. Strange characters he has never seen. His eyes widen with each page. Candlelight casts dramatic shadows on his face. Camera: medium shot, over-the-shoulder, watching him turn pages. 6 seconds.",
+      "camera": "Over-shoulder — watching him read the forbidden text, 6s",
+      "narration": "The Black Serpent Manual. A technique so forbidden, even speaking its name meant death.",
+      "sfx": "Page turning, candle crackling, his rapid breathing, heartbeat audible"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — he closes the book. Looks directly at the camera. His bruised face. His hollow eyes. A single tear mixes with mud. Then — something changes. His expression hardens. Jaw tightens. He nods once to himself. He opens the book again. Camera: extreme close-up — eyes, jaw, then a hard cut to him opening the book again. 6 seconds.",
+      "camera": "Extreme close-up — face transformation from despair to resolve, 6s",
+      "narration": "If the world said he was worthless — he would prove them wrong. Starting now.",
+      "sfx": "Page opening, his breath steadying, low orchestral swell, then silence"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-51.mp4",
+  "produced_at": "2026-04-05T14:00:01.401Z",
+  "publishedAt": "2026-04-05T17:33:44.947Z",
+  "tiktok_url": "/@fai20128/video/7625329392515894548"
+}

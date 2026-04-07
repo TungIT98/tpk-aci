@@ -1,0 +1,62 @@
+{
+  "name": "Before-After Transformation",
+  "description": "Dramatic split-screen or split-reveal before/after format. Subject: room makeovers, fitness results, skill development, budget transformations, or habit changes.",
+  "target_platform": "tiktok",
+  "voice_style": "reflective, punchy, aspirational — 'I can't believe this is the same [subject]' energy; builds from skepticism to amazement",
+  "music_mood": "cinematic build, emotional swell, triumphant reveal beat — music mirrors the transformation arc",
+  "hashtag_suggestions": ["#transformation", "#beforeandafter", "#glowup", "#progressnotperfection", "#motivation", "#results", "#change", "#upgrade"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 3,
+      "narration_prompt": "My apartment looked like this six months ago. Hold on — I'll show you what it looks like now.",
+      "visual_prompt": "Split screen: chaotic apartment on left, arrow in middle, person covering right side with hand, teaser close-up of one polished detail",
+      "camera_movement": "static split screen composition, slow tilt to detail teaser",
+      "lighting_setup": "harsh overhead fluorescent for 'before' side, warm golden lamp light teasing 'after' side",
+      "hailuo_style_note": "Dramatic lighting contrast between harsh before and warm after is the visual hook; the hand-covering reveal is a proven TikTok mechanic",
+      "transition": "dramatic_pause"
+    },
+    {
+      "type": "content",
+      "duration_sec": 15,
+      "narration_prompt": "Before: 900-square-foot studio with no storage, beige walls, landlord-grade furniture, and a mattress on the floor.",
+      "visual_prompt": "Wide shot of messy room, clothes on floor, harsh overhead lighting, cluttered desk, unwashed dishes visible, timestamp 'January 2026'",
+      "camera_movement": "slow wide establishing pan across the messy room, revealing each chaotic element",
+      "lighting_setup": "harsh flat overhead fluorescent, cool blue-gray tones, slightly desaturated, unflattering shadows",
+      "hailuo_style_note": "Make 'before' look genuinely unappealing — the contrast is what makes the reveal satisfying; desaturate slightly for unflattering realism",
+      "transition": "slow_zoom"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "The strategy was simple: one room per month. Month one — I decluttered everything I hadn't touched in 90 days. Month two — I painted the walls.",
+      "visual_prompt": "Boxes being packed and labeled, paint swatches on wall, roller painting smooth strokes, closet transformation time-lapse",
+      "camera_movement": "time-lapse pacing for packing, smooth tracking pan across paint swatches, macro close-up on roller strokes",
+      "lighting_setup": "natural daylight through window, bright and hopeful tones, paint swatches with clean white card background",
+      "hailuo_style_note": "Time-lapse pacing creates satisfying 'process' feeling; clean paint swatch close-ups are highly shareable",
+      "transition": "time_lapse_reveal"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Month six: the reveal. New lighting — $40 from Amazon. Thrifted furniture — $220 total. Paint — $80. Total spend: $340. Total transformation time: one weekend a month.",
+      "visual_prompt": "Money being counted on counter, new lamp glowing warmly, room tour sweeping through, plants, art, textured throw pillows, beautiful bedding",
+      "camera_movement": "slow cinematic room tour: push through doorway, pan across room revealing each detail, tilt up to wall art",
+      "lighting_setup": "warm golden lamp light throughout, fairy lights as accent, golden hour color grade, rich saturated tones",
+      "hailuo_style_note": "The reveal is the hero — invest all production value here: slow smooth camera movement, warm rich color grade, every detail should glow",
+      "transition": "reveal_wipe"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 7,
+      "narration_prompt": "Your space shapes your mind. You don't need a big budget — you need a plan. Save this, screenshot the steps, start this weekend.",
+      "visual_prompt": "Person sitting in transformed space looking relaxed, coffee in hand, final wide shot of beautiful room, warm golden hour lighting, 'START THIS WEEKEND' text overlay",
+      "camera_movement": "slow pull-back from close-up to final wide room shot",
+      "lighting_setup": "golden hour through window, warm orange tones, backlit silhouette option for closing wide shot",
+      "hailuo_style_note": "Final wide shot should be aspirational wallpaper-worthy; person-with-coffee close-up gives emotional anchor to the space",
+      "transition": "slow_fade_out"
+    }
+  ]
+}

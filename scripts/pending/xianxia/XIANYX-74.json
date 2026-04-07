@@ -1,0 +1,154 @@
+﻿{
+  "id": "XIANYX-74",
+  "title": "Dau Pha Thuong Khau Episode 14: One Finger vs Wind Blade",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 14,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Epic battle climax, underdog victory, shocked crowd, rival humiliation reversed",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Wind blade met blue flame. In the collision — only ONE sound was heard. Not the crash of equal forces. The SHATTERING of one.",
+    "story_arc": "Na Jin's wind blade slashes → Collides with blue flame → Wind blade CRACKS → Na Jin sent flying → Crowd silenced → Xiao Yan stands victorious → The arena realizes what just happened",
+    "emotion": "Impact → Shock → Realization → Triumph → Absolute silence → Then explosion of gasps",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Slow-motion close-up — the moment of collision. Na Jin's wind blade (white crescent of wind qi) slams into Xiao Yan's single blue flame point. The two forces meet. Camera: slow-motion close-up — white wind crescent clashing with blue flame point, the exact moment of impact, arena dust frozen. 6 seconds.",
+      "camera": "Slow-motion close-up — wind blade clashing with blue flame, exact impact moment, arena dust frozen, 6s",
+      "narration": "The wind blade — legendary technique — met a single blue flame. In that moment, every cultivator present felt something they couldn't explain.",
+      "sfx": "Techniques colliding, impact freeze frame sound, arena gasp, energy crackling, wind and fire screaming"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme close-up — CRACK. The wind blade begins to crack from the impact point. A single crack shoots through the entire blade. Na Jin's eyes go wide with disbelief. Camera: extreme close-up — crack shooting through wind blade, Na Jin's wide disbelieving eyes, blade fragmenting. 6 seconds.",
+      "camera": "Extreme close-up — crack shooting through Na Jin's wind blade, his wide disbelieving eyes, 6s",
+      "narration": "The wind blade — cracked. One touch. A technique five-time champion Na Jin had spent years perfecting — was breaking.",
+      "sfx": "Blade cracking, Na Jin's shocked gasp, fragment explosion, energy releasing, his eyes widening"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — Na Jin is SHOVED backward by the flame's force. His feet drag across the arena floor — scoring lines in stone. He crashes into the arena wall. His wind blade DISSOLVES. Xiao Yan lowers his finger, perfectly still. Camera: medium — Na Jin crashing into wall, wind blade dissolving, Xiao Yan standing still with lowered finger. 6 seconds.",
+      "camera": "Medium — Na Jin crashing into arena wall, wind blade dissolving, Xiao Yan standing with finger lowered, 6s",
+      "narration": "Na Jin hit the wall. His wind blade — gone. Xiao Yan lowered his finger. And in the arena — absolute silence.",
+      "sfx": "Na Jin crashing, wind blade dissolving, silence falling, Xiao Yan's finger lowering, dust settling"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up sequence — crowd faces transform from laughing to shock to disbelief. The academy students' faces — white with shame. The sect elders — standing. Xiao Yan's sect members — tears of pride. Camera: close-up sequence — crowd face transformations (laughing → frozen → shock → pride tears), rapid cuts. 6 seconds.",
+      "camera": "Close-up rapid sequence — crowd face transformations from laughing to shock, academy shame, sect pride, 6s",
+      "narration": "The faces changed. From mockery — to disbelief — to shame. Because the废物 had just beaten their champion with one finger.",
+      "sfx": "Silence deepening, shocked whispers beginning, academy students' gasps, Xiao Yan sect members' emotional reaction"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Xiao Yan walks toward the fallen Na Jin. He reaches down. Offers his hand. Na Jin stares at it. 'Get up.' Xiao Yan's voice is cold but not cruel. 'The tournament isn't over.' Camera: wide — Xiao Yan offering hand to fallen Na Jin, Na Jin staring in disbelief, the arena watching in silence. 6 seconds.",
+      "camera": "Wide — Xiao Yan offering hand to fallen Na Jin, arena watching, tournament continues, 6s",
+      "narration": "He offered his hand. One finger was enough to beat him — but he offered his hand. The arena understood. Xiao Yan wasn't just powerful. He was magnanimous.",
+      "sfx": "Footsteps, arena silence, Na Jin's breathing, Xiao Yan's cold calm voice, triumphant orchestral swell building"
+    }
+  ],
+  "audio": {
+    "narration": "The wind blade — legendary technique — met a single blue flame. In that moment, every cultivator present felt something they couldn't explain. The wind blade — cracked. One touch. A technique five-time champion Na Jin had spent years perfecting — was breaking. Na Jin hit the wall. His wind blade — gone. Xiao Yan lowered his finger. And in the arena — absolute silence. The faces changed. From mockery — to disbelief — to shame. Because the废物 had just beaten their champion with one finger. He offered his hand. One finger was enough to beat him — but he offered his hand. The arena understood. Xiao Yan wasn't just powerful. He was magnanimous.",
+    "narration_duration": 28,
+    "bg_music": "Epic triumphant Chinese orchestral, wind blade shattering, one finger victory, magnanimous walk 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Techniques colliding, impact",
+        "volume": 0.6
+      },
+      {
+        "time": 6,
+        "sound": "Blade cracking, shock",
+        "volume": 0.6
+      },
+      {
+        "time": 12,
+        "sound": "Na Jin crashing, silence",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Crowd gasps, face transformations",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Footsteps, magnanimous music swell",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 14: Một Ngón Tay Đánh Bại Vô Địch | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Episode 14 of Đấu Phá Thương Khung. Na Jin, five-time champion, unleashed his legendary wind blade against Xiao Yan. One blue flame on one finger met that wind. The blade — shattered. Na Jin — sent flying. And then Xiao Yan offered his hand. 'The tournament isn't over.'",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "Na Jin defeated",
+      "one finger victory",
+      "wind blade shattered",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Lưỡi kiếm gió huyền thoại ĐỐN TRAẦN 5 NĂM VÔ ĐỊCH bị đánh bại bởi MỘT NGÓN TAY xanh! Na Jin bay vào tường. Sau đó hắn... đưa tay dìu hắn dậy 🔥 Tập 14",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Arena collision moment, wind blade cracking, Na Jin crashing into wall, crowd face transformations, magnanimous hand offer",
+  "specific_details": {
+    "subject": "Xiao Yan: black robes, perfectly still, one blue flame on raised finger → finger now lowered, calm magnanimous expression. Na Jin: white robes (now dust-covered from crashing), fallen against wall, wind blade dissolved, shocked/disbelieving face.",
+    "outfit_exact": "Xiao Yan: black robes with fire spirit pattern, high warrior bun, blue flame on finger (now dissipated), cold but not cruel expression. Na Jin: white academy robes now dusty from arena crash, jade medallion cracked, hair disheveled.",
+    "setting_details": "Arena floor with scoring marks, arena wall where Na Jin crashed, tiered stone seating, dust particles in air from impact, dramatic arena lighting",
+    "face_expression": "Xiao Yan: cold calm → magnanimous. Na Jin: shock → disbelief → beginning of respect",
+    "body_movement": "Xiao Yan: finger technique pose → standing still → reaching down to offer hand. Na Jin: wind blade stance → flying back → slumped against wall → staring at offered hand",
+    "camera": "Slow-motion impact close-up, extreme crack close-up, medium crash shot, rapid face transformation sequence, wide magnanimous moment"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 14: Wind blade shattered — one finger victory in the arena",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "Na Jin defeated",
+    "one finger victory",
+    "wind blade shattered",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T15:30:00Z",
+  "publishedAt": "2026-04-06T02:51:03.742Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625461801416658197"
+}

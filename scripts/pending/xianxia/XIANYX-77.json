@@ -1,0 +1,154 @@
+﻿{
+  "id": "XIANYX-77",
+  "title": "Dau Pha Thuong Khau Episode 17: The Elder Fled",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 17,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Confrontation, power reversal, elder humiliated, justice served, rising legend",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Elder Hai Kun: 'He's just a废物 with a lucky pill!' He charged — Dou Huang level aura EXPLODING. Xiao Yan raised one finger. Blue-violet flame appeared. The elder stopped mid-charge.",
+    "story_arc": "Elder Hai Kun confronts Xiao Yan → Boasts of Dou Huang power → Charges with full aura → Xiao Yan raises one finger → Flame vs elder's aura → Elder realization and retreat → Xiao Yan's warning",
+    "emotion": "Boast → Charge → Shock → Recognition → Humiliation → Warning",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect courtyard. Elder Hai Kun faces Xiao Yan across the open ground. The elder's face is twisted with rage. 'You destroyed my assassins with a TRICK! Now face me properly!' Dou Huang (Fight Emperor) aura EXPLODES from him — so intense it cracks the courtyard stones. Camera: wide — elder's Dou Huang aura exploding, cracked courtyard stones, Xiao Yan standing still in the center. 6 seconds.",
+      "camera": "Wide — elder's Dou Huang aura exploding, cracked courtyard stones, Xiao Yan standing in center, 6s",
+      "narration": "Dou Huang aura. The elder's full power. It cracked the stones beneath his feet. Xiao Yan stood in the center of that pressure — and smiled.",
+      "sfx": "Aura explosion, stone cracking, elder's rage roar, powerful wind, courtyard debris"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan raises one finger. A single point of blue-violet flame appears on his fingertip. The elder charges. His Dou Huang aura should crush Xiao Yan effortlessly. But something makes him slow down. His eyes lock on that single flame. Camera: close-up — Xiao Yan's raised finger with single violet-blue flame point, elder charging then slowing, his eyes locking on flame. 6 seconds.",
+      "camera": "Close-up — single violet-blue flame on finger, elder charging then slowing, recognition in his eyes, 6s",
+      "narration": "That flame. The elder's face changed. Because he recognized it. The Flame Emperor's fire — the fire that had killed Dou Sheng (Fight Saint) level masters three hundred years ago.",
+      "sfx": "Elder charging, footsteps slowing, his sharp inhale, flame crackling, fear entering voice"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the elder STOPS. His Dou Huang aura flickers with fear. 'The Flame Emperor's fire?!' His voice cracks. Xiao Yan nods slightly. 'Your assassins were just the beginning.' The elder's face goes pale. Camera: close-up — elder stopping, Dou Huang aura flickering, pale face, recognition of danger, his voice cracking. 6 seconds.",
+      "camera": "Close-up — elder stopping, aura flickering with fear, pale face, voice cracking, recognition of danger, 6s",
+      "narration": "The elder stopped. His Dou Huang power — meant nothing against the fire that had killed Dou Sheng masters three centuries ago.",
+      "sfx": "Aura flickering, elder's fearful voice crack, silence falling, wind stopping, Xiao Yan's calm breathing"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — the elder FLEES. He turns and runs — Dou Huang fleeing from a Dou Wang. Disciples watch in disbelief. The elder disappears over the sect wall. Xiao Yan lowers his finger. Camera: medium — elder fleeing over sect wall, disciples watching in shock and disbelief, Xiao Yan lowering finger calmly. 6 seconds.",
+      "camera": "Medium — elder fleeing over sect wall, disciples watching in shock, Xiao Yan lowering finger calmly, 6s",
+      "narration": "Dou Huang fled. From his own student. The elder ran over the wall like a thief — and no one stopped laughing for three days.",
+      "sfx": "Elder fleeing footsteps, disciples' shocked gasps turning to laughter, wall rustling, relief laugh, wind returning"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Xiao Yan addresses the gathered disciples. 'He killed my father. He'll answer for it.' His voice is ice. Then he turns and walks away, violet-blue flame trailing his footsteps. The disciples bow spontaneously as he passes. Camera: wide — Xiao Yan addressing disciples with his warning, bowing disciples, violet-blue flame trailing, emperor's walk. 6 seconds.",
+      "camera": "Wide — Xiao Yan addressing disciples, bowing disciples as he passes, violet-blue flame trailing, 6s",
+      "narration": "He declared his intention. The elder who killed his father would answer for it. And with every step he took — the disciples bowed.",
+      "sfx": "His ice-cold declaration, disciples bowing, flame trailing footsteps, triumphant orchestral swell, wind carrying his words"
+    }
+  ],
+  "audio": {
+    "narration": "Dou Huang aura. The elder's full power. It cracked the stones beneath his feet. Xiao Yan stood in the center of that pressure — and smiled. That flame. The elder's face changed. Because he recognized it. The Flame Emperor's fire — the fire that had killed Dou Sheng (Fight Saint) level masters three hundred years ago. The elder stopped. His Dou Huang power — meant nothing against the fire that had killed Dou Sheng masters three centuries ago. Dou Huang fled. From his own student. The elder ran over the wall like a thief — and no one stopped laughing for three days. He declared his intention. The elder who killed his father would answer for it. And with every step he took — the disciples bowed.",
+    "narration_duration": 28,
+    "bg_music": "Epic confrontation Chinese orchestral, Dou Huang aura, flame recognition, elder fleeing, emperor's walk 100 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Aura explosion, stone cracking",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Elder stopping, fearful inhale",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Aura flickering, pale face recognition",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Elder fleeing, disciples' shocked laughter",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Declaration, disciples bowing, triumphant swell",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 17: Trưởng Lão Chạy Trốn | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 17 of Đấu Phá Thương Khung. Elder Hai Kun confronts Xiao Yan with full Dou Huang power — then recognizes the Flame Emperor's fire on his finger. Dou Huang flees from a Dou Wang. 'He killed my father. He'll answer for it,' Xiao Yan declares. The disciples bow as he passes.",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "elder hai kun",
+      "Dou Huang fleeing",
+      "flame emperor fire",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Đấu Hoàng cấp Trưởng Lão xông vào hòng giết Thoát Vương! Nhưng hắn nhận ra LỬA HOÀNG ĐẾ HỎA DIỆT... Đấu Hoàng bỏ chạy! Đệ tử cười 3 ngày 🔥 Tập 17",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Cracked courtyard with Dou Huang aura explosion, single violet-blue flame on finger, elder stopping in fear, elder fleeing over wall, disciples bowing",
+  "specific_details": {
+    "subject": "Xiao Yan: black robes, single violet-blue flame on raised finger, calm cold expression. Elder Hai Kun: older man 50s, dark elder robes, twisted rage face, pale fear face.",
+    "outfit_exact": "Xiao Yan: black robes with fire spirit pattern, hair in high warrior bun, violet-blue flame on index finger, emperor's walk. Elder Hai Kun: dark sect elder robes, cracked stones around him from aura, fleeing in torn robes.",
+    "setting_details": "Sect courtyard with cracked stone floor, gathered disciples watching, sect wall in background, dramatic afternoon lighting with aura effects",
+    "face_expression": "Xiao Yan: calm cold smile building to ice-cold declaration. Elder Hai Kun: twisted rage → shock → pale fear → fleeing panic",
+    "body_movement": "Elder: aura explosion → charging → stopping → fleeing. Xiao Yan: finger raised → lowering calmly → walking with bowing disciples",
+    "camera": "Wide aura explosion, close-up finger flame, medium elder stopping, wide fleeing moment, wide bowing disciples"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 17: Dou Huang flees — elder running over sect wall in panic",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "elder hai kun",
+    "Dou Huang fleeing",
+    "flame emperor fire",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T16:00:00Z",
+  "publishedAt": "2026-04-06T02:51:03.744Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625462820250848532"
+}

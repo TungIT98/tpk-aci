@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-079",
+  "title": "Dau Pha Thuong Khau Episode 19: The Assassin's Kindness",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 19,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A assassin sent to kill him chooses not to. She teaches him the art of death — so he can survive.",
+    "story_arc": "Assassin appears → She hesitates → Mercy chosen → Training begins → Death art taught",
+    "emotion": "Tension → Danger → Mercy → Reluctant trust → Deadly skill",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Close-up — a blade at his throat in a moonlit palace courtyard. He had known she was there. Had felt her presence the moment she entered. He does not move. Does not breathe. The assassin: a woman in black, face hidden, blade perfectly steady at his throat. One move and he dies. Camera: extreme close-up, blade at throat, moonlit courtyard, assassin and emperor frozen, perfect lethal stillness. 6 seconds.",
+      "camera": "Extreme close-up — blade at throat in moonlit courtyard, perfect lethal stillness, assassin and emperor frozen, 6s",
+      "narration": "She was the best assassin in the empire. Had been sent by the empress dowager. And she had found him — alone, unprotected — in the moonlit courtyard. One stroke and it would be over.",
+      "sfx": "Blade humming, wind, his held breath, night cricket sounds, tension strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme close-up — he speaks. Not begging. 'I know who sent you. I know why.' He opens his eyes. Looks at her — not with fear. With understanding. 'Are you going to tell me your name first? Or just kill me?' The blade trembles. Just slightly. She had not expected that. Camera: extreme close-up, blade trembling, his calm words, assassin's hesitation revealed. 6 seconds.",
+      "camera": "Extreme close-up — blade trembling, his calm words, assassin's hesitation, unexpected response to death, 6s",
+      "narration": "She had killed fourteen emperors. Had never hesitated. But this one — looked at her with understanding, not fear. As if he knew what it was like to be used as a weapon.",
+      "sfx": "Blade trembling, his quiet voice, her sharp inhale, night wind, tension crackle"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she lowers the blade. Removes her face covering. A woman of twenty-five, scarred, beautiful in a broken way. 'They told me you were a monster,' she says. 'You're not.' She sits on the courtyard bench — casually, as if she had not just been about to kill him. 'The empress dowager wants you dead. But I don't kill people who are not monsters.' Camera: close-up, assassin revealing face, sitting on bench, 'I don't kill people who are not monsters', mercy chosen. 6 seconds.",
+      "camera": "Close-up — assassin revealing face, sitting on bench, 'I don't kill monsters', mercy chosen, unexpected mercy in dark place, 6s",
+      "narration": "She was the empire's most deadly assassin — and she had just refused to kill. Not because she was weak. Because she had a code. She did not kill those who did not deserve it.",
+      "sfx": "Blade lowering, face covering removing, her quiet voice, bench sitting, soft night ambience"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — she begins teaching him in the moonlight. 'Your enemies will send assassins,' she says. 'You need to know how they think. How they move.' She demonstrates — a blade appearing from nowhere, pressed to his throat from behind, from the side, from above. She teaches him to sense presence, to read intention in footsteps. He learns fast. Camera: medium, moonlit training, assassin's deadly techniques, he learns fast, deadly skill building. 6 seconds.",
+      "camera": "Medium — moonlit assassin training, deadly techniques, sense presence, learning to read footsteps, deadly skill building, 6s",
+      "narration": "She taught him the art of death — not to kill, but to survive. To sense the blade before it arrived. To read the darkness before it struck. Every emperor needed to know how an assassin thought.",
+      "sfx": "Blade appearing, technique demonstration, his fast learning, night wind, focused breathing, deadly strings"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — dawn breaks over the courtyard. She sheathes her blade. He stands — transformed. He has dark circles under his eyes from the night of training, but his eyes are sharper. Cleverer. He looks at her. 'Will I see you again?' She smiles — the first real smile she has shown. 'Every time someone tries to kill you — I'll be there.' She vanishes into the dawn shadows. Camera: full-body, dawn breaking, assassin vanishing into shadows, emperor transformed, 'I'll be there' promise. 6 seconds. End on his face.",
+      "camera": "Full-body cinematic — dawn breaking, assassin vanishing into shadows, emperor transformed by training, 'I'll be there' promise, 6s",
+      "narration": "She had been sent to kill him. She had taught him to survive instead. And as she vanished into the dawn — he understood. The most dangerous weapon in the empire was now on his side.",
+      "sfx": "Blade sheathing, dawn birds, her vanishing footsteps, his quiet breath, hopeful yet dark orchestral"
+    }
+  ],
+  "audio": {
+    "narration": "She was the best assassin in the empire. Had been sent by the empress dowager. And she had found him — alone, unprotected — in the moonlit courtyard. One stroke and it would be over. She had killed fourteen emperors. Had never hesitated. But this one — looked at her with understanding, not fear. As if he knew what it was like to be used as a weapon. She was the empire's most deadly assassin — and she had just refused to kill. Not because she was weak. Because she had a code. She did not kill those who did not deserve it. She taught him the art of death — not to kill, but to survive. To sense the blade before it arrived. To read the darkness before it struck. Every emperor needed to know how an assassin thought. She had been sent to kill him. She had taught him to survive instead. And as she vanished into the dawn — he understood. The most dangerous weapon in the empire was now on his side.",
+    "narration_duration": 28,
+    "bg_music": "Dark training orchestral, assassin's mercy theme, moonlit courtyard, deadly skill building, hopeful and dangerous 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Blade humming",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Blade trembling",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Blade lowering",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Blade appearing",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Blade sheathing",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Close-up — a blade at his throat in a moonlit palace courtyard. He had known she was there. Had felt her presence the moment she entered. He does not move. Does not breathe. The assassin: a woman in black, face hidden, blade perfectly steady at his throat. One move and he dies. Camera: extreme close-up, blade at throat, moonlit courtyard, assassin and emperor frozen, perfect lethal stillness. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Extreme close-up — he speaks. Not begging. 'I know who sent you. I know why.' He opens his eyes. Looks at her — not with fear. With understanding. 'Are you going to tell me your name first? Or just kill me?' The blade trembles. Just slightly. She had not expected that. Camera: extreme close-up, blade trembling, his calm words, assassin's hesitation revealed. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she lowers the blade. Removes her face covering. A woman of twenty-five, scarred, beautiful in a broken way. 'They told me you were a monster,' she says. 'You're not.' She sits on the courtyard bench — casually, as if she had not just been about to kill him. 'The empress dowager wants you dead. But I don't kill people who are not monsters.' Camera: close-up, assassin revealing face, sitting on bench, 'I don't kill people who are not monsters', mercy chosen. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Medium shot — she begins teaching him in the moonlight. 'Your enemies will send assassins,' she says. 'You need to know how they think. How they move.' She demonstrates — a blade appearing from nowhere, pressed to his throat from behind, from the side, from above. She teaches him to sense presence, to read intention in footsteps. He learns fast. Camera: medium, moonlit training, assassin's deadly techniques, he learns fast, deadly skill building. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — dawn breaks over the courtyard. She sheathes her blade. He stands — transformed. He has dark circles under his eyes from the night of training, but his eyes are sharper. Cleverer. He looks at her. 'Will I see you again?' She smiles — the first real smile she has shown. 'Every time someone tries to kill you — I'll be there.' She vanishes into the dawn shadows. Camera: full-body, dawn breaking, assassin vanishing into shadows, emperor transformed, 'I'll be there' promise. 6 seconds. End on his face."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Tập 19: Lòng Tốt Của Kẻ Ác Sĩ | Xianxia Việt Sub ⚔️🏯",
+    "youtube_description": "Episode 19 of Dau Pha Thuong Khau. The empire's most deadly assassin is sent to kill him — and chooses mercy instead. She spends one night teaching him the art of death: how assassins think, how blades arrive, how to survive the darkness. The most dangerous weapon in the empire now fights for him.",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "assassin mercy",
+      "assassination training",
+      "art of death",
+      "survival skills",
+      "palace intrigue",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Sát thủ hung tàn nhất được cử đi giết anh — nhưng cô ấy chọn lòng thương xót. Cô dạy anh nghệ thuật cái chết suốt một đêm. Vũ khí nguy hiểm nhất đế chế bây giờ đấu tranh cho anh ⚔️🏯 Tập 19 DPTK #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Close-up — a blade at his throat in a moonlit palace courtyard. He had known she was there. Had felt her presence the moment she entered. He does not move. Does not breathe. The assassin: a woman in black, face hidden, blade perfectly steady at his throat. One move and he dies. Camera: extreme close-up, blade at throat, moonlit courtyard, assassin and emperor frozen, perfect lethal stillness. 6 seconds. Shot 2: Extreme close-up — he speaks. Not begging. 'I know who sent you. I know why.' He opens his eyes. Looks at her — not with fear. With understanding. 'Are you going to tell me your name first? Or just kill me?' The blade trembles. Just slightly. She had not expected that. Camera: extreme close-up, blade trembling, his calm words, assassin's hesitation revealed. 6 seconds. Shot 3: Close-up — she lowers the blade. Removes her face covering. A woman of twenty-five, scarred, beautiful in a broken way. 'They told me you were a monster,' she says. 'You're not.' She sits on the courtyard bench — casually, as if she had not just been about to kill him. 'The empress dowager wants you dead. But I don't kill people who are not monsters.' Camera: close-up, assassin revealing face, sitting on bench, 'I don't kill people who are not monsters', mercy chosen. 6 seconds. Shot 4: Medium shot — she begins teaching him in the moonlight. 'Your enemies will send assassins,' she says. 'You need to know how they think. How they move.' She demonstrates — a blade appearing from nowhere, pressed to his throat from behind, from the side, from above. She teaches him to sense presence, to read intention in footsteps. He learns fast. Camera: medium, moonlit training, assassin's deadly techniques, he learns fast, deadly skill building. 6 seconds. Shot 5: Full-body cinematic — dawn breaks over the courtyard. She sheathes her blade. He stands — transformed. He has dark circles under his eyes from the night of training, but his eyes are sharper. Cleverer. He looks at her. 'Will I see you again?' She smiles — the first real smile she has shown. 'Every time someone tries to kill you — I'll be there.' She vanishes into the dawn shadows. Camera: full-body, dawn breaking, assassin vanishing into shadows, emperor transformed, 'I'll be there' promise. 6 seconds. End on his face.",
+  "visual_scene": "Close-up — a blade at his throat in a moonlit palace courtyard. He had known she was there. Had felt her presence the moment she entered. He does not move. Does not breathe. The assassin: a woman in black, face hidden, blade perfectly steady at his throat. One move and he dies. Camera: extreme close-up, blade at throat, moonlit courtyard, assassin and emperor frozen, perfect lethal stillness. 6 seconds. Extreme close-up — he speaks. Not begging. 'I know who sent you. I know why.' He opens his eyes. Looks at her — not with fear. With understanding. 'Are you going to tell me your name first? Or just kill me?' The blade trembles. Just slightly. She had not expected that. Camera: extreme close-up, blade trembling, his calm words, assassin's hesitation revealed. 6 seconds. Close-up — she lowers the blade. Removes her face covering. A woman of twenty-five, scarred, beautiful in a broken way. 'They told me you were a monster,' she says. 'You're not.' She sits on the courtyard bench — casually, as if she had not just been about to kill him. 'The empress dowager wants you dead. But I don't kill people who are not monsters.' Camera: close-up, assassin revealing face, sitting on bench, 'I don't kill people who are not monsters', mercy chosen. 6 seconds. Medium shot — she begins teaching him in the moonlight. 'Your enemies will send assassins,' she says. 'You need to know how they think. How they move.' She demonstrates — a blade appearing from nowhere, pressed to his throat from behind, from the side, from above. She teaches him to sense presence, to read intention in footsteps. He learns fast. Camera: medium, moonlit training, assassin's deadly techniques, he learns fast, deadly skill building. 6 seconds. Full-body cinematic — dawn breaks over the courtyard. She sheathes her blade. He stands — transformed. He has dark circles under his eyes from the night of training, but his eyes are sharper. Cleverer. He looks at her. 'Will I see you again?' She smiles — the first real smile she has shown. 'Every time someone tries to kill you — I'll be there.' She vanishes into the dawn shadows. Camera: full-body, dawn breaking, assassin vanishing into shadows, emperor transformed, 'I'll be there' promise. 6 seconds. End on his face.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 19: The Assassin's Kindness",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "assassin mercy",
+    "assassination training",
+    "art of death",
+    "survival skills",
+    "palace intrigue",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

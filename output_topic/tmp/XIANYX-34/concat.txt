@@ -1,0 +1,5 @@
+file 'shot1_scaled.mp4'
+file 'shot2_scaled.mp4'
+file 'shot3_scaled.mp4'
+file 'shot4_scaled.mp4'
+file 'shot5_scaled.mp4'

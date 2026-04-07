@@ -1,0 +1,30 @@
+{
+  "id": "TECH-02",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "ChatGPT có thể làm được 5 điều này mà bạn chưa biết",
+  "script": "Bạn nghĩ ChatGPT chỉ trả lời câu hỏi? Sai rồi. ChatGPT có thể viết code, phân tích dữ liệu, dịch thuật, sáng tác nhạc, và thậm chí lập trình cả một trang web chỉ trong 30 giây. Nhưng 90% người dùng chỉ dùng 10% sức mạnh của nó. Đây là 5 trick vào prompt cực kỳ hiệu quả mà những người dùng pro ai cũng dùng mà bạn chưa biết.",
+  "prompt_for_hailuo": "Split screen: left side shows a person looking frustrated at a laptop with a generic ChatGPT interface, right side shows the same person smiling with a dashboard full of AI tools and completed tasks. [Fast transition wipe]. Futuristic holographic interface materializing above a glowing smartphone, neon blue and purple lighting, productivity dashboard, TikTok viral style, 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "chatgpt",
+    "ai",
+    "productivity",
+    "tips",
+    "tech",
+    "tutorial",
+    "prompts"
+  ],
+  "thumbnail_idea": "Split screen: confused vs empowered AI user, neon glow",
+  "visual_scene": "Split screen setup: left panel shows a person looking frustrated and overwhelmed at a laptop with a generic ChatGPT chat window open, mundane tasks piling up — spreadsheets, emails, code files. A dramatic wipe transition reveals the right panel — the same person smiling confidently, a holographic AI productivity dashboard floating above their glowing smartphone displaying completed tasks, generated code, translated documents, and composed music notes. Background shifts from dark cluttered desk to sleek futuristic workspace with neon blue and purple ambient lighting. Cinematic zoom on the holographic interface. Portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Split screen showing frustrated vs empowered AI user, left side cluttered dark desk with generic ChatGPT interface, right side sleek futuristic workspace with holographic floating AI dashboard showing productivity metrics, completed tasks, code snippets, music notation, and translations, neon blue and purple ambient glow, cinematic transition wipe, portrait 9:16 framing.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "produced_at": "2026-03-30T15:37:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-02.mp4",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

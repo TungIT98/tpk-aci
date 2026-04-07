@@ -1,0 +1,158 @@
+﻿{
+  "id": "XIANYX-85",
+  "title": "Tru Tien Episode 15: The Ant King",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 15,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Boss battle beginning, overwhelming threat, underdog fight, legendary confrontation",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Ant King was twenty meters tall. Jin-Woo — barely reaching its knee. The shadow army charged. The Ant King laughed. Jin-Woo activated his Shadow Exchange. Everything went silent.",
+    "story_arc": "Massive ant nest discovered → Ant King revealed (20m tall) → Shadow army charges → Ant King laughs and crushes shadows → Jin-Woo activates Shadow Exchange → The tables turn",
+    "emotion": "Discovery → Shock at size → Army charge → Ant King laughter → Shadow Exchange activation → Tension",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — underground ant nest. Massive chambers carved from earth. Jin-Woo and his shadow army stand at the entrance to the deepest chamber. From within — a SOUND. The ground shakes. Camera: wide — underground ant nest, Jin-Woo and shadow army at chamber entrance, ground shaking from within, ominous growling sound. 6 seconds.",
+      "camera": "Wide — underground ant nest entrance, Jin-Woo and shadow army facing deepest chamber, ground shaking, 6s",
+      "narration": "The ant nest went deeper than any dungeon map showed. And from the deepest chamber — something was waking up.",
+      "sfx": "Underground echo, ground shaking, ominous growl, ant movement sounds, tension drumbeat"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Extreme wide shot — the Ant King emerges. Twenty meters tall. Its body is armored chitin, black as obsidian. Four massive arms end in blade-like claws. It fills the entire chamber. Jin-Woo reaches its KNEE. Camera: extreme wide shot — Ant King emerging (20m tall, obsidian black chitin armor, four blade arms), filling entire chamber, Jin-Woo at its knee. 6 seconds.",
+      "camera": "Extreme wide shot — Ant King emerging, 20m tall obsidian-black chitin, four blade arms, Jin-Woo at its knee level, 6s",
+      "narration": "Twenty meters. Jin-Woo — reaching its knee. The Ant King looked down at him — and the humans it had eaten — and LAUGHED.",
+      "sfx": "Ant King emerging sound, massive body rumbling, low growling laugh, earth cracking, Jin-Woo's shadow army trembling"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — Jin-Woo raises his hand. 'Shadow Army — ATTACK!' Every shadow soldier charges simultaneously. Knight shadows, archer shadows, giant shadows — all rushing the Ant King. Camera: wide — shadow army charging simultaneously, knight and archer shadows rushing Ant King, battle charge, war drums. 6 seconds.",
+      "camera": "Wide — shadow army charging simultaneously, all shadow soldiers rushing Ant King, battle charge, war drums, 6s",
+      "narration": "He sent his army. Every shadow soldier he had collected — charging as one. The Ant King smiled with four rows of teeth.",
+      "sfx": "Shadow army charging, battle cry, war drums, knight swords drawn, archer arrows nocking, Jin-Woo's command"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Slow-motion medium shot — the Ant King SWINGS. One blade arm — THROUGH TWENTY shadow soldiers. They explode into darkness. Another swing — thirty more. The shadow army breaks against it like waves on rock. Camera: slow-motion medium — Ant King blade arm swinging through shadows, shadows exploding into darkness, army breaking like waves, overwhelming power. 6 seconds.",
+      "camera": "Slow-motion medium — Ant King blade arms swinging through shadow soldiers, shadows exploding, army breaking, overwhelming power, 6s",
+      "narration": "One swing — twenty shadows dead. Another — thirty more. The shadow army was being erased. And the Ant King — was laughing harder.",
+      "sfx": "Blade swing sound, shadows exploding, Ant King laughing, army breaking, desperate battle sounds, Jin-Woo's clenched fists"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo clenches his fist. His eyes change — shadow black, glowing white. 'SHADOW EXCHANGE.' His body DISSOLVES into shadow and vanishes. The Ant King stops laughing. Jin-Woo's voice echoes from everywhere: 'Your power — is MINE.' Camera: close-up — Jin-Woo's eyes changing to shadow black with white glow, clenching fist, body dissolving to shadow, Ant King stopping mid-swing, everywhere voice. 6 seconds.",
+      "camera": "Close-up — Jin-Woo's eyes changing to shadow black with white glow, Shadow Exchange dissolving body, Ant King stopping mid-swing, everywhere voice echoing, 6s",
+      "narration": "'Shadow Exchange.' His body — dissolved into shadow. And the Ant King's power — which had just crushed his army — was now flowing INTO him.",
+      "sfx": "Shadow Exchange activation, body dissolving, Ant King's shocked pause, power flowing, everywhere voice echoing, epic swell building"
+    }
+  ],
+  "audio": {
+    "narration": "The ant nest went deeper than any dungeon map showed. And from the deepest chamber — something was waking up. Twenty meters. Jin-Woo — reaching its knee. The Ant King looked down at him — and the humans it had eaten — and LAUGHED. He sent his army. Every shadow soldier he had collected — charging as one. The Ant King smiled with four rows of teeth. One swing — twenty shadows dead. Another — thirty more. The shadow army was being erased. And the Ant King — was laughing harder. 'Shadow Exchange.' His body — dissolved into shadow. And the Ant King's power — which had just crushed his army — was now flowing INTO him.",
+    "narration_duration": 28,
+    "bg_music": "Epic boss battle orchestral, ant king reveal, shadow army charge, overwhelming power, Shadow Exchange awakening 110 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Underground rumble, ominous growl",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Ant King emerging, massive rumble, low laugh",
+        "volume": 0.6
+      },
+      {
+        "time": 12,
+        "sound": "Shadow army charging, battle drums",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Blade swing, shadows exploding, Ant King laughing",
+        "volume": 0.6
+      },
+      {
+        "time": 24,
+        "sound": "Shadow Exchange activation, body dissolving, everywhere voice",
+        "volume": 0.7
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 15: Kiến Vương | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 15 of Solo Leveling (Trừ Tiên). Jin-Woo discovers a massive ant nest — and the Ant King. Twenty meters tall, obsidian-black chitin, four blade arms. His shadow army charges. The Ant King crushes them with one swing each. Then Jin-Woo activates Shadow Exchange — and his body dissolves into shadow.",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "Ant King",
+      "shadow army",
+      "Jin-Woo",
+      "Shadow Exchange",
+      "boss battle",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Kiến Vương cao 20 MÉT xuất hiện! Bốn tay kiến, giáp Mun! Quân đội bóng tối xung phong... BỊ CẮT CHẾT từng đợt! Hắn cười! Rồi Jin-Woo... 'SHADOW EXCHANGE!' Cơ thể tan vào bóng tối... 'Sức mạnh ngươi — LÀ CỦA TA!' 🔥 Tập 15",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Massive underground ant nest, Ant King emerging, shadow army charging, Ant King crushing shadows, Shadow Exchange activation",
+  "specific_details": {
+    "subject": "Jin-Woo: black hoodie, shadow black eyes with white glow during Shadow Exchange, body dissolving. Ant King: 20m tall, obsidian-black chitin armor, four massive blade arms, four rows of teeth.",
+    "outfit_exact": "Jin-Woo: black hoodie and jeans, shadow black/white glowing eyes. Ant King: pure obsidian-black chitin exoskeleton, four blade arms with sharp claws, insectoid face with four tooth rows.",
+    "setting_details": "Massive underground earthen chamber, dramatic low lighting, shadow energy effects, Ant King filling most of chamber",
+    "face_expression": "Jin-Woo: determined → clenched fists → shadow black glowing eyes. Ant King: cruel amusement → confused stop → growing alarm",
+    "body_movement": "Jin-Woo: commanding army → clenching fist → dissolving into shadow. Ant King: emerging → laughing → crushing → stopping mid-swing. Shadow army: charging → exploding.",
+    "camera": "Wide ant nest, extreme wide Ant King reveal, wide army charge, slow-motion blade swing, close-up Shadow Exchange activation"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright colors, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 15: The Ant King vs Jin-Woo's Shadow Exchange — body dissolving into shadow",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "Ant King",
+    "shadow army",
+    "Jin-Woo",
+    "Shadow Exchange",
+    "boss battle",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T17:20:00Z",
+  "publishedAt": "2026-04-06T01:44:57.326Z",
+  "tiktok_url": "/@fai20128/video/7625455968142298388"
+}

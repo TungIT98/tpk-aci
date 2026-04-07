@@ -1,0 +1,181 @@
+﻿{
+  "id": "XIANYX-122",
+  "title": "Trieu Tien Episode 22: The Flame Emperor's Technique",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 22,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Three hundred Dou Huang spirits charged at once — but Xiao Yan's flame was not ordinary fire. It was the Flame Emperor's technique, dormant for three thousand years, now fully awakened.",
+    "story_arc": "Spirits charged → Flame erupts → One by one fall → Emperor's technique manifested → Battle won",
+    "emotion": "Fury → Awe → Triumph → Revelation → Silence",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide cinematic — the three hundred spirits CHARGE in formation. Ancient war drums thunder. Each spirit is a legendary fighter: Dou Huang rank, armed with spirit weapons, moving as a perfect army. They surround Xiao Yan on all sides. Camera: wide, three hundred spirits charging in perfect formation, Xiao Yan at center, epic scale battle beginning. 6 seconds.",
+      "camera": "Wide — three hundred spirits charging in perfect formation, Xiao Yan at center, epic scale, 6s",
+      "narration": "The army of spirits descended as one — three hundred of the greatest fighters in history, moving in perfect coordination. Against a normal Dou Huang, it would have been over in seconds.",
+      "sfx": "Three hundred spirits charging, ancient war drums, spirit weapons humming, epic battle roar"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan raises both hands. The FLAME EMBER SIGNET on his chest IGNITES completely — not just sparks but a pillar of orange-gold fire erupts upward. The temperature around him surges. Camera: close-up, Flame Ember Signet fully igniting, pillar of orange-gold fire, Xiao Yan's determined face lit by flames, 'flame awakening' moment. 6 seconds.",
+      "camera": "Close-up — Flame Ember Signet fully igniting, pillar of orange-gold fire, Xiao Yan's face lit by flames, 6s",
+      "narration": "The Flame Ember Signet — the Flame Emperor's legacy — awakened. Not the gentle ember Xiao Yan had carried for years. The full inferno. The technique that once burned entire sects to ash.",
+      "sfx": "Flame ignition, signet blazing, fire expanding, orchestral surge, triumphant strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — the first wave of spirits hits the fire. They EXPLODE into spirit energy on contact — one by one, each legendary fighter disintegrating in a flash of orange light. Xiao Yan's fire does not discriminate. Camera: wide, spirit soldiers exploding into spirit energy on contact with fire, orange flashes, Xiao Yan at center wreathed in flame, 'one by one fall' destruction. 6 seconds.",
+      "camera": "Wide — spirit soldiers exploding into spirit energy, orange flashes, Xiao Yan at center wreathed in flame, 6s",
+      "narration": "One by one, the legendary fighters fell. Not in battle — in fire. The Flame Emperor's technique, it turned out, was designed for exactly this: a one-man war against an army.",
+      "sfx": "Spirit explosions, fire consuming, legendary fighters falling, triumphant orchestral"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the Flame Emperor's ghostly face in the judges' stand. He is standing now. His eyes full of tears of fire. He watches his technique — his legacy — carried forward by this boy he has never met. Camera: close-up, Flame Emperor standing, tears of fire streaming, proud expression, legacy fulfilled moment. 6 seconds.",
+      "camera": "Close-up — Flame Emperor standing with tears of fire, proud expression, legacy fulfilled, 6s",
+      "narration": "For three thousand years, the Flame Emperor had watched fighter after fighter enter this battleground. None could carry his technique. And now — a boy from a remote kingdom, carrying his signet, burning with his fire.",
+      "sfx": "Flame Emperor standing, tears of fire, proud music swell, emotional orchestral"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Extreme wide — the last spirit falls. The battleground is silent. Three hundred legendary fighters — gone. Xiao Yan stands in a field of dissipating spirit energy, orange-gold light rising from the ground. The three Dou Zun judges descend from their thrones and BOW. Camera: extreme wide, last spirit dissipating, spirit energy rising, three Dou Zun judges bowing, Xiao Yan alone in victory, 6 seconds.",
+      "camera": "Extreme wide — last spirit dissipating, spirit energy rising, three Dou Zun judges bowing, Xiao Yan in victory, 6s",
+      "narration": "The Dou Di battleground had seen many champions. But never one who had made the judges themselves bow. Xiao Yan — the Flame Emperor's heir — had not just won. He had completed a three-thousand-year legacy.",
+      "sfx": "Victory silence, spirit energy dissipating, judges bowing, epic triumphant swell"
+    }
+  ],
+  "audio": {
+    "narration": "The army of spirits descended as one — three hundred of the greatest fighters in history, moving in perfect coordination. Against a normal Dou Huang, it would have been over in seconds. The Flame Ember Signet — the Flame Emperor's legacy — awakened. Not the gentle ember Xiao Yan had carried for years. The full inferno. The technique that once burned entire sects to ash. One by one, the legendary fighters fell. Not in battle — in fire. The Flame Emperor's technique, it turned out, was designed for exactly this: a one-man war against an army. For three thousand years, the Flame Emperor had watched fighter after fighter enter this battleground. None could carry his technique. And now — a boy from a remote kingdom, carrying his signet, burning with his fire. The Dou Di battleground had seen many champions. But never one who had made the judges themselves bow. Xiao Yan — the Flame Emperor's heir — had not just won. He had completed a three-thousand-year legacy.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese battle orchestral, flame emperor theme, Jia Academy atmosphere, dou qi combat, 95-100 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Three hundred spirits charging",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Flame ignition",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Spirit explosions",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Flame Emperor standing",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Victory silence",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide cinematic — the three hundred spirits CHARGE in formation. Ancient war drums thunder. Each spirit is a legendary fighter: Dou Huang rank, armed with spirit weapons, moving as a perfect army. They surround Xiao Yan on all sides. Camera: wide, three hundred spirits charging in perfect formation, Xiao Yan at center, epic scale battle beginning. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — Xiao Yan raises both hands. The FLAME EMBER SIGNET on his chest IGNITES completely — not just sparks but a pillar of orange-gold fire erupts upward. The temperature around him surges. Camera: close-up, Flame Ember Signet fully igniting, pillar of orange-gold fire, Xiao Yan's determined face lit by flames, 'flame awakening' moment. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — the first wave of spirits hits the fire. They EXPLODE into spirit energy on contact — one by one, each legendary fighter disintegrating in a flash of orange light. Xiao Yan's fire does not discriminate. Camera: wide, spirit soldiers exploding into spirit energy on contact with fire, orange flashes, Xiao Yan at center wreathed in flame, 'one by one fall' destruction. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the Flame Emperor's ghostly face in the judges' stand. He is standing now. His eyes full of tears of fire. He watches his technique — his legacy — carried forward by this boy he has never met. Camera: close-up, Flame Emperor standing, tears of fire streaming, proud expression, legacy fulfilled moment. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Extreme wide — the last spirit falls. The battleground is silent. Three hundred legendary fighters — gone. Xiao Yan stands in a field of dissipating spirit energy, orange-gold light rising from the ground. The three Dou Zun judges descend from their thrones and BOW. Camera: extreme wide, last spirit dissipating, spirit energy rising, three Dou Zun judges bowing, Xiao Yan alone in victory, 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 22: Thần Thức Hoàng Đế | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Episode 22 of Trieu Tien. Xiao Yan activates the Flame Emperor's full technique — destroying three hundred Dou Huang spirits one by one. The judges themselves bow to the Flame Emperor's heir.\n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 23\n#xianxia #trieu tien #flame emperor #xiao yan #epic battle",
+    "youtube_tags": [
+      "xianxia",
+      "trie u tien",
+      "flame emperor technique",
+      "xiao yan",
+      "dou di battleground",
+      "spirit army",
+      "three hundred spirits",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Anh đốt cháy 300 Đấu Hoàng bằng Thần Thức Hoàng Đế — ngọn lửa thiêng ba ngàn năm bừng tỉnh. Ba Đấu Tôn cúi đầu trước người thừa kế. ⚔️🔥 Tập 22 Trieu Tien #xianxia #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide cinematic — the three hundred spirits CHARGE in formation. Ancient war drums thunder. Each spirit is a legendary fighter: Dou Huang rank, armed with spirit weapons, moving as a perfect army. They surround Xiao Yan on all sides. Camera: wide, three hundred spirits charging in perfect formation, Xiao Yan at center, epic scale battle beginning. 6 seconds. Shot 2: Close-up — Xiao Yan raises both hands. The FLAME EMBER SIGNET on his chest IGNITES completely — not just sparks but a pillar of orange-gold fire erupts upward. The temperature around him surges. Camera: close-up, Flame Ember Signet fully igniting, pillar of orange-gold fire, Xiao Yan's determined face lit by flames, 'flame awakening' moment. 6 seconds. Shot 3: Wide cinematic — the first wave of spirits hits the fire. They EXPLODE into spirit energy on contact — one by one, each legendary fighter disintegrating in a flash of orange light. Xiao Yan's fire does not discriminate. Camera: wide, spirit soldiers exploding into spirit energy on contact with fire, orange flashes, Xiao Yan at center wreathed in flame, 'one by one fall' destruction. 6 seconds. Shot 4: Close-up — the Flame Emperor's ghostly face in the judges' stand. He is standing now. His eyes full of tears of fire. He watches his technique — his legacy — carried forward by this boy he has never met. Camera: close-up, Flame Emperor standing, tears of fire streaming, proud expression, legacy fulfilled moment. 6 seconds. Shot 5: Extreme wide — the last spirit falls. The battleground is silent. Three hundred legendary fighters — gone. Xiao Yan stands in a field of dissipating spirit energy, orange-gold light rising from the ground. The three Dou Zun judges descend from their thrones and BOW. Camera: extreme wide, last spirit dissipating, spirit energy rising, three Dou Zun judges bowing, Xiao Yan alone in victory, 6 seconds.",
+  "visual_scene": "Wide cinematic — the three hundred spirits CHARGE in formation. Ancient war drums thunder. Each spirit is a legendary fighter: Dou Huang rank, armed with spirit weapons, moving as a perfect army. They surround Xiao Yan on all sides. Camera: wide, three hundred spirits charging in perfect formation, Xiao Yan at center, epic scale battle beginning. 6 seconds. Close-up — Xiao Yan raises both hands. The FLAME EMBER SIGNET on his chest IGNITES completely — not just sparks but a pillar of orange-gold fire erupts upward. The temperature around him surges. Camera: close-up, Flame Ember Signet fully igniting, pillar of orange-gold fire, Xiao Yan's determined face lit by flames, 'flame awakening' moment. 6 seconds. Wide cinematic — the first wave of spirits hits the fire. They EXPLODE into spirit energy on contact — one by one, each legendary fighter disintegrating in a flash of orange light. Xiao Yan's fire does not discriminate. Camera: wide, spirit soldiers exploding into spirit energy on contact with fire, orange flashes, Xiao Yan at center wreathed in flame, 'one by one fall' destruction. 6 seconds. Close-up — the Flame Emperor's ghostly face in the judges' stand. He is standing now. His eyes full of tears of fire. He watches his technique — his legacy — carried forward by this boy he has never met. Camera: close-up, Flame Emperor standing, tears of fire streaming, proud expression, legacy fulfilled moment. 6 seconds. Extreme wide — the last spirit falls. The battleground is silent. Three hundred legendary fighters — gone. Xiao Yan stands in a field of dissipating spirit energy, orange-gold light rising from the ground. The three Dou Zun judges descend from their thrones and BOW. Camera: extreme wide, last spirit dissipating, spirit energy rising, three Dou Zun judges bowing, Xiao Yan alone in victory, 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Trieu Tien Episode 22: The Flame Emperor's Technique",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "trie u tien",
+    "flame emperor technique",
+    "xiao yan",
+    "dou di battleground",
+    "spirit army",
+    "three hundred spirits",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-06T04:30:00Z",
+  "publishedAt": "2026-04-06T13:58:25.869Z",
+  "tiktok_url": "/@fai20128/video/7625644995311176980"
+}

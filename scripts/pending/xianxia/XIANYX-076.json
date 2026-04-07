@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-076",
+  "title": "Dau Pha Thuong Khau Episode 16: The Girl at the Throne Room Door",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A servant girl has been waiting for him for twenty years. She was his childhood promise.",
+    "story_arc": "Palace servant quarters → Girl recognizes him → Childhood token revealed → Promise remembered → Eyes meet",
+    "emotion": "Curiosity → Shock → Recognition → Memory → Deep emotional connection",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — he walks through the servant quarters of the palace. Humble, cramped, a sharp contrast to the imperial halls. Serving girls draw water from a well. Cooks prepare meals. A young woman in simple grey servant robes — unremarkable, forgettable — stops when she sees him. Her face: pale. Her hands: shaking. She drops her water bucket. Camera: wide, servant quarters, humble life, young woman dropping bucket at sight of him. 6 seconds.",
+      "camera": "Wide — servant quarters contrast, humble life, young woman in grey robes, bucket dropping at sight of him, 6s",
+      "narration": "He had expected to find allies in the palace. Enemies. Usurpers. He had not expected to find a girl — trembling at the sight of him — who looked at him like he was a ghost.",
+      "sfx": "Servant quarters ambience, water bucket dropping, her gasp, footsteps stopping, emotional silence"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — she approaches slowly. Her face: plain by palace standards, but her eyes — ancient, deep, knowing. She reaches into her robes and pulls out a small object: a wooden horse. The kind carved for children. The same wooden horse he had as a child. He stares at it. 'Where did you get that?' She smiles — sad, beautiful. 'You gave it to me. Twenty years ago. Before they took you away.' Camera: extreme close-up, wooden horse, 'you gave it to me twenty years ago', childhood promise revealed. 6 seconds.",
+      "camera": "Extreme close-up — wooden horse, 'you gave it to me twenty years ago', childhood promise revealed, emotional recognition, 6s",
+      "narration": "She had kept the wooden horse. For twenty years. Through exile, through poverty, through becoming a palace servant — she had kept the one gift a boy had given her before the world took him away.",
+      "sfx": "Wooden horse clattering softly, her quiet voice, his sharp inhale, emotional breath, soft strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — flashback vision (through his eyes as a child): a young boy — himself — hiding in the servants' quarters after his mother was taken. A little girl — this girl — hiding him from soldiers. 'I will wait for you,' she had whispered. 'Come back for me.' He had given her the wooden horse as a promise. Then soldiers took him. Camera: medium, flashback child vision, hiding from soldiers, 'I will wait for you', promise made. 6 seconds.",
+      "camera": "Medium — flashback child vision, hiding from soldiers, 'I will wait for you', childhood promise made, emotional memory, 6s",
+      "narration": "He had forgotten. The trauma of exile had erased so much. But she had remembered for both of them. Had waited. Had survived. Alone in this palace — waiting for a boy who might never come back.",
+      "sfx": "Memory whoosh, child's frightened breathing, 'I will wait for you', soft child voice echo, emotional swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — present. He takes the wooden horse from her hands. Holds it. Twenty years of waiting — in the palm of his hand. She looks up at him. 'You came back,' she whispers. Tears stream down her face — not of sorrow. Of release. Twenty years of waiting — ending in this moment. Camera: extreme close-up, wooden horse in hand, her tearful 'you came back', release of twenty years of waiting. 6 seconds.",
+      "camera": "Extreme close-up — wooden horse held, tearful 'you came back', twenty years of waiting released, emotional peak, 6s",
+      "narration": "Twenty years. She had waited twenty years for a boy who might have been killed, might have forgotten her, might have never returned. And he had come back. He was emperor. And he was here — for her.",
+      "sfx": "Quiet sob, horse in palm, her tear falling, his hand trembling, soft emotional orchestral"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — she stands at the entrance to the throne room corridor. The same corridor where he first saw the imposter's shadow. She is no longer in servant's robes — he has given her a phoenix hairpin, symbol of imperial blood family. She is not just a servant anymore. She stands at the door of power — beside him. Camera: full-body, phoenix hairpin in her hair, standing at throne room door beside emperor, symbolic transformation. 6 seconds. End on both their faces.",
+      "camera": "Full-body cinematic — phoenix hairpin, servant girl transformed, standing at throne room door beside emperor, symbolic transformation, 6s",
+      "narration": "She had waited twenty years — not for power, not for wealth. For him. And now she stood at the door of the throne room — not behind him, not below him. Beside him. As she had always promised herself she would.",
+      "sfx": "Silk rustle, hairpin placing, wind, epic emotional strings, hopeful orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "He had expected to find allies in the palace. Enemies. Usurpers. He had not expected to find a girl — trembling at the sight of him — who looked at him like he was a ghost. She had kept the wooden horse. For twenty years. Through exile, through poverty, through becoming a palace servant — she had kept the one gift a boy had given her before the world took him away. He had forgotten. The trauma of exile had erased so much. But she had remembered for both of them. Had waited. Had survived. Alone in this palace — waiting for a boy who might never come back. Twenty years. She had waited twenty years for a boy who might have been killed, might have forgotten her, might have never returned. And he had come back. He was emperor. And he was here — for her. She had waited twenty years — not for power, not for wealth. For him. And now she stood at the door of the throne room — not behind him, not below him. Beside him. As she had always promised herself she would.",
+    "narration_duration": 28,
+    "bg_music": "Emotional Chinese orchestral, childhood promise theme, reunion, hope, soft strings and flute 75 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Servant quarters ambience",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Wooden horse clattering softly",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Memory whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Quiet sob",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Silk rustle",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — he walks through the servant quarters of the palace. Humble, cramped, a sharp contrast to the imperial halls. Serving girls draw water from a well. Cooks prepare meals. A young woman in simple grey servant robes — unremarkable, forgettable — stops when she sees him. Her face: pale. Her hands: shaking. She drops her water bucket. Camera: wide, servant quarters, humble life, young woman dropping bucket at sight of him. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — she approaches slowly. Her face: plain by palace standards, but her eyes — ancient, deep, knowing. She reaches into her robes and pulls out a small object: a wooden horse. The kind carved for children. The same wooden horse he had as a child. He stares at it. 'Where did you get that?' She smiles — sad, beautiful. 'You gave it to me. Twenty years ago. Before they took you away.' Camera: extreme close-up, wooden horse, 'you gave it to me twenty years ago', childhood promise revealed. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — flashback vision (through his eyes as a child): a young boy — himself — hiding in the servants' quarters after his mother was taken. A little girl — this girl — hiding him from soldiers. 'I will wait for you,' she had whispered. 'Come back for me.' He had given her the wooden horse as a promise. Then soldiers took him. Camera: medium, flashback child vision, hiding from soldiers, 'I will wait for you', promise made. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — present. He takes the wooden horse from her hands. Holds it. Twenty years of waiting — in the palm of his hand. She looks up at him. 'You came back,' she whispers. Tears stream down her face — not of sorrow. Of release. Twenty years of waiting — ending in this moment. Camera: extreme close-up, wooden horse in hand, her tearful 'you came back', release of twenty years of waiting. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — she stands at the entrance to the throne room corridor. The same corridor where he first saw the imposter's shadow. She is no longer in servant's robes — he has given her a phoenix hairpin, symbol of imperial blood family. She is not just a servant anymore. She stands at the door of power — beside him. Camera: full-body, phoenix hairpin in her hair, standing at throne room door beside emperor, symbolic transformation. 6 seconds. End on both their faces."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Tập 16: Cô Gái Trước Cửa Thiên Đường | Xianxia Việt Sub ⚔️🏯",
+    "youtube_description": "Episode 16 of Dau Pha Thuong Khau. A palace servant girl recognizes him — and reveals she has been waiting for twenty years, kept alive by a childhood promise and a wooden horse. She stands at the throne room door — not behind him, not below him. Beside him.",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "servant girl",
+      "childhood promise",
+      "wooden horse",
+      "twenty years waiting",
+      "palace romance",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô hầu gái nhận ra anh — cô đã đợi 20 năm, giữ lấy bằng lời hứa tuổi thơ và một con ngựa gỗ. Cô đứng trước cửa điện — không phía sau, không phía dưới. BÊN CẠNH anh ⚔️🏯 Tập 16 DPTK #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — he walks through the servant quarters of the palace. Humble, cramped, a sharp contrast to the imperial halls. Serving girls draw water from a well. Cooks prepare meals. A young woman in simple grey servant robes — unremarkable, forgettable — stops when she sees him. Her face: pale. Her hands: shaking. She drops her water bucket. Camera: wide, servant quarters, humble life, young woman dropping bucket at sight of him. 6 seconds. Shot 2: Close-up — she approaches slowly. Her face: plain by palace standards, but her eyes — ancient, deep, knowing. She reaches into her robes and pulls out a small object: a wooden horse. The kind carved for children. The same wooden horse he had as a child. He stares at it. 'Where did you get that?' She smiles — sad, beautiful. 'You gave it to me. Twenty years ago. Before they took you away.' Camera: extreme close-up, wooden horse, 'you gave it to me twenty years ago', childhood promise revealed. 6 seconds. Shot 3: Medium shot — flashback vision (through his eyes as a child): a young boy — himself — hiding in the servants' quarters after his mother was taken. A little girl — this girl — hiding him from soldiers. 'I will wait for you,' she had whispered. 'Come back for me.' He had given her the wooden horse as a promise. Then soldiers took him. Camera: medium, flashback child vision, hiding from soldiers, 'I will wait for you', promise made. 6 seconds. Shot 4: Close-up — present. He takes the wooden horse from her hands. Holds it. Twenty years of waiting — in the palm of his hand. She looks up at him. 'You came back,' she whispers. Tears stream down her face — not of sorrow. Of release. Twenty years of waiting — ending in this moment. Camera: extreme close-up, wooden horse in hand, her tearful 'you came back', release of twenty years of waiting. 6 seconds. Shot 5: Full-body cinematic — she stands at the entrance to the throne room corridor. The same corridor where he first saw the imposter's shadow. She is no longer in servant's robes — he has given her a phoenix hairpin, symbol of imperial blood family. She is not just a servant anymore. She stands at the door of power — beside him. Camera: full-body, phoenix hairpin in her hair, standing at throne room door beside emperor, symbolic transformation. 6 seconds. End on both their faces.",
+  "visual_scene": "Wide shot — he walks through the servant quarters of the palace. Humble, cramped, a sharp contrast to the imperial halls. Serving girls draw water from a well. Cooks prepare meals. A young woman in simple grey servant robes — unremarkable, forgettable — stops when she sees him. Her face: pale. Her hands: shaking. She drops her water bucket. Camera: wide, servant quarters, humble life, young woman dropping bucket at sight of him. 6 seconds. Close-up — she approaches slowly. Her face: plain by palace standards, but her eyes — ancient, deep, knowing. She reaches into her robes and pulls out a small object: a wooden horse. The kind carved for children. The same wooden horse he had as a child. He stares at it. 'Where did you get that?' She smiles — sad, beautiful. 'You gave it to me. Twenty years ago. Before they took you away.' Camera: extreme close-up, wooden horse, 'you gave it to me twenty years ago', childhood promise revealed. 6 seconds. Medium shot — flashback vision (through his eyes as a child): a young boy — himself — hiding in the servants' quarters after his mother was taken. A little girl — this girl — hiding him from soldiers. 'I will wait for you,' she had whispered. 'Come back for me.' He had given her the wooden horse as a promise. Then soldiers took him. Camera: medium, flashback child vision, hiding from soldiers, 'I will wait for you', promise made. 6 seconds. Close-up — present. He takes the wooden horse from her hands. Holds it. Twenty years of waiting — in the palm of his hand. She looks up at him. 'You came back,' she whispers. Tears stream down her face — not of sorrow. Of release. Twenty years of waiting — ending in this moment. Camera: extreme close-up, wooden horse in hand, her tearful 'you came back', release of twenty years of waiting. 6 seconds. Full-body cinematic — she stands at the entrance to the throne room corridor. The same corridor where he first saw the imposter's shadow. She is no longer in servant's robes — he has given her a phoenix hairpin, symbol of imperial blood family. She is not just a servant anymore. She stands at the door of power — beside him. Camera: full-body, phoenix hairpin in her hair, standing at throne room door beside emperor, symbolic transformation. 6 seconds. End on both their faces.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 16: The Girl at the Throne Room Door",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "servant girl",
+    "childhood promise",
+    "wooden horse",
+    "twenty years waiting",
+    "palace romance",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,179 @@
+﻿{
+  "id": "XIANYX-100",
+  "title": "Thanh Van Mon Episode 20: The New Spring of Thanh Van Mon",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 20,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "She plants a single lotus in the center of the dying garden. It blooms immediately. The garden resurrects around it — and the erased names return. Season finale.",
+    "story_arc": "The dying center, The single lotus seed, Planting at dawn, Immediate bloom, Garden restored and expanded, The erased return",
+    "emotion": "Sorrow, Hope, Miracle, Triumph, Joy and closure",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the very center of the garden. Everything around it is dead or dying — except a single circle of earth, untouched. In its center: an empty planting hole. The Emperor stands at the garden's edge, watching. Linh the hundred-named girl stands beside her. She holds a single lotus seed — the last seed from the garden's original lotus pond, preserved for three hundred years. Camera: wide shot, dead garden surrounding the one empty planting circle, three figures, single seed glowing. 6 seconds.",
+      "camera": "Wide — dead garden surrounding one perfect empty circle, Emperor watching, Linh beside her, glowing lotus seed, 6s",
+      "narration": "In the center of three hundred years of death, there was one circle of untouched earth. The garden had been waiting for the right seed. And she had found it.",
+      "sfx": "Wind still, dead leaves, heartbeat, seed glow hum, anticipation swell"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she kneels at the empty circle. She does not plant the seed with ceremony. She plants it simply: one small hole, one seed, one handful of earth. She uses the last of the well's living water. She speaks the name aloud: Minh Truong — who planted the first lotus in this garden. Camera: medium shot, her kneeling, planting simply and speaking her father's name into the earth. 6 seconds.",
+      "camera": "Medium — her planting seed simply, speaking father's name into earth with last living water, 6s",
+      "narration": "She said his name first. Not Thuong Khue. Not the Empress. Her father. The man the palace had tried hardest to erase. She planted his name first — and meant it.",
+      "sfx": "Earth crumbling, seed dropping, water pouring, name spoken aloud, wind stopping"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the earth trembles. A single green shoot emerges from the soil — impossibly fast. It unfurls a single lotus pad. Then a bud. Then the bud OPENS — not slowly but in a rush of white and gold petals. Pure light pours from the flower. Camera: extreme close-up on the lotus blooming in accelerated motion, pure golden-white light flooding frame. 6 seconds.",
+      "camera": "Extreme close-up — lotus blooming in accelerated motion, golden-white light flooding everything, 6s",
+      "narration": "A lotus blooming in three seconds. Not magic — recognition. The garden knew this seed. It had been waiting for it. And when it returned — the garden remembered everything it had lost.",
+      "sfx": "Earth trembling, stem growing sound, petal rustle, light flood, spiritual swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — the bloom spreads outward from the lotus like ripples in water. The dead garden comes ALIVE in perfect concentric circles — flowers blooming, trees greening, stones glowing with restored names. The erased tablets reform — names re-appearing letter by letter. Thuong Khue. Minh Truong. All of them. Camera: wide cinematic shot of resurrection wave spreading outward from central lotus, full garden restoration. 6 seconds.",
+      "camera": "Wide cinematic — resurrection wave from lotus, concentric circles of restoration, names re-carving on stones, 6s",
+      "narration": "The garden had been waiting three hundred years for this moment. For one name to be planted with love. And when that happened — it remembered how to bring everything back.",
+      "sfx": "Bloom spreading, flower after flower opening, stone carving, name by name returning, orchestral climax"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she stands at the center of the fully restored garden. The Emperor kneels at the garden's edge — weeping. Linh rings the bell once. Every flower in the garden turns toward the sound. The ghost of Thuong Khue, Minh Truong, and a thousand erased names appear — not as ghosts but as part of the garden itself, woven into flowers and stones and light. She speaks to the garden: I will say your names. Every day. Every name. This garden will never die again. Camera: cinematic close-up on her speaking to the garden, flowers turning, ghosts becoming part of the blooms, sunrise breaking. 6 seconds. End on the sunrise over the fully living garden.",
+      "camera": "Close-up to wide — her speaking to garden, Emperor kneeling, Linh ringing bell, ghosts becoming flowers, sunrise over fully living garden, 6s",
+      "narration": "The garden had been waiting three hundred years for someone to say the names. Now it had a keeper — and a voice — and a future. The New Spring of Thanh Van Mon had begun.",
+      "sfx": "Bell ring, name spoken, flower turning, sunrise warmth, epic orchestral finale, triumphant ending chord"
+    }
+  ],
+  "audio": {
+    "narration": "In the center of three hundred years of death, there was one circle of untouched earth. The garden had been waiting for the right seed. And she had found it. She said his name first. Not Thuong Khue. Not the Empress. Her father. The man the palace had tried hardest to erase. She planted his name first — and meant it. A lotus blooming in three seconds. Not magic — recognition. The garden knew this seed. It had been waiting for it. And when it returned — the garden remembered everything it had lost. The garden had been waiting three hundred years for this moment. For one name to be planted with love. And when that happened — it remembered how to bring everything back. The garden had been waiting three hundred years for someone to say the names. Now it had a keeper — and a voice — and a future. The New Spring of Thanh Van Mon had begun.",
+    "narration_duration": 28,
+    "bg_music": "Triumphant season finale Chinese orchestral, lotus bloom theme, sunrise hope, name restoration, full choir and strings 100 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Wind still",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Earth crumbling",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Earth trembling",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Bloom spreading",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Bell ring",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — the very center of the garden. Everything around it is dead or dying — except a single circle of earth, untouched. In its center: an empty planting hole. The Emperor stands at the garden's edge, watching. Linh the hundred-named girl stands beside her. She holds a single lotus seed — the last seed from the garden's original lotus pond, preserved for three hundred years. Camera: wide shot, dead garden surrounding the one empty planting circle, three figures, single seed glowing. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she kneels at the empty circle. She does not plant the seed with ceremony. She plants it simply: one small hole, one seed, one handful of earth. She uses the last of the well's living water. She speaks the name aloud: Minh Truong — who planted the first lotus in this garden. Camera: medium shot, her kneeling, planting simply and speaking her father's name into the earth. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — the earth trembles. A single green shoot emerges from the soil — impossibly fast. It unfurls a single lotus pad. Then a bud. Then the bud OPENS — not slowly but in a rush of white and gold petals. Pure light pours from the flower. Camera: extreme close-up on the lotus blooming in accelerated motion, pure golden-white light flooding frame. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — the bloom spreads outward from the lotus like ripples in water. The dead garden comes ALIVE in perfect concentric circles — flowers blooming, trees greening, stones glowing with restored names. The erased tablets reform — names re-appearing letter by letter. Thuong Khue. Minh Truong. All of them. Camera: wide cinematic shot of resurrection wave spreading outward from central lotus, full garden restoration. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she stands at the center of the fully restored garden. The Emperor kneels at the garden's edge — weeping. Linh rings the bell once. Every flower in the garden turns toward the sound. The ghost of Thuong Khue, Minh Truong, and a thousand erased names appear — not as ghosts but as part of the garden itself, woven into flowers and stones and light. She speaks to the garden: I will say your names. Every day. Every name. This garden will never die again. Camera: cinematic close-up on her speaking to the garden, flowers turning, ghosts becoming part of the blooms, sunrise breaking. 6 seconds. End on the sunrise over the fully living garden."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 20 (Cuối Mùa): Mùa Xuân Mới Của Thanh Van Mon | Xianxia Việt Sub ⚔️🌸",
+    "youtube_description": "Season Finale of Thanh Van Mon. She plants a single lotus seed — the last from the garden's original pond — speaks her father's name into the earth. It blooms in three seconds. The garden resurrects around it. Every erased name returns, carved back into stone. She rings the bell: I will say your names. Every day. Every name. This garden will never die again.\n\n🌸 Thanh Van Mon — SEASON 1 FINALE — Original Chinese Fantasy Series\n🌿 Follow for Season 2\n#xianxia #thanhvanmon #season finale #lotus resurrection #garden reborn #erased names return #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "season finale",
+      "lotus resurrection",
+      "garden reborn",
+      "erased names return",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô trồng một hạt sen — và nó nở trong BA GIÂY. Khu vườn hồi sinh. MỌI tên bị xóa được khắc lại. Cô rung chuông: 'Tôi sẽ gọi tên các người. MỖI NGÀY. MỌI tên. Khu vườn này sẽ KHÔNG BAO GIỜ chết nữa.' 🌸⚔️ Mùa 1 KẾT THÚC Tập 20 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — the very center of the garden. Everything around it is dead or dying — except a single circle of earth, untouched. In its center: an empty planting hole. The Emperor stands at the garden's edge, watching. Linh the hundred-named girl stands beside her. She holds a single lotus seed — the last seed from the garden's original lotus pond, preserved for three hundred years. Camera: wide shot, dead garden surrounding the one empty planting circle, three figures, single seed glowing. 6 seconds. Shot 2: Medium shot — she kneels at the empty circle. She does not plant the seed with ceremony. She plants it simply: one small hole, one seed, one handful of earth. She uses the last of the well's living water. She speaks the name aloud: Minh Truong — who planted the first lotus in this garden. Camera: medium shot, her kneeling, planting simply and speaking her father's name into the earth. 6 seconds. Shot 3: Close-up — the earth trembles. A single green shoot emerges from the soil — impossibly fast. It unfurls a single lotus pad. Then a bud. Then the bud OPENS — not slowly but in a rush of white and gold petals. Pure light pours from the flower. Camera: extreme close-up on the lotus blooming in accelerated motion, pure golden-white light flooding frame. 6 seconds. Shot 4: Wide cinematic — the bloom spreads outward from the lotus like ripples in water. The dead garden comes ALIVE in perfect concentric circles — flowers blooming, trees greening, stones glowing with restored names. The erased tablets reform — names re-appearing letter by letter. Thuong Khue. Minh Truong. All of them. Camera: wide cinematic shot of resurrection wave spreading outward from central lotus, full garden restoration. 6 seconds. Shot 5: Close-up — she stands at the center of the fully restored garden. The Emperor kneels at the garden's edge — weeping. Linh rings the bell once. Every flower in the garden turns toward the sound. The ghost of Thuong Khue, Minh Truong, and a thousand erased names appear — not as ghosts but as part of the garden itself, woven into flowers and stones and light. She speaks to the garden: I will say your names. Every day. Every name. This garden will never die again. Camera: cinematic close-up on her speaking to the garden, flowers turning, ghosts becoming part of the blooms, sunrise breaking. 6 seconds. End on the sunrise over the fully living garden.",
+  "visual_scene": "Wide shot — the very center of the garden. Everything around it is dead or dying — except a single circle of earth, untouched. In its center: an empty planting hole. The Emperor stands at the garden's edge, watching. Linh the hundred-named girl stands beside her. She holds a single lotus seed — the last seed from the garden's original lotus pond, preserved for three hundred years. Camera: wide shot, dead garden surrounding the one empty planting circle, three figures, single seed glowing. 6 seconds. Medium shot — she kneels at the empty circle. She does not plant the seed with ceremony. She plants it simply: one small hole, one seed, one handful of earth. She uses the last of the well's living water. She speaks the name aloud: Minh Truong — who planted the first lotus in this garden. Camera: medium shot, her kneeling, planting simply and speaking her father's name into the earth. 6 seconds. Close-up — the earth trembles. A single green shoot emerges from the soil — impossibly fast. It unfurls a single lotus pad. Then a bud. Then the bud OPENS — not slowly but in a rush of white and gold petals. Pure light pours from the flower. Camera: extreme close-up on the lotus blooming in accelerated motion, pure golden-white light flooding frame. 6 seconds. Wide cinematic — the bloom spreads outward from the lotus like ripples in water. The dead garden comes ALIVE in perfect concentric circles — flowers blooming, trees greening, stones glowing with restored names. The erased tablets reform — names re-appearing letter by letter. Thuong Khue. Minh Truong. All of them. Camera: wide cinematic shot of resurrection wave spreading outward from central lotus, full garden restoration. 6 seconds. Close-up — she stands at the center of the fully restored garden. The Emperor kneels at the garden's edge — weeping. Linh rings the bell once. Every flower in the garden turns toward the sound. The ghost of Thuong Khue, Minh Truong, and a thousand erased names appear — not as ghosts but as part of the garden itself, woven into flowers and stones and light. She speaks to the garden: I will say your names. Every day. Every name. This garden will never die again. Camera: cinematic close-up on her speaking to the garden, flowers turning, ghosts becoming part of the blooms, sunrise breaking. 6 seconds. End on the sunrise over the fully living garden.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 20: The New Spring of Thanh Van Mon",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "season finale",
+    "lotus resurrection",
+    "garden reborn",
+    "erased names return",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z",
+  "publishedAt": "2026-04-06T02:36:05.604Z",
+  "tiktok_url": "/@fai20128/video/7625469167784840468"
+}

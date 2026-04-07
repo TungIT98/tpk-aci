@@ -1,0 +1,2 @@
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp/audio/copy_0_1774462937376.mp3'
+file 'C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/_temp/audio/copy_1_1774462937421.mp3'

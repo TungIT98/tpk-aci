@@ -1,0 +1,179 @@
+{
+  "date": "2026-04-02",
+  "week": "2026-W14",
+  "heartbeat": "2026-04-02-evening",
+  "trending": [
+    {
+      "rank": 1,
+      "topic": "XO, Kitty Season 3 — DROPPED TODAY (Netflix) — FIRST-MOVER WINDOW NOW",
+      "platform": "TikTok / Instagram Reels",
+      "hashtags": ["#xokitty", "#xokittyseason3", "#netflix", "#minho", "#kittycovey", "#kissschool", "#kdrama", "#netflixkdrama"],
+      "potential_views": "20M+",
+      "competition": "low",
+      "content_pillar": "trending_aesthetic",
+      "window": "FIRST-MOVER — peak today Apr 2. Closes Apr 5.",
+      "priority": "CRITICAL"
+    },
+    {
+      "rank": 2,
+      "topic": "Pizza Movie — DROPPING TOMORROW Apr 3 (Hulu) — Gaten Matarazzo, Daniel Radcliffe",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#pizzamovie", "#gatenmatarazzo", "#strangerthings", "#hulu", "#collegecomedy", "#danielradcliffe", "#stonercomedy", "#britanick"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "comedy",
+      "window": "First-mover opens midnight Apr 3. Closes Apr 5.",
+      "priority": "CRITICAL"
+    },
+    {
+      "rank": 3,
+      "topic": "The Boys Season 5 — 6 Days to Premiere (Apr 8) Final Trailer LIVE",
+      "platform": "TikTok / Instagram / YouTube",
+      "hashtags": ["#theboys", "#theboysseason5", "#primevideo", "#homelander", "#butcher", "#finalseason", "#supes"],
+      "potential_views": "30M+",
+      "competition": "medium",
+      "content_pillar": "movie_review",
+      "window": "Daily countdown starts now. Peak Apr 5-7.",
+      "priority": "HIGH"
+    },
+    {
+      "rank": 4,
+      "topic": "Coachella 2026 — 8 Days Away (Apr 10-12) GRWM Window OPEN NOW",
+      "platform": "TikTok / Instagram",
+      "hashtags": ["#coachella2026", "#coachellagrwm", "#sabrinacarpenter", "#justinbieber", "#karolg", "#coachellaoutfits", "#festivalfits", "#katseye", "#binichella", "#charlixcx"],
+      "potential_views": "10M+",
+      "competition": "medium",
+      "content_pillar": "trending_aesthetic",
+      "window": "GRWM window closes Apr 7. Post by weekend.",
+      "priority": "HIGH"
+    },
+    {
+      "rank": 5,
+      "topic": "KATSEYE 'Pinky Up' — CONFIRMED April 9 Drop + Coachella Debut Apr 10",
+      "platform": "TikTok / Instagram / Weverse",
+      "hashtags": ["#katseye", "#pinkyup", "#kpop", "#kpopgirls", "#hybe", "#geffen", "#coachella2026", "#katseyecoachella"],
+      "potential_views": "15M+",
+      "competition": "very_low",
+      "content_pillar": "trending_aesthetic",
+      "window": "Pre-position Apr 3-5. Peak Apr 9-10 (single drop + Coachella debut).",
+      "priority": "HIGH"
+    },
+    {
+      "rank": 6,
+      "topic": "Seedance 2.0 (ByteDance AI Video) — Major Hollywood Pressure + New Comparisons",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#seedance2", "#ai", "#bytedance", "#aitools", "#videogeneration", "#aitok", "#creatortools", "#ai"],
+      "potential_views": "5M+",
+      "competition": "low",
+      "content_pillar": "tech_ai",
+      "window": "Window open NOW. Few creators covering on TikTok yet.",
+      "priority": "HIGH"
+    },
+    {
+      "rank": 7,
+      "topic": "'2016 Is The New 2026' Gen Z Nostalgia Wave — Forbes Confirmed",
+      "platform": "TikTok / Instagram Reels",
+      "hashtags": ["#2016isthenew2026", "#2016nostalgia", "#vinenostalgia", "#2016aesthetic", "#nostalgiatok", "#90skids"],
+      "potential_views": "20M+",
+      "competition": "low",
+      "content_pillar": "comedy",
+      "window": "Evergreen through April. Pairs with Malcolm in the Middle (Apr 10) + Stranger Things (Apr 23).",
+      "priority": "HIGH"
+    },
+    {
+      "rank": 8,
+      "topic": "Malcolm in the Middle Revival — April 10 (8 Days, Same Day as Coachella W1)",
+      "platform": "TikTok / Instagram Reels",
+      "hashtags": ["#malcolminthemiddle", "#mitm", "#nostalgia", "#90skids", "#2000s", "#reunion", "#sitcom"],
+      "potential_views": "8M+",
+      "competition": "very_low",
+      "content_pillar": "comedy",
+      "window": "Pair with Coachella Apr 10 content. Pre-position Apr 7-9.",
+      "priority": "HIGH"
+    },
+    {
+      "rank": 9,
+      "topic": "Charli XCX 'Boom Clap' Dance + Binichella Coachella Crossover — Ongoing",
+      "platform": "TikTok",
+      "hashtags": ["#boomclap", "#charlixcx", "#binichella", "#brat", "#coachella", "#tiktokdance"],
+      "potential_views": "15M+",
+      "competition": "medium",
+      "content_pillar": "trending_aesthetic",
+      "window": "Charli at Coachella = Apr 10-12. Spike then.",
+      "priority": "MEDIUM"
+    },
+    {
+      "rank": 10,
+      "topic": "Euphoria Season 3 — April 12 (10 Days) Taylor Swift 'Ophelia' Dance Building",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#euphoria", "#euphoriaseason3", "#hbo", "#opheliadance", "#taylorswift", "#cultivation"],
+      "potential_views": "25M+",
+      "competition": "high",
+      "content_pillar": "movie_review",
+      "window": "Countdown content starting Apr 7-8. Peak Apr 12.",
+      "priority": "HIGH"
+    }
+  ],
+  "content_calendar": {
+    "Thursday Apr 2": "trending_aesthetic — XO, Kitty S3 DROP DAY (POST TONIGHT)",
+    "Friday Apr 3": "comedy — Pizza Movie DROP DAY (POST MIDNIGHT/MORNING)",
+    "Saturday Apr 4": "trending_aesthetic — Spring transitions + Coachella pre-position",
+    "Sunday Apr 5": "lifestyle — KATSEYE pre-position + Seedance 2.0 AI content",
+    "Monday Apr 6": "movie_review — Star Wars: Maul (Disney+)",
+    "Tuesday Apr 7": "tech_ai — Seedance 2.0 + The Boys S5 countdown intensifies",
+    "Wednesday Apr 8": "movie_review — The Boys S5 + The Testaments DOUBLE PREMIERE 🔴 MEGA DAY",
+    "Thursday Apr 9": "comedy — KATSEYE Pinky Up + Hacks S5 + MAFS S7 + The Floor S5 🔴 MEGA DAY",
+    "Friday Apr 10": "comedy — Malcolm in the Middle + Coachella W1 Day 1 🔴 MEGA DAY",
+    "Saturday Apr 11": "trending_aesthetic — Coachella W1 Day 2 + Euphoria S3 pre-position 🔴 MEGA DAY",
+    "Sunday Apr 12": "movie_review — Euphoria S3 (HBO) + The Audacity (AMC+) 🔴 MEGA DAY"
+  },
+  "countdowns": {
+    "pizza_movie": { "premiere": "2026-04-03", "days_remaining": 1, "status": "TOMORROW" },
+    "the_boys_s5": { "premiere": "2026-04-08", "days_remaining": 6, "status": "FIRING" },
+    "coachella_w1": { "start": "2026-04-10", "days_remaining": 8, "status": "GRWM_WINDOW_OPEN" },
+    "malcolm_in_the_middle": { "premiere": "2026-04-10", "days_remaining": 8, "status": "BUILDING" },
+    "katseye_pinky_up": { "premiere": "2026-04-09", "days_remaining": 7, "status": "CONFIRMED" },
+    "the_testaments": { "premiere": "2026-04-08", "days_remaining": 6, "status": "CONFIRMED" },
+    "euphoria_s3": { "premiere": "2026-04-12", "days_remaining": 10, "status": "BUILDING" },
+    "stranger_things_tales_from_85": { "premiere": "2026-04-23", "days_remaining": 21, "status": "FAR" },
+    "coachella_w2": { "start": "2026-04-17", "days_remaining": 15, "status": "FAR" }
+  },
+  "seo_keyword_pulse": {
+    "xo_kitty_s3": {
+      "spiking": ["xo kitty season 3 reactions", "xo kitty season 3 review", "minho xo kitty", "xo kitty season 3 episodes"],
+      "status": "DROP DAY — SPIKING NOW"
+    },
+    "pizza_movie": {
+      "building": ["pizza movie hulu", "gaten matarazzo new movie", "pizza movie review", "pizza movie hulu reactions"],
+      "status": "TOMORROW — pre-drop searches building"
+    },
+    "the_boys_s5": {
+      "spiking": ["the boys season 5 final trailer", "the boys season 5 countdown", "homelander best speeches"],
+      "status": "6 DAYS — climbing daily"
+    },
+    "coachella_2026": {
+      "spiking": ["coachella grwm 2026", "sabrina carpenter coachella outfit", "festival aesthetic 2026"],
+      "status": "8 DAYS — GRWM window closes Apr 7"
+    },
+    "katseye": {
+      "building": ["katseye pinky up", "katseye coachella 2026", "katseye new single"],
+      "status": "7 DAYS — confirmed Apr 9"
+    }
+  },
+  "top_action_items": [
+    { "priority": "CRITICAL", "action": "XO, Kitty S3 reactions — POST TONIGHT (first-mover window closes Apr 3)", "deadline": "2026-04-02" },
+    { "priority": "CRITICAL", "action": "Pizza Movie — prepare and post reactions at midnight or first thing Apr 3 morning", "deadline": "2026-04-03" },
+    { "priority": "HIGH", "action": "The Boys S5 countdown — begin daily posts starting tonight/tomorrow", "deadline": "2026-04-07" },
+    { "priority": "HIGH", "action": "Coachella GRWM series — POST BY APR 7 (window closes)", "deadline": "2026-04-06" },
+    { "priority": "HIGH", "action": "KATSEYE Pinky Up pre-positioning — start Apr 3-5", "deadline": "2026-04-05" },
+    { "priority": "HIGH", "action": "Seedance 2.0 AI tool content — window open NOW, few creators covering", "deadline": "ongoing" },
+    { "priority": "MEDIUM", "action": "The Testaments brief — needed by Apr 7 for Apr 8 premiere", "deadline": "2026-04-07" }
+  ],
+  "mega_content_days": [
+    { "date": "2026-04-08", "events": ["The Boys S5", "The Testaments"], "pillar": "movie_review", "priority": "CRITICAL" },
+    { "date": "2026-04-09", "events": ["KATSEYE Pinky Up", "Hacks S5", "MAFS S7", "The Floor S5", "Big Mistakes"], "pillar": "comedy", "priority": "CRITICAL" },
+    { "date": "2026-04-10", "events": ["Malcolm in the Middle", "Coachella W1 Day 1"], "pillar": "comedy", "priority": "CRITICAL" },
+    { "date": "2026-04-11", "events": ["Coachella W1 Day 2", "Euphoria S3 pre-position"], "pillar": "trending_aesthetic", "priority": "CRITICAL" },
+    { "date": "2026-04-12", "events": ["Euphoria S3", "The Audacity"], "pillar": "movie_review", "priority": "CRITICAL" }
+  ]
+}

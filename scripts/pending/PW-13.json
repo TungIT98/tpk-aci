@@ -1,0 +1,31 @@
+﻿{
+  "id": "PW-13",
+  "category": "productivity",
+  "channel": "Productivity Worker",
+  "title": "The Psychological Reason You Procrastinate (It's Not Laziness)",
+  "script": "You're not lazy. You procrastinate because your brain is trying to protect you from emotional discomfort — not physical pain. Psychologists call it 'temporal discounting': your future self feels like a stranger, so why would you suffer now for someone you don't even know? The fix isn't discipline. It's making the task feel less threatening. Break it down to something so small it can't hurt you. Open a document. Write one sentence. That's it. Your brain's threat response calms down the moment you start. And once you're in motion, momentum takes over.",
+  "prompt_for_hailuo": "Young professional sits at desk staring at blank document, head in hands [Static shot]. Brain scan visualization — glowing amygdala vs prefrontal cortex [Graphic overlay]. Person cracks knuckles, types one slow sentence [Close-up on fingers hitting keys]. Word count climbs: 50, 200, 500 words [Montage of screen filling up]. Person leans back, surprised smile, satisfied [Medium shot]. Modern home office, warm evening lamp light, cozy productivity atmosphere, cinematic.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "procrastination",
+    "psychology",
+    "productivity",
+    "brain science",
+    "focus",
+    "mental health"
+  ],
+  "thumbnail_idea": "Person head in hands at desk, brain graphic glowing behind them, 'NOT LAZY' text overlay",
+  "visual_scene": "Modern home office at golden evening hour, warm desk lamp casting soft orange light. Young professional with messy bun and hoodie sits at a wooden desk staring at a blank Word document on a laptop screen, head dropping into hands in visible frustration. Brain cross-section graphic overlays the scene — amygdala glowing red, prefrontal cortex dim. They crack their knuckles, take a breath, and type one slow, deliberate sentence. Word count ticks up: 50 words, then 200, then 500 in a rapid montage of the screen filling with text. The person's expression shifts from dread to surprise to genuine satisfaction. They lean back in the chair with a surprised smile. Cozy home office, warm tones, cinematic feel, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, harsh fluorescent lighting, outdoor scene, corporate sterite office, dark moody lighting",
+  "specific_details": "Young professional woman with messy bun and casual hoodie, sitting at a warm wooden home office desk with a laptop, head in hands in frustration staring at a blank document, cracking knuckles before typing one sentence, word count climbing in a montage, leaning back with a surprised satisfied smile, warm evening lamp light, cozy productivity atmosphere, portrait 9:16.",
+  "status": "published",
+  "published_at": "2026-03-30T13:50:00Z",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T10:08:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\PW-13.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:21:24.724Z",
+  "tiktok_url": "/@fai20128/video/7625202523556547861"
+}

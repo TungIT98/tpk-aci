@@ -1,0 +1,72 @@
+{
+  "name": "TKP Video Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "kind": "schedule",
+          "expression": "0 8 * * *"
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Schedule Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [100, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://localhost:18789/webhook/tkp-generate-video",
+        "options": {
+          "timeout": 600000
+        }
+      },
+      "id": "http-request",
+      "name": "Generate Video",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [400, 300]
+    },
+    {
+      "parameters": {
+        "webhook": {
+          "url": "YOUR_DISCORD_WEBHOOK_HERE"
+        },
+        "text": "🎬 Video generated!"
+      },
+      "id": "discord",
+      "name": "Discord Notify",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 1,
+      "position": [700, 300]
+    }
+  ],
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Generate Video",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate Video": {
+      "main": [
+        [
+          {
+            "node": "Discord Notify",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

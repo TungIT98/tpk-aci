@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-094",
+  "title": "Thanh Van Mon Episode 14: The Night the Garden Walked",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 14,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "At midnight, the garden physically WALKS. Plants uproot and roam the palace halls. The dead follow.",
+    "story_arc": "Midnight bell, Garden awakens, Plants walk the halls, Ghost army marches, The palace trembles",
+    "emotion": "Dread, Horror, Chaos, Terror, Awe",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide aerial shot — the palace at midnight. The garden wall CRACKS. Through the crack, moonlight illuminates roots and vines beginning to MOVE — crawling like fingers across stone. The first cherry blossom tree ROOTS itself out of the ground with a sound like a gasp. It takes one step on its exposed roots. Camera: extreme wide aerial shot of the garden wall cracking, first tree uprooting and stepping forward. 6 seconds.",
+      "camera": "Wide aerial — midnight palace, garden wall cracking, first cherry tree uprooting and stepping, 6s",
+      "narration": "At midnight, the bell rang thirteen times. And the garden woke up. Not its flowers. Not its stones. The garden itself.",
+      "sfx": "Midnight bell toll, stone cracking, root ripping from soil, gasp-like wind, horror strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — the palace corridors. Trees walk through the hallways — roots lifting and stepping like giant feet. Vines crawl along walls and ceilings. Blossoms fall in the torch-lit corridors. Guards run screaming. She stands in a doorway, watching a towering pine tree walk past her, roots grinding on marble floors. Camera: medium shot, her in doorway as enormous walking pine tree passes, guards fleeing. 6 seconds.",
+      "camera": "Medium — walking pine tree in torch-lit palace corridor, guards fleeing, she frozen in doorway, 6s",
+      "narration": "Ancient pine trees walked the halls where they had once been planted. Cherry blossoms fell like snow in the corridors of power. The garden had come to collect what was owed.",
+      "sfx": "Giant footsteps, marble cracking, guards screaming, blossom falling, horror swell"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she moves through the chaos. A ghostly figure passes through her — an erased minister, translucent and furious. He points toward the throne room. Behind him, more ghosts: generals, scholars, concubines — all erased — marching in perfect formation through the palace. They follow the living plants. Camera: close-up on her face as ghost after ghost passes through her, palace plants marching behind them. 6 seconds.",
+      "camera": "Close-up — ghost army passing through her, translucent erased nobles marching in formation, 6s",
+      "narration": "The erased were marching. And they were not angry at her. They were angry at the palace. And the garden — was their army.",
+      "sfx": "Ghost footsteps, ethereal chorus, cold wind, spirit voices, war drums distant"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic shot — the garden has consumed the entire courtyard. Trees arranged in formation like soldiers. Ghost generals riding on roots like mounts. The entire thing — alive, conscious, angry — turns as one toward the throne room. A branch the size of a spear launches through a window, shattering the glass. Camera: extreme wide shot of the living garden army facing the throne room. 6 seconds.",
+      "camera": "Wide — living garden army in battle formation facing throne room, branch spear through window, 6s",
+      "narration": "The garden had decided. After centuries of being the palace's silent witness — it had chosen a side. And it was done being beautiful. Now it was justice.",
+      "sfx": "Army march rhythm, branch spear whoosh, glass shattering, war drums, epic orchestral climax"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she stands in front of the garden army, arms spread wide. Not to stop them — but to speak to them. I know who ordered the erasures. Let me bring them to justice — without more death. Camera: cinematic wide shot, her silhouette in front of the enormous living garden army, moon above. 6 seconds. End on the garden's response — all the lanterns lighting simultaneously.",
+      "camera": "Wide cinematic — her silhouette arms spread before living garden army, lanterns all igniting, 6s",
+      "narration": "She stood before the living garden — a thousand years of accumulated rage — and offered herself as justice instead of vengeance. The garden considered this. And for one moment — it listened.",
+      "sfx": "Wind stilling, breath held, lanterns igniting, heartbeat, orchestral swell ending on hopeful note"
+    }
+  ],
+  "audio": {
+    "narration": "At midnight, the bell rang thirteen times. And the garden woke up. Not its flowers. Not its stones. The garden itself. Ancient pine trees walked the halls where they had once been planted. Cherry blossoms fell like snow in the corridors of power. The garden had come to collect what was owed. The erased were marching. And they were not angry at her. They were angry at the palace. And the garden — was their army. The garden had decided. After centuries of being the palace's silent witness — it had chosen a side. And it was done being beautiful. Now it was justice. She stood before the living garden — a thousand years of accumulated rage — and offered herself as justice instead of vengeance. The garden considered this. And for one moment — it listened.",
+    "narration_duration": 28,
+    "bg_music": "Epic horror orchestral, plant movement drones, war drums and strings, nature's wrath, night tension 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Midnight bell toll",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Giant footsteps",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Ghost footsteps",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Army march rhythm",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Wind stilling",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide aerial shot — the palace at midnight. The garden wall CRACKS. Through the crack, moonlight illuminates roots and vines beginning to MOVE — crawling like fingers across stone. The first cherry blossom tree ROOTS itself out of the ground with a sound like a gasp. It takes one step on its exposed roots. Camera: extreme wide aerial shot of the garden wall cracking, first tree uprooting and stepping forward. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — the palace corridors. Trees walk through the hallways — roots lifting and stepping like giant feet. Vines crawl along walls and ceilings. Blossoms fall in the torch-lit corridors. Guards run screaming. She stands in a doorway, watching a towering pine tree walk past her, roots grinding on marble floors. Camera: medium shot, her in doorway as enormous walking pine tree passes, guards fleeing. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she moves through the chaos. A ghostly figure passes through her — an erased minister, translucent and furious. He points toward the throne room. Behind him, more ghosts: generals, scholars, concubines — all erased — marching in perfect formation through the palace. They follow the living plants. Camera: close-up on her face as ghost after ghost passes through her, palace plants marching behind them. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic shot — the garden has consumed the entire courtyard. Trees arranged in formation like soldiers. Ghost generals riding on roots like mounts. The entire thing — alive, conscious, angry — turns as one toward the throne room. A branch the size of a spear launches through a window, shattering the glass. Camera: extreme wide shot of the living garden army facing the throne room. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she stands in front of the garden army, arms spread wide. Not to stop them — but to speak to them. I know who ordered the erasures. Let me bring them to justice — without more death. Camera: cinematic wide shot, her silhouette in front of the enormous living garden army, moon above. 6 seconds. End on the garden's response — all the lanterns lighting simultaneously."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 14: Đêm Khu Vườn Đi | Xianxia Việt Sub ⚔️🌳",
+    "youtube_description": "Episode 14 of Thanh Van Mon. At midnight, the garden physically walks. Ancient trees uproot and march through the palace halls. Erased ghosts march in formation behind them. The palace trembles. She stands before the living garden and offers herself as justice — not vengeance.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 15 — The Girl With a Hundred Names\n#xianxia #thanhvanmon #walking garden #ghost army #living plants #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "walking garden",
+      "living plants",
+      "ghost army",
+      "palace march",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Nửa đêm, KHU VƯỜN ĐI. Cây cối bật rễ MARSCH qua điện thái miếu. Bóng ma xếp hàng sau. Cung điện run sợ ⚔️🌳 Tập 14 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide aerial shot — the palace at midnight. The garden wall CRACKS. Through the crack, moonlight illuminates roots and vines beginning to MOVE — crawling like fingers across stone. The first cherry blossom tree ROOTS itself out of the ground with a sound like a gasp. It takes one step on its exposed roots. Camera: extreme wide aerial shot of the garden wall cracking, first tree uprooting and stepping forward. 6 seconds. Shot 2: Medium shot — the palace corridors. Trees walk through the hallways — roots lifting and stepping like giant feet. Vines crawl along walls and ceilings. Blossoms fall in the torch-lit corridors. Guards run screaming. She stands in a doorway, watching a towering pine tree walk past her, roots grinding on marble floors. Camera: medium shot, her in doorway as enormous walking pine tree passes, guards fleeing. 6 seconds. Shot 3: Close-up — she moves through the chaos. A ghostly figure passes through her — an erased minister, translucent and furious. He points toward the throne room. Behind him, more ghosts: generals, scholars, concubines — all erased — marching in perfect formation through the palace. They follow the living plants. Camera: close-up on her face as ghost after ghost passes through her, palace plants marching behind them. 6 seconds. Shot 4: Wide cinematic shot — the garden has consumed the entire courtyard. Trees arranged in formation like soldiers. Ghost generals riding on roots like mounts. The entire thing — alive, conscious, angry — turns as one toward the throne room. A branch the size of a spear launches through a window, shattering the glass. Camera: extreme wide shot of the living garden army facing the throne room. 6 seconds. Shot 5: Close-up — she stands in front of the garden army, arms spread wide. Not to stop them — but to speak to them. I know who ordered the erasures. Let me bring them to justice — without more death. Camera: cinematic wide shot, her silhouette in front of the enormous living garden army, moon above. 6 seconds. End on the garden's response — all the lanterns lighting simultaneously.",
+  "visual_scene": "Wide aerial shot — the palace at midnight. The garden wall CRACKS. Through the crack, moonlight illuminates roots and vines beginning to MOVE — crawling like fingers across stone. The first cherry blossom tree ROOTS itself out of the ground with a sound like a gasp. It takes one step on its exposed roots. Camera: extreme wide aerial shot of the garden wall cracking, first tree uprooting and stepping forward. 6 seconds. Medium shot — the palace corridors. Trees walk through the hallways — roots lifting and stepping like giant feet. Vines crawl along walls and ceilings. Blossoms fall in the torch-lit corridors. Guards run screaming. She stands in a doorway, watching a towering pine tree walk past her, roots grinding on marble floors. Camera: medium shot, her in doorway as enormous walking pine tree passes, guards fleeing. 6 seconds. Close-up — she moves through the chaos. A ghostly figure passes through her — an erased minister, translucent and furious. He points toward the throne room. Behind him, more ghosts: generals, scholars, concubines — all erased — marching in perfect formation through the palace. They follow the living plants. Camera: close-up on her face as ghost after ghost passes through her, palace plants marching behind them. 6 seconds. Wide cinematic shot — the garden has consumed the entire courtyard. Trees arranged in formation like soldiers. Ghost generals riding on roots like mounts. The entire thing — alive, conscious, angry — turns as one toward the throne room. A branch the size of a spear launches through a window, shattering the glass. Camera: extreme wide shot of the living garden army facing the throne room. 6 seconds. Close-up — she stands in front of the garden army, arms spread wide. Not to stop them — but to speak to them. I know who ordered the erasures. Let me bring them to justice — without more death. Camera: cinematic wide shot, her silhouette in front of the enormous living garden army, moon above. 6 seconds. End on the garden's response — all the lanterns lighting simultaneously.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 14: The Night the Garden Walked",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "walking garden",
+    "living plants",
+    "ghost army",
+    "palace march",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

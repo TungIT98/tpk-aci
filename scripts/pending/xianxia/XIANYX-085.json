@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-085",
+  "title": "Tru Tien Episode 15: The Three Who Walked Into the Fire",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A mother, father, and child walk into the palace flames — not fleeing death, but walking TOWARD it. She tries to save them. They do not want to be saved. They want to undo what they did.",
+    "story_arc": "Family spotted → Running to save → Their confession → She cannot undo guilt → They enter flames willingly",
+    "emotion": "Urgency → Shock → Grief → Inadequacy → Sorrow",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot at night — the burning palace. Flames two stories high. She sees THREE FIGURES walking INTO the fire from the far side. Not fleeing — walking TOWARD. A mother holding a child's hand. A father walking ahead. They move with purpose, not panic. She SCREAMS and runs toward them. Camera: wide, burning palace, three figures walking INTO flames, mother holding child, her scream and sprint. 6 seconds.",
+      "camera": "Wide — burning palace at night, three figures walking INTO fire, mother holding child, father ahead, her scream, 6s",
+      "narration": "Three figures. Walking INTO the fire. Not fleeing death — walking toward it. With the calm of people who have already made their choice.",
+      "sfx": "Fire roaring, her distant scream, their calm footsteps, wind in flames, tension building"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she reaches them just before the flames. She grabs the mother's arm. 'STOP. I can save you.' The mother turns. Her face: peaceful. Exhausted. 'We don't want to be saved, witch. We want to undo what we did.' She freezes. The child looks up at her — unafraid. Camera: medium two-shot, her grab, mother's peaceful face, child's unafraid eyes, confession moment. 6 seconds.",
+      "camera": "Two-shot — her grabbing mother's arm, mother's peaceful refusal, child's unafraid gaze, 'We want to undo what we did', 6s",
+      "narration": "We don't want to be saved. We want to undo what we did. They had done something — something so terrible that they would rather burn than live with it.",
+      "sfx": "Her grab, her sharp breath, fire crackling, mother's calm voice, child's breath, revelation silence"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — the father speaks. 'We were soldiers. When the palace burned the first time — we burned it. Our orders.' He looks at his wife and child. 'And then we brought our child INTO the world — into the world we burned.' The mother squeezes the child's hand. 'We want to undo our sin. Not our lives. Our sin.' Camera: close-up, father's confession, mother's squeeze, child's unaware face, war crime confession. 6 seconds.",
+      "camera": "Close-up — father's war crime confession, 'we burned the palace', mother's squeeze, child's unaware face, unbearable weight, 6s",
+      "narration": "We burned the palace. Our orders. And then we brought our child into the world we burned. They wanted to undo their sin — not escape their death.",
+      "sfx": "Father's calm confession, fire crackling, child's breath, mother squeezing hand, devastating reveal, mournful strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — she opens the grimoire desperately. She scans every page. She speaks curse after curse — trying to find a way to undo GUILT. Nothing works. The curses heal wounds, reverse death, erase memories — but guilt. Guilt requires something the curse cannot provide: forgiveness. She looks at them. 'I CANNOT undo your guilt.' Camera: close-up, her flipping grimoire desperately, curse after curse failing, 'I cannot undo guilt' admission. 6 seconds.",
+      "camera": "Close-up — grimoire flipping, curse after curse failing, her desperate 'I cannot undo your guilt', failure and inadequacy, 6s",
+      "narration": "I cannot undo your guilt. The curse could reverse death — but it could not undo what they had chosen to do with their lives. Forgiveness was not a curse. It was a choice only they could make.",
+      "sfx": "Pages flipping, curse speaking, each curse failing, her desperate breath, fire crackling, inadequacy revelation"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — she steps aside. The three figures walk into the flames together, hand in hand. The child looks back once — smiles at her. They disappear into the fire. She stands at the flame's edge, grimoire clutched to her chest, weeping. Camera: wide, family walking into flames together, child's smile back, her weeping at flame's edge, tragic acceptance. 6 seconds.",
+      "camera": "Wide — family walking into fire together, hand in hand, child's smile back, her weeping at edge, flames consuming, 6s",
+      "narration": "The child smiled at her. As they walked into the fire together — the child SMILED. Not in fear. In peace. She had failed to save them. And in that failure, she understood: some curses could not save people from themselves.",
+      "sfx": "Flames roaring, child's smile, her sob, fire consuming, tragic orchestral, devastating silence"
+    }
+  ],
+  "audio": {
+    "narration": "Three figures. Walking INTO the fire. Not fleeing death — walking toward it. With the calm of people who have already made their choice. We don't want to be saved. We want to undo what we did. They had done something — something so terrible that they would rather burn than live with it. We burned the palace. Our orders. And then we brought our child into the world we burned. They wanted to undo their sin — not escape their death. I cannot undo your guilt. The curse could reverse death — but it could not undo what they had chosen to do with their lives. Forgiveness was not a curse. It was a choice only they could make. The child smiled at her. As they walked into the fire together — the child SMILED. Not in fear. In peace. She had failed to save them. And in that failure, she understood: some curses could not save people from themselves.",
+    "narration_duration": 28,
+    "bg_music": "Tragic emotional Chinese orchestral, family sacrifice theme, war guilt, child's smile in flames, devastating failure 65 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Fire roaring",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Her grab",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Father's calm confession",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Pages flipping",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Flames roaring",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot at night — the burning palace. Flames two stories high. She sees THREE FIGURES walking INTO the fire from the far side. Not fleeing — walking TOWARD. A mother holding a child's hand. A father walking ahead. They move with purpose, not panic. She SCREAMS and runs toward them. Camera: wide, burning palace, three figures walking INTO flames, mother holding child, her scream and sprint. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she reaches them just before the flames. She grabs the mother's arm. 'STOP. I can save you.' The mother turns. Her face: peaceful. Exhausted. 'We don't want to be saved, witch. We want to undo what we did.' She freezes. The child looks up at her — unafraid. Camera: medium two-shot, her grab, mother's peaceful face, child's unafraid eyes, confession moment. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — the father speaks. 'We were soldiers. When the palace burned the first time — we burned it. Our orders.' He looks at his wife and child. 'And then we brought our child INTO the world — into the world we burned.' The mother squeezes the child's hand. 'We want to undo our sin. Not our lives. Our sin.' Camera: close-up, father's confession, mother's squeeze, child's unaware face, war crime confession. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — she opens the grimoire desperately. She scans every page. She speaks curse after curse — trying to find a way to undo GUILT. Nothing works. The curses heal wounds, reverse death, erase memories — but guilt. Guilt requires something the curse cannot provide: forgiveness. She looks at them. 'I CANNOT undo your guilt.' Camera: close-up, her flipping grimoire desperately, curse after curse failing, 'I cannot undo guilt' admission. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide shot — she steps aside. The three figures walk into the flames together, hand in hand. The child looks back once — smiles at her. They disappear into the fire. She stands at the flame's edge, grimoire clutched to her chest, weeping. Camera: wide, family walking into flames together, child's smile back, her weeping at flame's edge, tragic acceptance. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 15: Ba Người Bước Vào Lửa | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 15 of Tru Tien. A mother, father, and child walk INTO the burning palace flames — not fleeing death, but choosing it. They burned the palace. They want to undo their sin. She cannot. She steps aside. The child smiles back.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "family walks into fire",
+      "war guilt",
+      "cannot undo sin",
+      "child smile",
+      "tragic choice",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Mẹ, cha và con bước VÀO lửa cung điện — không chạy trốn mà CHỌN cái chết. Họ đốt cung điện. Họ muốn xóa tội lỗi. Cô không thể. Đứa bé mỉm cười nhìn lại ⚔️🔥 Tập 15 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot at night — the burning palace. Flames two stories high. She sees THREE FIGURES walking INTO the fire from the far side. Not fleeing — walking TOWARD. A mother holding a child's hand. A father walking ahead. They move with purpose, not panic. She SCREAMS and runs toward them. Camera: wide, burning palace, three figures walking INTO flames, mother holding child, her scream and sprint. 6 seconds. Shot 2: Medium shot — she reaches them just before the flames. She grabs the mother's arm. 'STOP. I can save you.' The mother turns. Her face: peaceful. Exhausted. 'We don't want to be saved, witch. We want to undo what we did.' She freezes. The child looks up at her — unafraid. Camera: medium two-shot, her grab, mother's peaceful face, child's unafraid eyes, confession moment. 6 seconds. Shot 3: Close-up — the father speaks. 'We were soldiers. When the palace burned the first time — we burned it. Our orders.' He looks at his wife and child. 'And then we brought our child INTO the world — into the world we burned.' The mother squeezes the child's hand. 'We want to undo our sin. Not our lives. Our sin.' Camera: close-up, father's confession, mother's squeeze, child's unaware face, war crime confession. 6 seconds. Shot 4: Close-up — she opens the grimoire desperately. She scans every page. She speaks curse after curse — trying to find a way to undo GUILT. Nothing works. The curses heal wounds, reverse death, erase memories — but guilt. Guilt requires something the curse cannot provide: forgiveness. She looks at them. 'I CANNOT undo your guilt.' Camera: close-up, her flipping grimoire desperately, curse after curse failing, 'I cannot undo guilt' admission. 6 seconds. Shot 5: Wide shot — she steps aside. The three figures walk into the flames together, hand in hand. The child looks back once — smiles at her. They disappear into the fire. She stands at the flame's edge, grimoire clutched to her chest, weeping. Camera: wide, family walking into flames together, child's smile back, her weeping at flame's edge, tragic acceptance. 6 seconds.",
+  "visual_scene": "Wide shot at night — the burning palace. Flames two stories high. She sees THREE FIGURES walking INTO the fire from the far side. Not fleeing — walking TOWARD. A mother holding a child's hand. A father walking ahead. They move with purpose, not panic. She SCREAMS and runs toward them. Camera: wide, burning palace, three figures walking INTO flames, mother holding child, her scream and sprint. 6 seconds. Medium shot — she reaches them just before the flames. She grabs the mother's arm. 'STOP. I can save you.' The mother turns. Her face: peaceful. Exhausted. 'We don't want to be saved, witch. We want to undo what we did.' She freezes. The child looks up at her — unafraid. Camera: medium two-shot, her grab, mother's peaceful face, child's unafraid eyes, confession moment. 6 seconds. Close-up — the father speaks. 'We were soldiers. When the palace burned the first time — we burned it. Our orders.' He looks at his wife and child. 'And then we brought our child INTO the world — into the world we burned.' The mother squeezes the child's hand. 'We want to undo our sin. Not our lives. Our sin.' Camera: close-up, father's confession, mother's squeeze, child's unaware face, war crime confession. 6 seconds. Close-up — she opens the grimoire desperately. She scans every page. She speaks curse after curse — trying to find a way to undo GUILT. Nothing works. The curses heal wounds, reverse death, erase memories — but guilt. Guilt requires something the curse cannot provide: forgiveness. She looks at them. 'I CANNOT undo your guilt.' Camera: close-up, her flipping grimoire desperately, curse after curse failing, 'I cannot undo guilt' admission. 6 seconds. Wide shot — she steps aside. The three figures walk into the flames together, hand in hand. The child looks back once — smiles at her. They disappear into the fire. She stands at the flame's edge, grimoire clutched to her chest, weeping. Camera: wide, family walking into flames together, child's smile back, her weeping at flame's edge, tragic acceptance. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 15: The Three Who Walked Into the Fire",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "family walks into fire",
+    "war guilt",
+    "cannot undo sin",
+    "child smile",
+    "tragic choice",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,32 @@
+﻿{
+  "id": "PW-10",
+  "channel": "Productivity Worker",
+  "title": "The 5-Point Meeting Framework That Ends Every Unproductive Discussion",
+  "script": "Most meetings end with nothing decided. The five-point structure fixes that in 15 minutes. Point one: what decision are we making today? Point two: what information do we need? Point three: what's each person's recommendation? Point four: what's the decision, and who's responsible for it? Point five: what's the deadline? That's it. No agenda, no decision, no meeting. This structure forces clarity before anyone speaks. The result: shorter meetings, clearer outcomes, and team members who actually respect your calendar.",
+  "prompt_for_hailuo": "Conference room table with scattered papers and confused faces [Wide establishing shot]. Person at head of table writing 5 numbered points on whiteboard [Tracking shot following marker]. Whiteboard shows: 1. Decision? 2. Info needed? 3. Recommendations? 4. Owner + deadline? 5. Done [Static close-up on board]. Meeting ending: all nod, one person writes action item [Medium shot]. Same team leaving room energized, clock shows 15 minutes [Tracking shot]. Clean office, professional bright lighting, organized whiteboard as hero visual, cinematic cut.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "meeting productivity",
+    "meeting structure",
+    "effective meetings",
+    "workplace tips",
+    "team management"
+  ],
+  "thumbnail_idea": "Whiteboard with '5-POINT MEETING' written clearly, person pointing at it confidently, professional office setting",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T08:00:00Z",
+  "video_path": "output_topic/videos/PW-10.mp4",
+  "generated_at": "2026-03-30T01:30:12Z",
+  "uploaded_at": null,
+  "youtube_url": null,
+  "upload_note": "Generated via Pexels pipeline (2 clips, Liam TTS). Verified: 1080x1920 portrait, 5s, H.264, 30fps, 1.8Mbps. YouTube/TikTok upload BLOCKED: browser.upload() cannot reach YouTube Studio's dynamically-created hidden file inputs (known limitation per MEMORY.md). Manual upload required.",
+  "visual_scene": "A modern sleek conference room bathed in soft natural daylight from floor-to-ceiling windows overlooking a city skyline, but the table is chaotic — scattered papers, open laptops, water bottles, confused expressions on four diverse team members' faces as someone gesticulates without clear direction. A person at the head of the table stands confidently and walks to a large clean whiteboard, uncapping a bold black marker to write five numbered bullet points with clean precision as the tracking shot follows their hand. Close-up on the whiteboard: '1. Decision 2. Info Needed 3. Options 4. Decision+Owner 5. Next Step.' Camera reveals the transformed team now sitting attentively around the organized table with notebooks open, someone raising a hand with a clear question, one person leaning back with arms crossed satisfied, soft natural light streaming through the windows in a clean organized professional conference room. Modern corporate conference room, soft natural window light, organized meeting atmosphere, cinematic.",
+  "specific_details": "Four diverse young professional team members in business casual attire sitting around a modern sleek conference table in soft natural daylight from floor-to-ceiling windows overlooking a city skyline, table surface chaotic with scattered papers, open laptops, water bottles and confused gesticulating expressions without clear direction; a person at the head of the table stands and walks to a large clean whiteboard uncapping a bold black marker to write five numbered bullet points with clean precision in a tracking shot following their hand; close-up on the whiteboard showing '1. Decision 2. Info Needed 3. Options 4. Decision+Owner 5. Next Step'; camera revealing the same team now sitting attentively around the organized table with notebooks open, someone raising a hand with a clear question and one person leaning back satisfied with arms crossed, soft natural light streaming through large windows, set in a modern corporate conference room with clean sleek design and city skyline view, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright outdoor harsh sunlight, dark night scene, residential home interior, bedroom setting, sad or chaotic mood",
+  "produced_at": "2026-03-31T05:38:48.840Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:19:55.132Z",
+  "tiktok_url": "/@fai20128/video/7625202128444968213"
+}

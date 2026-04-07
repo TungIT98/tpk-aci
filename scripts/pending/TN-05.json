@@ -1,0 +1,88 @@
+{
+  "id": "TN-05",
+  "episode": "05",
+  "series": "Tien Nghich",
+  "channel": "Xianxia Fantasy",
+  "title": "She Died to Save Him. He Forgot Her.",
+  "script": "She gave her life for him. He doesn't even remember her face. A thousand-year cultivation... shattered in one moment. To save the man she loved.",
+  "clips": [
+    {
+      "clip_id": "TN-05-01",
+      "scene": "Hook - The Battlefield",
+      "prompt_for_hailuo": "Young beautiful Chinese woman in elegant crimson and gold warrior robes holding a dying man in her arms on ancient battlefield, smoke and fire behind them, tears falling from her eyes onto his face, dramatic sunset lighting, tragic romantic scene, cinematic, 9:16 portrait",
+      "prompt_for_pexels": "woman warrior battlefield fire sunset tragic romantic tears",
+      "script_text": "She gave her life for him. He doesn't even remember her face."
+    },
+    {
+      "clip_id": "TN-05-02",
+      "scene": "The Sacrifice",
+      "prompt_for_hailuo": "Beautiful young woman in white robes unleashing brilliant golden protective energy barrier to shield a man from deadly black energy attack, her body becoming translucent as spirit separates, golden light explosion, tragic sacrifice scene, cinematic slow motion, 9:16 portrait",
+      "prompt_for_pexels": "woman white robes golden light energy barrier sacrifice tragic",
+      "script_text": "A thousand-year cultivation... shattered in one moment. To save the man she loved."
+    },
+    {
+      "clip_id": "TN-05-03",
+      "scene": "The New Life",
+      "prompt_for_hailuo": "Young handsome Chinese man in elegant robes walking happily through a busy ancient spring market full of people, alive and well, unaware, in the background a beautiful translucent ghostly woman watching him from across the street, fading in and out of visibility, bittersweet scene, soft lighting, 9:16 portrait",
+      "prompt_for_pexels": "ghostly woman watching man market spring ethereal translucent",
+      "script_text": "He lives. But the woman who died for him... watches from the world between worlds."
+    },
+    {
+      "clip_id": "TN-05-04",
+      "scene": "The Awakening",
+      "prompt_for_hailuo": "Young handsome man suddenly stopping in ancient crowded market, hand pressing to his chest in confusion, brief flash of memory appearing as ethereal vision — a beautiful woman reaching for him through golden light — then vision disappears leaving him bewildered, emotional moment, cinematic, 9:16 portrait",
+      "prompt_for_pexels": "man confused market flash memory golden light ethereal woman",
+      "script_text": "Sometimes... in the quiet moments... he feels her. A warmth he can't explain. A loss he can't name."
+    },
+    {
+      "clip_id": "TN-05-05",
+      "scene": "Outro - The Farewell",
+      "prompt_for_hailuo": "Beautiful young woman spirit standing alone on misty cliff edge, sad peaceful smile, turning to look directly at camera, slowly fading and dissolving into petals of golden light, melancholic ethereal atmosphere, cinematic slow motion farewell scene, 9:16 portrait",
+      "prompt_for_pexels": "woman spirit cliff fading light golden petals melancholic farewell",
+      "script_text": "Mộc Thân Kỳ — this life, I saved you. The next life... will you find me? Follow to find out."
+    }
+  ],
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "orientation": "vertical",
+  "tags": [
+    "xianxia",
+    "tragedy",
+    "sacrifice",
+    "ghost",
+    "love"
+  ],
+  "status": "pending",
+  "created_by": "Nova",
+  "created_at": "2026-03-30T09:15:00Z",
+  "prompt_for_hailuo": "Ghostly beautiful woman in flowing white ethereal robes glowing with pale blue light, standing in a ruined ghost realm [Wide shot]. Close-up: translucent hands touching a young male cultivator's face as scene goes dark [Slow motion]. Final scene: golden sunrise breaking over misty mountains [Wide shot]. Ancient Chinese cultivation world, ethereal ghost realm, pale blue spirit light, tragedy, cinematic, portrait 9:16.",
+  "visual_scene": "An ethereal ghost realm suspended between worlds — a vast ruined ancient palace with crumbling white marble pillars, thousands of glowing spirit lanterns floating in the dark purple sky above, and swirling white mist covering the ground. Ghostly beautiful young woman with long flowing white hair and translucent skin glowing softly with pale blue spirit light, wearing ethereal flowing white robes that drift and move as if underwater, standing in the center of the ghost realm with an expression of profound sorrow and unconditional love, her form flickering slightly like candlelight. Close-up on her translucent ghostly hands reaching out toward someone just outside the frame — fingers slightly spread as if catching someone. The scene darkens around her as she closes her eyes and begins to dissolve into thousands of glowing spirit particles rising into the dark purple sky, her final tear falling in slow motion. Wide establishing shot reveals a young male cultivator in simple dark robes kneeling alone in the ghost realm where she stood, reaching for fading light, confused and hollow. Golden sunrise breaking over misty ancient Chinese cultivation mountains, mist rising from valleys, birds beginning to sing, morning light warm and healing — symbolizing the cycle continuing, tragedy giving way to hope. Ancient Chinese cultivation ghost realm, ethereal atmosphere, pale blue spirit light, deep tragedy and sacrifice, cinematic.",
+  "specific_details": "Ghostly beautiful young woman with long flowing white hair and translucent skin glowing softly with pale blue spirit light wearing ethereal flowing white robes that drift like underwater in a vast ruined ancient palace ghost realm with crumbling white marble pillars and thousands of glowing spirit lanterns floating in the dark purple sky above and swirling white mist, her translucent ghostly hands reaching out with profound sorrow and unconditional love on her face as her form flickers like candlelight, closing her eyes and beginning to dissolve into thousands of glowing spirit particles rising into the dark purple sky while a young male cultivator in simple dark robes kneels alone reaching for the fading light, set in an ethereal ancient Chinese ghost realm suspended between worlds with pale blue spirit glow and dark purple atmospheric sky, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight, modern clothing, happy cheerful mood, warm cozy interior, beach or tropical setting, crowded busy scene",
+  "tiktok_seo": {
+    "title": "She Died for Him. He Doesn't Even Remember Her Face 💔 #xianxia #tragiclove",
+    "hook_line": "A thousand years of cultivation... shattered in one moment. She saved the man she loved. And he moved on.",
+    "description": "A thousand years of cultivation... shattered in one moment. She saved the man she loved. And he moved on.\n\nThe most heartbreaking arc 🖤\n\n#xianxia #tragiclove #reincarnation #cultivation #waited1000years #love #destiny #sacrifice #chinesemythology #fyp",
+    "hashtags": [
+      "#xianxia",
+      "#cultivation",
+      "#chinesemythology",
+      "#tragiclove",
+      "#reincarnation",
+      "#waited1000years",
+      "#love",
+      "#destiny",
+      "#sacrifice",
+      "#chinesefantasy",
+      "#fyp"
+    ],
+    "sound": "Emotional sad Chinese instrumental",
+    "thumbnail_overlay": "SHE DIED FOR HIM | HE FORGOT HER FACE",
+    "optimized_at": "2026-03-30"
+  },
+  "published_at": "2026-03-30T13:55:50.839Z",
+  "published_path": "C:/Users/PC/.paperclip/instances/default/workspaces/TKP_ACI/output/tien-nghich/TN-05",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TN-05.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "qc_status": null
+}

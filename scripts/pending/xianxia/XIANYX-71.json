@@ -1,0 +1,177 @@
+﻿{
+  "id": "XIANYX-71",
+  "title": "Dau Pha Thuong Khau Episode 11: The Flame Emperor's Remains",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Ancient mystery revealed, power inheritance, legendary awakening",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "In the ancient tomb, the Flame Emperor's remains still burned — three hundred years old and waiting for the one person who could claim his fire.",
+    "story_arc": "Ancient tomb discovered → Flame Emperor's remains revealed → His fire cultivates Xiao Yan accidentally → First flame obtained → The sect masters arrive",
+    "emotion": "Wonder → Shock → Power rush → Tension → Triumph",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — ancient tomb deep underground. Torchlight reveals massive stone chambers carved with fire spirit symbols. Xiao Yan stands at the entrance of the innermost chamber. Before him: a skeleton sitting in meditation position, surrounded by burning blue flames that never extinguish. Camera: wide of tomb chamber, skeleton in meditation surrounded by eternal blue flames, Xiao Yan frozen in awe. 6 seconds.",
+      "camera": "Wide — ancient tomb, skeleton in meditation surrounded by eternal blue flames, Xiao Yan frozen, 6s",
+      "narration": "Three hundred years. The Flame Emperor had sat here, waiting. Waiting for a body worthy of his fire.",
+      "sfx": "Torch wind, ancient stone echo, his sharp breath, blue flame crackling, distant rumbling"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the Flame Emperor's skeleton. His skull bowed, hands in a cultivation gesture, flames flowing IN to his empty chest cavity — still burning after three centuries. Xiao Yan reaches forward. His hand passes the flames — and they RECOGNIZE him. They rush toward him. Camera: extreme close-up — blue flames rushing toward Xiao Yan, recognizing him, entering his body. 6 seconds.",
+      "camera": "Extreme close-up — blue flames recognizing Xiao Yan and rushing into his body, 6s",
+      "narration": "The flames recognized him. Not by his name. By his soul. He was the one the Flame Emperor had been waiting for.",
+      "sfx": "Flames whooshing, energy entering body, his gasp, ancient power flowing, heartbeat intensifying"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — Xiao Yan's body ERUPTS with blue flame. His cultivation stage surges — he breaks through three levels in seconds. His eyes change color — pure blue flame. He screams from the power — his body not yet strong enough. Flames tear through his meridians. Camera: medium — blue flame eruption from body, breakthrough surge, pain and power, three levels shattered in seconds. 6 seconds.",
+      "camera": "Medium — blue flame body eruption, three-level breakthrough, pain and power surge, 6s",
+      "narration": "Three levels broken in a single breath. The Flame Emperor's fire was too powerful — it was destroying him even as it crowned him.",
+      "sfx": "Breakthrough explosion, flame roaring through body, his scream, meridians tearing, power surge"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the Flame Emperor's skeleton CRACKS. His final remains disintegrate — a voice echoes from the tomb: 'The fire chooses the master. You must grow strong enough to contain me.' Then silence. Xiao Yan stands, changed. Blue flames circle his body — his first true flame. Camera: close-up — skeleton disintegrating, voice echoing, Xiao Yan standing with blue flames circling him. 6 seconds.",
+      "camera": "Close-up — Flame Emperor skeleton disintegrating, voice echoing final words, blue flames circling him, 6s",
+      "narration": "The Flame Emperor was gone. But his fire remained. Xiao Yan had his first flame — the start of an emperor's path.",
+      "sfx": "Skeleton crumbling, ancient voice echoing, flame circling, wind in tomb, triumphant exhale"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — above ground. Sect masters arrive at the tomb entrance — dozens of powerful cultivators. They sense the Flame Emperor's fire awakening. 'Who claimed it?!' shouts a Dou Huang (Fight Emperor) elder. Inside the tomb, Xiao Yan emerges from the darkness — blue flames at his fingertips. He is no longer the废物 (waste) they all mocked. Camera: wide — dozens of powerful sect masters at tomb entrance, Xiao Yan emerging from darkness with blue flames. 6 seconds.",
+      "camera": "Wide — dozens of sect masters at tomb entrance, Xiao Yan emerging with blue flames, power shift, 6s",
+      "narration": "He had claimed the Flame Emperor's fire. And every powerful sect in the region had just felt it. His survival — was now everyone's business.",
+      "sfx": "Sect masters arriving, shouting, Xiao Yan's footsteps emerging, blue flame flickering, tension building, epic orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "Three hundred years. The Flame Emperor had sat here, waiting. Waiting for a body worthy of his fire. The flames recognized him. Not by his name. By his soul. He was the one the Flame Emperor had been waiting for. Three levels broken in a single breath. The Flame Emperor's fire was too powerful — it was destroying him even as it crowned him. The Flame Emperor was gone. But his fire remained. Xiao Yan had his first flame — the start of an emperor's path. He had claimed the Flame Emperor's fire. And every powerful sect in the region had just felt it. His survival — was now everyone's business.",
+    "narration_duration": 28,
+    "bg_music": "Epic ancient Chinese orchestral, flame awakening, power breakthrough, mystery and power 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Torch wind",
+        "volume": 0.4
+      },
+      {
+        "time": 6,
+        "sound": "Flames whooshing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Breakthrough explosion",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Skeleton crumbling",
+        "volume": 0.4
+      },
+      {
+        "time": 24,
+        "sound": "Sect masters arriving",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — ancient tomb deep underground. Torchlight reveals massive stone chambers carved with fire spirit symbols. Xiao Yan stands at the entrance of the innermost chamber. Before him: a skeleton sitting in meditation position, surrounded by burning blue flames that never extinguish. Camera: wide of tomb chamber, skeleton in meditation surrounded by eternal blue flames, Xiao Yan frozen in awe. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the Flame Emperor's skeleton. His skull bowed, hands in a cultivation gesture, flames flowing IN to his empty chest cavity — still burning after three centuries. Xiao Yan reaches forward. His hand passes the flames — and they RECOGNIZE him. They rush toward him. Camera: extreme close-up — blue flames rushing toward Xiao Yan, recognizing him, entering his body. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — Xiao Yan's body ERUPTS with blue flame. His cultivation stage surges — he breaks through three levels in seconds. His eyes change color — pure blue flame. He screams from the power — his body not yet strong enough. Flames tear through his meridians. Camera: medium — blue flame eruption from body, breakthrough surge, pain and power, three levels shattered in seconds. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — the Flame Emperor's skeleton CRACKS. His final remains disintegrate — a voice echoes from the tomb: 'The fire chooses the master. You must grow strong enough to contain me.' Then silence. Xiao Yan stands, changed. Blue flames circle his body — his first true flame. Camera: close-up — skeleton disintegrating, voice echoing, Xiao Yan standing with blue flames circling him. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide shot — above ground. Sect masters arrive at the tomb entrance — dozens of powerful cultivators. They sense the Flame Emperor's fire awakening. 'Who claimed it?!' shouts a Dou Huang (Fight Emperor) elder. Inside the tomb, Xiao Yan emerges from the darkness — blue flames at his fingertips. He is no longer the废物 (waste) they all mocked. Camera: wide — dozens of powerful sect masters at tomb entrance, Xiao Yan emerging from darkness with blue flames. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 11: Di Vật Hoàng Đế Hỏa Diệt | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 11 of Đấu Phá Thương Khung (Battle Through the Heavens). Xiao Yan discovers the Flame Emperor's ancient tomb — and the eternal blue flame that has waited three hundred years for the right heir. He claims his first true fire. But every sect master in the region felt it awaken.\\n\\n🔥 Đấu Phá Thương Khung — Original Chinese Fantasy Series\\n📌 Follow for more episodes\\n#xianxia #đấu phá thương khung #flame emperor #tomb #breakthrough #chinese fantasy",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "flame emperor tomb",
+      "Xiao Yan breakthrough",
+      "blue flame",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Đệ tử bị coi là PHẾ VẬT đột nhiên thừa kế HỎA DIỆT HOÀNG ĐẾ! Lửa xanh ba trăm năm tuổi nhận ra anh. Hắn vừa phá vỡ 3 cấp bậc trong 1 hơi thở 🔥 Tập 11 Đấu Phá Thương Khung #xianxia #cổtrang #đấu phá thương khung",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Ancient tomb, blue eternal flames, Xiao Yan claiming the Flame Emperor's fire, three-level breakthrough, sect masters arriving.",
+  "specific_details": {
+    "subject": "Handsome young man, 18-22 years old, sharp but weathered features, black robes, lean but muscular build, determined eyes that glow with blue flame during power moments",
+    "outfit_exact": "Black ancient Chinese martial robes with silver trim, slightly torn from the breakthrough, fire spirit patterns on back. Hair tied in high warrior bun. Faint blue flame circling body during climactic shots.",
+    "setting_details": "Ancient underground tomb, blue eternal flames, stone chambers with fire spirit symbols, dramatic underground lighting",
+    "face_expression": "Awed, then pain, then determination — culminating in cold confidence",
+    "body_movement": "Power surges, flame eruption, breakthrough movements, emergence from darkness",
+    "camera": "Dramatic: wide establishing, extreme close-up on flames, power explosion medium shots, climactic emergence wide"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 11: Xiao Yan claims the Flame Emperor's eternal blue fire",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "flame emperor",
+    "Xiao Yan",
+    "tomb",
+    "breakthrough",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T15:00:00Z",
+  "publishedAt": "2026-04-06T02:51:03.741Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625460686809845012"
+}

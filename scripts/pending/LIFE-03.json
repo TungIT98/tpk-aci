@@ -1,0 +1,30 @@
+{
+  "id": "LIFE-03",
+  "category": "lifestyle",
+  "channel": "TikTok_Viral",
+  "title": "Điều duy nhất bạn cần thay đổi trong năm nay — và nó không phải là thứ bạn nghĩ",
+  "script": "Mọi người hỏi mình: 'Làm sao để thay đổi cuộc đời?' Câu trả lời không phải là thứ bạn đang nghĩ. Không phải tìm công việc mới. Không phải bắt đầu tập gym. Không phải đọc thêm sách. Điều duy nhất bạn cần thay đổi là: cách bạn phản ứng khi mọi thứ không như kế hoạch. Vì đó mới là lúc bạn thực sự sống.",
+  "prompt_for_hailuo": "Woman standing at crossroads, two diverging paths in misty forest [Static wide shot]. Chooses left path, walks forward with confidence [Tracking shot]. Rain starts, she opens arms embracing weather [Medium shot turning to camera]. Reaches destination, beautiful clearing with morning sun [Wide establishing shot]. Sits on rock overlooking valley, peaceful smile [Close up face, then pull back]. Misty forest morning, golden sun rays breaking through trees, adventurous atmosphere, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "lifechange",
+    "selfdiscovery",
+    "mindset",
+    "growth",
+    "lifestyle",
+    "truth",
+    "wisdom"
+  ],
+  "thumbnail_idea": "Woman at forest crossroads, misty paths diverging, golden light, epic scale",
+  "visual_scene": "A misty forest at dawn with two diverging paths, a young woman in casual elegant outfit (beige linen shirt, dark jeans, boots) standing at the crossroads looking thoughtful. She takes the left path with newfound confidence, walking steadily through the mist. Rain starts to fall gently, she opens her arms wide embracing the weather, turning her face up to feel the raindrops, smiling with genuine joy. She reaches a beautiful clearing bathed in morning sun, sits on a mossy rock overlooking a misty valley, her expression peaceful and content. Mist swirling in golden sun rays through tall trees, magical forest atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, harsh cold lighting, night scene, loud noisy environment, crowded scene, modern city buildings, dark moody atmosphere",
+  "specific_details": "Young woman in elegant casual outfit (beige linen shirt tucked into dark jeans, ankle boots), standing at a misty forest crossroads where two paths diverge, thoughtful and contemplative expression. She chooses the left path walking with growing confidence, opens her arms wide when rain starts falling embracing the weather with joy, reaches a clearing and sits on a mossy rock overlooking a misty valley with a peaceful serene smile, mist and golden sun rays creating magical atmosphere in the forest.",
+  "status": "published",
+  "produced_at": "2026-03-31T01:30:00.000Z",
+  "video_path": "output_topic/videos/LIFE-03.mp4",
+  "produced_by": "nova-wake-event",
+  "created_by": "CEO",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

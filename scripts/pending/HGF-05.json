@@ -1,0 +1,29 @@
+{
+  "id": "HGF-05",
+  "category": "hot_girl_fitness",
+  "channel": "TikTok_Viral",
+  "title": "Nghĩ lại những gì bạn biết về ăn kiêng — sai lầm phổ biến nhất",
+  "script": "Bạn đang ăn kiêng sai cách. Đây là sự thật. Nhịn ăn 3 ngày, rồi ăn bù cả tuần. Đếm calo như robot mà vẫn không giảm được cân. Không phải do bạn lười. Mà do chiến lược sai. Cơ thể bạn cần protein, không phải sợ hãi thức ăn. Cơ thể bạn cần tập strength, không phải chạy cardio 2 tiếng. Đây là cách tôi ăn mọi thứ tôi thích mà vẫn có body tôi muốn. Không cần nhịn. Không cần deprivation. Chỉ cần hiểu cơ thể mình đúng cách.",
+  "prompt_for_hailuo": "Young woman frustrated looking at diet app showing zero results [Close up, emotional]. Transition: same woman with a healthy balanced meal plate, smiling [Medium shot]. Gym scene: woman lifting weights, building muscle [Dynamic tracking]. Mirror reflection showing toned body transformation [Close up]. Food variety montage: protein, vegetables, carbs all on plate [Close up montage]. Woman flexing arms in mirror with confident smile [Medium shot]. Modern gym with warm lighting, clean aesthetic, empowering atmosphere, cinematic portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "hot_girl",
+    "nutrition",
+    "diet_myths",
+    "fitness",
+    "strength_training",
+    "vietnam"
+  ],
+  "thumbnail_idea": "Woman looking at sad diet app vs same woman eating pizza and looking fit — 'Ăn đúng không cần nhịn' overlay",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T11:16:00Z",
+  "visual_scene": "A modern bright gym with floor-to-ceiling mirrors and warm ambient lighting where a young Vietnamese woman in her mid 20s wearing a coral sports bra and black high-waisted leggings is flexing her arms confidently in front of the mirror with a wide satisfied smile, her muscles toned and visible, her skin glowing from a recent workout with a light sheen of sweat, golden warm lighting reflecting off the mirror creating a halo effect around her athletic figure, dumbbells and gym equipment visible in the blurred background, the scene celebrating body confidence and the empowerment of strength training, portrait 9:16.",
+  "specific_details": "A young Vietnamese woman in her mid 20s wearing a coral sports bra and black high-waisted leggings flexing her arms confidently in front of a mirror in a modern bright gym with floor-to-ceiling mirrors and warm ambient lighting, her muscles toned and visible with a wide satisfied smile, her skin glowing from a recent workout with a light sheen of sweat, golden warm lighting reflecting off the mirror creating a halo effect around her athletic figure with dumbbells and gym equipment visible in the blurred background, the scene celebrating body confidence and strength training empowerment in warm cinematic lighting, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark gym, outdoor park, sad depressed mood, unhealthy food, excessive cardio, extreme thinness",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HGF-05.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

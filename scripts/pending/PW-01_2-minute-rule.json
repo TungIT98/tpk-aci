@@ -1,0 +1,183 @@
+﻿{
+  "id": "PW-01",
+  "title": "The 2-Minute Rule That Eliminates Procrastination",
+  "category": "productivity_science",
+  "channel": "ProductivityWorker",
+  "audience": "Office workers 25-40, focused professionals",
+  "tone": "Calm authority, evidence-based, relatable office moments",
+  "platform": [
+    "YouTube",
+    "TikTok"
+  ],
+  "format": "60-90 seconds, 16:9 and 9:16",
+  "status": "published",
+  "concept": {
+    "hook": "There's a 2-minute task sitting in your inbox right now that's costing you hours of anxiety.",
+    "story_arc": "Problem (unfinished tasks drain energy) → Rule (do it now) → Evidence (neuroscience) → Examples → Call to action",
+    "emotion": "Calm revelation, relief",
+    "duration_seconds": 75,
+    "platform": "YouTube + TikTok"
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 3,
+      "duration": 3,
+      "prompt": "Close-up of a person's hand reaching toward a desk to quickly file a paper document. Clean modern office desk surface. Morning sunlight from window. Calm expression on face as task is completed.",
+      "camera": "[Push in] Slow zoom into the hand completing the filing action",
+      "narration": "There's a 2-minute task sitting in your inbox right now that's costing you hours of anxiety.",
+      "sfx": "Paper sliding into folder — soft crisp sound"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 3,
+      "time_end": 10,
+      "duration": 7,
+      "prompt": "Overhead view of an office desk covered in sticky notes, crumpled papers, and unfinished tasks. A brain icon overlay pulses subtly. Background is slightly blurred office environment.",
+      "camera": "[Tilt down] From eye level to overhead desk view",
+      "narration": "Most of us ignore small tasks until they become massive stressors. But what if you could stop that spiral in under 2 minutes?",
+      "sfx": "Ambient office hum, clock ticking softly"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 10,
+      "time_end": 25,
+      "duration": 15,
+      "prompt": "Split screen — left side: person looking stressed staring at growing inbox. Right side: brain scan showing active cognitive areas glowing red. Clean white lab environment on right.",
+      "camera": "[Static split] Both panels visible simultaneously",
+      "narration": "Here's the neuroscience. Each unfinished task consumes what scientists call cognitive RAM. Your brain is keeping that task 'open' in the background — constantly. The more open loops you have, the less actual thinking power you have available.",
+      "sfx": "Subtle digital hum, brain scan beep"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 25,
+      "time_end": 45,
+      "duration": 20,
+      "prompt": "Clean white animation-style background. Three icons appear sequentially: email icon with checkmark, calendar icon, folder icon. Each icon glows green when 'completed'. Text overlays appear beside each.",
+      "camera": "[Tracking shot] Smooth left-to-right movement following icons",
+      "narration": "The rule is simple: if a task takes less than 2 minutes, do it immediately. Don't add it to your list. Reply to that quick email. File that receipt. Send that five-word Slack reply. Each one you complete frees up your working memory.",
+      "sfx": "Soft chime when each icon completes, gentle positive tone"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 45,
+      "time_end": 55,
+      "duration": 10,
+      "prompt": "Person sitting at desk, head suddenly lifts up, surprised expression — as if a weight has lifted. Eyes widen slightly. Brief moment of lightness. Overhead lamp glows warmly.",
+      "camera": "[Pull out] Slow wide shot showing the calm, cleared workspace",
+      "narration": "Finishing a task — even a tiny one — gives your brain a dopamine hit and a sense of progress. That's the real value. Not the task itself, but the clarity it creates.",
+      "sfx": "Soft exhale, ambient positive tone"
+    },
+    {
+      "shot_number": 6,
+      "time_start": 55,
+      "time_end": 68,
+      "duration": 13,
+      "prompt": "Wide establishing shot of clean, organized desk. Person sits confidently, laptop open, coffee beside them. Natural window light. Calm productivity atmosphere. Subscribe button animation appears.",
+      "camera": "[Static] Wide establishing shot, slow zoom in on subscribe button",
+      "narration": "Next time you see a 2-minute task, ask yourself: is this worth my anxiety for the next week? Do it now. And if you want more productivity science that actually works, subscribe.",
+      "sfx": "Soft ambient music, subtle bell for subscribe"
+    }
+  ],
+  "audio": {
+    "narration": "There's a 2-minute task sitting in your inbox right now that's costing you hours of anxiety. Most of us ignore small tasks until they become massive stressors. But what if you could stop that spiral in under 2 minutes? Here's the neuroscience. Each unfinished task consumes what scientists call cognitive RAM. Your brain is keeping that task open in the background — constantly. The more open loops you have, the less actual thinking power you have available. The rule is simple: if a task takes less than 2 minutes, do it immediately. Don't add it to your list. Reply to that quick email. File that receipt. Send that five-word Slack reply. Each one you complete frees up your working memory. Finishing a task — even a tiny one — gives your brain a dopamine hit and a sense of progress. That's the real value. Not the task itself, but the clarity it creates. Next time you see a 2-minute task, ask yourself: is this worth my anxiety for the next week? Do it now. And if you want more productivity science that actually works, subscribe.",
+    "narration_duration": 68,
+    "bg_music": "Calm lo-fi productivity beat, soft piano undertones, 85-90 BPM",
+    "sfx": [
+      {
+        "time": 2.5,
+        "sound": "paper sliding into folder",
+        "volume": 0.6
+      },
+      {
+        "time": 25,
+        "sound": "brain scan beep",
+        "volume": 0.4
+      },
+      {
+        "time": 32,
+        "sound": "chime - task complete",
+        "volume": 0.5
+      },
+      {
+        "time": 38,
+        "sound": "chime - task complete",
+        "volume": 0.5
+      },
+      {
+        "time": 43,
+        "sound": "chime - task complete",
+        "volume": 0.6
+      },
+      {
+        "time": 51,
+        "sound": "soft exhale",
+        "volume": 0.4
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Close-up of a person's hand reaching toward a desk to quickly file a paper document. Clean modern office desk surface. Morning sunlight from window. Calm expression on face as task is completed. [Push in] Slow zoom into the hand completing the filing action"
+    },
+    {
+      "shot": 2,
+      "prompt": "Overhead view of an office desk covered in sticky notes, crumpled papers, and unfinished tasks. A brain icon overlay pulses subtly. Background is slightly blurred office environment. [Tilt down] From eye level to overhead desk view"
+    },
+    {
+      "shot": 3,
+      "prompt": "Split screen — left side: person looking stressed staring at growing inbox. Right side: brain scan showing active cognitive areas glowing red. Clean white lab environment on right. [Static split] Both panels visible simultaneously"
+    },
+    {
+      "shot": 4,
+      "prompt": "Clean white animation-style background. Three icons appear sequentially: email icon with checkmark, calendar icon, folder icon. Each icon glows green when completed. Text overlays appear beside each. [Tracking shot] Smooth left-to-right movement following icons"
+    },
+    {
+      "shot": 5,
+      "prompt": "Person sitting at desk, head suddenly lifts up, surprised expression — as if a weight has lifted. Eyes widen slightly. Brief moment of lightness. Overhead lamp glows warmly. [Pull out] Slow wide shot showing the calm, cleared workspace"
+    },
+    {
+      "shot": 6,
+      "prompt": "Wide establishing shot of clean, organized desk. Person sits confidently, laptop open, coffee beside them. Natural window light. Calm productivity atmosphere. Subscribe button animation appears. [Static] Wide establishing shot, slow zoom in on subscribe button"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "The 2-Minute Rule That Eliminates Procrastination (Science-Backed)",
+    "youtube_description": "There's a 2-minute task sitting in your inbox right now that's costing you hours of anxiety. In this video, I break down the neuroscience behind why unfinished tasks drain your cognitive energy, and the simple 2-minute rule that top performers use to stay focused and clear.\n\n📌 What you'll learn:\n- Why your brain keeps unfinished tasks 'open' in the background\n- The 2-minute rule and how to apply it immediately\n- Real examples: quick email, filing, calendar invites\n- How finishing tiny tasks creates dopamine and mental clarity\n\n⏱️ Timestamps:\n00:00 — Hook\n00:10 — The problem: cognitive RAM drain\n00:25 — The 2-minute rule\n00:45 — Real examples\n00:55 — Call to action\n\n🔔 Subscribe for weekly productivity science.",
+    "youtube_tags": [
+      "productivity",
+      "procrastination",
+      "time management",
+      "focus",
+      "work from home",
+      "office tips",
+      "brain science",
+      "2 minute rule"
+    ],
+    "tiktok_caption": "There's a 2-minute task in your inbox rn that's costing you HOURS of anxiety 😤 Do it now. #productivity #focus #timemanagement #workspace #procrastination #tips",
+    "playlist": "Productivity Fundamentals"
+  },
+  "production_notes": {
+    "shot_count": 6,
+    "total_duration_seconds": 68,
+    "voice": "male_calm_professional (MiniMax speech-02-hd)",
+    "music_volume": 0.25,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 (TikTok/Reels), 16:9 (YouTube)"
+  },
+  "moved_to_pending": "2026-03-30T11:44:08.580Z",
+  "prompt_for_hailuo": "Close-up of a person's hand reaching toward a desk to quickly file a paper document. Clean modern office desk surface. Morning sunlight from window. Calm expression on face as task is completed. [Push in] Slow zoom into the hand completing the filing action. | Overhead view of an office desk covered in sticky notes, crumpled papers, and unfinished tasks. Brain icon overlay pulses subtly. [Tilt down] From eye level to overhead desk view. | Split screen — left: person looking stressed staring at growing inbox. Right: brain scan showing active cognitive areas glowing red. Clean white lab environment. [Static split] Both panels visible simultaneously. | Clean white animation-style background. Three icons appear sequentially: email icon with checkmark, calendar icon, folder icon. Each glows green when completed. [Tracking shot] Smooth left-to-right movement following icons. | Person sitting at desk, head suddenly lifts up, surprised expression — as if a weight has lifted. Eyes widen slightly. [Pull out] Slow wide shot showing the calm, cleared workspace. | Wide establishing shot of clean, organized desk. Person sits confidently, laptop open, coffee beside them. Natural window light. Calm productivity atmosphere. [Static] Wide establishing shot, slow zoom in on subscribe button.",
+  "visual_scene": "A clean and modern home office or co-working space bathed in soft morning sunlight streaming through large windows. A person sits at a minimalist wooden desk, first showing a cluttered desk surface viewed from above — covered in sticky notes, crumpled papers, and scattered tasks with a subtle pulsing brain icon overlay, then transitioning to the same person calmly and confidently filing a document with a sense of satisfaction, head lifting with visible relief as if a weight has been lifted. The space transitions from chaotic to calm, emphasizing the transformation from cognitive overload to peace. Warm natural light throughout. Portrait and wide 9:16 vertical framing.",
+  "specific_details": "A professional person at a clean modern home office desk, morning sunlight streaming through a large window to one side, first shot overhead showing desk covered in sticky notes and scattered papers with a subtle brain icon pulsing, then transitioning to close-up of hand smoothly filing a document into a folder with a sense of completion, followed by the same person sitting up suddenly with eyes widened and a visible expression of relief and lightness as if a mental weight has lifted — warm golden morning light throughout, portrait 9:16 vertical framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions beyond production overlays, logos or watermarks, still or static frame, landscape orientation, dark night atmosphere, overly cluttered or chaotic mood",
+  "thumbnail_idea": "Hand filing a paper with a lightbulb moment glow — '2 min task = hours of anxiety saved' text overlay",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "video_path": "output/videos/PW-01.mp4",
+  "produced_at": "2026-03-31T04:20:21Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:11:30.973Z",
+  "tiktok_url": "/@fai20128/video/7625200086343077140"
+}

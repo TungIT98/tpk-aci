@@ -1,0 +1,175 @@
+{
+  "id": "XIANYX-062",
+  "title": "Trieu Tien Episode 12: The Crimson Tide",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Three thousand soldiers descended on the mountain. One woman with a legendary blade descended to meet them.",
+    "story_arc": "Army arrives at dawn → She descends alone → First clash → Blade awakens fully → Tide turns",
+    "emotion": "Tension → Calm confidence → First blood → Power awakening → Crimson slaughter",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide aerial at dawn — three thousand soldiers in black and crimson armor fill the valley below the temple mountain. Banners of the Crimson Sun Empire. War drums that shake the clouds. At the mountain's peak, a single crimson-robed figure stands at the temple gates. The army sees her. She sees them. Camera: extreme wide aerial, army filling valley, single figure at peak. 6 seconds.",
+      "camera": "Extreme wide aerial — army filling valley at dawn, drums, single crimson figure at peak, 6s",
+      "narration": "Three thousand soldiers descended on the mountain at dawn. At the temple gates, one woman in crimson held her father's blade and watched them come.",
+      "sfx": "War drums pounding, army rumble, wind, tension building"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide cinematic — she begins her descent. Not running — walking. Each step down the thousand-step staircase takes three seconds. The army watches in silence. The war drums stop. She descends alone and unarmed in hand — blade not yet drawn. The staircase becomes her stage. Camera: wide, her slow dramatic descent down thousand steps, army watching in silence. 6 seconds.",
+      "camera": "Wide — slow dramatic solo descent down thousand steps, army watching in perfect silence, 6s",
+      "narration": "She did not run. She did not charge. She descended — like a queen going to meet her subjects. And the silence of three thousand soldiers was the greatest tribute she could receive.",
+      "sfx": "Footsteps echoing on stone, wind, single war horn stopping, silence"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — at the bottom of the stairs, she stops. She looks at the army. At the generals. At the young commander who gave the order to kill her. She draws the Crimson Blade — and it SINGS. A blood-red light erupts from the edge. Her eyes glow red. She smiles. 'Which of you,' she asks calmly, 'would like to die first?' Camera: extreme close-up on her fierce calm smile, glowing blade, terrifying composure. 6 seconds.",
+      "camera": "Extreme close-up — blade drawn and singing, crimson light, glowing eyes, calm terrifying smile, 6s",
+      "narration": "Which of you would like to die first? Three thousand soldiers. One blade. And the calm of a woman who knew exactly how this was going to end.",
+      "sfx": "Blade singing, crimson light whoosh, wind intensifying, her calm voice echo"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — she MOVES. She is a crimson blur. Soldiers fall in rows — not dead, disarmed. Blade work so fast it appears as flowing red calligraphy in the air. Each stroke names a technique. Each technique is a memory of her father. She cuts through the front line like water through sand. Camera: wide, her crimson blur cutting through front line, calligraphy-style blade traces, beautiful violence. 6 seconds.",
+      "camera": "Wide — crimson blur, calligraphy blade work, disarming not killing, front line destroyed, 6s",
+      "narration": "She did not kill. She DISARMED. Each cut a lesson. Each fallen soldier a student. She was not a butcher. She was a teacher — and the curriculum was humility.",
+      "sfx": "Blade singing, soldiers falling, the blade humming a melody, epic orchestral"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — the front thousand soldiers are disarmed, kneeling. The rest of the army is retreating. She stands in the center of a circle of kneeling enemies, blade still glowing. She sheathes it. The glow fades. She turns and walks back up the stairs — alone, unhurried. Camera: wide shot, kneeling army, her unhurried solo walk back up the stairs, sunset behind her. 6 seconds.",
+      "camera": "Wide — kneeling army, her unhurried solo ascent back up stairs, sunset, triumphant silence, 6s",
+      "narration": "A thousand soldiers disarmed in six minutes. And she walked back up the stairs — not in triumph, but in quiet sorrow for what she had been forced to become.",
+      "sfx": "Wind, footsteps echoing, cherry blossom settling, somber epic strings"
+    }
+  ],
+  "audio": {
+    "narration": "Three thousand soldiers descended on the mountain at dawn. At the temple gates, one woman in crimson held her father's blade and watched them come. She did not run. She did not charge. She descended — like a queen going to meet her subjects. And the silence of three thousand soldiers was the greatest tribute she could receive. Which of you would like to die first? Three thousand soldiers. One blade. And the calm of a woman who knew exactly how this was going to end. She did not kill. She DISARMED. Each cut a lesson. Each fallen soldier a student. She was not a butcher. She was a teacher — and the curriculum was humility. A thousand soldiers disarmed in six minutes. And she walked back up the stairs — not in triumph, but in quiet sorrow for what she had been forced to become.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese battle orchestral, blade singing theme, crimson light, heroic and tragic 95 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "War drums pounding",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Footsteps echoing on stone",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Blade singing",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Blade singing",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Wind",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide aerial at dawn — three thousand soldiers in black and crimson armor fill the valley below the temple mountain. Banners of the Crimson Sun Empire. War drums that shake the clouds. At the mountain's peak, a single crimson-robed figure stands at the temple gates. The army sees her. She sees them. Camera: extreme wide aerial, army filling valley, single figure at peak. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide cinematic — she begins her descent. Not running — walking. Each step down the thousand-step staircase takes three seconds. The army watches in silence. The war drums stop. She descends alone and unarmed in hand — blade not yet drawn. The staircase becomes her stage. Camera: wide, her slow dramatic descent down thousand steps, army watching in silence. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — at the bottom of the stairs, she stops. She looks at the army. At the generals. At the young commander who gave the order to kill her. She draws the Crimson Blade — and it SINGS. A blood-red light erupts from the edge. Her eyes glow red. She smiles. 'Which of you,' she asks calmly, 'would like to die first?' Camera: extreme close-up on her fierce calm smile, glowing blade, terrifying composure. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — she MOVES. She is a crimson blur. Soldiers fall in rows — not dead, disarmed. Blade work so fast it appears as flowing red calligraphy in the air. Each stroke names a technique. Each technique is a memory of her father. She cuts through the front line like water through sand. Camera: wide, her crimson blur cutting through front line, calligraphy-style blade traces, beautiful violence. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide shot — the front thousand soldiers are disarmed, kneeling. The rest of the army is retreating. She stands in the center of a circle of kneeling enemies, blade still glowing. She sheathes it. The glow fades. She turns and walks back up the stairs — alone, unhurried. Camera: wide shot, kneeling army, her unhurried solo walk back up the stairs, sunset behind her. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 12: Thủy Triều Đỏ Thẫm | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 12 of Trieu Tien. Three thousand soldiers descend on the mountain. She descends to meet them — and demonstrates the power of the fully awakened Crimson Blade.\n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 13\n#xianxia #trieu tien #army battle #crimson blade #epic #chinese fantasy",
+    "youtube_tags": [
+      "xianxia",
+      "trie u tien",
+      "army battle",
+      "crimson blade",
+      "sword saint vs army",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "3000 quân xâm lược đối đầu 1 cô gái với thanh kiếm huyết diệm đã đánh thức hoàn toàn — không giết, chỉ hạ mình ⚔️🔥 Tập 12 Trieu Tien #xianxia #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide aerial at dawn — three thousand soldiers in black and crimson armor fill the valley below the temple mountain. Banners of the Crimson Sun Empire. War drums that shake the clouds. At the mountain's peak, a single crimson-robed figure stands at the temple gates. The army sees her. She sees them. Camera: extreme wide aerial, army filling valley, single figure at peak. 6 seconds. Shot 2: Wide cinematic — she begins her descent. Not running — walking. Each step down the thousand-step staircase takes three seconds. The army watches in silence. The war drums stop. She descends alone and unarmed in hand — blade not yet drawn. The staircase becomes her stage. Camera: wide, her slow dramatic descent down thousand steps, army watching in silence. 6 seconds. Shot 3: Close-up — at the bottom of the stairs, she stops. She looks at the army. At the generals. At the young commander who gave the order to kill her. She draws the Crimson Blade — and it SINGS. A blood-red light erupts from the edge. Her eyes glow red. She smiles. 'Which of you,' she asks calmly, 'would like to die first?' Camera: extreme close-up on her fierce calm smile, glowing blade, terrifying composure. 6 seconds. Shot 4: Wide cinematic — she MOVES. She is a crimson blur. Soldiers fall in rows — not dead, disarmed. Blade work so fast it appears as flowing red calligraphy in the air. Each stroke names a technique. Each technique is a memory of her father. She cuts through the front line like water through sand. Camera: wide, her crimson blur cutting through front line, calligraphy-style blade traces, beautiful violence. 6 seconds. Shot 5: Wide shot — the front thousand soldiers are disarmed, kneeling. The rest of the army is retreating. She stands in the center of a circle of kneeling enemies, blade still glowing. She sheathes it. The glow fades. She turns and walks back up the stairs — alone, unhurried. Camera: wide shot, kneeling army, her unhurried solo walk back up the stairs, sunset behind her. 6 seconds.",
+  "visual_scene": "Extreme wide aerial at dawn — three thousand soldiers in black and crimson armor fill the valley below the temple mountain. Banners of the Crimson Sun Empire. War drums that shake the clouds. At the mountain's peak, a single crimson-robed figure stands at the temple gates. The army sees her. She sees them. Camera: extreme wide aerial, army filling valley, single figure at peak. 6 seconds. Wide cinematic — she begins her descent. Not running — walking. Each step down the thousand-step staircase takes three seconds. The army watches in silence. The war drums stop. She descends alone and unarmed in hand — blade not yet drawn. The staircase becomes her stage. Camera: wide, her slow dramatic descent down thousand steps, army watching in silence. 6 seconds. Close-up — at the bottom of the stairs, she stops. She looks at the army. At the generals. At the young commander who gave the order to kill her. She draws the Crimson Blade — and it SINGS. A blood-red light erupts from the edge. Her eyes glow red. She smiles. 'Which of you,' she asks calmly, 'would like to die first?' Camera: extreme close-up on her fierce calm smile, glowing blade, terrifying composure. 6 seconds. Wide cinematic — she MOVES. She is a crimson blur. Soldiers fall in rows — not dead, disarmed. Blade work so fast it appears as flowing red calligraphy in the air. Each stroke names a technique. Each technique is a memory of her father. She cuts through the front line like water through sand. Camera: wide, her crimson blur cutting through front line, calligraphy-style blade traces, beautiful violence. 6 seconds. Wide shot — the front thousand soldiers are disarmed, kneeling. The rest of the army is retreating. She stands in the center of a circle of kneeling enemies, blade still glowing. She sheathes it. The glow fades. She turns and walks back up the stairs — alone, unhurried. Camera: wide shot, kneeling army, her unhurried solo walk back up the stairs, sunset behind her. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Trieu Tien Episode 12: The Crimson Tide",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "trie u tien",
+    "army battle",
+    "crimson blade",
+    "sword saint vs army",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

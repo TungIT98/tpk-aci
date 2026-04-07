@@ -1,0 +1,215 @@
+{
+  "name": "TKP Hailuo Video Pipeline",
+  "nodes": [
+    {
+      "id": "webhook-trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [200, 300],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "video-pipeline",
+        "responseMode": "lastNode",
+        "options": {}
+      }
+    },
+    {
+      "id": "parse-request",
+      "name": "Parse Request",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 1,
+      "position": [450, 300],
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "prompt", "value": "={{ $json.body.prompt }}" },
+            { "name": "aspect_ratio", "value": "={{ $json.body.aspect_ratio || '16:9' }}" },
+            { "name": "model", "value": "={{ $json.body.model || 'film.03' }}" },
+            { "name": "quality_preset", "value": "={{ $json.body.quality_preset || 'standard' }}" },
+            { "name": "channel", "value": "={{ $json.body.channel || 'productivity' }}" }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "submit-hailuo",
+      "name": "Submit to Hailuo (MiniMax)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [700, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.minimax.io/v1/video_generation",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Authorization", "value": "Bearer {{ $env.ANTHROPIC_TOKEN_KEY }}" },
+            { "name": "Content-Type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            { "name": "model", "value": "={{ $json.model }}" },
+            { "name": "prompt", "value": "={{ $json.prompt }}" },
+            { "name": "aspect_ratio", "value": "={{ $json.aspect_ratio }}" },
+            { "name": "quality_preset", "value": "={{ $json.quality_preset }}" }
+          ]
+        },
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": []
+      }
+    },
+    {
+      "id": "poll-status",
+      "name": "Poll Video Status",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [950, 300],
+      "parameters": {
+        "method": "GET",
+        "url": "=https://api.minimax.io/v1/query/video_generation?task_id={{ $json.task_id }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Authorization", "value": "Bearer {{ $env.ANTHROPIC_TOKEN_KEY }}" }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "check-status",
+      "name": "Check Status",
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 1,
+      "position": [1200, 300],
+      "parameters": {
+        "dataType": "string",
+        "value1": "={{ $json.data.status }}",
+        "rules": {
+          "rules": [
+            { "value2": "Success", "operation": "equals" },
+            { "value2": "Fail", "operation": "equals" },
+            { "value2": "Processing", "operation": "equals" },
+            { "value2": "Queueing", "operation": "equals" }
+          ]
+        },
+        "fallbackOutput": "retry"
+      }
+    },
+    {
+      "id": "wait-polling",
+      "name": "Wait + Re-poll",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1,
+      "position": [1450, 300],
+      "parameters": {
+        "amount": 10,
+        "unit": "seconds"
+      },
+      "continueOnFail": true
+    },
+    {
+      "id": "retrieve-video",
+      "name": "Retrieve Video URL",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1450, 500],
+      "parameters": {
+        "method": "GET",
+        "url": "=https://api.minimax.io/v1/files/retrieve?file_id={{ $json.data.file_id }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "Authorization", "value": "Bearer {{ $env.ANTHROPIC_TOKEN_KEY }}" }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "return-success",
+      "name": "Return Video URL",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1700, 500],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { \"video_url\": $json.data.download_url, \"task_id\": $input.first().json.task_id, \"method\": \"hailuo\" } }}"
+      }
+    },
+    {
+      "id": "trigger-sd-fallback",
+      "name": "Trigger SD Fallback",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1450, 100],
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.N8N_WEBHOOK_URL }}/sd-fallback",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            { "name": "prompt", "value": "={{ $('Parse Request').first().json.prompt }}" },
+            { "name": "aspect_ratio", "value": "={{ $('Parse Request').first().json.aspect_ratio }}" }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "return-sd-fallback",
+      "name": "Return SD Fallback Result",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1700, 100],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}"
+      }
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [[{ "node": "Parse Request", "type": "main", "index": 0 }]]
+    },
+    "Parse Request": {
+      "main": [[{ "node": "Submit to Hailuo (MiniMax)", "type": "main", "index": 0 }]]
+    },
+    "Submit to Hailuo (MiniMax)": {
+      "main": [[{ "node": "Poll Video Status", "type": "main", "index": 0 }]]
+    },
+    "Poll Video Status": {
+      "main": [[{ "node": "Check Status", "type": "main", "index": 0 }]]
+    },
+    "Check Status": {
+      "main": [
+        [{ "node": "Retrieve Video URL", "type": "main", "index": 0 }],
+        [{ "node": "Trigger SD Fallback", "type": "main", "index": 0 }],
+        [{ "node": "Wait + Re-poll", "type": "main", "index": 0 }],
+        [{ "node": "Wait + Re-poll", "type": "main", "index": 0 }]
+      ]
+    },
+    "Wait + Re-poll": {
+      "main": [[{ "node": "Poll Video Status", "type": "main", "index": 0 }]]
+    },
+    "Retrieve Video URL": {
+      "main": [[{ "node": "Return Video URL", "type": "main", "index": 0 }]]
+    },
+    "Trigger SD Fallback": {
+      "main": [[{ "node": "Return SD Fallback Result", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": ["tKP", "video", "hailuo", "failover"]
+}

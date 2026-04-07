@@ -1,0 +1,31 @@
+{
+  "id": "WC-05",
+  "channel": "World Cup",
+  "title": "The Bus to the Stadium Was Already a Party 🚌⚽",
+  "script": "Hours before kickoff, the bus turns into a party on wheels. Songs, chants, scarves out the windows. You board as strangers. You step off as family. Everyone on that bus knows one thing: today, we are champions in waiting. The World Cup doesn't start when the whistle blows. It starts the moment you commit to going.",
+  "prompt_for_hailuo": "Young woman with long dark hair, wearing vibrant team jersey, standing on a packed fan bus heading to the World Cup stadium [Static shot, bus interior packed with cheering fans, jerseys and scarves everywhere]. She leads a chant, clapping and singing with other fans around her [Tracking shot following her as she leads the crowd in celebration]. Everyone on the bus erupts singing and dancing, drums banging, scarves waving [Push in on her face, singing loudly, pure happiness and anticipation]. Second clip: bus arrives — she steps off bursting with energy, running toward the stadium entrance with other fans [Tracking shot following her running toward the grand stadium facade]. Stadium towers above, streams of fans converging, energy crackling in the air [Pull out to reveal massive World Cup stadium at sunset, fan rivers flowing in]. World Cup fan bus and stadium exterior, warm golden hour light, electric pre-game energy, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "worldcup",
+    "football",
+    "fans",
+    "bus",
+    "stadium",
+    "pregame",
+    "soccer",
+    "worldcup2026"
+  ],
+  "thumbnail_idea": "Woman singing and celebrating on packed fan bus, stadium visible through window in background",
+  "visual_scene": "Interior of a packed fan bus traveling toward the World Cup stadium, warm golden hour light streaming through windows. Seats filled with fans in colorful jerseys, scarves and banners visible, drums and instruments in hand. Young woman with long dark hair wearing a vibrant team jersey standing in the aisle, leading a chant with clapping and singing, other fans joining in around her. Windows show passing city streets and stadiums in the distance. Then she steps off the bus bursting with energy, running toward the stadium entrance alongside other fans streaming toward the grand stadium facade. Stadium towers above her, fan rivers flowing in, warm golden hour atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, empty bus, night scene, muted dull lighting",
+  "specific_details": "Young woman with long dark hair, wearing a vibrant team jersey, standing in the aisle of a packed fan bus traveling to the World Cup stadium, leading chants with clapping and singing as other fans join around her, drums banging and scarves waving, then stepping off the bus bursting with energy and running toward the stadium entrance alongside other fans streaming toward the grand stadium facade with stadium towers rising above and fan rivers flowing in, set inside a packed fan bus at warm golden hour light streaming through windows with seats filled in colorful jerseys and banners visible.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-27T09:00:00Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "tiktok_uploaded_at": "2026-03-30T04:23:12.180Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\WC-05.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

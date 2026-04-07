@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-55",
+  "title": "Ha Tien Du Episode 5: The Elder's Secret",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 5,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Mysterious, tense, revealing, dark alliance forming",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Elder who changed his fate — wanted something in return.",
+    "story_arc": "Midnight summons → Strange tower room → Elder's revelation → The forbidden deal → Black serpent oath",
+    "emotion": "Caution → Curiosity → Shock → Fear → Acceptance",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect at night. Full moon overhead. All disciples asleep. Ha Tien Du walks alone through the dark corridors, following a small black paper crane — a flying spirit messenger. The sect is silent, eerie, moonlit. Camera: wide shot following him through moonlit corridors, paper crane flying ahead. 6 seconds.",
+      "camera": "Tracking shot — following him through moonlit corridors, paper crane ahead, 6s",
+      "narration": "The night after his victory, a black paper crane came to his window.",
+      "sfx": "Wind through corridors, paper crane flapping, his footsteps echoing, night crickets"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he enters a hidden room deep in an ancient tower. Candles light a circular chamber. Ancient cultivation symbols on the walls. The Elder in blue robes sits cross-legged on a meditation cushion. On the wall behind him: the same serpent symbol from the Black Serpent Manual. Ha Tien Du freezes in the doorway. Camera: medium shot — entering the chamber, candles flickering, Elder's figure in meditation. 6 seconds.",
+      "camera": "Medium — entering the mysterious chamber, candles and symbols revealed, 6s",
+      "narration": "Inside was the Elder. And on the wall — the same forbidden symbol.",
+      "sfx": "Candle flame crackling, his sharp inhale, door creaking, deep bass hum"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium close-up — the Elder speaks without opening his eyes. 'The Black Serpent Manual. I know where the second volume is.' Ha Tien Du's hands clench. 'You know what I want in return.' The Elder's eyes open — they are completely black, like deep voids. No white. No pupil. Just darkness. Ha Tien Du's face: shock. Pure shock. Camera: medium close-up — Elder's black void eyes, then Ha Tien Du's shocked face. 6 seconds.",
+      "camera": "Medium close-up — Elder's void eyes opening, his shock, tension, 6s",
+      "narration": "The Elder's eyes were not human. They were black. Completely black.",
+      "sfx": "Deep ominous tone, wind inside the chamber, his sharp intake of breath, dark energy humming"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — the Elder's hand extends, palm up. In it: a vial of black liquid, glowing faintly. 'Drink this. Your cultivation will multiply tenfold. But you will serve me. When the time comes.' The black liquid bubbles. Ha Tien Du looks at the vial. Looks at the Elder. The Elder's void-black eyes stare unblinking. Camera: close-up on the vial of black liquid, then his conflicted face. 6 seconds.",
+      "camera": "Close-up — black liquid vial glowing, his conflicted decision, 6s",
+      "narration": "Power multiplied. In exchange for obedience. The most dangerous bargain of his life.",
+      "sfx": "Liquid bubbling, his rapid breathing, Elder's absolute silence, heartbeat loud"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up extreme — Ha Tien Du raises the vial. His face is shown half in candlelight, half in shadow. He looks at the camera — a moment of internal war. Then he drinks it. His throat moves. The black liquid goes down. His eyes flash pure black for one terrifying second — no human white remaining. Then it fades. He sets the empty vial down. The Elder smiles — the first smile. Camera: extreme close-up — drinking, black eyes flash, empty vial, Elder's first smile. 6 seconds.",
+      "camera": "Extreme close-up — drinking sequence, black eyes flash, Elder's first smile, 6s",
+      "narration": "He drank. And the serpent inside him — woke up completely.",
+      "sfx": "Gulp sound, dark energy explosion, his gasp, Elder's low laugh, thunder in the distance"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-55.mp4",
+  "produced_at": "2026-04-05T14:01:59.302Z",
+  "publishedAt": "2026-04-06T01:22:55.072Z",
+  "tiktok_url": "/@fai20128/video/7625450262055980308"
+}

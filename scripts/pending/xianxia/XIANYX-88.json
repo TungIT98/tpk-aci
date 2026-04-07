@@ -1,0 +1,158 @@
+﻿{
+  "id": "XIANYX-88",
+  "title": "Tru Tien Episode 18: The Monarch's Shadow Army",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 18,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Army showcase, power demonstration, rising threat, legendary army display",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Jin-Woo released his shadow army — two hundred strong. S-rank hunters who once laughed now stood in silence. Go Gun-Hee: 'That's not an army. That's an apocalypse.'",
+    "story_arc": "Jin-Woo decides to reveal his true army → Two hundred shadows rise simultaneously → S-rank hunters arrive and witness → Their reactions range from disbelief to terror → Go Gun-Hee's final assessment: apocalypse",
+    "emotion": "Decision → Revelation → Disbelief → Growing terror → Final assessment → Humbling silence",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo stands alone in the training grounds. He looks at his hand. Shadow energy flows between his fingers. 'They've been waiting.' He raises his hand. Camera: close-up — Jin-Woo's hand with shadow energy flowing, determined expression, raising hand with calm confidence, 'They've been waiting.' 6 seconds.",
+      "camera": "Close-up — Jin-Woo's hand with shadow energy flowing, calm confident face, raising hand slowly, 6s",
+      "narration": "Two hundred shadows. He had been waiting for the right moment. Today — he stopped waiting.",
+      "sfx": "Shadow energy flowing, his calm breathing, decision moment, training grounds wind, anticipation building"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide shot — shadows RISE. One hundred. One hundred fifty. Two hundred. Each shadow soldier more powerful than the last. The ground trembles. The shadow army forms ranks. Camera: wide — shadows rising one hundred, then one fifty, then two hundred, ground trembling, shadow army forming ranks in military formation, overwhelming numbers. 6 seconds.",
+      "camera": "Wide — shadows rising to two hundred, ground trembling, shadow army forming military ranks, overwhelming numbers, 6s",
+      "narration": "One hundred shadows rose. Then one hundred fifty. The ground shook. Two hundred shadow soldiers — each one stronger than any hunter in Korea.",
+      "sfx": "Shadows rising in waves, ground trembling, army formation sounds, wind intensifying, two hundred voices echoing"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — S-rank hunters arrive at the training grounds. They stop. Their faces go from confusion to shock to HORROR. 'Two... two hundred?' One hunter falls to his knees. Another vomits. Camera: wide — S-rank hunters arriving, their faces transforming from confusion to horror, one kneeling, another vomiting, absolute shock. 6 seconds.",
+      "camera": "Wide — S-rank hunters arriving at training grounds, faces from confusion to horror, one kneeling, another vomiting, 6s",
+      "narration": "The five S-rank hunters — who had once laughed at the idea of Jin-Woo needing help — arrived. One fell to his knees. Another vomited. Two hundred shadows.",
+      "sfx": "S-rank hunters arriving, confused voices, then gasps of horror, one kneeling sound, another retching, shocked silence"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Go Gun-Hee walks forward alone. His face shows no emotion — but his hands are shaking. He stops before Jin-Woo. 'Your shadow army — how many?' Jin-Woo: 'Two hundred.' Go Gun-Hee: '...' Camera: close-up — Go Gun-Hee's controlled face but shaking hands, walking forward, asking question, Jin-Woo's calm 'Two hundred,' Go Gun-Hee's stunned silence. 6 seconds.",
+      "camera": "Close-up — Go Gun-Hee's controlled face with shaking hands, walking forward, asking question, Jin-Woo's calm 'Two hundred,' stunned silence, 6s",
+      "narration": "Go Gun-Hee — who had seen everything — walked forward. His hands were shaking. 'Two hundred.' Jin-Woo confirmed it. And the old man — said nothing.",
+      "sfx": "Go Gun-Hee's footsteps, question in tense voice, Jin-Woo's calm answer, stunned silence, wind in training grounds"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — Go Gun-Hee speaks quietly. 'That's not an army. That's an apocalypse.' He bows deeply. Jin-Woo lowers his hand — the army dissolves. He walks away. Camera: close-up — Go Gun-Hee's quiet 'apocalypse' assessment, deep bow, Jin-Woo lowering hand, army dissolving, walking away alone. 6 seconds.",
+      "camera": "Close-up — Go Gun-Hee's quiet 'apocalypse' assessment, deep bow, Jin-Woo walking away alone, army dissolving behind him, 6s",
+      "narration": "'That's not an army. That's an apocalypse.' The old man who had led Korea's hunters for thirty years — bowed. Jin-Woo walked away. He had made his point.",
+      "sfx": "Quiet 'apocalypse,' deep bow, army dissolving, Jin-Woo's footsteps walking away, silence and wind, legendary exit"
+    }
+  ],
+  "audio": {
+    "narration": "Two hundred shadows. He had been waiting for the right moment. Today — he stopped waiting. One hundred shadows rose. Then one hundred fifty. The ground shook. Two hundred shadow soldiers — each one stronger than any hunter in Korea. The five S-rank hunters — who had once laughed at the idea of Jin-Woo needing help — arrived. One fell to his knees. Another vomited. Two hundred shadows. Go Gun-Hee — who had seen everything — walked forward. His hands were shaking. 'Two hundred.' Jin-Woo confirmed it. And the old man — said nothing. 'That's not an army. That's an apocalypse.' The old man who had led Korea's hunters for thirty years — bowed. Jin-Woo walked away. He had made his point.",
+    "narration_duration": 28,
+    "bg_music": "Epic shadow army Chinese-Korean orchestral, two hundred shadows, S-rank hunters horrified, Go Gun-Hee's bow, legendary exit 105 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Shadow energy flowing, anticipation",
+        "volume": 0.4
+      },
+      {
+        "time": 6,
+        "sound": "Shadows rising in waves, ground trembling",
+        "volume": 0.6
+      },
+      {
+        "time": 12,
+        "sound": "S-rank hunters arriving, horrified gasps",
+        "volume": 0.6
+      },
+      {
+        "time": 18,
+        "sound": "Tense footsteps, quiet question and answer",
+        "volume": 0.4
+      },
+      {
+        "time": 24,
+        "sound": "'Apocalypse,' deep bow, footsteps walking away",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 18: Quân Đội Quân Vương Bóng Tối | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 18 of Solo Leveling (Trừ Tiên). Jin-Woo releases his true shadow army: two hundred strong. The five S-rank hunters arrive and witness it. One falls to his knees. Another vomits. Go Gun-Hee — who has led Korea's hunters for thirty years — bows and says: 'That's not an army. That's an apocalypse.'",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "shadow army",
+      "two hundred shadows",
+      "Go Gun-Hee",
+      "Jin-Woo",
+      "shadow monarch",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Jin-Woo thả QUÂN ĐỘI BÓNG TỐI thật sự! HAI TRĂM bóng! Các thợ săn S-rank nhìn thấy... MỘT NGƯỜI quỳ! MỘT NGƯỜI nôn! Go Gun-Hee — dẫn đầu thợ săn Hàn Quốc 30 năm — KHUỄNG NGƯỜI: 'Đó không phải quân đội. Đó là... THẢM HỌA.' 🔥 Tập 18",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Shadow energy on hand, two hundred shadows rising, S-rank hunters horrified reactions, Go Gun-Hee's bow, army dissolving and Jin-Woo walking away",
+  "specific_details": {
+    "subject": "Jin-Woo: black hoodie, calm confident expression, hand raised then lowered. Two hundred shadow soldiers: dark armored soldiers in perfect military ranks. Go Gun-Hee: old leader in S-rank tactical gear, shaking hands, deep bow.",
+    "outfit_exact": "Jin-Woo: black hoodie, dark jeans. Two hundred shadows: dark varied armor, perfect formation. Go Gun-Hee: S-rank leader tactical gear with gold insignia, shaking hands.",
+    "setting_details": "Large outdoor training grounds, shadow energy effects, dramatic lighting, S-rank hunters frozen in shock",
+    "face_expression": "Jin-Woo: calm confident → dismissive exit. S-rank hunters: confusion → shock → horror → kneeling/vomiting. Go Gun-Hee: controlled → shaking hands → deep bow.",
+    "body_movement": "Jin-Woo: hand raised → army rising → hand lowered → walking away. Shadows: rising in waves → forming ranks → dissolving. S-rank hunters: arriving → reactions. Go Gun-Hee: walking forward → bowing deeply.",
+    "camera": "Close-up Jin-Woo raising hand, wide two hundred shadows rising, wide S-rank horrified reactions, close-up Go Gun-Hee bow, wide walk away"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright colors, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 18: Two hundred shadow soldiers rise — S-rank hunters horrified, Go Gun-Hee bows",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "shadow army",
+    "two hundred shadows",
+    "Go Gun-Hee",
+    "Jin-Woo",
+    "shadow monarch",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T17:50:00Z",
+  "publishedAt": "2026-04-06T02:51:03.748Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625465966771604757"
+}

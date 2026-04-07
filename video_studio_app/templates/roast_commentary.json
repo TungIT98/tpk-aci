@@ -1,0 +1,62 @@
+{
+  "name": "Roast Commentary",
+  "description": "Comedic critique format — initial reaction, roasting the subject, comedic breakdown, punchline takeaway. Best for reacting to bad advice, embarrassing LinkedIn posts, terrible life tips, and 'call out' style commentary content.",
+  "target_platform": "tiktok",
+  "voice_style": "deadpan delivered with comedic timing — flat energy for maximum sarcasm, raised eyebrow energy, contrast between straight-faced narration and absurdity of subject being roasted",
+  "music_mood": "comedic stinger sounds between points, slightly dramatic underscore for fake gravitas, rim shot for punchlines",
+  "hashtag_suggestions": ["#roast", "#piphany", "#callout", "#badadvice", "#exposed", "#fyp", "#lpt", "#lifeadvice"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "I found the worst productivity advice on the internet and someone got 2 million likes for it. Let me explain exactly why this is harmful in 60 seconds.",
+      "visual_prompt": "Phone screen showing viral post with massive like count, person looking at camera with deadpan 'are you serious' expression, screenshot visible, red circle drawn around problematic post, sarcastic thumbs up",
+      "camera_movement": "medium close-up static on deadpan reaction face, phone screen insert overlay",
+      "lighting_setup": "single dramatic key light from above creating slight shadows under eyes, dark comedic aesthetic",
+      "hailuo_style_note": "Deadpan face is the content — dramatic lighting amplifies the comedic contrast between serious delivery and absurd subject",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 15,
+      "narration_prompt": "Let's start at the top. The person says: '[read the bad advice verbatim from the post]'. Now I want you to notice what they didn't say: any context, any nuance, any acknowledgment that humans are not robots.",
+      "visual_prompt": "Phone screen shown again with advice being highlighted, person reading it out loud looking directly at camera, magnifying glass graphic over key phrase, person's expression shifting to analysis mode",
+      "camera_movement": "cut from screen insert to medium face close-up for analysis delivery, steady static hold",
+      "lighting_setup": "overhead softbox for clear face visibility, clinical documentary feel",
+      "hailuo_style_note": "Clinical documentary feel reinforces 'fact-checking' energy; clear face visibility during analysis builds credibility",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "The reason this advice is harmful is threefold. One: it treats burnout as a discipline problem. Two: it ignores that rest is productive. Three: [the most egregious part of the advice]. Whoever wrote this has clearly never met an actual deadline.",
+      "visual_prompt": "Person counting on fingers for 'threefold', graphic appearing with each point, exaggerated angry face when hitting egregious point, comedic music sting, person shaking head slowly",
+      "camera_movement": "dynamic cuts between finger count graphics and reaction faces, hold on 'egregious' beat",
+      "lighting_setup": "dramatic side lighting for comedic anger, warm tones on 'burnout' point, slight red accent on egregious point",
+      "hailuo_style_note": "The three-beat structure maps to visual rhythm: each point gets its own lighting/music beat; 'egregious' beat deserves a full dramatic pause",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 10,
+      "narration_prompt": "The irony is this person probably gives burnout advice on the same account. If this helped you, unfollow me. If you are laughing, follow and share this with someone who needs it.",
+      "visual_prompt": "Person delivering punchline face — deadpan serious, then slight eyebrow raise, ironic smile, camera slowly pulling back to show full set-up, comedic beat held for laugh",
+      "camera_movement": "static hold on deadpan face, slow pull-back on punchline beat, final hold for laugh",
+      "lighting_setup": "slightly warmer lighting for punchline, key light pulls focus on smile, wider shot reveals full 'set' on pull-back",
+      "hailuo_style_note": "Pull-back reveal at end adds production value; the deadpan-then-smile arc is the entire format — nail the timing",
+      "transition": "fade"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Follow for more terrible advice roast sessions. Comment the worst advice you've ever received — I will roast it.",
+      "visual_prompt": "Person pointing at follow button, comment icon appearing, person winking, fire emoji on follow button, comedic energy staying high to end",
+      "camera_movement": "medium close-up, wink on delivery, lighthearted casual",
+      "lighting_setup": "bright warm energetic light, inviting and playful",
+      "hailuo_style_note": "Wink + fire emoji signals personality; keep energy light — roast format doesn't do aggressive CTA",
+      "transition": "fade_out"
+    }
+  ]
+}

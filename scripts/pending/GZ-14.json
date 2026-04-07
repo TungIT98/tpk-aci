@@ -1,0 +1,32 @@
+{
+  "id": "GZ-14",
+  "title": "The One Resume Section That Recruiters Look at First (It's Not Your Name)",
+  "channel": "Gen Z Success",
+  "script": "Recruiters spend 7 seconds on your resume — and they are not looking at your name, your education, or your job titles. There's one section that gets the first scan, and most people optimize the wrong thing. I spent three years reviewing resumes as a recruiter. The section that gets scanned first? Your achievements section. Specifically, anything with numbers. Format it like this: did X, measured by Y, resulted in Z. Three lines in this format will outperform an entire page of job descriptions. Most people fill their resume with responsibilities. 'Responsible for managing social media.' Nobody cares. Flip it: 'Grew Instagram following by 300% in 6 months by launching a daily reels strategy.' That's the scan. That's what gets you to the next round. Here's how to do it in 10 minutes: open your resume, find every bullet that starts with 'Assisted with' or 'Responsible for,' and replace it with the outcome. The ATS scanner reads numbers like a heat map. More numbers, more heat. More heat, more calls.",
+  "prompt_for_hailuo": "Person scrolling through a resume on laptop screen, eyes moving quickly [Close-up, screen glow, portrait 9:16]. Highlighted section of resume showing achievement bullet with numbers 'Grew by 300%' [Close-up on screen, cursor highlighting text]. Split screen: LEFT shows boring responsibility bullet 'Responsible for social media' crossed out in red; RIGHT shows achievement bullet 'Grew Instagram 300% in 6 months' highlighted in green [Side-by-side split portrait animation]. Person sitting at desk typing quickly, satisfied expression [Medium shot, warm home office lighting, portrait 9:16]. Resume document floating, ATS scanner animation showing numbers lighting up like a heat map [Animated graphic overlay, portrait]. Confident Gen Z presenter direct to camera, cozy bedroom office, energetic expression, ring light glow, 9:16 portrait.",
+  "duration_seconds": 7,
+  "resolution": "1080P",
+  "tags": [
+    "resume tips",
+    "ATS resume",
+    "job search",
+    "recruiter tips",
+    "career advice",
+    "Gen Z careers",
+    "resume hacks"
+  ],
+  "thumbnail_idea": "Resume on laptop screen with achievement section highlighted in yellow, bold text overlay 'NOT YOUR NAME — THIS IS WHAT THEY SEE FIRST', confident Gen Z presenter looking at camera, warm bedroom office lighting, 9:16 portrait",
+  "visual_scene": "Young Gen Z person in their 20s sitting at a home desk with laptop open, scrolling quickly through a resume document, eyes moving rapidly — this is the 'recruiter simulation.' Cut to: close-up of laptop screen showing resume with an achievement bullet highlighted reading 'Grew Instagram following by 300% in 6 months.' Cut to: split-screen comparing 'Responsible for managing social media' (crossed out in red) vs 'Grew Instagram 300% in 6 months' (highlighted green). Cut to: same person typing at desk, nodding with satisfaction. Final shot: presenter direct to camera, energetic expression, cozy bedroom office with warm lamp light, ring light glow, 9:16 portrait format.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame with no motion, landscape orientation, dark underexposed scene, formal corporate office background, boring PowerPoint slide style, aggressive or arrogant expression",
+  "specific_details": "Young Gen Z person in their 20s, casual and approachable style (casual shirt, natural hair), at a cozy home office desk with warm lamp light and ring light visible, laptop open showing a professional resume document. Scenes: rapid eye-scan simulation at laptop, achievement bullet highlighted, split-screen resume comparison (boring vs impactful), satisfied typing. Warm bedroom-office aesthetic, authentic Gen Z energy, portrait 9:16 framing.",
+  "status": "published",
+  "published_at": "2026-03-30T04:14:00Z",
+  "local_file": "C:/tmp/openclaw/uploads/GZ-14-FINAL.mp4",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T04:10:00Z",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "local_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\GZ-14.mp4",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\GZ-14.mp4",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

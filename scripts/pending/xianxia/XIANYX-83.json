@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-83",
+  "title": "Tru Tien Episode 13: The Monarch Descends",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 13,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Legendary power display, gate destruction, legend confirmed, epic action",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Jin-Woo walked into the S-rank gate. Alone. The five S-rank hunters watched the gate for thirty minutes — waiting for his body to be brought out. Instead, the gate collapsed. Jin-Woo walked out. The gate was gone.",
+    "story_arc": "Jin-Woo enters the gate alone → Five S-rank hunters debate following him → They decide to wait outside → Gate pulses with violent energy → Then... silence → Gate collapses → Jin-Woo walks out",
+    "emotion": "Entry → Debate → Wait → Violent energy → Silence → Collapse → Exit → Absolute silence",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — Jin-Woo walks into the massive red gate. No hesitation. He disappears into the swirling red portal. The S-rank hunters watch. 'Should we follow?' Go Gun-Hee: 'He doesn't need us.' Camera: wide — Jin-Woo walking into gate without hesitation, disappearing into red portal, S-rank hunters watching. 6 seconds.",
+      "camera": "Wide — Jin-Woo walking into massive red gate without hesitation, disappearing into red portal, S-rank hunters watching, 6s",
+      "narration": "He walked in. No hesitation. No backup plan. He simply — walked into the most dangerous gate in Seoul.",
+      "sfx": "Gate swirling, Jin-Woo's footsteps, portal consuming, S-rank hunters' tense breathing, ominous portal hum"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — S-rank hunters wait outside. Fifteen minutes pass. Twenty. Thirty. 'He's been in there thirty minutes. Against S-rank monsters. He's dead.' Go Gun-Hee shakes his head. 'Not him.' Camera: medium — S-rank hunters waiting outside, time passing (shown by shadows shifting), nervous conversation, Go Gun-Hee's confident shake. 6 seconds.",
+      "camera": "Medium — S-rank hunters waiting outside, time passing, nervous conversation, Go Gun-Hee's confident shake, 6s",
+      "narration": "Thirty minutes passed. Against S-rank monsters — no hunter survived past ten. They were waiting for his body. Go Gun-Hee shook his head. 'Not him.'",
+      "sfx": "Tense silence, time passing, nervous whispers, Go Gun-Hee's voice, distant gate sounds, tension building"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Extreme close-up — the gate PULSES. Violent red energy erupts from within. The ground shakes. The S-rank hunters stumble back. 'What's happening inside?!' Inside the gate: Jin-Woo raises his hand. Camera: extreme close-up — gate pulsing with violent red energy, ground shaking, hunters stumbling, then cut to Jin-Woo inside raising his hand. 6 seconds.",
+      "camera": "Extreme close-up — gate pulsing with violent energy, ground shaking, hunters stumbling back, then Jin-Woo inside raising hand, 6s",
+      "narration": "The gate convulsed. Energy poured from it like blood. Inside — Jin-Woo raised his hand. The shadow monarch — was commanding something inside.",
+      "sfx": "Gate convulsion, ground shaking, hunters gasping, energy eruption, Jin-Woo's cold voice, power commanding"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — the gate COLLAPSES. Not destroyed from outside — imploding from within. Red energy sucks back into itself. The massive structure crumbles inward. Everyone watches in disbelief. Camera: wide — gate collapsing inward, red energy imploding, massive structure crumbling, all witnesses frozen in disbelief. 6 seconds.",
+      "camera": "Wide — gate collapsing inward from within, red energy imploding, massive structure crumbling, witnesses frozen, 6s",
+      "narration": "The gate didn't explode. It imploded. Collapsing from inside — as if whatever controlled it had simply decided it was over.",
+      "sfx": "Gate imploding, structure crumbling, energy sucking back, witnesses gasping, debris falling, silence after collapse"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Jin-Woo walks out of the dissipating gate smoke. His shadow army follows behind him — filing out like soldiers. Jin-Woo: 'The gate is closed.' He walks past the frozen hunters and officials. His shadow soldiers disappear into darkness. Camera: wide — Jin-Woo walking out of gate smoke, shadow army filing out behind him, hunters and officials frozen, shadow soldiers dissolving. 6 seconds.",
+      "camera": "Wide — Jin-Woo walking out of gate smoke, shadow army filing out, frozen hunters and officials, shadow soldiers dissolving into darkness, 6s",
+      "narration": "He walked out. His shadow army — filed out behind him. 'The gate is closed.' Then he walked past them. The officials — couldn't speak.",
+      "sfx": "Gate smoke dissipating, Jin-Woo's footsteps, shadow army following, his calm voice, silence and wind, epic aftermath"
+    }
+  ],
+  "audio": {
+    "narration": "He walked in. No hesitation. No backup plan. He simply — walked into the most dangerous gate in Seoul. Thirty minutes passed. Against S-rank monsters — no hunter survived past ten. They were waiting for his body. Go Gun-Hee shook his head. 'Not him.' The gate convulsed. Energy poured from it like blood. Inside — Jin-Woo raised his hand. The shadow monarch — was commanding something inside. The gate didn't explode. It imploded. Collapsing from inside — as if whatever controlled it had simply decided it was over. He walked out. His shadow army — filed out behind him. 'The gate is closed.' Then he walked past them. The officials — couldn't speak.",
+    "narration_duration": 28,
+    "bg_music": "Epic shadow monarch Chinese-Korean orchestral, gate collapse, shadow army exit, legendary aftermath 105 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Gate swirling, portal consuming",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Tense silence, time passing",
+        "volume": 0.4
+      },
+      {
+        "time": 12,
+        "sound": "Gate convulsion, ground shaking",
+        "volume": 0.6
+      },
+      {
+        "time": 18,
+        "sound": "Gate imploding, debris falling",
+        "volume": 0.6
+      },
+      {
+        "time": 24,
+        "sound": "Gate smoke dissipating, shadow army, calm footsteps",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 13: Quân Vương Giáng Trần | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 13 of Solo Leveling (Trừ Tiên). Jin-Woo walks into the S-rank gate alone. The five S-rank hunters wait outside. Thirty minutes pass. Then the gate convulses — and collapses from within. Jin-Woo walks out. The gate is gone. His shadow army follows behind him.",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "shadow monarch",
+      "gate collapse",
+      "Jin-Woo",
+      "S-rank dungeon",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Jin-Woo đi VÀO CỔNG S-RANK một mình! 5 thợ săn S-rank đợi bên ngoài. 30 PHÚT trôi qua... Cổng ĐỖ SẬP TỪ BÊN TRONG! Jin-Woo đi ra... Quân đội bóng tối đi theo sau! 'Cổng đã đóng.' 🔥 Tập 13",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Jin-Woo entering gate, S-rank hunters waiting, gate convulsing, gate collapsing from within, Jin-Woo walking out with shadow army",
+  "specific_details": {
+    "subject": "Jin-Woo: black hoodie and jeans, walking into red portal, then walking out with shadow army filing behind him. Shadow army: dark armored soldiers in formation.",
+    "outfit_exact": "Jin-Woo: black hoodie, dark blue jeans, casual sneakers entering gate, then same outfit walking out. Shadow army: dark medieval armor, varied weapons, filing in formation behind Jin-Woo.",
+    "setting_details": "Seoul plaza with collapsed gate, red gate smoke dissipating, military barriers, frozen officials and hunters, late afternoon lighting from gate glow",
+    "face_expression": "Jin-Woo: perfectly calm entering → commanding inside → calm exit. S-rank hunters: tension → nervousness → shock → frozen. Officials: pale fear throughout.",
+    "body_movement": "Jin-Woo: walking into gate → raising hand inside → walking out → shadow army following → shadows dissolving. Gate: pulsing → imploding → collapsing → dissipating.",
+    "camera": "Wide gate entry, medium hunters waiting, extreme close-up gate convulsion, wide gate collapse, wide Jin-Woo exit with shadow army"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright daylight bright colors, modern buildings outside plaza, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 13: Jin-Woo walks out of the collapsed gate — shadow army following behind him",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "shadow monarch",
+    "gate collapse",
+    "Jin-Woo",
+    "S-rank",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T17:00:00Z",
+  "publishedAt": "2026-04-06T02:51:03.747Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625464913644752149"
+}

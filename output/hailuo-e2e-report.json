@@ -1,0 +1,64 @@
+{
+  "prompt": "A productive morning routine, professional worker at a clean desk, golden hour sunlight, cinematic camera push-in, shallow depth of field, high quality",
+  "aspect": "16:9",
+  "stages": {
+    "init": {
+      "status": "PASS"
+    },
+    "login": {
+      "status": "PASS",
+      "loggedIn": true
+    },
+    "credits": {
+      "status": "PASS",
+      "credits": 60,
+      "display": "🔥🔥 Biggest Sale! MAX Membership First Discount + Up to 60% OFF\n02d : 12h : 58m : 18s\nGet Deal Now"
+    },
+    "probe": {
+      "status": "PASS",
+      "url": "https://hailuoai.video/create/text-to-video",
+      "elementCounts": {
+        "textarea": 0,
+        "buttons": 5,
+        "inputs": 3,
+        "videos": 3
+      },
+      "buttonTexts": [
+        "Try it Now",
+        "Try it Now",
+        "Try it Now",
+        "25"
+      ],
+      "inputPlaceholders": [
+        "file",
+        "file",
+        "file"
+      ],
+      "textareaPlaceholders": [],
+      "bodySnippet": "🔥🔥 Biggest Sale! MAX Membership First Discount + Up to 60% OFF\n02d : 12h : 58m : 11s\nGet Deal Now\nHome\nAssets\nTools\nVideo\nImage\nAudio\nFrom\n$9.99\n/mo\nSign In\nCreate with\nVideo\ntoday\nTrending\n\nModel Walk in the Wind\n\nTry it Now\nTrending\n\nFast-Paced Belly Dance\n\nTry it Now\nTrending\n\nProduct Story: Mi"
+    },
+    "fillPrompt": {
+      "status": "PASS",
+      "selector": "found",
+      "inputLength": 151
+    },
+    "submitBtn": {
+      "status": "PASS",
+      "text": "25"
+    },
+    "aspectRatio": {
+      "status": "PASS",
+      "ratio": "16:9"
+    }
+  },
+  "errors": [],
+  "passed": [
+    "init",
+    "login",
+    "probe",
+    "fillPrompt",
+    "submitBtn"
+  ],
+  "failed": [],
+  "skipped": []
+}

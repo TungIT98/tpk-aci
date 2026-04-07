@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-54",
+  "title": "Ha Tien Du Episode 4: The Sect Tournament",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 4,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Electrifying, shocking, triumphant, dramatic power reveal",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The tournament sign-up was a joke. No one expected him to actually enter.",
+    "story_arc": "Registration desk denial → Forced entry by Elder → First round opponent laughs → The strike that silenced everyone → Standing alone at center",
+    "emotion": "Dismissal → Determination → Laughter → Shock → Silence",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect tournament arena. A massive open-air stage surrounded by tiered stone seating. Hundreds of disciples. Banners of all five great sects flying. The registration desk in the foreground. Ha Tien Du approaches in his torn gray robe. The clerk laughs. 'You? The worthless one? Don't waste paper.' The crowd nearby laughs. Camera: wide shot, laughter echoing, his figure small in the crowd. 6 seconds.",
+      "camera": "Wide establishing shot — arena grandeur, his small figure at the desk, 6s",
+      "narration": "The annual tournament was where disciples proved their worth. He had never been allowed to enter.",
+      "sfx": "Crowd noise, laughter echoing, announcement horns, his footsteps approaching"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — an elderly Elder in deep blue robes walks past the registration desk. He stops. Stares at Ha Tien Du. 'He enters.' The clerk protests. The Elder, voice cold: 'The rules state any disciple may enter. Enforce them equally.' The Elder's eyes — unreadable. He walks on. Ha Tien Du is handed a registration paper. His hands shake. Camera: medium shot — the Elder's authority, his trembling hands receiving the paper. 6 seconds.",
+      "camera": "Medium — Elder's cold command, then his trembling hands with paper, 6s",
+      "narration": "Until one Elder — whose motives no one understood — forced them to let him in.",
+      "sfx": "Crowd murmuring, paper rustling, his shaking breath, ominous Elder footsteps"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — first round. Ha Tien Du faces a broad-shouldered inner disciple, arms crossed mockingly. 'I'll make this quick, trash.' The gong sounds. The inner disciple charges forward with a flying kick — fast, powerful. Ha Tien Du stands perfectly still. His expression: completely calm. Almost serene. Camera: medium shot — opponent charging, Ha Tien Du motionless, calm. 6 seconds.",
+      "camera": "Medium — opponent charging in, his perfect stillness, contrast, 6s",
+      "narration": "His first opponent laughed. Everyone laughed. Then he struck.",
+      "sfx": "Gong sounding, crowd cheering, charging footsteps, sudden silence"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme close-up — one single frame. Ha Tien Du's palm strikes the charging opponent's chest. Black energy crackles visibly at the point of contact. The opponent's expression changes from confidence to absolute shock in milliseconds. His body freezes mid-air. Then — he flies backward, crashing through two wooden training posts. The arena goes dead silent. Camera: extreme close-up palm strike, then the flying body, then silence. 6 seconds.",
+      "camera": "Extreme close-up — palm strike, crack of black energy, opponent flying back, 6s",
+      "narration": "One strike. One strike was all it took. The sect fell completely silent.",
+      "sfx": "Thunderous impact, wood shattering, crowd gasping, single heartbeat"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Ha Tien Du stands at the center of the arena stage, alone. His torn gray robe. His black-veined hand hanging at his side. All eyes on him. The Elder in blue watches from the stands — the faintest smile. Ha Tien Du raises his head. His eyes: no longer timid. He looks directly at the camera. Camera: wide shot at center, all seats visible behind him, his powerful gaze at camera. 6 seconds.",
+      "camera": "Wide shot — center of arena, crowd silent, his powerful gaze at camera, 6s",
+      "narration": "The worthless disciple. Standing where no one thought he could. And no one could look away.",
+      "sfx": "Complete silence in arena, wind blowing, his steady breathing, distant dramatic hum"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-54.mp4",
+  "produced_at": "2026-04-05T14:01:30.358Z",
+  "publishedAt": "2026-04-06T01:21:29.011Z",
+  "tiktok_url": "/@fai20128/video/7625449910531378453"
+}

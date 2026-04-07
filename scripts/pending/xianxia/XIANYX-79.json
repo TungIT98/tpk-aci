@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-79",
+  "title": "Dau Pha Thuong Khau Episode 19: The Alliance of Fire",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 19,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "New alliance formed, power consolidation, rising threat acknowledged, army gathering",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Xiao Yan trained beside his grandfather for one month. When they emerged — the Dou Huang elder who had fled returned with an army of FORTY cultivators. Xiao Yan and his grandfather stood at the gate. Together.",
+    "story_arc": "Training montage: grandfather-grandson one month → Their combined fire technique perfected → Warning: elder returns with army → Forty cultivators surround the sect → Xiao Yan and grandfather face them together → 'Forty is nothing. Watch.'",
+    "emotion": "Training intensity → Bonding → Warning → Tension → Confidence → Defiance",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Fast montage — Xiao Yan training with his grandfather. Flying kicks against fire formations. Grandfather's hand guiding his fire technique. Violet-blue flames merging with gold flames. Combined fire technique erupting toward a target mountain. Camera: fast montage — training moments, combined fire eruptions, grandfather-grandson bonding, power growing together. 6 seconds.",
+      "camera": "Fast montage — training with grandfather, fire formations, combined violet-blue and gold flames, mountain eruption, 6s",
+      "narration": "One month. He trained beside the only family he had left. The violet-blue flame and his grandfather's gold flame — learned to dance together.",
+      "sfx": "Training impact sounds, fire merging, powerful explosions, wind through training grounds, bonding music"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — a scout rushes into the training room. 'ELDER HAI KUN RETURNS! With forty cultivators! Dou Sheng (Fight Saint) among them!' The grandfather's eyes open calmly. Xiao Yan nods. Camera: close-up — scout's panicked face delivering news, grandfather's calm eyes opening, Xiao Yan's calm nod, building tension. 6 seconds.",
+      "camera": "Close-up — scout's panicked face delivering news, grandfather's calm eyes opening, Xiao Yan's calm nod, 6s",
+      "narration": "Forty cultivators. A Dou Sheng among them. The elder had gathered every debt collector he could find.",
+      "sfx": "Scout's panicked breath, news delivered, tense silence, grandfather's calm breathing, Xiao Yan's nod"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — outside the sect. Forty cultivators surround the gate. Their auras form a dark cloud over the sect. Elder Hai Kun at the front, pointing. 'Surrender the废物! Or EVERYONE dies!' Camera: wide — forty cultivators surrounding sect, dark aura cloud, elder pointing threateningly, sect in danger. 6 seconds.",
+      "camera": "Wide — forty cultivators surrounding sect gate, dark aura cloud, elder Hai Kun pointing threateningly, 6s",
+      "narration": "Forty cultivators. Their combined auras darkened the sky above the sect. Every disciple inside — including Xiao Yan — had been sentenced to death.",
+      "sfx": "Forty footsteps arriving, dark aura cloud forming, elder's threatening shout, disciples inside gasping, ominous wind"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — Xiao Yan and his grandfather walk out of the gate together. Violet-blue flame and gold flame circling them. The forty cultivators' dark aura MEETS their fire aura — and pushes back. Camera: wide — grandfather and Xiao Yan walking out together, dual flame auras pushing back the dark cloud, forty cultivators stunned. 6 seconds.",
+      "camera": "Wide — grandfather and Xiao Yan walking out together, dual flame auras pushing back dark cloud, forty cultivators stunned, 6s",
+      "narration": "The grandfather and grandson walked out. Their combined fire auras hit the dark cloud — and pushed it back. The cultivators — stepped backward.",
+      "sfx": "Footsteps walking out, dark cloud being pushed back, cultivators' shocked gasps, dual flame roaring, tension breaking"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan raises one finger. His grandfather raises one hand. Xiao Yan speaks: 'Forty isn't enough.' His grandfather smiles: 'Watch.' Their combined fire ERUPTS — violet-blue and gold merging into white-hot fire. Forty cultivators SCREAM. Camera: close-up — Xiao Yan raising finger, grandfather raising hand, combined white-hot fire eruption, forty cultivators screaming and being pushed back. 6 seconds.",
+      "camera": "Close-up — Xiao Yan finger + grandfather hand raised, combined white-hot fire eruption, forty cultivators screaming and being blown back, 6s",
+      "narration": "'Forty isn't enough.' The combined fire erupted — white-hot, blinding. Forty cultivators screamed as it swept toward them. The elder's army — was about to become ash.",
+      "sfx": "Combined fire eruption, forty cultivators screaming, elder's horrified cry, fire consuming, epic orchestral climax"
+    }
+  ],
+  "audio": {
+    "narration": "One month. He trained beside the only family he had left. The violet-blue flame and his grandfather's gold flame — learned to dance together. Forty cultivators. A Dou Sheng among them. The elder had gathered every debt collector he could find. The forty cultivators. Their combined auras darkened the sky above the sect. Every disciple inside — including Xiao Yan — had been sentenced to death. The grandfather and grandson walked out. Their combined fire auras hit the dark cloud — and pushed it back. The cultivators — stepped backward. 'Forty isn't enough.' The combined fire erupted — white-hot, blinding. Forty cultivators screamed as it swept toward them. The elder's army — was about to become ash.",
+    "narration_duration": 28,
+    "bg_music": "Epic alliance battle Chinese orchestral, combined fire eruption, forty cultivators vs dual flames, triumphant climax 110 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Training impacts, fire merging",
+        "volume": 0.4
+      },
+      {
+        "time": 6,
+        "sound": "Scout's panic, tense news",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Forty footsteps, dark cloud forming",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Footsteps walking out, aura collision",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Combined fire eruption, cultivators screaming, epic climax",
+        "volume": 0.7
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 19: Liên Minh Hỏa | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 19 of Đấu Phá Thương Khung. One month of training with his grandfather. The elder returns with 40 cultivators — including a Dou Sheng. Xiao Yan and his grandfather walk out together. 'Forty isn't enough.' Their combined fire — violet-blue and gold merging into white-hot — roars toward the army.",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "alliance of fire",
+      "forty cultivators",
+      "Xiao Yan grandfather",
+      "combined fire",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Đại Lão Gia + Xiao Yan huấn luyện 1 THÁNG! Trưởng Lão quay lại với 40 TU SĨ! Dou Sheng trong số đó! Ông cháu đi ra cùng nhau... '40 người — KHÔNG ĐỦ!' 🔥 Tập 19",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Training montage with grandfather, scout delivering warning, forty cultivators surrounding sect, dual flame auras meeting, combined white-hot fire eruption",
+  "specific_details": {
+    "subject": "Xiao Yan: black robes with violet-blue flames. Grandfather: simple gray robes with gold flames. Elder Hai Kun: dark robes leading forty cultivators. All 40: varied cultivation robes, dark aura cloud.",
+    "outfit_exact": "Xiao Yan: black robes, violet-blue flame circling. Grandfather: simple gray robes, gold flame circling, white hair. Combined: white-hot fire merging both colors. 40 cultivators: varied dark sect robes, dark aura forming cloud.",
+    "setting_details": "Training grounds, sect gate, open field battleground with forty cultivators, dark cloud in sky above sect, white-hot fire eruption",
+    "face_expression": "Xiao Yan: calm confidence building to cold defiance. Grandfather: serene → slight smile at 'watch.' Elder Hai Kun: vengeful rage → sudden horror. 40 cultivators: confident attack → terrified screaming",
+    "body_movement": "Training: flying kicks, technique guidance, combined fire eruption. Battle: grandfather-grandson walking together, raising hands together, fire eruption toward army",
+    "camera": "Fast montage training, close-up warning delivery, wide army arrival, medium dual flame walk, close-up combined fire eruption"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 19: Alliance of Fire — combined white-hot flame erases 40 cultivators",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "alliance of fire",
+    "forty cultivators",
+    "Xiao Yan grandfather",
+    "combined fire",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T16:20:00Z",
+  "publishedAt": "2026-04-06T02:51:03.745Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625463540689685780"
+}

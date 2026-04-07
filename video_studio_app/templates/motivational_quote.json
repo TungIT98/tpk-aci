@@ -1,0 +1,52 @@
+{
+  "name": "Motivational Quote",
+  "description": "Single-quote centerpiece format — one powerful quote owns the entire video. Minimal visuals, maximum impact. Best for inspirational, mindset, and quotable share-bait content.",
+  "target_platform": "tiktok",
+  "voice_style": "deep, resonant, deliberate — each word lands with weight; confident pauses before and after the quote; slight reverb for gravitas",
+  "music_mood": "cinematic orchestral, emotional piano, ambient swell — quiet build, peak at quote climax, gentle fade",
+  "hashtag_suggestions": ["#quote", "#motivation", "#mindset", "#inspiration", "#growth", "#dailyquote", "#wordsofwisdom"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "This is the quote that changed how I work. Listen carefully.",
+      "visual_prompt": "Person staring into middle distance, moody dramatic lighting, slight fog in background, contemplative expression, camera slowly pushing in",
+      "camera_movement": "slow cinematic push-in from medium to close-up, hold on contemplative expression",
+      "lighting_setup": "single dramatic key light from above-right, deep shadows on face, soft fog in background, moody cinematic aesthetic",
+      "hailuo_style_note": "Moody cinematic lighting is non-negotiable for quote format; fog/haze in background adds cinematic depth",
+      "transition": "slow_crossfade"
+    },
+    {
+      "type": "quote",
+      "duration_sec": 25,
+      "narration_prompt": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+      "visual_prompt": "Text appearing word by word on screen, cinematic nature b-roll (light streaming through window), person closing eyes listening to own words, quote marks appearing at sides of frame, soft focus background",
+      "camera_movement": "static close-up on person delivering, b-roll overlay fades in/out, slow push-in on final 'don't settle'",
+      "lighting_setup": "warm cinematic key light, nature b-roll: golden light rays through window in fog, high-key soft tones, cinematic bokeh",
+      "hailuo_style_note": "Word-by-word text reveal with nature b-roll is the proven quote format; final 'don't settle' deserves a slow push-in for emphasis",
+      "transition": "hold"
+    },
+    {
+      "type": "attribution",
+      "duration_sec": 5,
+      "narration_prompt": "Steve Jobs, Stanford Commencement, 2005.",
+      "visual_prompt": "Portrait photo of Steve Jobs appearing subtle in corner, text attribution in clean sans-serif font, background still cinematic",
+      "camera_movement": "static hold, subtle fade-in of attribution element",
+      "lighting_setup": "same warm cinematic tones, attribution text in clean white, portrait photo slightly desaturated",
+      "hailuo_style_note": "Attribution should be subtle and clean — the quote owns the moment, not the source",
+      "transition": "fade"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Save this. Share it with someone who needs to hear it today. And follow for more.",
+      "visual_prompt": "Person smiling at camera, share icon and heart icons floating up, follow button highlighted, warm golden light returning",
+      "camera_movement": "slow return to medium close-up, warm direct address, gentle energy",
+      "lighting_setup": "warm golden light returning, brighter and warmer than quote delivery, inviting and warm",
+      "hailuo_style_note": "Lighting warmth shift signals emotional landing — from contemplative to connected; share/heart icons add shareability",
+      "transition": "fade_out"
+    }
+  ]
+}

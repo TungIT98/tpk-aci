@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-095",
+  "title": "Thanh Van Mon Episode 15: The Girl With a Hundred Names",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "She finds a girl in the garden who has been given a new name every day for a hundred years. The girl knows everyone's secret identities.",
+    "story_arc": "Hidden alcove found, The nameless girl, The list of a hundred names, Secret identities revealed, Her offer",
+    "emotion": "Discovery, Curiosity, Wonder, Shock, Alliance",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Medium shot — deep in the overgrown corner of the garden, behind a curtain of hanging willows, she discovers a small clearing. A girl no older than fifteen sits on a stone bench, surrounded by dozens of name plaques — each carved with a different name. She is weaving a new plaque as she hums. She does not look up. Camera: medium shot through willow curtain, her discovering the girl weaving name plaques. 6 seconds.",
+      "camera": "Push in — through willow curtain to girl weaving name plaques in hidden clearing, 6s",
+      "narration": "Behind the curtain of willows, there was a girl who had been given a new name every day for a hundred years. She had no real name. She had a hundred.",
+      "sfx": "Willow rustling, humming, knife carving wood, bird call, soft wonder"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the girl finally looks up. Her eyes are silver-white — the eyes of someone who sees what others cannot. She gestures to the plaques. She begins reading: Yesterday you were called Thu Huong. Today you are called Mai Linh. Tomorrow you will be called Bao Ngoc. She smiles slightly. I know everyone's real name. The ones the palace erased. Camera: extreme close-up on the girl's silver eyes as she reveals her knowledge. 6 seconds.",
+      "camera": "Close-up — girl's silver-white eyes, reading her list of erased names with perfect memory, 6s",
+      "narration": "She had been given a new name every day for a hundred years — so the palace thought she had no identity to protect. Instead, she had used those names to track everyone else's erased identities. Brilliant cover. Cruel training.",
+      "sfx": "Soft voice speaking names, plaque tap, heartbeat, mystery swell, whisper"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — the girl pulls out a scroll — impossibly long, unrolling across the entire clearing. Names and dates. Hundreds of entries. She points to one: Thuong Khue — ruled one night as Empress. She points to another: General Vuong Phuc — erased after the Night of Crimson Silk. Another: Your mother. Erased seventeen years ago. She looks up. Camera: medium shot of her frozen as the scroll reveals her mother's erased identity. 6 seconds.",
+      "camera": "Medium — endless scroll unrolling, girl's finger on her mother's erased name, her shock, 6s",
+      "narration": "The scroll was a map of everything the palace had destroyed. And there — third from the bottom of the last column — her mother's name. Erased. Seventeen years ago. But not forgotten.",
+      "sfx": "Scroll unrolling, name spoken aloud, sharp breath, emotional strings, revelation"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — the girl stands. She is shorter than expected but her presence fills the clearing. The Emperor has been erasing names for three hundred years. He started with his rivals. Then his failures. Then his embarrassments. Now he erases anyone who threatens him. She offers the scroll. You want to restore the names? I'll show you how. But it will cost you your title. Camera: wide shot, the short girl commanding the clearing, offering the scroll. 6 seconds.",
+      "camera": "Wide — girl standing, commanding presence, offering the impossible scroll of erased names, 6s",
+      "narration": "A hundred years of falsified names — and she had used them all to document the truth. Now she offered that truth to the only person brave enough to carry it.",
+      "sfx": "Scroll offered, wind stopping, heartbeat, epic resolve, determination"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she takes the scroll. The girl's silver eyes soften for the first time. My real name, she says quietly, was Linh. I was four when they started giving me fake names. She smiles. After tonight — you can call me Linh again. Camera: cinematic close-up on both their faces, the scroll in her hands, the garden lanterns glowing behind them. 6 seconds. End on their hands touching over the scroll.",
+      "camera": "Close-up — her taking scroll, girl's soft smile revealing her real name is Linh, garden glowing, 6s",
+      "narration": "A girl without a name for a hundred years — finally ready to be called Linh again. And with that scroll, she could restore every name the palace had ever erased.",
+      "sfx": "Scroll taken, breath released, wind warm, name spoken, hopeful strings ending"
+    }
+  ],
+  "audio": {
+    "narration": "Behind the curtain of willows, there was a girl who had been given a new name every day for a hundred years. She had no real name. She had a hundred. She had been given a new name every day for a hundred years — so the palace thought she had no identity to protect. Instead, she had used those names to track everyone else's erased identities. Brilliant cover. Cruel training. The scroll was a map of everything the palace had destroyed. And there — third from the bottom of the last column — her mother's name. Erased. Seventeen years ago. But not forgotten. A hundred years of falsified names — and she had used them all to document the truth. Now she offered that truth to the only person brave enough to carry it. A girl without a name for a hundred years — finally ready to be called Linh again. And with that scroll, she could restore every name the palace had ever erased.",
+    "narration_duration": 28,
+    "bg_music": "Mystical Chinese strings and guzheng, soft bells, discovery theme, girl's quiet power, emotional 70 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Willow rustling",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Soft voice speaking names",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Scroll unrolling",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Scroll offered",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Scroll taken",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Medium shot — deep in the overgrown corner of the garden, behind a curtain of hanging willows, she discovers a small clearing. A girl no older than fifteen sits on a stone bench, surrounded by dozens of name plaques — each carved with a different name. She is weaving a new plaque as she hums. She does not look up. Camera: medium shot through willow curtain, her discovering the girl weaving name plaques. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the girl finally looks up. Her eyes are silver-white — the eyes of someone who sees what others cannot. She gestures to the plaques. She begins reading: Yesterday you were called Thu Huong. Today you are called Mai Linh. Tomorrow you will be called Bao Ngoc. She smiles slightly. I know everyone's real name. The ones the palace erased. Camera: extreme close-up on the girl's silver eyes as she reveals her knowledge. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — the girl pulls out a scroll — impossibly long, unrolling across the entire clearing. Names and dates. Hundreds of entries. She points to one: Thuong Khue — ruled one night as Empress. She points to another: General Vuong Phuc — erased after the Night of Crimson Silk. Another: Your mother. Erased seventeen years ago. She looks up. Camera: medium shot of her frozen as the scroll reveals her mother's erased identity. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — the girl stands. She is shorter than expected but her presence fills the clearing. The Emperor has been erasing names for three hundred years. He started with his rivals. Then his failures. Then his embarrassments. Now he erases anyone who threatens him. She offers the scroll. You want to restore the names? I'll show you how. But it will cost you your title. Camera: wide shot, the short girl commanding the clearing, offering the scroll. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she takes the scroll. The girl's silver eyes soften for the first time. My real name, she says quietly, was Linh. I was four when they started giving me fake names. She smiles. After tonight — you can call me Linh again. Camera: cinematic close-up on both their faces, the scroll in her hands, the garden lanterns glowing behind them. 6 seconds. End on their hands touching over the scroll."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 15: Cô Gái Một Trăm Tên | Xianxia Việt Sub ⚔️🌿",
+    "youtube_description": "Episode 15 of Thanh Van Mon. Deep in the garden, she finds a girl who has been given a new name every day for a hundred years — so the palace thought she had no identity. Instead, she used those names to track everyone's erased secret identities. The scroll she carries names them all.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 16 — The Archive of Last Words\n#xianxia #thanhvanmon #nameless girl #erased identities #secret scroll #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "nameless girl",
+      "hundred names",
+      "erased identities",
+      "secret scroll",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô gái được đặt TÊN MỚI mỗi ngày suốt MỘT TRĂM NĂM — để cung điện nghĩ cô ta vô danh. Thay vào đó, cô ta dùng những cái tên đó để ghi lại TẤT CẢ bí mật bị xóa của hoàng gia ⚔️🌿 Tập 15 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Medium shot — deep in the overgrown corner of the garden, behind a curtain of hanging willows, she discovers a small clearing. A girl no older than fifteen sits on a stone bench, surrounded by dozens of name plaques — each carved with a different name. She is weaving a new plaque as she hums. She does not look up. Camera: medium shot through willow curtain, her discovering the girl weaving name plaques. 6 seconds. Shot 2: Close-up — the girl finally looks up. Her eyes are silver-white — the eyes of someone who sees what others cannot. She gestures to the plaques. She begins reading: Yesterday you were called Thu Huong. Today you are called Mai Linh. Tomorrow you will be called Bao Ngoc. She smiles slightly. I know everyone's real name. The ones the palace erased. Camera: extreme close-up on the girl's silver eyes as she reveals her knowledge. 6 seconds. Shot 3: Medium shot — the girl pulls out a scroll — impossibly long, unrolling across the entire clearing. Names and dates. Hundreds of entries. She points to one: Thuong Khue — ruled one night as Empress. She points to another: General Vuong Phuc — erased after the Night of Crimson Silk. Another: Your mother. Erased seventeen years ago. She looks up. Camera: medium shot of her frozen as the scroll reveals her mother's erased identity. 6 seconds. Shot 4: Wide shot — the girl stands. She is shorter than expected but her presence fills the clearing. The Emperor has been erasing names for three hundred years. He started with his rivals. Then his failures. Then his embarrassments. Now he erases anyone who threatens him. She offers the scroll. You want to restore the names? I'll show you how. But it will cost you your title. Camera: wide shot, the short girl commanding the clearing, offering the scroll. 6 seconds. Shot 5: Close-up — she takes the scroll. The girl's silver eyes soften for the first time. My real name, she says quietly, was Linh. I was four when they started giving me fake names. She smiles. After tonight — you can call me Linh again. Camera: cinematic close-up on both their faces, the scroll in her hands, the garden lanterns glowing behind them. 6 seconds. End on their hands touching over the scroll.",
+  "visual_scene": "Medium shot — deep in the overgrown corner of the garden, behind a curtain of hanging willows, she discovers a small clearing. A girl no older than fifteen sits on a stone bench, surrounded by dozens of name plaques — each carved with a different name. She is weaving a new plaque as she hums. She does not look up. Camera: medium shot through willow curtain, her discovering the girl weaving name plaques. 6 seconds. Close-up — the girl finally looks up. Her eyes are silver-white — the eyes of someone who sees what others cannot. She gestures to the plaques. She begins reading: Yesterday you were called Thu Huong. Today you are called Mai Linh. Tomorrow you will be called Bao Ngoc. She smiles slightly. I know everyone's real name. The ones the palace erased. Camera: extreme close-up on the girl's silver eyes as she reveals her knowledge. 6 seconds. Medium shot — the girl pulls out a scroll — impossibly long, unrolling across the entire clearing. Names and dates. Hundreds of entries. She points to one: Thuong Khue — ruled one night as Empress. She points to another: General Vuong Phuc — erased after the Night of Crimson Silk. Another: Your mother. Erased seventeen years ago. She looks up. Camera: medium shot of her frozen as the scroll reveals her mother's erased identity. 6 seconds. Wide shot — the girl stands. She is shorter than expected but her presence fills the clearing. The Emperor has been erasing names for three hundred years. He started with his rivals. Then his failures. Then his embarrassments. Now he erases anyone who threatens him. She offers the scroll. You want to restore the names? I'll show you how. But it will cost you your title. Camera: wide shot, the short girl commanding the clearing, offering the scroll. 6 seconds. Close-up — she takes the scroll. The girl's silver eyes soften for the first time. My real name, she says quietly, was Linh. I was four when they started giving me fake names. She smiles. After tonight — you can call me Linh again. Camera: cinematic close-up on both their faces, the scroll in her hands, the garden lanterns glowing behind them. 6 seconds. End on their hands touching over the scroll.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 15: The Girl With a Hundred Names",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "nameless girl",
+    "hundred names",
+    "erased identities",
+    "secret scroll",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

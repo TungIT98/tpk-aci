@@ -1,0 +1,179 @@
+﻿{
+  "id": "XIANYX-102",
+  "title": "Muc Than Ky Episode 12: The Scroll of the Last Emperor",
+  "category": "xianxia",
+  "channel": "Muc Than Ky",
+  "series": "Muc Than Ky",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "He finds the last emperor's personal scroll — written on human skin. It contains the locations of all the empire's buried secrets.",
+    "story_arc": "Imperial archive discovered → Skin scroll found → Buried secrets revealed → Forbidden knowledge taken → Guardians awakened",
+    "emotion": "Discovery → Horror → Fascination → Danger → Alarm",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide aerial shot — the imperial archive at dawn. A vast circular building of black stone, sealed for three hundred years. Moss-covered seals and chains mark every entrance. Guards stand watch at a distance. Camera: aerial slow orbit around the circular black archive. 6 seconds.",
+      "camera": "Orbit — aerial orbit of sealed imperial archive at dawn, 6s",
+      "narration": "The imperial archive had been sealed for three hundred years. They said it held the writings of the last emperor. They said no one who entered came out unchanged.",
+      "sfx": "Wind howl, ancient chains rattle, dawn bird cry, ominous drum beat"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he approaches the main sealed door. Red wax seals bear the imperial crest. He breaks the seal with his hand. The door CRACKS OPEN by itself — ancient hinges screaming. Darkness within. He steps inside. Camera: medium, door cracking open by itself, him stepping into darkness. 6 seconds.",
+      "camera": "Medium — breaking imperial seal, door cracking open on its own, stepping into darkness, 6s",
+      "narration": "The moment his shadow crossed the threshold, the archive knew him. It had been waiting. And what it held inside was not ink on paper. It was ink on SKIN.",
+      "sfx": "Seal breaking, door cracking, darkness whoosh, his footsteps echoing, spiritual presence awakening"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Extreme close-up — the skin scroll, unrolled on a reading desk. The 'paper' is pale human skin, stretched perfectly smooth. The characters are written in dark ink with surgical precision. A header: the last emperor's name. Beneath: locations, names, dates — all of the empire's buried secrets. Camera: macro close-up on the skin scroll characters, slow zoom in. 6 seconds.",
+      "camera": "Zoom in — macro on skin scroll characters with surgical precision, buried secrets visible, 6s",
+      "narration": "Names of dead princes. Locations of buried treasures. The true killers of three dynasties. Written in the skin of the man who knew everything. The last emperor had used his own body as a ledger of secrets.",
+      "sfx": "Ancient paper crinkle, his breath caught, distant thunder, revelation swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he reads a specific passage: locations of the Four Palace Vaults — massive vaults built beneath the imperial city, sealed with blood locks. His face: pale with realization. We see in his eyes: flash of the vault beneath THIS VERY BUILDING. He looks down at the floor. Camera: close-up on his face as realization hits, then point-of-view looking down at the floor. 6 seconds.",
+      "camera": "Close-up — face realizing vault is beneath this building, point of view down at floor, 6s",
+      "narration": "One vault was beneath this archive. He could feel it — a cold hum rising from the stones below. And something inside it was CALLING him. Calling him by name.",
+      "sfx": "Floor humming, his heartbeat, cold air rising, vault calling, whispered name"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — the floor beneath him CRACKS. Glowing seal lines spread across the stone in the shape of a vast formation. The archive shakes. Ancient guardian figures — humanoid stone statues — begin to move in the shadows. He stands at the center of the cracking formation, the skin scroll in hand. Camera: wide, floor cracking into glowing formation, guardians awakening, him at the center. 6 seconds.",
+      "camera": "Wide — floor cracking into glowing formation, stone guardians awakening, him at the cracked center, 6s",
+      "narration": "He had broken the seal. The archive had let him in — because it needed someone to take the scroll to the vaults. He was not a thief. He was a key. And the vaults were opening whether he wanted them to or not.",
+      "sfx": "Stone cracking, formation lighting up, guardian stone grinding, archive shaking, epic orchestral"
+    }
+  ],
+  "audio": {
+    "narration": "The imperial archive had been sealed for three hundred years. They said it held the writings of the last emperor. They said no one who entered came out unchanged. The moment his shadow crossed the threshold, the archive knew him. It had been waiting. And what it held inside was not ink on paper. It was ink on SKIN. Names of dead princes. Locations of buried treasures. The true killers of three dynasties. Written in the skin of the man who knew everything. The last emperor had used his own body as a ledger of secrets. One vault was beneath this archive. He could feel it — a cold hum rising from the stones below. And something inside it was CALLING him. Calling him by name. He had broken the seal. The archive had let him in — because it needed someone to take the scroll to the vaults. He was not a thief. He was a key. And the vaults were opening whether he wanted them to or not.",
+    "narration_duration": 28,
+    "bg_music": "Dark atmospheric Chinese orchestral, archive tension, skin scroll horror, vault awakening, ominous 68 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Wind howl",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Seal breaking",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Ancient paper crinkle",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Floor humming",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Stone cracking",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide aerial shot — the imperial archive at dawn. A vast circular building of black stone, sealed for three hundred years. Moss-covered seals and chains mark every entrance. Guards stand watch at a distance. Camera: aerial slow orbit around the circular black archive. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he approaches the main sealed door. Red wax seals bear the imperial crest. He breaks the seal with his hand. The door CRACKS OPEN by itself — ancient hinges screaming. Darkness within. He steps inside. Camera: medium, door cracking open by itself, him stepping into darkness. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Extreme close-up — the skin scroll, unrolled on a reading desk. The 'paper' is pale human skin, stretched perfectly smooth. The characters are written in dark ink with surgical precision. A header: the last emperor's name. Beneath: locations, names, dates — all of the empire's buried secrets. Camera: macro close-up on the skin scroll characters, slow zoom in. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — he reads a specific passage: locations of the Four Palace Vaults — massive vaults built beneath the imperial city, sealed with blood locks. His face: pale with realization. We see in his eyes: flash of the vault beneath THIS VERY BUILDING. He looks down at the floor. Camera: close-up on his face as realization hits, then point-of-view looking down at the floor. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — the floor beneath him CRACKS. Glowing seal lines spread across the stone in the shape of a vast formation. The archive shakes. Ancient guardian figures — humanoid stone statues — begin to move in the shadows. He stands at the center of the cracking formation, the skin scroll in hand. Camera: wide, floor cracking into glowing formation, guardians awakening, him at the center. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Muc Than Ky Tập 12: Cuộn Da Hoàng Đế Cuối Cùng | Xianxia Việt Sub ⚔️🖌️",
+    "youtube_description": "Episode 12 of Muc Than Ky. He finds the last emperor's personal scroll — written on human skin. It contains the locations of the empire's buried secrets. But the archive has been waiting three hundred years for someone to open the vaults beneath it.\n\n🖌️ Muc Than Ky — Original Chinese Fantasy Series\n📌 Follow for Episode 13\n#xianxia #muc than ky #skin scroll #imperial archive #secrets #epic",
+    "youtube_tags": [
+      "xianxia",
+      "muc than ky",
+      "last emperor",
+      "skin scroll",
+      "imperial archive",
+      "buried secrets",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cuộn da hoàng đế cuối cùng — bí mật của ba triều đại được VIẾT TRÊN DA NGƯỜI. Các điện mật bên dưới đang mở ra ⚔️🖌️ Tập 12 Muc Than Ky #xianxia #cổtrang",
+    "playlist": "Muc Than Ky"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide aerial shot — the imperial archive at dawn. A vast circular building of black stone, sealed for three hundred years. Moss-covered seals and chains mark every entrance. Guards stand watch at a distance. Camera: aerial slow orbit around the circular black archive. 6 seconds. Shot 2: Medium shot — he approaches the main sealed door. Red wax seals bear the imperial crest. He breaks the seal with his hand. The door CRACKS OPEN by itself — ancient hinges screaming. Darkness within. He steps inside. Camera: medium, door cracking open by itself, him stepping into darkness. 6 seconds. Shot 3: Extreme close-up — the skin scroll, unrolled on a reading desk. The 'paper' is pale human skin, stretched perfectly smooth. The characters are written in dark ink with surgical precision. A header: the last emperor's name. Beneath: locations, names, dates — all of the empire's buried secrets. Camera: macro close-up on the skin scroll characters, slow zoom in. 6 seconds. Shot 4: Close-up — he reads a specific passage: locations of the Four Palace Vaults — massive vaults built beneath the imperial city, sealed with blood locks. His face: pale with realization. We see in his eyes: flash of the vault beneath THIS VERY BUILDING. He looks down at the floor. Camera: close-up on his face as realization hits, then point-of-view looking down at the floor. 6 seconds. Shot 5: Wide cinematic — the floor beneath him CRACKS. Glowing seal lines spread across the stone in the shape of a vast formation. The archive shakes. Ancient guardian figures — humanoid stone statues — begin to move in the shadows. He stands at the center of the cracking formation, the skin scroll in hand. Camera: wide, floor cracking into glowing formation, guardians awakening, him at the center. 6 seconds.",
+  "visual_scene": "Wide aerial shot — the imperial archive at dawn. A vast circular building of black stone, sealed for three hundred years. Moss-covered seals and chains mark every entrance. Guards stand watch at a distance. Camera: aerial slow orbit around the circular black archive. 6 seconds. Medium shot — he approaches the main sealed door. Red wax seals bear the imperial crest. He breaks the seal with his hand. The door CRACKS OPEN by itself — ancient hinges screaming. Darkness within. He steps inside. Camera: medium, door cracking open by itself, him stepping into darkness. 6 seconds. Extreme close-up — the skin scroll, unrolled on a reading desk. The 'paper' is pale human skin, stretched perfectly smooth. The characters are written in dark ink with surgical precision. A header: the last emperor's name. Beneath: locations, names, dates — all of the empire's buried secrets. Camera: macro close-up on the skin scroll characters, slow zoom in. 6 seconds. Close-up — he reads a specific passage: locations of the Four Palace Vaults — massive vaults built beneath the imperial city, sealed with blood locks. His face: pale with realization. We see in his eyes: flash of the vault beneath THIS VERY BUILDING. He looks down at the floor. Camera: close-up on his face as realization hits, then point-of-view looking down at the floor. 6 seconds. Wide cinematic — the floor beneath him CRACKS. Glowing seal lines spread across the stone in the shape of a vast formation. The archive shakes. Ancient guardian figures — humanoid stone statues — begin to move in the shadows. He stands at the center of the cracking formation, the skin scroll in hand. Camera: wide, floor cracking into glowing formation, guardians awakening, him at the center. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Muc Than Ky Episode 12: The Scroll of the Last Emperor",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "muc than ky",
+    "last emperor",
+    "skin scroll",
+    "imperial archive",
+    "buried secrets",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z",
+  "publishedAt": "2026-04-06T01:52:08.412Z",
+  "tiktok_url": "/@fai20128/video/7625457826504166676"
+}

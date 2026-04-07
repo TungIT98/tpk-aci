@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-091",
+  "title": "Thanh Van Mon Episode 11: The Garden of Forgotten Names",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A garden where everyone who dies in the palace is memorialized — but the most important names have been deliberately erased.",
+    "story_arc": "Entering the garden, Reading tombstones, Missing names discovered, Hidden records, First erasure found",
+    "emotion": "Wonder, Unease, Discovery, Dread, Determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide aerial shot — an enormous ancient garden at dusk. Thousands of white stone tablets arranged in perfect concentric circles, each no larger than a hand. Lanterns float mid-air between them, unlit. The garden is meticulously kept — every plant trimmed, every path swept. She walks alone down a central gravel path, her pale green and white Hanfu blending with the fog. Camera: wide aerial drone shot, slow descending push in toward her as she walks deeper. 6 seconds.",
+      "camera": "Descend — wide aerial to full-body walking into memorial garden, 6s",
+      "narration": "In the heart of the palace, there was a garden where the dead were remembered. Every name. Every life. Or so they said.",
+      "sfx": "Gravel crunch under feet, evening wind through leaves, distant bell toll, cicada silence"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she kneels beside a row of tablets, reading names with her fingertips. The names are poetic — not just a name but who they were. She reads several with a soft smile. She notices the pattern: each tablet records not just the name but a single memory associated with the person. She smiles softly. Camera: medium shot, slow push in as she reads the tablets tenderly. 6 seconds.",
+      "camera": "Push in — medium to close-up on her reading memorial tablets, 6s",
+      "narration": "The tablets did not just name the dead. They named who they were. What they had done. How they had lived. This was not just a graveyard. It was a library of lives.",
+      "sfx": "Soft fabric rustle, finger tracing stone, distant night bird, wind chime"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she reaches a section of the garden where the tablets are different: taller, older, more ornate. Gold traces on their edges. She reads the first one — and stops. She reads it again. The tablet is blank. Not worn smooth — intentionally blank. She looks at the next: also blank. And the next. She turns, her expression shifting from curiosity to shock. Camera: close-up on her face as shock transforms her features, slow zoom in. 6 seconds.",
+      "camera": "Zoom in — her face as she discovers the intentionally blank tablets, 6s",
+      "narration": "The most important tablets — those belonging to nobles, ministers, and emperors — should have been here. But the stone itself had been erased. Smoothed over. Someone had removed these names deliberately.",
+      "sfx": "Sharp breath intake, stone scrape, heartbeat quickening, horror swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — she rushes to a garden keeper's shed at the edge of the cemetery. Inside: old ledgers, water-stained. She pulls one open. Lists of names. Some crossed out in red ink. At the top of each crossed-out page, a palace seal: the Emperor's personal cipher. She photographs the pages with trembling hands. Camera: wide shot of her in the shed surrounded by evidence, dramatic slow orbit. 6 seconds.",
+      "camera": "Orbit — wide shot in keeper's shed, her surrounded by damning ledgers, 6s",
+      "narration": "She found the records. Every name that had been erased. Every person removed from history. The Emperor's own seal on each destruction order. The erasure was not accident. It was policy.",
+      "sfx": "Pages turning rapidly, ink scratching, lockbox creak, dramatic orchestral hit"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she closes the ledger and stands in the doorway of the shed. Outside, the garden stretches in perfect rows, beautiful and terrible. Lanterns throughout the garden begin to light themselves — one by one — as if responding to her discovery. She looks up at them, then at the palace walls beyond. She knows what she must do. Camera: cinematic push in from medium to close-up face, lanterns glowing behind her. 6 seconds. End on her fierce, resolved expression.",
+      "camera": "Push in — doorway medium to close-up as lanterns self-ignite behind her, 6s",
+      "narration": "The garden remembered the erased. And tonight, for the first time, it was beginning to remember them back. She would help it. Whatever the cost.",
+      "sfx": "Lantern igniting, wind rising, epic xianxia swell, resolve"
+    }
+  ],
+  "audio": {
+    "narration": "In the heart of the palace, there was a garden where the dead were remembered. Every name. Every life. Or so they said. The tablets did not just name the dead. They named who they were. What they had done. How they had lived. This was not just a graveyard. It was a library of lives. The most important tablets — those belonging to nobles, ministers, and emperors — should have been here. But the stone itself had been erased. Smoothed over. Someone had removed these names deliberately. She found the records. Every name that had been erased. Every person removed from history. The Emperor's own seal on each destruction order. The erasure was not accident. It was policy. The garden remembered the erased. And tonight, for the first time, it was beginning to remember them back. She would help it. Whatever the cost.",
+    "narration_duration": 28,
+    "bg_music": "Haunting Chinese orchestral, dizi flute leading, bells and chimes, mystery atmosphere, night garden ambience 70 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Gravel crunch under feet",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Soft fabric rustle",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Sharp breath intake",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Pages turning rapidly",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Lantern igniting",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide aerial shot — an enormous ancient garden at dusk. Thousands of white stone tablets arranged in perfect concentric circles, each no larger than a hand. Lanterns float mid-air between them, unlit. The garden is meticulously kept — every plant trimmed, every path swept. She walks alone down a central gravel path, her pale green and white Hanfu blending with the fog. Camera: wide aerial drone shot, slow descending push in toward her as she walks deeper. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she kneels beside a row of tablets, reading names with her fingertips. The names are poetic — not just a name but who they were. She reads several with a soft smile. She notices the pattern: each tablet records not just the name but a single memory associated with the person. She smiles softly. Camera: medium shot, slow push in as she reads the tablets tenderly. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she reaches a section of the garden where the tablets are different: taller, older, more ornate. Gold traces on their edges. She reads the first one — and stops. She reads it again. The tablet is blank. Not worn smooth — intentionally blank. She looks at the next: also blank. And the next. She turns, her expression shifting from curiosity to shock. Camera: close-up on her face as shock transforms her features, slow zoom in. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — she rushes to a garden keeper's shed at the edge of the cemetery. Inside: old ledgers, water-stained. She pulls one open. Lists of names. Some crossed out in red ink. At the top of each crossed-out page, a palace seal: the Emperor's personal cipher. She photographs the pages with trembling hands. Camera: wide shot of her in the shed surrounded by evidence, dramatic slow orbit. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she closes the ledger and stands in the doorway of the shed. Outside, the garden stretches in perfect rows, beautiful and terrible. Lanterns throughout the garden begin to light themselves — one by one — as if responding to her discovery. She looks up at them, then at the palace walls beyond. She knows what she must do. Camera: cinematic push in from medium to close-up face, lanterns glowing behind her. 6 seconds. End on her fierce, resolved expression."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 11: Khu Vườn Tên Bị Xóa | Xianxia Việt Sub ⚔️🌿",
+    "youtube_description": "Episode 11 of Thanh Van Mon. In the heart of the palace, a garden memorializes the dead — but she discovers the most important names have been deliberately erased. The Emperor's own seal on every destruction order. The garden remembers what the palace wants forgotten.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 12 — The Empress Who Was Never Empress\n#xianxia #thanhvanmon #palace mystery #erased names #garden of ghosts #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "palace garden",
+      "memorial stones",
+      "erased names",
+      "palace conspiracy",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Khu vườn nơi những người chết được ghi nhớ — nhưng những tên TUYỆT ĐỐI quan trọng nhất đã bị XÓA BỎ. Dấu ấn của Hoàng Đế trên mỗi lệnh xóa. Vườn nhớ những gì cung điện muốn quên ⚔️🌿 Tập 11 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide aerial shot — an enormous ancient garden at dusk. Thousands of white stone tablets arranged in perfect concentric circles, each no larger than a hand. Lanterns float mid-air between them, unlit. The garden is meticulously kept — every plant trimmed, every path swept. She walks alone down a central gravel path, her pale green and white Hanfu blending with the fog. Camera: wide aerial drone shot, slow descending push in toward her as she walks deeper. 6 seconds. Shot 2: Medium shot — she kneels beside a row of tablets, reading names with her fingertips. The names are poetic — not just a name but who they were. She reads several with a soft smile. She notices the pattern: each tablet records not just the name but a single memory associated with the person. She smiles softly. Camera: medium shot, slow push in as she reads the tablets tenderly. 6 seconds. Shot 3: Close-up — she reaches a section of the garden where the tablets are different: taller, older, more ornate. Gold traces on their edges. She reads the first one — and stops. She reads it again. The tablet is blank. Not worn smooth — intentionally blank. She looks at the next: also blank. And the next. She turns, her expression shifting from curiosity to shock. Camera: close-up on her face as shock transforms her features, slow zoom in. 6 seconds. Shot 4: Wide shot — she rushes to a garden keeper's shed at the edge of the cemetery. Inside: old ledgers, water-stained. She pulls one open. Lists of names. Some crossed out in red ink. At the top of each crossed-out page, a palace seal: the Emperor's personal cipher. She photographs the pages with trembling hands. Camera: wide shot of her in the shed surrounded by evidence, dramatic slow orbit. 6 seconds. Shot 5: Close-up — she closes the ledger and stands in the doorway of the shed. Outside, the garden stretches in perfect rows, beautiful and terrible. Lanterns throughout the garden begin to light themselves — one by one — as if responding to her discovery. She looks up at them, then at the palace walls beyond. She knows what she must do. Camera: cinematic push in from medium to close-up face, lanterns glowing behind her. 6 seconds. End on her fierce, resolved expression.",
+  "visual_scene": "Wide aerial shot — an enormous ancient garden at dusk. Thousands of white stone tablets arranged in perfect concentric circles, each no larger than a hand. Lanterns float mid-air between them, unlit. The garden is meticulously kept — every plant trimmed, every path swept. She walks alone down a central gravel path, her pale green and white Hanfu blending with the fog. Camera: wide aerial drone shot, slow descending push in toward her as she walks deeper. 6 seconds. Medium shot — she kneels beside a row of tablets, reading names with her fingertips. The names are poetic — not just a name but who they were. She reads several with a soft smile. She notices the pattern: each tablet records not just the name but a single memory associated with the person. She smiles softly. Camera: medium shot, slow push in as she reads the tablets tenderly. 6 seconds. Close-up — she reaches a section of the garden where the tablets are different: taller, older, more ornate. Gold traces on their edges. She reads the first one — and stops. She reads it again. The tablet is blank. Not worn smooth — intentionally blank. She looks at the next: also blank. And the next. She turns, her expression shifting from curiosity to shock. Camera: close-up on her face as shock transforms her features, slow zoom in. 6 seconds. Wide shot — she rushes to a garden keeper's shed at the edge of the cemetery. Inside: old ledgers, water-stained. She pulls one open. Lists of names. Some crossed out in red ink. At the top of each crossed-out page, a palace seal: the Emperor's personal cipher. She photographs the pages with trembling hands. Camera: wide shot of her in the shed surrounded by evidence, dramatic slow orbit. 6 seconds. Close-up — she closes the ledger and stands in the doorway of the shed. Outside, the garden stretches in perfect rows, beautiful and terrible. Lanterns throughout the garden begin to light themselves — one by one — as if responding to her discovery. She looks up at them, then at the palace walls beyond. She knows what she must do. Camera: cinematic push in from medium to close-up face, lanterns glowing behind her. 6 seconds. End on her fierce, resolved expression.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 11: The Garden of Forgotten Names",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "palace garden",
+    "memorial stones",
+    "erased names",
+    "palace conspiracy",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

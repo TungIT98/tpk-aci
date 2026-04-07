@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-081",
+  "title": "Tru Tien Episode 11: The Book of Forbidden Curses",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Tru Tien",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "She found the grimoire her grandmother died protecting. Its pages held one curse — and one curse only: to undo all the suffering of the last war.",
+    "story_arc": "Grimoire discovered → Grandmother's secret → The single curse revealed → First reading → Horror of power",
+    "emotion": "Sorrow → Revelation → Dread → Ambition → Terror",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide atmospheric shot — she stands in a burned-out cottage at dusk. Charred beams above. A hidden compartment in the floor has been pried open — revealing a lacquered box of black wood with gold talisman seals. Her grandmother's cottage. Her grandmother who burned. She kneels before the box. Camera: wide, dusk light through broken walls, lacquered box on floor, her kneel. 6 seconds.",
+      "camera": "Wide — burned cottage, lacquered black box with gold seals, her grandmother's final secret, dusk, 6s",
+      "narration": "Her grandmother had died in this cottage — burned for practicing forbidden magic. And in the floor beneath where she died, a lacquered box had waited fifty years to be found.",
+      "sfx": "Embers popping, distant fire crackling, her knees touching ash, box seal humming"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — she opens the box. Inside: a book bound in what looks like human skin, the characters on its cover glowing faintly blood-red. A single crimson thread seals it shut. Her fingers tremble as she breaks the thread. The book falls open by itself to the first page. One sentence in ancient script. Camera: extreme close-up, box opening, skin-bound grimoire, crimson thread breaking, book falling open. 6 seconds.",
+      "camera": "Extreme close-up — box opening, blood-red glowing skin-bound grimoire, crimson thread snapping, ancient page revealed, 6s",
+      "narration": "The book opened to a single curse. One curse. One page. And it had killed everyone who had ever tried to read it.",
+      "sfx": "Thread snapping, book pages rustling, ancient breath exhale, heartbeat, dark ambient hum"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium close-up — she reads the ancient characters aloud. The curse translates in her mind: 'I curse the war to have never happened — all its wounds undone, all its grief reversed, all its dead returned to life.' She gasps. The room DARKENS. The book's characters begin to bleed fresh blood onto the page. Camera: close-up on her face reading, room darkening, blood appearing on ancient page. 6 seconds.",
+      "camera": "Close-up — her face as she reads the curse aloud, room darkening, blood seeping fresh onto ancient page, 6s",
+      "narration": "The curse to undo the war. Every wound. Every death. Every grief. Written in blood that was still bleeding — fifty years after her grandmother had read those same words.",
+      "sfx": "Blood dripping on page, her sharp inhale, room darkening whoosh, ancient curse speaking"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme wide shot — she runs outside the cottage. The sky above the palace burns RED. The curse is already responding to her voice. In the distance, in the war-torn valley below, soldiers who had been dying FROZE mid-death. Their wounds begin to close. A widow's tears reverse back into her eyes. But she — standing at the center — begins to bleed from her nose. The price. Camera: extreme wide, burning red sky, wound healing below, her bloody nose above. 6 seconds.",
+      "camera": "Extreme wide — burning red sky, soldiers' wounds closing below, widow's tears reversing, her bloody nose at cottage, 6s",
+      "narration": "The curse had heard her voice. And it had begun to act. But every wound it closed was now hers. Every grief reversed — she felt it all.",
+      "sfx": "War wound closing with flesh sound, widow's gasp, her nose bleeding, red sky crackling, ominous hum"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she falls to her knees in the cottage doorway, blood streaming from both nostrils, her eyes wide with terror. The book lies open beside her, its pages filling with new writing — the curse is ADDING PAGES. More soldiers' names. More widows. More names. It is feeding her more to undo. She laughs — then sobs. Camera: close-up, her bloody tearful face in doorway, grimoire adding pages beside her, red sky. 6 seconds.",
+      "camera": "Close-up — her bloody tearful face in doorway, grimoire adding pages beside her, names multiplying, 6s",
+      "narration": "The curse was not finished. The grimoire was filling with new names — soldiers she had never met, widows she had never known. It was giving her their pain to carry. And she had not even chosen to use it yet.",
+      "sfx": "Page turning, her sob, blood dripping, grimoire humming, dark revelation sting"
+    }
+  ],
+  "audio": {
+    "narration": "Her grandmother had died in this cottage — burned for practicing forbidden magic. And in the floor beneath where she died, a lacquered box had waited fifty years to be found. The book opened to a single curse. One curse. One page. And it had killed everyone who had ever tried to read it. The curse to undo the war. Every wound. Every death. Every grief. Written in blood that was still bleeding — fifty years after her grandmother had read those same words. The curse had heard her voice. And it had begun to act. But every wound it closed was now hers. Every grief reversed — she felt it all. The curse was not finished. The grimoire was filling with new names — soldiers she had never met, widows she had never known. It was giving her their pain to carry. And she had not even chosen to use it yet.",
+    "narration_duration": 28,
+    "bg_music": "Dark gothic Chinese orchestral, blood magic theme, dread and power, grimoire awakening, forbidden curse 70 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Embers popping",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Thread snapping",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Blood dripping on page",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "War wound closing with flesh sound",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Page turning",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide atmospheric shot — she stands in a burned-out cottage at dusk. Charred beams above. A hidden compartment in the floor has been pried open — revealing a lacquered box of black wood with gold talisman seals. Her grandmother's cottage. Her grandmother who burned. She kneels before the box. Camera: wide, dusk light through broken walls, lacquered box on floor, her kneel. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — she opens the box. Inside: a book bound in what looks like human skin, the characters on its cover glowing faintly blood-red. A single crimson thread seals it shut. Her fingers tremble as she breaks the thread. The book falls open by itself to the first page. One sentence in ancient script. Camera: extreme close-up, box opening, skin-bound grimoire, crimson thread breaking, book falling open. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium close-up — she reads the ancient characters aloud. The curse translates in her mind: 'I curse the war to have never happened — all its wounds undone, all its grief reversed, all its dead returned to life.' She gasps. The room DARKENS. The book's characters begin to bleed fresh blood onto the page. Camera: close-up on her face reading, room darkening, blood appearing on ancient page. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Extreme wide shot — she runs outside the cottage. The sky above the palace burns RED. The curse is already responding to her voice. In the distance, in the war-torn valley below, soldiers who had been dying FROZE mid-death. Their wounds begin to close. A widow's tears reverse back into her eyes. But she — standing at the center — begins to bleed from her nose. The price. Camera: extreme wide, burning red sky, wound healing below, her bloody nose above. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she falls to her knees in the cottage doorway, blood streaming from both nostrils, her eyes wide with terror. The book lies open beside her, its pages filling with new writing — the curse is ADDING PAGES. More soldiers' names. More widows. More names. It is feeding her more to undo. She laughs — then sobs. Camera: close-up, her bloody tearful face in doorway, grimoire adding pages beside her, red sky. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Tru Tien Tập 11: Quyển Cấm Chú Ngàn Năm | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 11 of Tru Tien. She finds her grandmother's hidden grimoire — a book bound in blood-stained skin that contains only ONE curse: to undo all the suffering of the last war. She reads it aloud. The sky turns red. The curse begins to work. And she starts bleeding from everywhere.",
+    "youtube_tags": [
+      "xianxia",
+      "tru tien",
+      "forbidden grimoire",
+      "grandmother burned",
+      "curse of undoing",
+      "blood magic",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô tìm thấy quyển sách cấm của bà ngoại — cấm chú CUỐI CÙNG để xóa TAN cuộc chiến. Cô đọc to — bầu trời đỏ rực — và cô bắt đầu CHẢY MÁU khắp người ⚔️💀 Tập 11 Tru Tien #xianxia #cổtrang",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide atmospheric shot — she stands in a burned-out cottage at dusk. Charred beams above. A hidden compartment in the floor has been pried open — revealing a lacquered box of black wood with gold talisman seals. Her grandmother's cottage. Her grandmother who burned. She kneels before the box. Camera: wide, dusk light through broken walls, lacquered box on floor, her kneel. 6 seconds. Shot 2: Close-up — she opens the box. Inside: a book bound in what looks like human skin, the characters on its cover glowing faintly blood-red. A single crimson thread seals it shut. Her fingers tremble as she breaks the thread. The book falls open by itself to the first page. One sentence in ancient script. Camera: extreme close-up, box opening, skin-bound grimoire, crimson thread breaking, book falling open. 6 seconds. Shot 3: Medium close-up — she reads the ancient characters aloud. The curse translates in her mind: 'I curse the war to have never happened — all its wounds undone, all its grief reversed, all its dead returned to life.' She gasps. The room DARKENS. The book's characters begin to bleed fresh blood onto the page. Camera: close-up on her face reading, room darkening, blood appearing on ancient page. 6 seconds. Shot 4: Extreme wide shot — she runs outside the cottage. The sky above the palace burns RED. The curse is already responding to her voice. In the distance, in the war-torn valley below, soldiers who had been dying FROZE mid-death. Their wounds begin to close. A widow's tears reverse back into her eyes. But she — standing at the center — begins to bleed from her nose. The price. Camera: extreme wide, burning red sky, wound healing below, her bloody nose above. 6 seconds. Shot 5: Close-up — she falls to her knees in the cottage doorway, blood streaming from both nostrils, her eyes wide with terror. The book lies open beside her, its pages filling with new writing — the curse is ADDING PAGES. More soldiers' names. More widows. More names. It is feeding her more to undo. She laughs — then sobs. Camera: close-up, her bloody tearful face in doorway, grimoire adding pages beside her, red sky. 6 seconds.",
+  "visual_scene": "Wide atmospheric shot — she stands in a burned-out cottage at dusk. Charred beams above. A hidden compartment in the floor has been pried open — revealing a lacquered box of black wood with gold talisman seals. Her grandmother's cottage. Her grandmother who burned. She kneels before the box. Camera: wide, dusk light through broken walls, lacquered box on floor, her kneel. 6 seconds. Close-up — she opens the box. Inside: a book bound in what looks like human skin, the characters on its cover glowing faintly blood-red. A single crimson thread seals it shut. Her fingers tremble as she breaks the thread. The book falls open by itself to the first page. One sentence in ancient script. Camera: extreme close-up, box opening, skin-bound grimoire, crimson thread breaking, book falling open. 6 seconds. Medium close-up — she reads the ancient characters aloud. The curse translates in her mind: 'I curse the war to have never happened — all its wounds undone, all its grief reversed, all its dead returned to life.' She gasps. The room DARKENS. The book's characters begin to bleed fresh blood onto the page. Camera: close-up on her face reading, room darkening, blood appearing on ancient page. 6 seconds. Extreme wide shot — she runs outside the cottage. The sky above the palace burns RED. The curse is already responding to her voice. In the distance, in the war-torn valley below, soldiers who had been dying FROZE mid-death. Their wounds begin to close. A widow's tears reverse back into her eyes. But she — standing at the center — begins to bleed from her nose. The price. Camera: extreme wide, burning red sky, wound healing below, her bloody nose above. 6 seconds. Close-up — she falls to her knees in the cottage doorway, blood streaming from both nostrils, her eyes wide with terror. The book lies open beside her, its pages filling with new writing — the curse is ADDING PAGES. More soldiers' names. More widows. More names. It is feeding her more to undo. She laughs — then sobs. Camera: close-up, her bloody tearful face in doorway, grimoire adding pages beside her, red sky. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Tru Tien Episode 11: The Book of Forbidden Curses",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "tru tien",
+    "forbidden grimoire",
+    "grandmother burned",
+    "curse of undoing",
+    "blood magic",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

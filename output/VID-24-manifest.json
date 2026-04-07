@@ -1,0 +1,277 @@
+{
+  "version": 1,
+  "runId": "vid24_1774576127468",
+  "produced": [
+    {
+      "briefId": "PW-01",
+      "status": "produced",
+      "channel": "productivity_worker",
+      "title": "The 2-Minute Rule That Eliminates Procrastination Forever",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-01.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-01.mp4",
+      "videoSource": "app",
+      "duration_s": 14.721,
+      "producedAt": "2026-03-27T01:49:52.058Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 604
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-01.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-01.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "PW-02",
+      "status": "produced",
+      "channel": "productivity_worker",
+      "title": "Your Morning Meeting Is Killing Your Afternoon Productivity — Here's Why",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-02.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-02.mp4",
+      "videoSource": "app",
+      "duration_s": 12.891,
+      "producedAt": "2026-03-27T01:50:04.950Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 603
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-02.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-02.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "PW-03",
+      "status": "produced",
+      "channel": "productivity_worker",
+      "title": "The Sunday Night Ritual That Makes Monday Mornings Effortless",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-03.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-03.mp4",
+      "videoSource": "app",
+      "duration_s": 13.462,
+      "producedAt": "2026-03-27T01:50:18.413Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 625
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-03.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-03.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "PW-04",
+      "status": "produced",
+      "channel": "productivity_worker",
+      "title": "Stop Checking Email First Thing in the Morning — Here's What to Do Instead",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-04.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-04.mp4",
+      "videoSource": "app",
+      "duration_s": 12.84,
+      "producedAt": "2026-03-27T01:50:31.254Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 684
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-04.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-04.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "PW-05",
+      "status": "produced",
+      "channel": "productivity_worker",
+      "title": "Your Brain Isn't Built for 8-Hour Workdays — Here's What Works Instead",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-05.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-05.mp4",
+      "videoSource": "app",
+      "duration_s": 14.539,
+      "producedAt": "2026-03-27T01:50:45.794Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 690
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-05.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\PW-05.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "GZ-01",
+      "status": "produced",
+      "channel": "gen_z_success",
+      "title": "I Made $10K in My Fourth Month Using a Skill I Learned for Free — Here's the System",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-01.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-01.mp4",
+      "videoSource": "app",
+      "duration_s": 13.844,
+      "producedAt": "2026-03-27T01:50:59.639Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 709
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-01.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-01.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "GZ-02",
+      "status": "produced",
+      "channel": "gen_z_success",
+      "title": "Your Morning Routine Is Robbing You of Your Best Years (Do This Instead)",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-02.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-02.mp4",
+      "videoSource": "app",
+      "duration_s": 14.099,
+      "producedAt": "2026-03-27T01:51:13.739Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 709
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-02.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-02.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "GZ-03",
+      "status": "produced",
+      "channel": "gen_z_success",
+      "title": "Stop Applying to Jobs — Your Next Opportunity Is in the DM",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-03.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-03.mp4",
+      "videoSource": "app",
+      "duration_s": 13.315,
+      "producedAt": "2026-03-27T01:51:27.055Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 711
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-03.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-03.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "GZ-04",
+      "status": "produced",
+      "channel": "gen_z_success",
+      "title": "High-Functioning Anxiety People: Your Brain Isn't Broken — Here's the Framework",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-04.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-04.mp4",
+      "videoSource": "app",
+      "duration_s": 13.595,
+      "producedAt": "2026-03-27T01:51:40.651Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 768
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-04.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-04.mp4",
+          "ok": true
+        }
+      }
+    },
+    {
+      "briefId": "GZ-05",
+      "status": "produced",
+      "channel": "gen_z_success",
+      "title": "I Spent $400/Month on Coffee and Didn't Know I Was Poor — The 5-Min Money System",
+      "ttsPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-05.mp3",
+      "videoPath": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-05.mp4",
+      "videoSource": "app",
+      "duration_s": 13.569,
+      "producedAt": "2026-03-27T01:51:54.221Z",
+      "stages": {
+        "script": {
+          "ok": true,
+          "length": 732
+        },
+        "tts": {
+          "provider": "elevenlabs",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-05.mp3",
+          "ok": true
+        },
+        "video": {
+          "source": "app",
+          "path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output\\videos\\GZ-05.mp4",
+          "ok": true
+        }
+      }
+    }
+  ],
+  "summary": {}
+}

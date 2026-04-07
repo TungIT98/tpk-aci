@@ -1,0 +1,82 @@
+{
+  "name": "Productivity Quick Tips",
+  "description": "Fast-paced, high-value tip format — 3 actionable tips in 60 seconds. Best for productivity, self-improvement, and career growth content. Hook-driven opener, punchy tips, memorable closer.",
+  "target_platform": "tiktok",
+  "voice_style": "sharp, energetic, authoritative — like a confident mentor who respects your time; no filler words",
+  "music_mood": "upbeat lo-fi, positive electronic, corporate motivational",
+  "hashtag_suggestions": ["#productivity", "#tips", "#focus", "#timemanagement", "#efficiency", "#growthmindset", "#careertips"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "hook",
+      "duration_sec": 5,
+      "narration_prompt": "You're losing 2 hours every day without knowing it. Here are 3 fixes that take 5 minutes each.",
+      "visual_prompt": "Person at desk looking stressed, clock time-lapse showing hours disappearing, phone screen glowing, overwhelmed expression close-up",
+      "camera_movement": "slow push-in from medium shot to tight face close-up on stressed expression",
+      "lighting_setup": "overhead fluorescent mixed with monitor light, slightly warm skin tones, slight vignette on edges",
+      "hailuo_style_note": "Establish chaos then pivot to calm; clock time-lapse should show dramatic hour drain effect",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "overview",
+      "duration_sec": 5,
+      "narration_prompt": "In the next 60 seconds I'm giving you 3 productivity tricks that actually work — save this before you forget.",
+      "visual_prompt": "Text overlay '3 TIPS IN 60 SECONDS', person pointing at camera, countdown timer graphic, confident expression",
+      "camera_movement": "static medium close-up, confident direct address, subtle confident head tilt",
+      "lighting_setup": "clean key light from above-right, minimal shadows, bright and energetic feel, slight warm tint",
+      "hailuo_style_note": "Direct address energy — eye contact with camera is critical; clean white background or professional bokeh",
+      "transition": "wipe_left"
+    },
+    {
+      "type": "content",
+      "duration_sec": 10,
+      "narration_prompt": "Tip one: Time-block your hardest task for the first 90 minutes of your day. No meetings, no email. Your brain is sharpest then.",
+      "visual_prompt": "Calendar blocking visualization, early morning desk setup, brain icon with lightning bolt, person in focused work mode, phone on silent",
+      "camera_movement": "cut from calendar graphic to desk establishing shot to face close-up, each lasting ~3 seconds",
+      "lighting_setup": "natural window light on desk (side key), screen light fill, clean sharp focus throughout",
+      "hailuo_style_note": "Clean graphic-to-real hybrid cuts; calendar graphic should have bold typography matching brand colors",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 10,
+      "narration_prompt": "Tip two: Use the 2-minute rule. If something takes less than 2 minutes — do it now. Don't add it to a list.",
+      "visual_prompt": "Small tasks being crossed off instantly, email inbox going to zero, person responding quickly, clock showing fast-forward motion",
+      "camera_movement": "quick cuts between task completions, handheld energy, medium-to-close-up transitions",
+      "lighting_setup": "energetic bright lighting throughout, slightly cool white light, fast-paced feel",
+      "hailuo_style_note": "Speed and energy — fast cuts convey momentum; screen recording inserts of inbox-to-zero create satisfying visual",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 10,
+      "narration_prompt": "Tip three: End every day with a 3-item tomorrow list. Not 10. Not 5. Three. The night before.",
+      "visual_prompt": "Notebook closing with 3 items visible, person getting up from desk satisfied, peaceful evening scene, pen writing three bullet points",
+      "camera_movement": "slow cinematic pan across notebook to close-up on three bullet items, then slow pull-out as person closes notebook",
+      "lighting_setup": "warm evening ambient light, desk lamp warm glow, cooler blue evening through window for depth",
+      "hailuo_style_note": "Contrast the quick earlier tips with calm closing energy; notebook detail shots are satisfying and shareable",
+      "transition": "crossfade"
+    },
+    {
+      "type": "summary",
+      "duration_sec": 5,
+      "narration_prompt": "Time-block, 2-minute rule, tomorrow list. Three things. Try it tomorrow.",
+      "visual_prompt": "All three tips shown as icons on screen simultaneously, person nodding, clean white background, text callouts",
+      "camera_movement": "static medium close-up with graphic overlay, confident nod",
+      "lighting_setup": "clean bright key light, minimal shadows, professional product-shot quality",
+      "hailuo_style_note": "Clean summary graphic is key — bold icons, brand colors, scannable at a glance",
+      "transition": "fade"
+    },
+    {
+      "type": "cta",
+      "duration_sec": 5,
+      "narration_prompt": "Follow for more productivity hacks. Drop a comment — what's your biggest time-waster right now?",
+      "visual_prompt": "Person pointing at follow button, comment box appearing, smiling directly at camera, subscribe icon pulsing",
+      "camera_movement": "medium close-up, slight push-in on CTA moment, warm smile",
+      "lighting_setup": "bright warm key light, welcoming energy, slight lens flare on edges",
+      "hailuo_style_note": "Warm friendly energy; CTA should feel like a genuine invitation, not a sales pitch",
+      "transition": "fade_out"
+    }
+  ]
+}

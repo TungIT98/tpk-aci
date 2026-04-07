@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-056",
+  "title": "Ha Tien Du Episode 6: The City That Drowns at Dawn",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 6,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A city floats on the celestial lake — half above water, half below. And every morning, the water rises to swallow it whole.",
+    "story_arc": "Floating city → Morning drowning ritual → The drowned people's bargain → Temple of the seal → Race against the tide",
+    "emotion": "Wonder → Unease → Tragedy → Urgency → Race begins",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide aerial at dawn — a magnificent floating city of white stone and golden roofs straddles a vast celestial lake. The upper half of buildings protrudes above the waterline. The lower half — visible through crystal-clear water — shows families living, markets selling, temples praying BELOW the surface. People walk on BOTH levels simultaneously. Camera: extreme wide aerial, slow push in showing the two-level city. 6 seconds.",
+      "camera": "Push in — extreme wide aerial, two-level floating city above and below water, 6s",
+      "narration": "On the celestial lake floated a city that existed in two worlds at once. Half above the waterline in morning light. Half below it in midnight blue.",
+      "sfx": "Bustling water-city ambience, temple bells, market sounds both above and below water"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide shot — dawn breaks. The water begins to rise. Families in the upper city calmly gather valuables, pets, elderly relatives. Children laugh nervously. A great bell tolls. People move to RAISED platforms built into the buildings. The water rises centimeter by centimeter. Those below in the underwater half wave goodbye to the upper world for the day. Camera: wide, water rising in frame, people migrating to platforms. 6 seconds.",
+      "camera": "Wide — dawn water rising, families calmly migrating upward, underwater half waving goodbye, 6s",
+      "narration": "Every morning, the city drowned. And every evening, it resurrected. The people had made peace with this tide. But recently — the tide had been rising higher.",
+      "sfx": "Great bell tolling, water sloshing, gentle panic whispers, melancholic strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — she and the ice boy arrive in a small boat. They are greeted by the city's elder — an ancient woman with pure white hair, blind eyes, and a knowing smile. She takes her hand. 'The Bridge. I dreamed of you. The seal is breaking. The fire comes through the cracks at night. We need you to dive.' Camera: medium, elder greets them, ominous prophecy about the seal. 6 seconds.",
+      "camera": "Two-shot — elder's ominous greeting, 'The fire comes through the cracks' revelation, 6s",
+      "narration": "The seal her mother had died to maintain was cracking. Every night, fire leaked through — slowly boiling the lake from below. And this city was drowning faster each day because of it.",
+      "sfx": "Elder voice, ominous echo, water bubbling, dark orchestral sting"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up underwater — she dives DOWN past the city into the DARK depths of the celestial lake. Below the beautiful floating city is a NIGHTMARE: the lake bed is covered in CRACKS, glowing orange-red with fire. Lava-light seeps through. She sees her mother's original seal — a massive glowing water circle — cracked and leaking. Camera: close-up underwater, dark depths, cracked seal glowing fire-orange. 6 seconds.",
+      "camera": "Close-up — underwater dark depths, cracked celestial seal glowing fire-orange, nightmare reveal, 6s",
+      "narration": "The seal her mother had died to maintain. Cracked. Leaking fire into the celestial lake. If it broke completely — the fire would boil this lake dry in three days.",
+      "sfx": "Water pressure sounds, fire crackling through cracks, ominous deep bass rumble"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — she surfaces dramatically from the lake, gasping, in the middle of the floating city square. People gather around. She holds up a shard of the cracked seal — glowing dark red. 'It breaks in seven days,' she says. 'We must act now.' The ice boy surfaces beside her. Camera: full-body dramatic surfacing in city center, both gasping, city people gathering. 6 seconds.",
+      "camera": "Dramatic surfacing — in city center, holding cracked seal shard, urgent declaration, 6s",
+      "narration": "Seven days. That was all the time they had. Seven days to repair a seal her mother had spent her life maintaining. Seven days to prepare for a war with fire itself.",
+      "sfx": "Water splash, gasp, crowd murmurs, urgent orchestral surge"
+    }
+  ],
+  "audio": {
+    "narration": "On the celestial lake floated a city that existed in two worlds at once. Half above the waterline in morning light. Half below it in midnight blue. Every morning, the city drowned. And every evening, it resurrected. The people had made peace with this tide. But recently — the tide had been rising higher. The seal her mother had died to maintain was cracking. Every night, fire leaked through — slowly boiling the lake from below. And this city was drowning faster each day because of it. The seal her mother had died to maintain. Cracked. Leaking fire into the celestial lake. If it broke completely — the fire would boil this lake dry in three days. Seven days. That was all the time they had. Seven days to repair a seal her mother had spent her life maintaining. Seven days to prepare for a war with fire itself.",
+    "narration_duration": 28,
+    "bg_music": "Mystical and urgent Chinese orchestral, dizi flute over deep bass, temple bells, building tension 88 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Bustling water-city ambience",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Great bell tolling",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Elder voice",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Water pressure sounds",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Water splash",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide aerial at dawn — a magnificent floating city of white stone and golden roofs straddles a vast celestial lake. The upper half of buildings protrudes above the waterline. The lower half — visible through crystal-clear water — shows families living, markets selling, temples praying BELOW the surface. People walk on BOTH levels simultaneously. Camera: extreme wide aerial, slow push in showing the two-level city. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide shot — dawn breaks. The water begins to rise. Families in the upper city calmly gather valuables, pets, elderly relatives. Children laugh nervously. A great bell tolls. People move to RAISED platforms built into the buildings. The water rises centimeter by centimeter. Those below in the underwater half wave goodbye to the upper world for the day. Camera: wide, water rising in frame, people migrating to platforms. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Medium shot — she and the ice boy arrive in a small boat. They are greeted by the city's elder — an ancient woman with pure white hair, blind eyes, and a knowing smile. She takes her hand. 'The Bridge. I dreamed of you. The seal is breaking. The fire comes through the cracks at night. We need you to dive.' Camera: medium, elder greets them, ominous prophecy about the seal. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up underwater — she dives DOWN past the city into the DARK depths of the celestial lake. Below the beautiful floating city is a NIGHTMARE: the lake bed is covered in CRACKS, glowing orange-red with fire. Lava-light seeps through. She sees her mother's original seal — a massive glowing water circle — cracked and leaking. Camera: close-up underwater, dark depths, cracked seal glowing fire-orange. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — she surfaces dramatically from the lake, gasping, in the middle of the floating city square. People gather around. She holds up a shard of the cracked seal — glowing dark red. 'It breaks in seven days,' she says. 'We must act now.' The ice boy surfaces beside her. Camera: full-body dramatic surfacing in city center, both gasping, city people gathering. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 6: Thành Phố Chìm Lúc Bình Minh | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 6 of Ha Tien Du. A floating city straddling two worlds. A seal cracking under the lake bed. And seven days before the fire consumes everything.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 7\n#xianxia #ha tiendu #floating city #seal breaking #underwater city #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "floating city",
+      "celestial lake",
+      "seal breaking",
+      "fire leak",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Thành phố nửa trên mặt nước nửa dưới mặt nước — và mỗi đêm lửa rỉ qua vết nứt niêm phong từ thác nước thiêng ⚔️🌊 Tập 6 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide aerial at dawn — a magnificent floating city of white stone and golden roofs straddles a vast celestial lake. The upper half of buildings protrudes above the waterline. The lower half — visible through crystal-clear water — shows families living, markets selling, temples praying BELOW the surface. People walk on BOTH levels simultaneously. Camera: extreme wide aerial, slow push in showing the two-level city. 6 seconds. Shot 2: Wide shot — dawn breaks. The water begins to rise. Families in the upper city calmly gather valuables, pets, elderly relatives. Children laugh nervously. A great bell tolls. People move to RAISED platforms built into the buildings. The water rises centimeter by centimeter. Those below in the underwater half wave goodbye to the upper world for the day. Camera: wide, water rising in frame, people migrating to platforms. 6 seconds. Shot 3: Medium shot — she and the ice boy arrive in a small boat. They are greeted by the city's elder — an ancient woman with pure white hair, blind eyes, and a knowing smile. She takes her hand. 'The Bridge. I dreamed of you. The seal is breaking. The fire comes through the cracks at night. We need you to dive.' Camera: medium, elder greets them, ominous prophecy about the seal. 6 seconds. Shot 4: Close-up underwater — she dives DOWN past the city into the DARK depths of the celestial lake. Below the beautiful floating city is a NIGHTMARE: the lake bed is covered in CRACKS, glowing orange-red with fire. Lava-light seeps through. She sees her mother's original seal — a massive glowing water circle — cracked and leaking. Camera: close-up underwater, dark depths, cracked seal glowing fire-orange. 6 seconds. Shot 5: Wide cinematic — she surfaces dramatically from the lake, gasping, in the middle of the floating city square. People gather around. She holds up a shard of the cracked seal — glowing dark red. 'It breaks in seven days,' she says. 'We must act now.' The ice boy surfaces beside her. Camera: full-body dramatic surfacing in city center, both gasping, city people gathering. 6 seconds.",
+  "visual_scene": "Extreme wide aerial at dawn — a magnificent floating city of white stone and golden roofs straddles a vast celestial lake. The upper half of buildings protrudes above the waterline. The lower half — visible through crystal-clear water — shows families living, markets selling, temples praying BELOW the surface. People walk on BOTH levels simultaneously. Camera: extreme wide aerial, slow push in showing the two-level city. 6 seconds. Wide shot — dawn breaks. The water begins to rise. Families in the upper city calmly gather valuables, pets, elderly relatives. Children laugh nervously. A great bell tolls. People move to RAISED platforms built into the buildings. The water rises centimeter by centimeter. Those below in the underwater half wave goodbye to the upper world for the day. Camera: wide, water rising in frame, people migrating to platforms. 6 seconds. Medium shot — she and the ice boy arrive in a small boat. They are greeted by the city's elder — an ancient woman with pure white hair, blind eyes, and a knowing smile. She takes her hand. 'The Bridge. I dreamed of you. The seal is breaking. The fire comes through the cracks at night. We need you to dive.' Camera: medium, elder greets them, ominous prophecy about the seal. 6 seconds. Close-up underwater — she dives DOWN past the city into the DARK depths of the celestial lake. Below the beautiful floating city is a NIGHTMARE: the lake bed is covered in CRACKS, glowing orange-red with fire. Lava-light seeps through. She sees her mother's original seal — a massive glowing water circle — cracked and leaking. Camera: close-up underwater, dark depths, cracked seal glowing fire-orange. 6 seconds. Wide cinematic — she surfaces dramatically from the lake, gasping, in the middle of the floating city square. People gather around. She holds up a shard of the cracked seal — glowing dark red. 'It breaks in seven days,' she says. 'We must act now.' The ice boy surfaces beside her. Camera: full-body dramatic surfacing in city center, both gasping, city people gathering. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 6: The City That Drowns at Dawn",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "floating city",
+    "celestial lake",
+    "seal breaking",
+    "fire leak",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

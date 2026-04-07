@@ -1,0 +1,182 @@
+﻿{
+  "id": "XIANYX-178",
+  "title": "Ha Tien Du Episode 38: The Mortal Return",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 38,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "Luân returned to the mortal realm — no fire mark, no ice blades, no Water of Origin. Just a man. And his people — safe forever.",
+    "story_arc": "Mortal return → No powers → Just a man → Safe people → Peace",
+    "emotion": "Wonder → Revelation → Emotion → Transition → Bittersweet farewell",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide aerial — the celestial gate. After the jade shattered, the gate INDEPENDENTLY opens. Not because Luân demanded it — but because it had been watching and it understood. Beyond the gate: a realm of impossible beauty. Floating islands of starlight. Trees made of aurora. Beings of pure light. And at the center: his mother — in celestial form. Camera: extreme wide aerial, celestial gate opening, realm of light revealed, mother waiting inside. 6 seconds.",
+      "camera": "Extreme wide aerial — celestial gate opening independently, realm of starlight and aurora revealed, mother in celestial form waiting, 6s",
+      "narration": "The gate opened not because he had won. It opened because he had shown the one thing the jade champion had never possessed: understanding. And understanding — the celestial gate had decided — was the only true key.",
+      "sfx": "Gate opening without touch, celestial choir, starlight shimmer, mother calling softly, awe"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide cinematic — Luân enters the celestial realm. Every step leaves a trail of light-water on the cloud floor. The celestial beings welcome him — not as a warrior but as a long-lost child. They offer him food, water from the source of all rivers, rest. Camera: wide, celestial beings welcoming him like family, celestial hospitality, light-water trail, peaceful atmosphere. 6 seconds.",
+      "camera": "Wide — celestial beings welcoming like family, celestial food and water offered, Luân overwhelmed with peace, 6s",
+      "narration": "He had expected tests. Trials. Combat. Instead, the celestial realm welcomed him with the simplest gift imaginable: rest. A place at the table. A glass of water. Welcome home, Luân.",
+      "sfx": "Celestial welcome sounds, gentle wind, soft choir, water pouring, peaceful atmosphere"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — his mother in celestial form. No longer a ghost — fully alive in the celestial realm. She is radiant, peaceful, whole. She opens her arms. He runs to her — and for the first time in his life, actually embraces her. Camera: close-up, mother opening arms, Luân running, first real embrace, tears and light, 6 seconds.",
+      "camera": "Close-up — mother opening arms in celestial realm, Luân running, first true embrace ever, tears and celestial light, 6s",
+      "narration": "In the celestial realm, his mother was whole. And for the first time in his life, he held her — not in memory, not in vision, but in the flesh of the afterlife. And she smelled like rain.",
+      "sfx": "Run footsteps, her open arms, embrace sound, her 'my son' whisper, tears and light, emotional crescendo"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide — Luân realizes: he cannot stay in the celestial realm. He is mortal. He has work to do in the mortal world. His mother understands. She walks him to the gate — and gives him a final gift: a single drop of celestial water that will never dry. Camera: wide, mother walking him to the gate, final gift given, celestial water drop glowing on his palm. 6 seconds.",
+      "camera": "Wide — mother walking him to gate, final celestial water drop gift, glow on palm, eternal blessing, bittersweet farewell, 6s",
+      "narration": "She could not leave with him. But she could give him this: a single drop of celestial water that would never dry. So that every time he needed her — he would have her with him.",
+      "sfx": "Gate closing behind, her calm blessing voice, celestial water drop humming, bittersweet wind"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — Luân steps back through the celestial gate. He descends the cloud ladder, past the dragon realm, toward home. Behind him: the celestial gate closes. Before him: the mortal world — saved, blessed, waiting. He carries one drop of celestial water in his palm. Camera: full-body cinematic, descent from heaven, celestial gate closing behind, mortal world ahead, celestial drop glowing on palm, slow fade. 6 seconds.",
+      "camera": "Full-body cinematic — descent from heaven, celestial gate closing behind, mortal world ahead, celestial drop on palm, slow fade, 6s",
+      "narration": "He descended from heaven not as a god, not as an emperor, but as Luân — a bridge between worlds. And in his palm: one eternal drop of his mother's celestial water. That was enough. That was everything.",
+      "sfx": "Descending footsteps, gate closing behind, wind of two worlds, celestial drop humming, epic and peaceful orchestral finale"
+    }
+  ],
+  "audio": {
+    "narration": "The gate opened not because he had won. It opened because he had shown the one thing the jade champion had never possessed: understanding. And understanding — the celestial gate had decided — was the only true key. He had expected tests. Trials. Combat. Instead, the celestial realm welcomed him with the simplest gift imaginable: rest. A place at the table. A glass of water. Welcome home, Luân. In the celestial realm, his mother was whole. And for the first time in his life, he held her — not in memory, not in vision, but in the flesh of the afterlife. And she smelled like rain. She could not leave with him. But she could give him this: a single drop of celestial water that would never dry. So that every time he needed her — he would have her with him. He descended from heaven not as a god, not as an emperor, but as Luân — a bridge between worlds. And in his palm: one eternal drop of his mother's celestial water. That was enough. That was everything.",
+    "narration_duration": 28,
+    "bg_music": "Epic yet deeply emotional Chinese orchestral, celestial realm theme, mother reunion, descent from heaven, peaceful transcendence 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Gate opening without touch",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Celestial welcome sounds",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Run footsteps",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Gate closing behind",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Descending footsteps",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide aerial — the celestial gate. After the jade shattered, the gate INDEPENDENTLY opens. Not because Luân demanded it — but because it had been watching and it understood. Beyond the gate: a realm of impossible beauty. Floating islands of starlight. Trees made of aurora. Beings of pure light. And at the center: his mother — in celestial form. Camera: extreme wide aerial, celestial gate opening, realm of light revealed, mother waiting inside. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide cinematic — Luân enters the celestial realm. Every step leaves a trail of light-water on the cloud floor. The celestial beings welcome him — not as a warrior but as a long-lost child. They offer him food, water from the source of all rivers, rest. Camera: wide, celestial beings welcoming him like family, celestial hospitality, light-water trail, peaceful atmosphere. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — his mother in celestial form. No longer a ghost — fully alive in the celestial realm. She is radiant, peaceful, whole. She opens her arms. He runs to her — and for the first time in his life, actually embraces her. Camera: close-up, mother opening arms, Luân running, first real embrace, tears and light, 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide — Luân realizes: he cannot stay in the celestial realm. He is mortal. He has work to do in the mortal world. His mother understands. She walks him to the gate — and gives him a final gift: a single drop of celestial water that will never dry. Camera: wide, mother walking him to the gate, final gift given, celestial water drop glowing on his palm. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — Luân steps back through the celestial gate. He descends the cloud ladder, past the dragon realm, toward home. Behind him: the celestial gate closes. Before him: the mortal world — saved, blessed, waiting. He carries one drop of celestial water in his palm. Camera: full-body cinematic, descent from heaven, celestial gate closing behind, mortal world ahead, celestial drop glowing on palm, slow fade. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Episode 38: The Mortal Return | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Ha Tien Du Episode 38: The Mortal Return. Luân returned to the mortal realm — no fire mark, no ice blades, no Water of Origin. Just a man. And his people — safe forever.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #hatiendu #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "celestial realm",
+      "luân",
+      "mother reunion",
+      "celestial gate",
+      "eternal water",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Luân returned to the mortal realm — no fire mark, no ice blades, no Water of Origin. Just a man. And his people — safe forever. ⚔️🔥 Ha Tien Du Episode 38: The Mortal Return | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide aerial — the celestial gate. After the jade shattered, the gate INDEPENDENTLY opens. Not because Luân demanded it — but because it had been watching and it understood. Beyond the gate: a realm of impossible beauty. Floating islands of starlight. Trees made of aurora. Beings of pure light. And at the center: his mother — in celestial form. Camera: extreme wide aerial, celestial gate opening, realm of light revealed, mother waiting inside. 6 seconds. Shot 2: Wide cinematic — Luân enters the celestial realm. Every step leaves a trail of light-water on the cloud floor. The celestial beings welcome him — not as a warrior but as a long-lost child. They offer him food, water from the source of all rivers, rest. Camera: wide, celestial beings welcoming him like family, celestial hospitality, light-water trail, peaceful atmosphere. 6 seconds. Shot 3: Close-up — his mother in celestial form. No longer a ghost — fully alive in the celestial realm. She is radiant, peaceful, whole. She opens her arms. He runs to her — and for the first time in his life, actually embraces her. Camera: close-up, mother opening arms, Luân running, first real embrace, tears and light, 6 seconds. Shot 4: Wide — Luân realizes: he cannot stay in the celestial realm. He is mortal. He has work to do in the mortal world. His mother understands. She walks him to the gate — and gives him a final gift: a single drop of celestial water that will never dry. Camera: wide, mother walking him to the gate, final gift given, celestial water drop glowing on his palm. 6 seconds. Shot 5: Full-body cinematic — Luân steps back through the celestial gate. He descends the cloud ladder, past the dragon realm, toward home. Behind him: the celestial gate closes. Before him: the mortal world — saved, blessed, waiting. He carries one drop of celestial water in his palm. Camera: full-body cinematic, descent from heaven, celestial gate closing behind, mortal world ahead, celestial drop glowing on palm, slow fade. 6 seconds.",
+  "visual_scene": "Extreme wide aerial — the celestial gate. After the jade shattered, the gate INDEPENDENTLY opens. Not because Luân demanded it — but because it had been watching and it understood. Beyond the gate: a realm of impossible beauty. Floating islands of starlight. Trees made of aurora. Beings of pure light. And at the center: his mother — in celestial form. Camera: extreme wide aerial, celestial gate opening, realm of light revealed, mother waiting inside. 6 seconds. Wide cinematic — Luân enters the celestial realm. Every step leaves a trail of light-water on the cloud floor. The celestial beings welcome him — not as a warrior but as a long-lost child. They offer him food, water from the source of all rivers, rest. Camera: wide, celestial beings welcoming him like family, celestial hospitality, light-water trail, peaceful atmosphere. 6 seconds. Close-up — his mother in celestial form. No longer a ghost — fully alive in the celestial realm. She is radiant, peaceful, whole. She opens her arms. He runs to her — and for the first time in his life, actually embraces her. Camera: close-up, mother opening arms, Luân running, first real embrace, tears and light, 6 seconds. Wide — Luân realizes: he cannot stay in the celestial realm. He is mortal. He has work to do in the mortal world. His mother understands. She walks him to the gate — and gives him a final gift: a single drop of celestial water that will never dry. Camera: wide, mother walking him to the gate, final gift given, celestial water drop glowing on his palm. 6 seconds. Full-body cinematic — Luân steps back through the celestial gate. He descends the cloud ladder, past the dragon realm, toward home. Behind him: the celestial gate closes. Before him: the mortal world — saved, blessed, waiting. He carries one drop of celestial water in his palm. Camera: full-body cinematic, descent from heaven, celestial gate closing behind, mortal world ahead, celestial drop glowing on palm, slow fade. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 28: The Celestial Gate Opens",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "celestial realm",
+    "luân",
+    "mother reunion",
+    "celestial gate",
+    "eternal water",
+    "chinese fantasy",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T13:52:48.829Z",
+  "tiktok_url": "/@fai20128/video/7625643554404060436"
+}

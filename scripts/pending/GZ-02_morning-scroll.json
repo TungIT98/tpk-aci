@@ -1,0 +1,149 @@
+{
+  "id": "GZ-02",
+  "title": "Your Morning Routine is Robbing You of Your Best Years",
+  "category": "morning_routine",
+  "channel": "GenZSuccess",
+  "audience": "Gen Z workers 18-28, phone-heavy morning habits",
+  "tone": "Direct, high energy, slightly confrontational, caring",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "45-60 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Scrolling TikTok for 45 minutes before work isn't a morning routine. It's a slow drain on your potential.",
+    "story_arc": "Hook → The scroll tax → The 45-minute alternative → No motivation required → CTA",
+    "emotion": "Wake-up call, then empowerment",
+    "duration_seconds": 52
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "Vertical. Alarm goes off on phone beside bed. Person reaches for phone and immediately starts scrolling — red notification glow on face in dark room. Red light from phone contrasted with dark room. Expression is glazed, hypnotic.",
+      "camera": "[Static vertical] Close-up on glowing phone face in dark room",
+      "narration": "Scrolling TikTok for 45 minutes before work isn't a morning routine. It's a slow drain on your potential.",
+      "sfx": "Alarm ringtone, scrolling sound effect"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 22,
+      "duration": 17,
+      "prompt": "Vertical split. Left: morning doomscrolling, red notification glow, person looking glazed, clock jumps from 6am to 8:30am. Right: same person at 6am doing the 45-minute alternative — running shoes on, podcast playing, notepad writing, calm focused energy. Big clock shows 6:45am.",
+      "camera": "[Static split vertical]",
+      "narration": "The average Gen Z worker loses 2 to 3 hours daily to passive phone use before noon. You're warming up your brain to scroll — not to create. Your first hour programs your entire day. The 45-minute difference looks like this: 20 minutes movement — walk, workout, stretch. 15 minutes learning — podcast, article, YouTube course. 10 minutes planning — three priorities. That's peak performance mode by 9am.",
+      "sfx": "Clock jump sound, then energetic transition, running footsteps"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 22,
+      "time_end": 35,
+      "duration": 13,
+      "prompt": "Vertical close-up. Phone in hand, person puts it in a drawer and closes it. Padslock animation overlay: 'LOCKED'. Person looks at camera and shrugs confidently. Transition: same person outside walking, coffee in hand, morning sun. Walking with purpose.",
+      "camera": "[Push in] Phone goes in drawer, confident face",
+      "narration": "No motivation required. You don't have to want to do it. You just have to not open your phone for 45 minutes. That's it. One decision at 6am changes your entire day.",
+      "sfx": "Drawer slam (satisfied), footsteps, morning ambient"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 35,
+      "time_end": 48,
+      "duration": 13,
+      "prompt": "Vertical. Direct to camera. Person speaking passionately, hand gestures animated. Morning light behind them. CTA overlay appears. Follow button animation.",
+      "camera": "[Static vertical] Direct address, high energy",
+      "narration": "Your phone can make you rich or broke — your choice. First hour of your day equals first hour of your life. Follow for more unfiltered success content that doesn't waste your time.",
+      "sfx": "Energy swell, follow notification chime"
+    }
+  ],
+  "audio": {
+    "narration": "Scrolling TikTok for 45 minutes before work isn't a morning routine. It's a slow drain on your potential. The average Gen Z worker loses 2 to 3 hours daily to passive phone use before noon. You're warming up your brain to scroll — not to create. Your first hour programs your entire day. The 45-minute difference looks like this: 20 minutes movement — walk, workout, stretch. 15 minutes learning — podcast, article, YouTube course. 10 minutes planning — three priorities. That's peak performance mode by 9am. No motivation required. You don't have to want to do it. You just have to not open your phone for 45 minutes. That's it. One decision at 6am changes your entire day. Your phone can make you rich or broke — your choice. First hour of your day equals first hour of your life. Follow for more unfiltered success content that doesn't waste your time.",
+    "narration_duration": 48,
+    "bg_music": "Upbeat lo-fi with trap elements, confident 100 BPM",
+    "sfx": [
+      {
+        "time": 2,
+        "sound": "alarm ring",
+        "volume": 0.7
+      },
+      {
+        "time": 5,
+        "sound": "scroll sounds",
+        "volume": 0.4
+      },
+      {
+        "time": 18,
+        "sound": "drawer slam",
+        "volume": 0.6
+      },
+      {
+        "time": 42,
+        "sound": "follow notification chime",
+        "volume": 0.6
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Vertical. Alarm goes off on phone beside bed. Person reaches for phone and immediately starts scrolling — red notification glow on face in dark room. Red light from phone contrasted with dark room. Expression is glazed, hypnotic. [Static vertical] Close-up on glowing phone face in dark room"
+    },
+    {
+      "shot": 2,
+      "prompt": "Vertical split. Left: morning doomscrolling, red notification glow, person looking glazed, clock jumps from 6am to 8:30am. Right: same person at 6am doing the 45-minute alternative — running shoes on, podcast playing, notepad writing, calm focused energy. Big clock shows 6:45am. [Static split vertical]"
+    },
+    {
+      "shot": 3,
+      "prompt": "Vertical close-up. Phone in hand, person puts it in a drawer and closes it. Padslock animation overlay: LOCKED. Person looks at camera and shrugs confidently. Transition: same person outside walking, coffee in hand, morning sun. Walking with purpose. [Push in] Phone goes in drawer, confident face"
+    },
+    {
+      "shot": 4,
+      "prompt": "Vertical. Direct to camera. Person speaking passionately, hand gestures animated. Morning light behind them. CTA overlay appears. Follow button animation. [Static vertical] Direct address, high energy"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Your Morning Phone Habit is Costing You 3 Hours a Day (45-Min Fix)",
+    "youtube_description": "Scrolling TikTok for 45 minutes before work is NOT a morning routine — it's a cognitive drain that costs you your best thinking hours. Here's the 45-minute morning protocol that gets you to peak performance before 9am.\n\n📌 What you'll learn:\n- The 'scroll tax': how passive phone use costs 2-3 hours of quality morning time\n- The 20-15-10 morning protocol (movement, learning, planning)\n- Why no motivation is needed — just one 45-minute decision\n- How your first hour programs your entire day\n\nFollow for more unfiltered success content.",
+    "youtube_tags": [
+      "morning routine",
+      "Gen Z productivity",
+      "doomscrolling",
+      "phone habits",
+      "morning motivation",
+      "focus",
+      "success habits"
+    ],
+    "tiktok_caption": "Scrolling for 45 min before work isn't a routine — it's a cognitive drain 😱 Your first hour = your BEST thinking hours. Here's the fix 👇 #morningroutine #phonehabits #productivity #genz #success #focus #motivation",
+    "playlist": "Habits & Success"
+  },
+  "production_notes": {
+    "shot_count": 4,
+    "total_duration_seconds": 48,
+    "voice": "male_energetic_young (MiniMax speech-02-hd, speed 1.1)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "moved_to_pending": "2026-03-30T11:44:08.577Z",
+  "prompt_for_hailuo": "Vertical. Alarm goes off on phone beside bed in dark room. Person reaches for phone and immediately starts scrolling — red notification glow on face, expression glazed and hypnotic. [Static vertical] Close-up on glowing phone face in dark room. | Vertical split. Left: morning doomscrolling, red notification glow, clock jumping from 6am to 8:30am. Right: same person at 6am running shoes on, podcast playing, notepad writing, calm focused energy. Big clock shows 6:45am. [Static split vertical]. | Vertical close-up. Phone in drawer, closed firmly. Padlock overlay. Person shrugs confidently. Transition: same person outside walking, coffee in hand, morning sun, walking with purpose. [Push in] Phone goes in drawer, confident face. | Vertical. Direct to camera. Person speaking passionately, animated hand gestures. Morning light behind them. [Static vertical] Direct address, high energy.",
+  "visual_scene": "A cozy bedroom with soft morning grey light filtering through curtains, an alarm ringing on a phone beside a bed with rumpled sheets. A young person in pajamas reaches for the phone and immediately begins scrolling — the red glow of notification badges illuminating their face in the dark room, their expression glazed and trance-like. The scene contrasts with the same person later: running shoes on, walking outside in golden morning sun with earbuds in, writing in a notebook at a cafe, holding coffee confidently — all shot in bright energetic morning light. Cinematic portrait 9:16 vertical.",
+  "specific_details": "A young person in their early-mid 20s in rumpled pajamas sitting up in bed reaching for a phone on the nightstand, the phone screen glowing bright red with notification badges illuminating their face in the otherwise dark bedroom, eyes glassy and scanning, alarm still ringing in background. Later: same person in athletic wear running shoes, walking briskly outdoors in golden hour morning light with earbuds in and notebook in hand, or sitting at a cafe table writing confidently — contrasting dark room scroll scene with bright energized morning scenes, portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright afternoon light, overly saturated colors, sad depressed mood",
+  "thumbnail_idea": "Split: phone glowing red in dark room vs golden morning sun with person running — '45 min that changes everything' text overlay",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\GZ-02_morning-scroll.mp4",
+  "generated_video": "C:/tmp/openclaw/uploads/GZ-02-FINAL.mp4",
+  "final_file": "C:/tmp/openclaw/uploads/GZ-02-FINAL.mp4",
+  "video_size": "2MB",
+  "hash_64k": "53340c1cb6f81b9f787377d94c2d7475",
+  "produced_at": "2026-04-02T07:01:00.403372Z",
+  "production_method": "Pexels+gTTS fallback (Hailuo unavailable)",
+  "upload_status": "uploaded",
+  "notes": "GZ-02 short produced via Pexels stock footage (phone scroll + morning productive). gTTS narration. 6.5s portrait 1080x1920. TKP-810 executed 2026-03-30T16:25:00Z.",
+  "tiktok_url": "/@fai20128/video/7624388614931189013",
+  "publishedAt": "2026-04-03T04:43:03.666Z"
+}

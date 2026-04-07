@@ -1,0 +1,155 @@
+﻿{
+  "id": "XIANYX-82",
+  "title": "Tru Tien Episode 12: The S-Rank Gate Opens",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 12,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Massive threat, elite response, power comparison, underdog revelation",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "A massive S-rank dungeon gate opened in the middle of Seoul. The government's top hunters — S-rank — arrived first. Then Jin-Woo appeared. Alone. In jeans.",
+    "story_arc": "S-rank gate erupts from ground → Chaos and evacuation → Top S-rank hunters assemble → Government officials watch nervously → Jin-Woo arrives alone in casual clothes → The contrast that silences everyone",
+    "emotion": "Chaos → Response → Elite assembling → Nervous tension → Jin-Woo arrival → Shock at contrast",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — massive glowing red gate erupts from a Seoul plaza. The gate is fifty meters tall, pulsing with deadly energy. Civilians run screaming. Military vehicles arrive. Chaos everywhere. Camera: wide — massive S-rank gate erupting from Seoul plaza, civilians running, military response, absolute chaos. 6 seconds.",
+      "camera": "Wide — massive glowing red S-rank gate erupting from Seoul plaza, civilians running, military response, 6s",
+      "narration": "The gate opened without warning. Fifty meters tall. Red like blood. S-rank — the highest threat level. The entire city went into evacuation.",
+      "sfx": "Gate erupting, civilians screaming, military vehicles, alarm sirens, chaos and fear"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide shot — five S-rank hunters arrive in formation. They wear full tactical gear, glowing weapons, each with unique power auras. The crowd gasps. 'The S-rank team!' Soldiers salute them. Camera: wide — five S-rank hunters arriving in formation, full tactical gear and glowing weapons, crowd gasping, soldiers saluting. 6 seconds.",
+      "camera": "Wide — five S-rank hunters arriving in formation, full tactical gear, glowing weapons, soldiers saluting, 6s",
+      "narration": "The five S-rank hunters. The government's elite. Each one could solo an entire B-rank dungeon alone. The crowd watched in awe.",
+      "sfx": "S-rank hunters arriving, crowd gasping, soldiers saluting, powerful aura humming, heroic music"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — government officials watch nervously from behind military barriers. 'We need all S-rank hunters on this. If this gate isn't contained...' Their faces are pale with worry. Camera: close-up — government officials' pale worried faces, military barriers, watching the gate nervously, tension. 6 seconds.",
+      "camera": "Close-up — government officials' pale worried faces, military barriers, watching the gate nervously, 6s",
+      "narration": "Even with five S-rank hunters present — the officials' faces told the truth. They were terrified. Because the monsters in this gate — might not stop at five.",
+      "sfx": "Officials' nervous whispers, gate pulsing, tense silence, worried breathing, ominous undertones"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo walks through the crowd. He's in jeans and a simple black hoodie. No weapon. No armor. The crowd makes way — confused and laughing. 'Is that a civilian?!' Camera: close-up — Jin-Woo walking through crowd in jeans and black hoodie, no weapon, crowd confused and laughing, contrast with S-rank hunters. 6 seconds.",
+      "camera": "Close-up — Jin-Woo walking through crowd in jeans and hoodie, no weapon, crowd confused and laughing, 6s",
+      "narration": "He walked through the crowd in jeans. No weapon. No armor. People laughed. 'Civilian, this area is restricted!' The gate hunters glanced over — and stopped laughing.",
+      "sfx": "Crowd confused murmuring, Jin-Woo's calm footsteps, people laughing, then sudden silence when S-rank hunters notice him"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — the five S-rank hunters' faces go from confusion to shock. They recognize him. Their leader — Go Gun-Hee — bows slightly. 'Shadow Monarch.' Every soldier and official freezes. Jin-Woo nods and walks toward the gate. Camera: close-up — S-rank hunters' faces going from confusion to shock, Go Gun-Hee bowing slightly saying 'Shadow Monarch,' everyone frozen, Jin-Woo walking to gate. 6 seconds.",
+      "camera": "Close-up — S-rank hunters recognizing Jin-Woo, Go Gun-Hee bowing slightly saying 'Shadow Monarch,' everyone frozen, Jin-Woo walking to gate, 6s",
+      "narration": "Go Gun-Hee — who bowed to no one — bowed slightly. 'Shadow Monarch.' The officials who had been worried — went pale for a different reason. Jin-Woo walked toward the gate. Alone.",
+      "sfx": "S-rank hunters' sharp inhale, Go Gun-Hee's bow, gasps across the crowd, Jin-Woo's calm footsteps, gate humming, epic orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "The gate opened without warning. Fifty meters tall. Red like blood. S-rank — the highest threat level. The entire city went into evacuation. The five S-rank hunters. The government's elite. Each one could solo an entire B-rank dungeon alone. The crowd watched in awe. Even with five S-rank hunters present — the officials' faces told the truth. They were terrified. Because the monsters in this gate — might not stop at five. He walked through the crowd in jeans. No weapon. No armor. People laughed. 'Civilian, this area is restricted!' The gate hunters glanced over — and stopped laughing. Go Gun-Hee — who bowed to no one — bowed slightly. 'Shadow Monarch.' The officials who had been worried — went pale for a different reason. Jin-Woo walked toward the gate. Alone.",
+    "narration_duration": 28,
+    "bg_music": "Epic S-rank gate Chinese-Korean orchestral, elite hunters assembling, shadow monarch arrival, gate entrance 100 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Gate erupting, civilians screaming",
+        "volume": 0.6
+      },
+      {
+        "time": 6,
+        "sound": "S-rank arrival, crowd gasping",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Officials' nervous whispers",
+        "volume": 0.4
+      },
+      {
+        "time": 18,
+        "sound": "Confused crowd, Jin-Woo walking",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Go Gun-Hee bow, gasps, footsteps, gate humming",
+        "volume": 0.6
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 12: Cổng S-Rank Mở Ra | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 12 of Solo Leveling (Trừ Tiên). A massive S-rank gate erupts in Seoul. Five S-rank hunters assemble in full tactical gear. Government officials are terrified. Then Jin-Woo walks through the crowd in jeans and a hoodie. No weapon. Go Gun-Hee bows slightly and says one word: 'Shadow Monarch.'",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "S-rank gate",
+      "Jin-Woo",
+      "Go Gun-Hee",
+      "shadow monarch",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Cổng S-RANK khổng lồ bùng phát giữa Seoul! 5 thợ săn S-rank trong bộ áo chiến đấu huy hoàng! Rồi Jin-Woo đi qua đám đông trong QUẦN JEANS. Không vũ khí! Go Gun-Hee khẽ khớp người: 'Quân Vương Bóng Tối...' 🔥 Tập 12",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Massive red S-rank gate erupting from Seoul plaza, five S-rank hunters in tactical gear, nervous government officials, Jin-Woo in jeans and hoodie, Go Gun-Hee bow",
+  "specific_details": {
+    "subject": "Jin-Woo: casual black hoodie and jeans, no weapon, cold calm expression. Go Gun-Hee: S-rank leader, full tactical gear with glowing weapon, bow showing respect. Five S-rank hunters: full tactical gear, glowing weapons, varied power auras.",
+    "outfit_exact": "Jin-Woo: black hoodie, dark blue jeans, casual sneakers, no visible weapons. Go Gun-Hee: military tactical gear with red insignia, glowing energy sword. Five hunters: varied full tactical gear with unique glowing weapons per class.",
+    "setting_details": "Seoul city plaza with erupted gate, military vehicles and barriers, crowd of onlookers, dramatic red glow from gate, afternoon chaos",
+    "face_expression": "Jin-Woo: perfectly calm, slightly cold. Go Gun-Hee: respectful recognition → bow. Five S-rank hunters: shock → respect. Government officials: nervous → pale terror. Crowd: confused laughter → silent shock.",
+    "body_movement": "Gate: erupting from ground. S-rank hunters: arriving in formation. Jin-Woo: walking through crowd → walking toward gate. Go Gun-Hee: slight bow.",
+    "camera": "Wide gate eruption, wide S-rank arrival, close-up officials nervous, close-up Jin-Woo in jeans walking, close-up Go Gun-Hee bow and Jin-Woo walking to gate"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright daylight bright colors, modern buildings showing, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 12: Jin-Woo in jeans walks past the S-rank hunters toward the gate — Go Gun-Hee bows",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "S-rank gate",
+    "Jin-Woo",
+    "shadow monarch",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T16:50:00Z",
+  "publishedAt": "2026-04-06T02:51:03.747Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625464562975870229"
+}

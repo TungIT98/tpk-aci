@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-051",
+  "title": "Ha Tien Du Episode 1: The Girl Who Drinks from Heaven",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 1,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "At the edge of the world, where a river falls upward into the stars, a young priestess tends a flame that has burned for three thousand years.",
+    "story_arc": "Eternal flame → Celestial river → The prophecy stone → Water falling UP → First vision",
+    "emotion": "Wonder → Serenity → Dread → Awe → Determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide aerial shot — a young woman in flowing ice-blue and silver Hanfu stands on a cliff at the very edge of a colossal waterfall that cascades UPWARD into the night sky. Stars reflect in the impossibly rising water. Bioluminescent mist curls around her bare feet. She extends one hand toward the falling water. Lanterns made of lotus flowers drift upward past her. Camera: extreme wide aerial, slow push in toward her silhouette against the stars. 6 seconds.",
+      "camera": "Push in — extreme wide aerial to full-body, 6s",
+      "narration": "At the edge of the world, where a river falls upward into the stars, there stood a girl who tended a flame older than the dynasty.",
+      "sfx": "Mist wind, distant celestial chime, water cascading upward"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she walks along a stone path carved into the cliff face. Ancient glowing runes illuminate her way. She passes through a natural stone arch draped with silver vines. Below the cliff, the mortal world is visible as tiny lights — villages at night. She looks down, then upward at the stars with quiet longing. Camera: medium tracking shot, slow pan following her path. 6 seconds.",
+      "camera": "Pan right — tracking shot through glowing rune path, 6s",
+      "narration": "She was born at the boundary between worlds. Half in the mortal realm, half in the realm of spirits. The Celestial Falls were her inheritance.",
+      "sfx": "Footstep on ancient stone, rune hum resonance, distant wind chime"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she kneels before an ancient stone tablet covered in glowing prophecy script. Her fingers trace the characters — they pulse with soft blue-white light. The prophecy speaks of a great darkness and a choice that must be made at midnight. Her expression: solemn, afraid, yet resolute. Camera: extreme close-up on her fingers tracing glowing characters, slow push in. 6 seconds.",
+      "camera": "Push in — close-up to extreme close-up on glowing prophecy, 6s",
+      "narration": "A prophecy, carved three thousand years ago, spoke of a darkness that would consume both realms. And it named her.",
+      "sfx": "Glowing character pulse, breath exhale, stone scrape"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic shot — she stands and raises both arms. The entire waterfall RISES behind her in a spiraling column of luminous water, defying gravity, coiling like a serpent toward the heavens. Spirits and ghostly figures emerge from the water — celestial beings frozen in mid-flight. She channels their energy. Her eyes glow white-blue. Camera: wide shot, very slow orbit around her as the water spirals behind her. 6 seconds.",
+      "camera": "Orbit — wide shot orbiting the priestess as celestial water spirals behind her, 6s",
+      "narration": "She could command the celestial waters. She could raise rivers. But could she raise the dead? Could she save what was already lost?",
+      "sfx": "Spiritual energy whoosh, water cascading upward, ethereal voices, climactic swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body dramatic shot — she lowers her arms. The spiraling water transforms into a bridge of light connecting earth to sky. She takes one step onto the bridge. Below her, the mortal world. Above, the realm of gods. She looks upward with absolute resolve. Cherry blossom-like celestial petals fall around her. Camera: full-body, slow cinematic push in from medium to close-up face. 6 seconds. End on her glowing eyes.",
+      "camera": "Push in — full body to glowing-eyed close-up on celestial bridge, 6s",
+      "narration": "The first step on the bridge between worlds. She was no longer just a priestess. She was the bridge itself. And she would not look back.",
+      "sfx": "Celestial wind, spiritual whoosh, single lotus chime, epic orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "At the edge of the world, where a river falls upward into the stars, there stood a girl who tended a flame older than the dynasty. She was born at the boundary between worlds. Half in the mortal realm, half in the realm of spirits. The Celestial Falls were her inheritance. A prophecy, carved three thousand years ago, spoke of a darkness that would consume both realms. And it named her. She could command the celestial waters. She could raise rivers. But could she raise the dead? Could she save what was already lost? The first step on the bridge between worlds. She was no longer just a priestess. She was the bridge itself. And she would not look back.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese orchestral xianxia soundtrack, guzheng and erhu leading, ethereal vocals, swelling strings 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Mist wind",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Footstep on ancient stone",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Glowing character pulse",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Spiritual energy whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Celestial wind",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide aerial shot — a young woman in flowing ice-blue and silver Hanfu stands on a cliff at the very edge of a colossal waterfall that cascades UPWARD into the night sky. Stars reflect in the impossibly rising water. Bioluminescent mist curls around her bare feet. She extends one hand toward the falling water. Lanterns made of lotus flowers drift upward past her. Camera: extreme wide aerial, slow push in toward her silhouette against the stars. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she walks along a stone path carved into the cliff face. Ancient glowing runes illuminate her way. She passes through a natural stone arch draped with silver vines. Below the cliff, the mortal world is visible as tiny lights — villages at night. She looks down, then upward at the stars with quiet longing. Camera: medium tracking shot, slow pan following her path. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she kneels before an ancient stone tablet covered in glowing prophecy script. Her fingers trace the characters — they pulse with soft blue-white light. The prophecy speaks of a great darkness and a choice that must be made at midnight. Her expression: solemn, afraid, yet resolute. Camera: extreme close-up on her fingers tracing glowing characters, slow push in. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic shot — she stands and raises both arms. The entire waterfall RISES behind her in a spiraling column of luminous water, defying gravity, coiling like a serpent toward the heavens. Spirits and ghostly figures emerge from the water — celestial beings frozen in mid-flight. She channels their energy. Her eyes glow white-blue. Camera: wide shot, very slow orbit around her as the water spirals behind her. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body dramatic shot — she lowers her arms. The spiraling water transforms into a bridge of light connecting earth to sky. She takes one step onto the bridge. Below her, the mortal world. Above, the realm of gods. She looks upward with absolute resolve. Cherry blossom-like celestial petals fall around her. Camera: full-body, slow cinematic push in from medium to close-up face. 6 seconds. End on her glowing eyes."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 1: Cô Gái Uống Nước Trời | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 1 of Ha Tien Du. At the edge of the world, where a river falls upward into the stars, a young priestess tends an eternal flame and discovers a prophecy that will change both the mortal and immortal realms forever.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 2 — The Bridge Between Worlds\n#xianxia #chinesefantasy #ha tiendu #celestialwater #prophecy #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "celestial falls",
+      "priestess",
+      "water magic",
+      "prophecy",
+      "epic",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Cô gái được chọn ở rìa thế giới, nơi dòng sông đổ NGƯỢC lên bầu trời ⚔️🌊 Tập 1 Ha Tien Du | Xianxia Việt Sub #xianxia #cổtrang #phimviet",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide aerial shot — a young woman in flowing ice-blue and silver Hanfu stands on a cliff at the very edge of a colossal waterfall that cascades UPWARD into the night sky. Stars reflect in the impossibly rising water. Bioluminescent mist curls around her bare feet. She extends one hand toward the falling water. Lanterns made of lotus flowers drift upward past her. Camera: extreme wide aerial, slow push in toward her silhouette against the stars. 6 seconds. Shot 2: Medium shot — she walks along a stone path carved into the cliff face. Ancient glowing runes illuminate her way. She passes through a natural stone arch draped with silver vines. Below the cliff, the mortal world is visible as tiny lights — villages at night. She looks down, then upward at the stars with quiet longing. Camera: medium tracking shot, slow pan following her path. 6 seconds. Shot 3: Close-up — she kneels before an ancient stone tablet covered in glowing prophecy script. Her fingers trace the characters — they pulse with soft blue-white light. The prophecy speaks of a great darkness and a choice that must be made at midnight. Her expression: solemn, afraid, yet resolute. Camera: extreme close-up on her fingers tracing glowing characters, slow push in. 6 seconds. Shot 4: Wide cinematic shot — she stands and raises both arms. The entire waterfall RISES behind her in a spiraling column of luminous water, defying gravity, coiling like a serpent toward the heavens. Spirits and ghostly figures emerge from the water — celestial beings frozen in mid-flight. She channels their energy. Her eyes glow white-blue. Camera: wide shot, very slow orbit around her as the water spirals behind her. 6 seconds. Shot 5: Full-body dramatic shot — she lowers her arms. The spiraling water transforms into a bridge of light connecting earth to sky. She takes one step onto the bridge. Below her, the mortal world. Above, the realm of gods. She looks upward with absolute resolve. Cherry blossom-like celestial petals fall around her. Camera: full-body, slow cinematic push in from medium to close-up face. 6 seconds. End on her glowing eyes.",
+  "visual_scene": "Extreme wide aerial shot — a young woman in flowing ice-blue and silver Hanfu stands on a cliff at the very edge of a colossal waterfall that cascades UPWARD into the night sky. Stars reflect in the impossibly rising water. Bioluminescent mist curls around her bare feet. She extends one hand toward the falling water. Lanterns made of lotus flowers drift upward past her. Camera: extreme wide aerial, slow push in toward her silhouette against the stars. 6 seconds. Medium shot — she walks along a stone path carved into the cliff face. Ancient glowing runes illuminate her way. She passes through a natural stone arch draped with silver vines. Below the cliff, the mortal world is visible as tiny lights — villages at night. She looks down, then upward at the stars with quiet longing. Camera: medium tracking shot, slow pan following her path. 6 seconds. Close-up — she kneels before an ancient stone tablet covered in glowing prophecy script. Her fingers trace the characters — they pulse with soft blue-white light. The prophecy speaks of a great darkness and a choice that must be made at midnight. Her expression: solemn, afraid, yet resolute. Camera: extreme close-up on her fingers tracing glowing characters, slow push in. 6 seconds. Wide cinematic shot — she stands and raises both arms. The entire waterfall RISES behind her in a spiraling column of luminous water, defying gravity, coiling like a serpent toward the heavens. Spirits and ghostly figures emerge from the water — celestial beings frozen in mid-flight. She channels their energy. Her eyes glow white-blue. Camera: wide shot, very slow orbit around her as the water spirals behind her. 6 seconds. Full-body dramatic shot — she lowers her arms. The spiraling water transforms into a bridge of light connecting earth to sky. She takes one step onto the bridge. Below her, the mortal world. Above, the realm of gods. She looks upward with absolute resolve. Cherry blossom-like celestial petals fall around her. Camera: full-body, slow cinematic push in from medium to close-up face. 6 seconds. End on her glowing eyes.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 1: The Girl Who Drinks from Heaven",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "celestial falls",
+    "priestess",
+    "water magic",
+    "prophecy",
+    "epic",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

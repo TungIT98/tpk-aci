@@ -1,0 +1,31 @@
+{
+  "id": "PW-09",
+  "channel": "Productivity Worker",
+  "title": "The Two-List Strategy That Gives You Career Clarity in 20 Minutes",
+  "script": "There's a two-list strategy that gives you total career clarity in 20 minutes. Step one: write down 25 career goals you want to achieve someday. Step two: circle your top five. Step three: look at the other 20. Those 20 are your 'avoid at all costs' list. What you deliberately do not do defines your career as much as what you do. Most people spread themselves across all 25. The ones who get clarity and results focus on the five and ruthlessly protect their time from the other 20. The clarity is in the subtraction. Not in adding more.",
+  "prompt_for_hailuo": "Person at desk with notepad, writing list of 25 career goals [Tracking shot over shoulder on hands writing]. Close-up: 5 items circled in red marker [Static close-up on paper]. Transition: 20 crossed-out items getting smaller [Graphic animation]. Person looking at the five circled items with calm expression [Medium shot]. Same person standing up, energized, walking toward a clear goal [Wide tracking shot]. Whiteboard or notepad showing both lists side by side [Static cut]. Person's confident face at end [Close-up, assured expression]. Clean modern home office, morning light, calm productivity aesthetic, cinematic pacing.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "career clarity",
+    "career planning",
+    "professional development",
+    "goal setting",
+    "productivity"
+  ],
+  "thumbnail_idea": "Notepad with 25 goals crossed out except 5 circled, 'TWO LISTS. TOTAL CLARITY.' overlay, clean professional aesthetic",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T08:00:00Z",
+  "video_path": "output_topic/videos/PW-09.mp4",
+  "generated_at": "2026-03-30T01:30:12Z",
+  "uploaded_at": null,
+  "youtube_url": null,
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "upload_note": "Generated via Pexels pipeline (2 clips, Liam TTS). Browser upload to YouTube/TikTok blocked by sandbox restriction.",
+  "visual_scene": "A bright clean home office at a wooden desk with morning sunlight streaming through a large window, a young professional woman with natural wavy hair in a neat messy bun and glasses wearing a casual t-shirt, sitting cross-legged on her chair holding a notepad, pen in hand writing a long list while looking up thoughtfully, plants visible on the desk and windowsill. Close-up on the notepad: twenty career goals written in neat handwriting — five items circled boldly in red marker with stars beside them, the other fifteen clearly visible as a 'not now' list. Scene transitions to evening: the same desk now in warm evening lamp light, the woman holding the notepad confidently and crossing out items on the 20-item list with bold confident strokes of a red marker, nodding firmly, expression determined. Pull-back wide shot reveals a completely transformed workspace in evening light — corkboard on the wall now displaying the 5 circled goals with sticky notes, a vision board, and motivational quotes, the contrast with the confused morning setup stark and inspiring. Same woman looking directly into camera with a confident knowing smile, speaking with authority. Bright home office, morning and evening light, transformation atmosphere, cinematic.",
+  "specific_details": "Young professional woman with natural wavy hair in a neat messy bun and glasses wearing a casual t-shirt sitting cross-legged on her chair at a bright clean wooden desk home office in morning sunlight streaming through a large window with plants visible on the desk and windowsill, writing a long list of twenty career goals on a notepad while looking up thoughtfully; close-up on the notepad showing twenty career goals in neat handwriting with five circled boldly in red marker with stars beside them and fifteen others clearly visible as a 'not now' list; evening transition: same woman at the desk in warm evening lamp light crossing out items on the 20-item list with bold confident strokes of a red marker with firm nods and determined expression; pull-back wide shot revealing a corkboard on the wall displaying the 5 circled goals with sticky notes and vision board elements contrasting with the original confused morning setup; final shot with her looking directly into camera with confident knowing smile speaking with authority, set in a bright clean home office with morning and evening light, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, dark night scene, fluorescent office lighting, messy cluttered workspace, sad or confused expression, corporate cubicle",
+  "produced_at": "2026-03-31T05:38:48.840Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}

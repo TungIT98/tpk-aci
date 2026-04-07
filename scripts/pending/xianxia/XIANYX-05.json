@@ -1,0 +1,200 @@
+﻿{
+  "id": "XIANYX-05",
+  "title": "Muc Than Ky Episode 1: The Eye That Sees Death",
+  "category": "xianxia",
+  "channel": "Muc Than Ky",
+  "series": "Muc Than Ky",
+  "episode": 1,
+  "audience": "Fans of Chinese fantasy, cultivation/xianxia drama viewers, 18-35 demographic who are drawn to dark supernatural mysteries, sealed powers, and the seer/divine eye trope in Vietnamese and global fantasy content",
+  "tone": "Ominous, chilling, darkly beautiful, atmospheric, slowly building dread then erupting into supernatural awe",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Every grave tells a story. But when his right eye opened — he wished he had never learned to read them.",
+    "story_arc": "The grave-keeper's daily silence → The forbidden burial ground → A sealed eye cracks → Visions of death flood in → The true power awakens",
+    "emotion": "Cold dread → Forbidden curiosity → Pain and terror → Sensory overwhelm → Ominous wonder",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide shot — a vast ancient Chinese burial ground stretches across a moonless night. Hundreds of stone grave markers and moss-covered tombs spread across a foggy hillside under a heavy black sky. No sound. No light. A single figure in tattered dark grey robes kneels at a grave in the foreground, hands stained with grave dirt, a wooden tool beside him. He is thin, pale, hollow cheeks, exhausted. He works alone in the darkness as he has every night for years — maintaining the forgotten dead. Camera: extreme wide establishing shot, very slow dollies in toward him as he works. 6 seconds.",
+      "camera": "Dolly in — extreme wide to medium, 6s",
+      "narration": "He was the grave-keeper. The one who tended the tombs no one remembered. For three years he had buried the dead in silence — alone with the forgotten.",
+      "sfx": "Wind through dead grass, stone scraping against earth, distant owl hoot, grave dirt crumbling, cold night air breathing"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he pauses. His hand freezes over the grave he is tending. Something is wrong. The soil pattern, the positioning of the stone marker — it is different from all the others. Ancient. Forbidden. A burial that should not exist. He looks around. All the other graves face east — except this one, which faces west, directly into the abyss of the dark hillside. His right hand moves involuntarily to his right eye — where a faint old scar runs across his eyelid, barely visible in moonlight. Camera: medium shot, slow zoom in on the forbidden grave, then cut to close-up of his hand on his scarred eye. 6 seconds.",
+      "camera": "Zoom in — on forbidden grave + close-up scarred eye, 6s",
+      "narration": "But tonight he had wandered too far into the old ground. And found the grave no living person was meant to see — the burial of the Seer King, whose eye could see the moment of death itself.",
+      "sfx": "Wind suddenly stopping, heartbeat loud and quick, fingernails scraping on stone scar, breath held in fear"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — he touches the old scar on his right eyelid. A searing pulse of pain shoots through it. He gasps, stumbles back. Blood seeps from the scar — black-red, unnatural. He clutches his face. Through his fingers, his right eye — now half-open — begins to glow with a deep violet luminescence. Visions flood in uncontrollably: the spirit of whoever lies in this grave — a robed ancient figure — sitting upright in its tomb, turning its hollow gaze directly at him. Camera: close-up on his face, eye glowing violet with blood, then a stylized vision overlay of the Seer King's spirit sitting upright in its tomb, glowing eyes meeting his. 6 seconds.",
+      "camera": "Close-up face + spirit vision overlay, glowing eye, 6s",
+      "narration": "The scar on his eye — the one he had carried since birth — tore open. And as blood poured down his face, the Seer King's eye inside him opened for the first time in three thousand years.",
+      "sfx": "Ancient tomb stone grinding open, spiritual presence hum, blood dripping on stone, gasp of terror, supernatural wind burst"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — he falls backward onto the cold ground, hands still clutching his face. The violet glow from his right eye intensifies. Through his eye, the world has become a nightmare — ghostly figures pour from every grave on the hillside, thousands of translucent souls drifting silently, each one looking at him. All the deaths. All the forgotten. He screams but no sound comes out. Ancient glyphs in violet light begin appearing in the air around him, orbiting his body, the script of the Seer King. Camera: wide shot of him on the ground bathed in violet glyph-light with ghostly figures rising from graves, then rapid cuts of haunting death visions through his eye view. 6 seconds.",
+      "camera": "Wide + rapid death vision cuts through glowing eye, 6s",
+      "narration": "Visions flooded through him — every death since the first burial on this hill. Thousands of souls. Thousands of final moments. And all of them — were looking at him.",
+      "sfx": "Supernatural wind howling, thousands of ghostly whispers layered, glyph resonance chime intensifying, heartbeat pounding with terror, spectral voices"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — he lies still, spent. The violet glow from his right eye dims to a faint steady pulse — like a heartbeat. His breathing slows. The ghostly figures fade back into their graves. He opens his good left eye — normal, human, terrified. Then he slowly opens his Seer eye — the right one — now steady, glowing faintly violet, ancient, knowing. He stares directly at the camera. A slow, cold smile crosses his face. Behind him, the forbidden grave glows faintly violet. Camera: extreme close-up on his two different eyes — one human, one supernatural violet seer eye — then slow push in to his cold knowing smile. 6 seconds.",
+      "camera": "Push in — dual eyes close-up to cold knowing smile, 6s",
+      "narration": "They called it a curse. A scar. A disfigurement. But tonight he finally understood — it was never broken. It was locked. And the key — had been waiting in the grave all along.",
+      "sfx": "Heartbeat slowing to steady rhythm, breath calming, faint violet glyph chime fading to silence, wind settling, ominous resolve settling in"
+    }
+  ],
+  "audio": {
+    "narration": "He was the grave-keeper. The one who tended the tombs no one remembered. For three years he had buried the dead in silence — alone with the forgotten. But tonight he had wandered too far into the old ground. And found the grave no living person was meant to see — the burial of the Seer King, whose eye could see the moment of death itself. The scar on his eye — the one he had carried since birth — tore open. And as blood poured down his face, the Seer King's eye inside him opened for the first time in three thousand years. Visions flooded through him — every death since the first burial on this hill. Thousands of souls. Thousands of final moments. And all of them — were looking at him. They called it a curse. A scar. A disfigurement. But tonight he finally understood — it was never broken. It was locked. And the key — had been waiting in the grave all along.",
+    "narration_duration": 28,
+    "bg_music": "Dark atmospheric xianxia soundtrack, low cello and deep mourning strings, distant bells, building ethereal female vocal chant, ominous gong hits, supernatural pulse, 65 BPM slow dread to intense crescendo",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "wind through dead grass and grave dirt scraping",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "wind stopping and heartbeat quickening",
+        "volume": 0.6
+      },
+      {
+        "time": 12,
+        "sound": "tomb stone grinding and blood dripping",
+        "volume": 0.7
+      },
+      {
+        "time": 18,
+        "sound": "supernatural wind howl and ghostly whispers",
+        "volume": 0.8
+      },
+      {
+        "time": 24,
+        "sound": "heartbeat slowing and violet glyph chime settling",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide shot — a vast ancient Chinese burial ground at night. Hundreds of stone grave markers and moss-covered tombs spread across a foggy hillside under a heavy black sky. A thin pale young man in tattered dark grey robes kneels at a grave in the foreground, hands stained with grave dirt. He works alone in the darkness. Camera: extreme wide establishing shot, very slow dolly in toward him as he works. [Dolly in — extreme wide to medium]"
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he pauses. The soil pattern and stone marker of the grave he tends is ancient and forbidden, facing west unlike all others. His hand moves to the faint old scar running across his right eyelid. Camera: slow zoom in on the forbidden grave, then cut to close-up of his hand on his scarred eye. [Zoom in — forbidden grave + scarred eye close-up]"
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — blood seeps from the scar on his right eyelid, black-red and unnatural. His right eye glows with deep violet luminescence through his fingers. A vision overlay: an ancient robed figure sitting upright in its tomb, turning hollow glowing eyes toward him. Camera: close-up face with glowing violet bleeding eye, then spirit vision overlay. [Close-up face + spirit vision overlay, glowing violet eye]"
+    },
+    {
+      "shot": 4,
+      "prompt": "Medium shot — he falls backward, violet glow intensifying from his right eye. Ghostly translucent figures pour from every grave on the hillside. Ancient violet glyphs orbit his body in the air. Camera: wide shot of him bathed in violet glyph-light with ghostly figures rising, then rapid cuts of haunting death visions through his eye. [Wide + rapid death vision cuts]"
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — he lies still, his left eye human and terrified, his right eye glowing faintly violet, ancient and knowing. A slow cold smile crosses his face. The forbidden grave glows faintly violet behind him. Camera: extreme close-up on his two different eyes — one human, one supernatural violet seer eye — then slow push in to his cold knowing smile. [Push in — dual eyes close-up to cold knowing smile]"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Muc Than Ky Tập 1: Con Mắt Nhìn Thấy Cái Chết | Xianxia Việt Sub 👁️",
+    "youtube_description": "Episode 1 of Muc Than Ky (Grave Seer Chronicles). He tended the forgotten dead in silence. Until he found the grave that was never meant to be opened — and the eye that had been waiting three thousand years to open inside him.\n\n🔥 Muc Than Ky — Original Chinese Fantasy Series\n📌 Follow for Episode 2 — The Seer's First Vision\n#xianxia #chinesefantasy #gravekeeper #seereye #cultivation #darkfantasy #supernatural #epic #mystery #dramatic",
+    "youtube_tags": [
+      "xianxia",
+      "chinese fantasy",
+      "grave keeper",
+      "seer eye",
+      "divine eye",
+      "cultivation",
+      "dark fantasy",
+      "supernatural",
+      "epic fantasy",
+      "mysterious",
+      "dramatic",
+      "grave",
+      "muc than ky",
+      "gods eye",
+      "death visions"
+    ],
+    "tiktok_caption": "Anh chôn cất người chết trong im lặng suốt 3 năm. Cho đến ngày anh tìm thấy ngôi mộ không có ai sống sót... 👁️ | Xianxia Việt Sub #xianxia",
+    "playlist": "Muc Than Ky"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "male_deep_mysterious (MiniMax speech-02-hd, speed 1.0, reverb, ominous and ominous then darkly intense tone)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide shot — vast ancient Chinese burial ground at night under heavy black sky. Hundreds of stone grave markers spread across foggy hillside. A thin pale young man in tattered dark grey robes kneels at a grave in the foreground, hands stained with grave dirt. Camera: extreme wide establishing shot, very slow dolly in toward him. Shot 2: Medium shot — he pauses. Ancient forbidden grave facing west unlike others. His hand moves to faint scar on his right eyelid. Camera: zoom in on forbidden grave, then cut to close-up of his hand on scarred eye. Shot 3: Close-up — blood seeps from scar on his right eyelid, black-red. His right eye glows deep violet through his fingers. Vision overlay: ancient robed figure sitting upright in tomb, hollow glowing eyes toward him. Camera: close-up face with glowing violet bleeding eye + spirit vision. Shot 4: Medium shot — he falls backward, violet glow from right eye intensifying. Ghostly translucent figures pour from every grave. Ancient violet glyphs orbit his body. Camera: wide shot with violet glyph-light and ghostly figures, rapid death vision cuts through his eye. Shot 5: Close-up — left eye human and terrified, right eye glowing faintly violet and knowing. Slow cold smile crosses his face. Forbidden grave glows violet behind him. Camera: extreme close-up on his two different eyes, then push in to cold knowing smile.",
+  "visual_scene": "A vast moonless night burial ground with hundreds of moss-covered stone tombs on a foggy hillside. A thin pale young man in tattered dark grey grave-keeper robes kneeling among the graves, hands stained with dirt. An ancient forbidden grave facing west, glowing faintly violet. His face with blood seeping from a scar on his right eyelid, that eye glowing deep violet. Ghostly translucent spirits rising from all graves. Ancient violet glyphs orbiting his body in supernatural light. His dual eyes — one human terrified, one supernatural violet seer eye — and a slow cold smile. Cinematic portrait 9:16 vertical framing. Ominous, chilling, darkly beautiful atmosphere.",
+  "specific_details": {
+    "subject": "Young man, 20-25 years old, thin angular face, pale sallow complexion with dark circles under eyes, sharp cheekbones, exhausted hollow cheeks, one normal dark left eye, one right eye that glows deep violet when awakened — the Seer King's divine eye sealed since birth",
+    "outfit_exact": "Tattered dark grey grave-keeper robes, dirt-stained hands and knees, no footwear, simple worn leather belt, no jewelry, hair tied back with a rough black cord, thin gaunt frame showing years of solitude",
+    "setting_details": "Ancient Chinese burial ground at night, no moon, heavy black clouds, dense fog hugging the ground between grave markers, hundreds of moss-covered stone tombs, one forbidden grave facing west that glows faintly violet, no light source except supernatural violet glow",
+    "face_expression": "Shot 1: Hollow exhaustion, grim focus. Shot 2: Fear and creeping dread, hand on scarred eye. Shot 3: Pure terror and pain, blood streaming, eye glowing violet. Shot 4: Overwhelmed screaming, terror, eyes streaming tears. Shot 5: Exhausted stillness, terror in left eye, cold ancient knowing in right violet eye, slow cold smile",
+    "body_movement": "Shot 1: Kneeling and tending grave in silence. Shot 2: Freezing, recoiling from forbidden grave, hand to eye. Shot 3: Falling backward clutching face, eye tearing open and glowing. Shot 4: Collapsed on ground, convulsing as visions flood in, violet glyphs orbiting. Shot 5: Lying still, slowly sitting up, cold smile forming",
+    "camera": "Shot 1: Dolly in (extreme wide to medium). Shot 2: Zoom in (forbidden grave + scarred eye close-up). Shot 3: Close-up face + spirit vision overlay. Shot 4: Wide + rapid death vision cuts. Shot 5: Push in (dual eyes close-up to cold knowing smile)"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, smiling expression, warm cheerful colors, blue or green supernatural glow, landscape orientation, daylight scenes, happy atmosphere",
+  "thumbnail_idea": "A young grave-keeper in tattered dark grey robes lying on his back in a moonless burial ground, his right eye glowing deep violet with blood streaming down his face, ghostly translucent spirits rising from graves around him, ancient violet glyphs orbiting his body, dark foggy hillside — title MUC THAN KY EP.1 in violet supernatural font on near-black background",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "chinese fantasy",
+    "grave keeper",
+    "seer eye",
+    "divine eye",
+    "cultivation",
+    "dark fantasy",
+    "supernatural",
+    "epic fantasy",
+    "mysterious",
+    "dramatic",
+    "burial ground",
+    "muc than ky",
+    "seer king",
+    "death visions"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-02T02:15:00Z",
+  "videoFile": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-05.mp4",
+  "produced_at": "2026-04-03T01:00:39.982ZZ",
+  "tiktok_status": "uploaded",
+  "tiktok_uploaded_at": "2026-04-03T01:04:43.769Z",
+  "publishedAt": "2026-04-03T05:55:26.651Z",
+  "tiktok_url": "/@fai20128/video/7624407256762682644",
+  "caption": "Anh chôn cất người chết trong im lặng suốt 3 năm. Cho đến ngày anh tìm thấy ngôi mộ không có ai sống sót... 👁️ | Xianxia Việt Sub #xianxia"
+}

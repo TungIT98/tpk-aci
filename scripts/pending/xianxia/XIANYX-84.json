@@ -1,0 +1,156 @@
+﻿{
+  "id": "XIANYX-84",
+  "title": "Tru Tien Episode 14: The Red Gate Alliance",
+  "category": "xianxia",
+  "channel": "Tru Tien",
+  "series": "Solo Leveling",
+  "episode": 14,
+  "audience": "Fans of Korean fantasy, Solo Leveling viewers, action fans, 18-35 demographic",
+  "tone": "Political tension, conspiracy, alliance forming, power negotiation",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Japanese Hunter Association sent their top negotiator: 'We want Jin-Woo. We'll pay three times his weight in gold — and give Korea access to our S-rank weapons.' Jin-Woo: 'I don't work for governments.'",
+    "story_arc": "Japanese delegation arrives → Offers huge payment + weapons for Jin-Woo → Korean government officials visibly tempted → Jin-Woo's response → Japanese negotiator shocked → Jin-Woo walks away",
+    "emotion": "Negotiation → Temptation → Official's greed → Jin-Woo's cold refusal → Shock → Walk away",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — formal government conference room. Japanese delegation in expensive suits sits on one side. Korean government officials on the other. A holographic display shows Jin-Woo's photo. Camera: wide — formal conference room, Japanese delegation, Korean officials, holographic display of Jin-Woo, diplomatic atmosphere. 6 seconds.",
+      "camera": "Wide — formal conference room, Japanese and Korean delegations, Jin-Woo holographic display, diplomatic meeting, 6s",
+      "narration": "The Japanese Hunter Association sent their top negotiator. Gold. S-rank weapons. And a proposal that would make Korea's military untouchable.",
+      "sfx": "Formal meeting atmosphere, diplomatic murmurs, holographic display humming, papers shuffling, tense silence"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Japanese negotiator slides a contract across the table. 'Three billion won. Per mission. Plus transfer of three S-rank weapon technologies.' The Korean officials' eyes widen. One licks his lips. Camera: close-up — contract sliding across table, three billion won amount visible, Korean officials' greedy expressions, negotiator's confident smile. 6 seconds.",
+      "camera": "Close-up — contract sliding across table, three billion won visible, Korean officials' greedy widening eyes, negotiator's confident smile, 6s",
+      "narration": "Three billion won — per mission. Plus S-rank weapons technology. The Korean officials were calculating the military advantage in their heads.",
+      "sfx": "Contract sliding, officials' sharp inhale, money counting sounds, greedy breathing, negotiator's confident voice"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — Jin-Woo sits at the end of the table. He doesn't look at the contract. He looks at the Japanese negotiator. 'No.' The negotiator blinks. 'Three billion — per MISSION?' Jin-Woo: 'I don't work for governments.' Camera: close-up — Jin-Woo's cold calm face, negotiator's confused blink, 'I don't work for governments' line, frozen officials. 6 seconds.",
+      "camera": "Close-up — Jin-Woo's cold calm face, negotiator's confused blink, 'I don't work for governments,' frozen officials, 6s",
+      "narration": "'I don't work for governments.' The negotiator's confident smile — froze. The Korean officials — who had been calculating military budgets — went silent.",
+      "sfx": "Contract sliding stop, negotiator's confused blink, Jin-Woo's cold voice, silence falling, officials' disappointed exhale"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — Japanese negotiator's face hardens. 'You're making a mistake, Jin-Woo. Japan's hunting network is global. We can make your life — very difficult.' Jin-Woo stands. His shadow ripples under his feet. Camera: close-up — negotiator's hardening face, threatening tone, Jin-Woo standing, shadow rippling ominously under his feet, cold smile. 6 seconds.",
+      "camera": "Close-up — negotiator's face hardening with threat, Jin-Woo standing, shadow rippling ominously under his feet, cold smile, 6s",
+      "narration": "The negotiator's threat hung in the air. Jin-Woo stood. And his shadow moved — independently. The negotiator stopped mid-sentence.",
+      "sfx": "Threatening voice, Jin-Woo standing, shadow rippling ominously, negotiator stopping mid-sentence, ominous sound, tension spike"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Jin-Woo walks past the table. He doesn't look back. 'I cleared an S-rank gate — alone. What exactly are you going to make difficult?' The door closes behind him. The Japanese negotiator sits in silence. Camera: wide — Jin-Woo walking past the table, shadow following him, door closing, Japanese negotiator sitting frozen in silence, Korean officials stunned. 6 seconds.",
+      "camera": "Wide — Jin-Woo walking past the table with shadow following, door closing behind him, Japanese negotiator frozen in silence, Korean officials stunned, 6s",
+      "narration": "He walked out. No one followed. The Japanese negotiator sat in silence — because he had just made the most powerful hunter on earth an enemy. For free.",
+      "sfx": "Footsteps walking, door closing, silence after closure, negotiator's disappointed breathing, wind after departure"
+    }
+  ],
+  "audio": {
+    "narration": "The Japanese Hunter Association sent their top negotiator. Gold. S-rank weapons. And a proposal that would make Korea's military untouchable. Three billion won — per mission. Plus S-rank weapons technology. The Korean officials were calculating the military advantage in their heads. 'I don't work for governments.' The negotiator's confident smile — froze. The Korean officials — who had been calculating military budgets — went silent. The negotiator's threat hung in the air. Jin-Woo stood. And his shadow moved — independently. The negotiator stopped mid-sentence. He walked out. No one followed. The Japanese negotiator sat in silence — because he had just made the most powerful hunter on earth an enemy. For free.",
+    "narration_duration": 28,
+    "bg_music": "Dark diplomatic tension, negotiation power play, shadow monarch threat, cold walk away 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Diplomatic atmosphere, murmurs",
+        "volume": 0.4
+      },
+      {
+        "time": 6,
+        "sound": "Contract sliding, officials' greedy inhale",
+        "volume": 0.4
+      },
+      {
+        "time": 12,
+        "sound": "Silence, Jin-Woo's cold refusal",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Threat, shadow rippling, tension spike",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Footsteps, door closing, silence",
+        "volume": 0.5
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Trừ Tiên Tập 14: Liên Minh Cổng Đỏ | Solo Leveling Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 14 of Solo Leveling (Trừ Tiên). Japan sends their top negotiator with a lucrative offer: three billion won per mission plus S-rank weapons technology. The Korean officials are tempted. Jin-Woo: 'I don't work for governments.' When threatened, his shadow moves on its own. He walks out — the negotiator now has the world's most powerful hunter as an enemy.",
+    "youtube_tags": [
+      "solo leveling",
+      "trừ tiên",
+      "Japanese negotiation",
+      "Jin-Woo",
+      "shadow monarch",
+      "government deal",
+      "korean fantasy"
+    ],
+    "tiktok_caption": "Nhật Bản đề nghị 3 TỶ WON mỗi nhiệm vụ + công nghệ vũ khí S-rank! Viên chức Hàn Quốc tính toán lợi ích quân sự! Jin-Woo: 'Tôi không làm cho chính phủ.' Bóng hắn... TỰ DI CHUYỂN... Hắn đi ra. Kẻ thù — miễn phí! 🔥 Tập 14",
+    "playlist": "Tru Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Formal conference room, Japanese negotiator sliding contract, Korean officials' greed, Jin-Woo refusing, shadow rippling as threat, cold walk away",
+  "specific_details": {
+    "subject": "Jin-Woo: black hoodie and jeans, sitting calmly then standing, shadow moving independently. Japanese negotiator: expensive suit, confident then frozen. Korean officials: suits, tempted and calculating.",
+    "outfit_exact": "Jin-Woo: black hoodie, dark blue jeans. Japanese negotiator: expensive dark suit, gold cufflinks. Korean officials: formal government suits.",
+    "setting_details": "Formal government conference room, long table, holographic display, expensive decor, dramatic interior lighting",
+    "face_expression": "Jin-Woo: cold calm → cold smile → dismissive exit. Japanese negotiator: confident → confused → hardening threat → frozen silence. Korean officials: greedy calculation → stunned disappointment.",
+    "body_movement": "Japanese negotiator: sliding contract. Jin-Woo: sitting → standing → shadow rippling → walking out. Officials: tempted → stunned.",
+    "camera": "Wide conference room, close-up contract and greed, close-up Jin-Woo refusal and shadow, wide walk away and door closing"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, bright colors, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Solo Leveling Episode 14: Jin-Woo refuses Japan — shadow rippling ominously as threat",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "solo leveling",
+    "trừ tiên",
+    "Japan negotiation",
+    "Jin-Woo",
+    "shadow monarch",
+    "government deal",
+    "korean fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T17:10:00Z",
+  "publishedAt": "2026-04-06T02:51:03.748Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625465267493113108"
+}

@@ -1,0 +1,128 @@
+{% extends "base.html" %}
+{% block title %}Batch Processing{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<div class="d-flex align-items-center justify-content-between mb-4">
+    <div>
+        <h2 class="mb-0" style="color:#e2e8f0; font-weight:800;">
+            <i class="bi bi-layers-half text-purple me-2"></i>Batch Processing
+        </h2>
+        <p class="text-muted mb-0" style="font-size:0.85rem;">
+            {{ total }} batch{{ 's' if total != 1 else '' }} total
+            {% if batch_data.active_batch_id %}
+            &bull; <span class="badge bg-primary">Active: {{ batch_data.active_batch_id }}</span>
+            {% endif %}
+        </p>
+    </div>
+    <a href="/export" class="btn btn-outline-purple btn-sm">
+        <i class="bi bi-download me-1"></i> Export Reports
+    </a>
+</div>
+
+{% if not batch_data.batches %}
+<div class="card p-5 text-center">
+    <i class="bi bi-collection" style="font-size:3rem; color:#334155;"></i>
+    <p class="text-muted mt-3 mb-1">No batch runs found.</p>
+    <p style="font-size:0.8rem; color:#475569;">Batch jobs appear here after running <code>batch_processor.py</code>.</p>
+</div>
+{% else %}
+
+<!-- ── Batch cards ────────────────────────────────────────────────────── -->
+{% for batch in batch_data.batches|reverse %}
+<div class="card mb-3">
+    <div class="card-header d-flex align-items-center justify-content-between py-2"
+         style="background:rgba(124,58,237,0.1); border-bottom:1px solid rgba(124,58,237,0.2);">
+        <div class="d-flex align-items-center gap-3">
+            <span class="badge bg-dark">{{ batch.batch_id }}</span>
+            <span style="font-size:0.82rem; color:#94a3b8;">
+                Started: {{ batch.started_at[:16] if batch.started_at else '—' }}
+                {% if batch.completed_at %}&bull; Finished: {{ batch.completed_at[:16] }}{% endif %}
+            </span>
+            {% if batch.batch_id == batch_data.active_batch_id %}
+            <span class="badge bg-primary">Active</span>
+            {% elif batch.is_complete %}
+            <span class="badge bg-success">Complete</span>
+            {% else %}
+            <span class="badge bg-warning text-dark">In Progress</span>
+            {% endif %}
+        </div>
+        <span style="font-size:0.85rem; color:#94a3b8;">
+            {{ batch.progress_pct|default(0) }}%
+        </span>
+    </div>
+
+    <div class="card-body py-2">
+        <!-- Progress bar -->
+        {% set pct = batch.progress_pct|default(0) %}
+        {% set done = batch.done|default(0) %}
+        {% set failed = batch.failed|default(0) %}
+        {% set total = batch.total|default(1) %}
+        <div class="progress mb-2" style="height:8px;">
+            <div class="progress-bar progress-bar-purple" style="width:{{ (done/total*100)|round|int }}%; background:#10b981;"></div>
+            <div class="progress-bar" style="width:{{ (failed/total*100)|round|int }}%; background:#ef4444;"></div>
+        </div>
+
+        <!-- Summary row -->
+        <div class="row g-3 text-center">
+            <div class="col-3">
+                <div style="font-size:1.3rem; font-weight:700;">{{ total }}</div>
+                <div style="font-size:0.7rem; color:#64748b; text-transform:uppercase; letter-spacing:0.05em;">Total</div>
+            </div>
+            <div class="col-3">
+                <div style="font-size:1.3rem; font-weight:700; color:#10b981;">{{ done }}</div>
+                <div style="font-size:0.7rem; color:#64748b; text-transform:uppercase; letter-spacing:0.05em;">Done</div>
+            </div>
+            <div class="col-3">
+                <div style="font-size:1.3rem; font-weight:700; color:#ef4444;">{{ failed }}</div>
+                <div style="font-size:0.7rem; color:#64748b; text-transform:uppercase; letter-spacing:0.05em;">Failed</div>
+            </div>
+            <div class="col-3">
+                <div style="font-size:1.3rem; font-weight:700; color:#3b82f6;">{{ (total - done - failed) }}</div>
+                <div style="font-size:0.7rem; color:#64748b; text-transform:uppercase; letter-spacing:0.05em;">Pending</div>
+            </div>
+        </div>
+
+        <!-- Item results table (collapsible) -->
+        {% if batch.results %}
+        <div class="mt-3">
+            <button class="btn btn-sm btn-outline-purple w-100" type="button"
+                    data-bs-toggle="collapse" data-bs-target="#batch-items-{{ loop.index }}">
+                <i class="bi bi-chevron-expand me-1"></i> View {{ batch.results|length }} item{{ 's' if batch.results|length != 1 else '' }}
+            </button>
+            <div class="collapse mt-2" id="batch-items-{{ loop.index }}">
+                <table class="table table-sm align-middle mb-0" style="font-size:0.78rem;">
+                    <thead>
+                        <tr>
+                            <th>Script</th><th>Template</th><th>Platforms</th><th>Status</th><th>Duration</th><th>Job ID</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for item in batch.results %}
+                        <tr>
+                            <td class="text-truncate" style="max-width:150px;" title="{{ item.script_path }}">{{ item.script_path }}</td>
+                            <td>{{ item.template }}</td>
+                            <td>{{ item.platforms|join(', ') }}</td>
+                            <td><span class="badge badge-status-{{ item.status }}">{{ item.status }}</span></td>
+                            <td>{% if item.duration_sec %}{{ "%.1f"|format(item.duration_sec) }}s{% else %}—{% endif %}</td>
+                            <td><span class="badge bg-dark">{{ item.job_id or '—' }}</span></td>
+                        </tr>
+                        {% if item.error %}
+                        <tr style="background:rgba(239,68,68,0.05);">
+                            <td colspan="6" style="color:#ef4444; font-size:0.75rem;">{{ item.error }}</td>
+                        </tr>
+                        {% endif %}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endfor %}
+{% endif %}
+{% endblock %}

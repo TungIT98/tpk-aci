@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-074",
+  "title": "Dau Pha Thuong Khau Episode 14: The Empress's Final Gift",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 14,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "His mother appears — alive, hiding in the palace. She gives him a box and dies in his arms.",
+    "story_arc": "Ghost woman in corridor → Mother recognized → Dying gift given → Guards approaching → Escape with box",
+    "emotion": "Fear → Shock → Grief → Urgent love → Desperate flight",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — he walks through a dark palace corridor at night. Moonlight through paper lanterns. He is deep in the forbidden palace — the private quarters. A woman in simple white robes stands in a doorway — ghostly, thin, fragile. She is old now, grey-haired, but her eyes — he recognizes those eyes. She was at his childhood home. A servant. No — more than a servant. Camera: wide, dark corridor, moonlight, ghostly woman, his slow approach. 6 seconds.",
+      "camera": "Wide — dark forbidden palace corridor at night, moonlight, ghostly white-robed woman, his slow approach, 6s",
+      "narration": "He had not expected to find a ghost in the forbidden palace. But this ghost — was not what he had feared. This ghost had been waiting for him.",
+      "sfx": "Moonlight ambience, paper lantern rustle, his quiet footsteps, tense wind"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the woman speaks. 'My son.' Two words. His face goes white. He has no memory of his mother — she was taken when he was an infant. But he knows her face from paintings. She is alive. His mother is alive. She reaches for his face with trembling hands. 'I hid here to watch you grow. Every night from the shadows.' Camera: extreme close-up, 'My son', her trembling hands on his face, mother-son recognition. 6 seconds.",
+      "camera": "Extreme close-up — 'My son', trembling hands, mother recognized, 'I hid to watch you grow', emotional recognition, 6s",
+      "narration": "His mother was alive. Had been alive — hiding in the palace — for twenty years. Watching him from the shadows. Protecting him the only way she could. By staying hidden.",
+      "sfx": "Her trembling voice, his sharp inhale, moonlight, single quiet sob, emotional strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she presses a small lacquered box into his hands. Red and black, ancient. 'This is your father's imperial seal,' she whispers. 'The proof that you are the rightful emperor.' She coughs blood. She is dying — poisoned years ago, surviving only on will. She holds his face one last time. 'Your father was the kindest man I ever knew. Be like him.' She dies in his arms. Camera: extreme close-up, dying mother, lacquered box pressed into his hands, 'Be like him', last breath. 6 seconds.",
+      "camera": "Extreme close-up — dying mother, imperial seal box, blood cough, 'Be like him', death in his arms, 6s",
+      "narration": "She had hidden for twenty years. Poisoned slowly, surviving on will alone — just long enough to see her son one last time. To give him the one thing that would make his claim unquestioned.",
+      "sfx": "Box pressing, blood cough, her last breath, his sob, mother's whisper fading, mournful orchestral"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide cinematic — he cradles her body, tears streaming. Then: BOOTS. Heavy soldiers' boots in the corridor. Torchlight approaching. The empress dowager's guards — they have found them. He looks at his mother's body. Then at the box. He cannot be caught with either. He gently lays her down, takes the box, and runs. Camera: wide, guards approaching with torches, him running with the box, his mother lying still. 6 seconds.",
+      "camera": "Wide — guards approaching with torchlight, him running with imperial seal box, mother lying still, urgent chase, 6s",
+      "narration": "He could not bury her. Could not mourn her. He had to run — carrying the imperial seal — while his mother's body lay in the forbidden palace corridor.",
+      "sfx": "Boots marching, torch whoosh, his desperate running footsteps, guards shouting, urgent orchestral"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — he scales the palace wall using ancient climbing techniques, midnight-blue robes billowing. He reaches the roof ridge and pauses. Below, the forbidden palace lanterns blaze as guards search. He opens the lacquered box — inside: an ancient jade seal carved with a dragon. His father's imperial seal. He presses it to his chest. 'Mother,' he whispers. 'I will finish this.' Camera: full-body on rooftop, palace below, imperial seal on chest, vow whispered. 6 seconds. End on his face.",
+      "camera": "Full-body cinematic — palace rooftop, guards below, imperial seal pressed to chest, vow to dead mother, 6s",
+      "narration": "His mother had died to give him the seal. His father had died to give him twenty years. The empire was his by right of blood. And he would take it.",
+      "sfx": "Wind on rooftop, his quiet vow, box opening, seal pressing to chest, epic melancholy strings"
+    }
+  ],
+  "audio": {
+    "narration": "He had not expected to find a ghost in the forbidden palace. But this ghost — was not what he had feared. This ghost had been waiting for him. His mother was alive. Had been alive — hiding in the palace — for twenty years. Watching him from the shadows. Protecting him the only way she could. By staying hidden. She had hidden for twenty years. Poisoned slowly, surviving on will alone — just long enough to see her son one last time. To give him the one thing that would make his claim unquestioned. He could not bury her. Could not mourn her. He had to run — carrying the imperial seal — while his mother's body lay in the forbidden palace corridor. His mother had died to give him the seal. His father had died to give him twenty years. The empire was his by right of blood. And he would take it.",
+    "narration_duration": 28,
+    "bg_music": "Mourning Chinese orchestral, mother's sacrifice theme, desperate flight, epic grief and determination 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Moonlight ambience",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Her trembling voice",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Box pressing",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Boots marching",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Wind on rooftop",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — he walks through a dark palace corridor at night. Moonlight through paper lanterns. He is deep in the forbidden palace — the private quarters. A woman in simple white robes stands in a doorway — ghostly, thin, fragile. She is old now, grey-haired, but her eyes — he recognizes those eyes. She was at his childhood home. A servant. No — more than a servant. Camera: wide, dark corridor, moonlight, ghostly woman, his slow approach. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the woman speaks. 'My son.' Two words. His face goes white. He has no memory of his mother — she was taken when he was an infant. But he knows her face from paintings. She is alive. His mother is alive. She reaches for his face with trembling hands. 'I hid here to watch you grow. Every night from the shadows.' Camera: extreme close-up, 'My son', her trembling hands on his face, mother-son recognition. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she presses a small lacquered box into his hands. Red and black, ancient. 'This is your father's imperial seal,' she whispers. 'The proof that you are the rightful emperor.' She coughs blood. She is dying — poisoned years ago, surviving only on will. She holds his face one last time. 'Your father was the kindest man I ever knew. Be like him.' She dies in his arms. Camera: extreme close-up, dying mother, lacquered box pressed into his hands, 'Be like him', last breath. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide cinematic — he cradles her body, tears streaming. Then: BOOTS. Heavy soldiers' boots in the corridor. Torchlight approaching. The empress dowager's guards — they have found them. He looks at his mother's body. Then at the box. He cannot be caught with either. He gently lays her down, takes the box, and runs. Camera: wide, guards approaching with torches, him running with the box, his mother lying still. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — he scales the palace wall using ancient climbing techniques, midnight-blue robes billowing. He reaches the roof ridge and pauses. Below, the forbidden palace lanterns blaze as guards search. He opens the lacquered box — inside: an ancient jade seal carved with a dragon. His father's imperial seal. He presses it to his chest. 'Mother,' he whispers. 'I will finish this.' Camera: full-body on rooftop, palace below, imperial seal on chest, vow whispered. 6 seconds. End on his face."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Tập 14: Tặng Phẩm Cuối Cùng Của Hoàng Hậu | Xianxia Việt Sub ⚔️🏯",
+    "youtube_description": "Episode 14 of Dau Pha Thuong Khau. His mother — believed dead for twenty years — was alive, hiding in the forbidden palace. She gives him the imperial seal with her dying breath. He escapes with the proof of his birthright as guards close in.",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "empress appears alive",
+      "dying mother",
+      "imperial seal",
+      "palace escape",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Mẹ còn sống — ẩn náu 20 năm trong cấm cung — trao ấn tín hoàng đế bằng hơi thở CUỐI CÙNG ⚔️🏯 Tập 14 DPTK #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — he walks through a dark palace corridor at night. Moonlight through paper lanterns. He is deep in the forbidden palace — the private quarters. A woman in simple white robes stands in a doorway — ghostly, thin, fragile. She is old now, grey-haired, but her eyes — he recognizes those eyes. She was at his childhood home. A servant. No — more than a servant. Camera: wide, dark corridor, moonlight, ghostly woman, his slow approach. 6 seconds. Shot 2: Close-up — the woman speaks. 'My son.' Two words. His face goes white. He has no memory of his mother — she was taken when he was an infant. But he knows her face from paintings. She is alive. His mother is alive. She reaches for his face with trembling hands. 'I hid here to watch you grow. Every night from the shadows.' Camera: extreme close-up, 'My son', her trembling hands on his face, mother-son recognition. 6 seconds. Shot 3: Close-up — she presses a small lacquered box into his hands. Red and black, ancient. 'This is your father's imperial seal,' she whispers. 'The proof that you are the rightful emperor.' She coughs blood. She is dying — poisoned years ago, surviving only on will. She holds his face one last time. 'Your father was the kindest man I ever knew. Be like him.' She dies in his arms. Camera: extreme close-up, dying mother, lacquered box pressed into his hands, 'Be like him', last breath. 6 seconds. Shot 4: Wide cinematic — he cradles her body, tears streaming. Then: BOOTS. Heavy soldiers' boots in the corridor. Torchlight approaching. The empress dowager's guards — they have found them. He looks at his mother's body. Then at the box. He cannot be caught with either. He gently lays her down, takes the box, and runs. Camera: wide, guards approaching with torches, him running with the box, his mother lying still. 6 seconds. Shot 5: Full-body cinematic — he scales the palace wall using ancient climbing techniques, midnight-blue robes billowing. He reaches the roof ridge and pauses. Below, the forbidden palace lanterns blaze as guards search. He opens the lacquered box — inside: an ancient jade seal carved with a dragon. His father's imperial seal. He presses it to his chest. 'Mother,' he whispers. 'I will finish this.' Camera: full-body on rooftop, palace below, imperial seal on chest, vow whispered. 6 seconds. End on his face.",
+  "visual_scene": "Wide shot — he walks through a dark palace corridor at night. Moonlight through paper lanterns. He is deep in the forbidden palace — the private quarters. A woman in simple white robes stands in a doorway — ghostly, thin, fragile. She is old now, grey-haired, but her eyes — he recognizes those eyes. She was at his childhood home. A servant. No — more than a servant. Camera: wide, dark corridor, moonlight, ghostly woman, his slow approach. 6 seconds. Close-up — the woman speaks. 'My son.' Two words. His face goes white. He has no memory of his mother — she was taken when he was an infant. But he knows her face from paintings. She is alive. His mother is alive. She reaches for his face with trembling hands. 'I hid here to watch you grow. Every night from the shadows.' Camera: extreme close-up, 'My son', her trembling hands on his face, mother-son recognition. 6 seconds. Close-up — she presses a small lacquered box into his hands. Red and black, ancient. 'This is your father's imperial seal,' she whispers. 'The proof that you are the rightful emperor.' She coughs blood. She is dying — poisoned years ago, surviving only on will. She holds his face one last time. 'Your father was the kindest man I ever knew. Be like him.' She dies in his arms. Camera: extreme close-up, dying mother, lacquered box pressed into his hands, 'Be like him', last breath. 6 seconds. Wide cinematic — he cradles her body, tears streaming. Then: BOOTS. Heavy soldiers' boots in the corridor. Torchlight approaching. The empress dowager's guards — they have found them. He looks at his mother's body. Then at the box. He cannot be caught with either. He gently lays her down, takes the box, and runs. Camera: wide, guards approaching with torches, him running with the box, his mother lying still. 6 seconds. Full-body cinematic — he scales the palace wall using ancient climbing techniques, midnight-blue robes billowing. He reaches the roof ridge and pauses. Below, the forbidden palace lanterns blaze as guards search. He opens the lacquered box — inside: an ancient jade seal carved with a dragon. His father's imperial seal. He presses it to his chest. 'Mother,' he whispers. 'I will finish this.' Camera: full-body on rooftop, palace below, imperial seal on chest, vow whispered. 6 seconds. End on his face.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 14: The Empress's Final Gift",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "empress appears alive",
+    "dying mother",
+    "imperial seal",
+    "palace escape",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

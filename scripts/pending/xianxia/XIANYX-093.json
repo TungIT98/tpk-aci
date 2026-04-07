@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-093",
+  "title": "Thanh Van Mon Episode 13: The Lotus Eater's Warning",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A man who has lived a thousand years warns her: the garden's erasures are reversing. All the forgotten are returning.",
+    "story_arc": "Strange sounds in garden, The ancient man appears, His thousand-year vigil, Erasures reversing, The dead awakening",
+    "emotion": "Unease, Confusion, Revelation, Fear, Urgency",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the garden at twilight. The lanterns that were lit are flickering erratically — going out in spirals. A low sound like wind through a canyon but deep and resonant. The erased tablets — the blank ones — are glowing faintly silver from within, as if something is trying to push through. She stands frozen, watching. Camera: wide shot of the whole garden in twilight, eerie silver glow spreading across blank stones. 6 seconds.",
+      "camera": "Wide — twilight garden, silver glow from blank tablets, lanterns going out in spirals, 6s",
+      "narration": "Something was happening in the garden. Something that had never happened before. The erased stones — were waking up.",
+      "sfx": "Deep resonant hum, lantern extinguishing, stone cracking faintly, ominous wind"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — an old man in faded gray robes sits beneath a dead plum tree, eating lotus seeds from a small bowl. He is impossibly ancient — eyes that have seen centuries. He watches her without surprise. He offers her a lotus seed. His voice: ancient, calm, like deep water. Camera: medium shot, slow push in toward the ancient man eating lotus seeds. 6 seconds.",
+      "camera": "Push in — medium to close-up on ancient lotus-eater offering a seed, 6s",
+      "narration": "He had eaten lotus seeds in this garden for a thousand years. Waiting. Watching the names disappear one by one. And now — for the first time — he was afraid.",
+      "sfx": "Lotus seed crack, ancient breath, wind through dead tree, deep bass drone"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — he speaks slowly, his voice layered with echoes of different people speaking simultaneously. The erasures are reversing. Every name the garden was forced to forget — they are returning. Every night, more come back. And when the last erased name returns... He pauses. The palace will have to answer for what it did. Camera: extreme close-up on his ancient face, layered voice, the echo effect visible in the flickering lantern light. 6 seconds.",
+      "camera": "Close-up — ancient man's layered echoing voice as he warns of erasures reversing, 6s",
+      "narration": "A thousand years of watching names be erased. A thousand years of waiting. The garden was patient. The garden was always patient. And now — it was time to remember.",
+      "sfx": "Layered voice echoes, wind howling, deep gong, time shifting"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — behind the ancient man, one of the blank tablets SHATTERS. A figure steps out — translucent, glowing silver. A woman in ancient armor, battle-scarred, alive with fury. Then another tablet shatters. And another. Three figures emerge from the broken stones. The ancient man does not turn. He simply says: It has begun. Camera: wide shot, three ghostly warriors emerging from shattered stones as lanterns blow out. 6 seconds.",
+      "camera": "Wide — three ghost warriors shattering from blank stones, lanterns dying, ancient man unmoved, 6s",
+      "narration": "The first three had returned. Three erased warriors from a forgotten war. But they were only the beginning. The garden held hundreds of erasures. And each one would return.",
+      "sfx": "Stone shattering, spirit emergence whoosh, battle armor clinking ghost, epic war drums"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — she looks at the ancient man, terrified. He meets her gaze with infinite calm. He taps his bowl of lotus seeds. The palace will try to stop this. They will try to destroy the garden itself. He offers the bowl again. You have a choice. Walk away. Or help the garden remember. Camera: cinematic close-up, her face torn between fear and determination, ancient man's calm face beside her. 6 seconds. End on her taking a lotus seed.",
+      "camera": "Close-up — her torn face, ancient man's calm offering, she reaches for lotus seed, 6s",
+      "narration": "A thousand-year-old choice, offered to her in a bowl of lotus seeds. Walk away from the returning dead — or become part of their story. She took the seed.",
+      "sfx": "Lotus seed taken, breath held, wind still, resolve building, orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "Something was happening in the garden. Something that had never happened before. The erased stones — were waking up. He had eaten lotus seeds in this garden for a thousand years. Waiting. Watching the names disappear one by one. And now — for the first time — he was afraid. A thousand years of watching names be erased. A thousand years of waiting. The garden was patient. The garden was always patient. And now — it was time to remember. The first three had returned. Three erased warriors from a forgotten war. But they were only the beginning. The garden held hundreds of erasures. And each one would return. A thousand-year-old choice, offered to her in a bowl of lotus seeds. Walk away from the returning dead — or become part of their story. She took the seed.",
+    "narration_duration": 28,
+    "bg_music": "Ancient mystical Chinese soundtrack, deep didgeridoo-like drones, guzheng, bells, ominous epic 60 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Deep resonant hum",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Lotus seed crack",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Layered voice echoes",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Stone shattering",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Lotus seed taken",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide shot — the garden at twilight. The lanterns that were lit are flickering erratically — going out in spirals. A low sound like wind through a canyon but deep and resonant. The erased tablets — the blank ones — are glowing faintly silver from within, as if something is trying to push through. She stands frozen, watching. Camera: wide shot of the whole garden in twilight, eerie silver glow spreading across blank stones. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — an old man in faded gray robes sits beneath a dead plum tree, eating lotus seeds from a small bowl. He is impossibly ancient — eyes that have seen centuries. He watches her without surprise. He offers her a lotus seed. His voice: ancient, calm, like deep water. Camera: medium shot, slow push in toward the ancient man eating lotus seeds. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — he speaks slowly, his voice layered with echoes of different people speaking simultaneously. The erasures are reversing. Every name the garden was forced to forget — they are returning. Every night, more come back. And when the last erased name returns... He pauses. The palace will have to answer for what it did. Camera: extreme close-up on his ancient face, layered voice, the echo effect visible in the flickering lantern light. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — behind the ancient man, one of the blank tablets SHATTERS. A figure steps out — translucent, glowing silver. A woman in ancient armor, battle-scarred, alive with fury. Then another tablet shatters. And another. Three figures emerge from the broken stones. The ancient man does not turn. He simply says: It has begun. Camera: wide shot, three ghostly warriors emerging from shattered stones as lanterns blow out. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — she looks at the ancient man, terrified. He meets her gaze with infinite calm. He taps his bowl of lotus seeds. The palace will try to stop this. They will try to destroy the garden itself. He offers the bowl again. You have a choice. Walk away. Or help the garden remember. Camera: cinematic close-up, her face torn between fear and determination, ancient man's calm face beside her. 6 seconds. End on her taking a lotus seed."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Thanh Van Mon Tập 13: Lời Cảnh Báo Của Kẻ Ăn Sen | Xianxia Việt Sub ⚔️🌿",
+    "youtube_description": "Episode 13 of Thanh Van Mon. A man who has lived in the garden for a thousand years eating lotus seeds delivers a warning: the erasures are reversing. Every name the palace erased is returning. The dead are coming back.\n\n🌿 Thanh Van Mon — Original Chinese Fantasy Series\n📌 Follow for Episode 14 — The Night the Garden Walked\n#xianxia #thanhvanmon #ancient sage #ghost army #erasure reversing #epic",
+    "youtube_tags": [
+      "xianxia",
+      "thanh van mon",
+      "ancient sage",
+      "erasure reversing",
+      "ghost warriors",
+      "thousand year vigil",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Kẻ ăn sen sống NGÀN NĂM trong vườn cảnh báo: những tên bị xóa đang ĐẢO NGƯỢC. Tất cả những người bị lãng quên đang TRỞ LẠI. Người chết đang về ⚔️🌿 Tập 13 Thanh Van Mon #xianxia #cổtrang",
+    "playlist": "Thanh Van Mon"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide shot — the garden at twilight. The lanterns that were lit are flickering erratically — going out in spirals. A low sound like wind through a canyon but deep and resonant. The erased tablets — the blank ones — are glowing faintly silver from within, as if something is trying to push through. She stands frozen, watching. Camera: wide shot of the whole garden in twilight, eerie silver glow spreading across blank stones. 6 seconds. Shot 2: Medium shot — an old man in faded gray robes sits beneath a dead plum tree, eating lotus seeds from a small bowl. He is impossibly ancient — eyes that have seen centuries. He watches her without surprise. He offers her a lotus seed. His voice: ancient, calm, like deep water. Camera: medium shot, slow push in toward the ancient man eating lotus seeds. 6 seconds. Shot 3: Close-up — he speaks slowly, his voice layered with echoes of different people speaking simultaneously. The erasures are reversing. Every name the garden was forced to forget — they are returning. Every night, more come back. And when the last erased name returns... He pauses. The palace will have to answer for what it did. Camera: extreme close-up on his ancient face, layered voice, the echo effect visible in the flickering lantern light. 6 seconds. Shot 4: Wide shot — behind the ancient man, one of the blank tablets SHATTERS. A figure steps out — translucent, glowing silver. A woman in ancient armor, battle-scarred, alive with fury. Then another tablet shatters. And another. Three figures emerge from the broken stones. The ancient man does not turn. He simply says: It has begun. Camera: wide shot, three ghostly warriors emerging from shattered stones as lanterns blow out. 6 seconds. Shot 5: Close-up — she looks at the ancient man, terrified. He meets her gaze with infinite calm. He taps his bowl of lotus seeds. The palace will try to stop this. They will try to destroy the garden itself. He offers the bowl again. You have a choice. Walk away. Or help the garden remember. Camera: cinematic close-up, her face torn between fear and determination, ancient man's calm face beside her. 6 seconds. End on her taking a lotus seed.",
+  "visual_scene": "Wide shot — the garden at twilight. The lanterns that were lit are flickering erratically — going out in spirals. A low sound like wind through a canyon but deep and resonant. The erased tablets — the blank ones — are glowing faintly silver from within, as if something is trying to push through. She stands frozen, watching. Camera: wide shot of the whole garden in twilight, eerie silver glow spreading across blank stones. 6 seconds. Medium shot — an old man in faded gray robes sits beneath a dead plum tree, eating lotus seeds from a small bowl. He is impossibly ancient — eyes that have seen centuries. He watches her without surprise. He offers her a lotus seed. His voice: ancient, calm, like deep water. Camera: medium shot, slow push in toward the ancient man eating lotus seeds. 6 seconds. Close-up — he speaks slowly, his voice layered with echoes of different people speaking simultaneously. The erasures are reversing. Every name the garden was forced to forget — they are returning. Every night, more come back. And when the last erased name returns... He pauses. The palace will have to answer for what it did. Camera: extreme close-up on his ancient face, layered voice, the echo effect visible in the flickering lantern light. 6 seconds. Wide shot — behind the ancient man, one of the blank tablets SHATTERS. A figure steps out — translucent, glowing silver. A woman in ancient armor, battle-scarred, alive with fury. Then another tablet shatters. And another. Three figures emerge from the broken stones. The ancient man does not turn. He simply says: It has begun. Camera: wide shot, three ghostly warriors emerging from shattered stones as lanterns blow out. 6 seconds. Close-up — she looks at the ancient man, terrified. He meets her gaze with infinite calm. He taps his bowl of lotus seeds. The palace will try to stop this. They will try to destroy the garden itself. He offers the bowl again. You have a choice. Walk away. Or help the garden remember. Camera: cinematic close-up, her face torn between fear and determination, ancient man's calm face beside her. 6 seconds. End on her taking a lotus seed.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Thanh Van Mon Episode 13: The Lotus Eater's Warning",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "thanh van mon",
+    "ancient sage",
+    "erasure reversing",
+    "ghost warriors",
+    "thousand year vigil",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

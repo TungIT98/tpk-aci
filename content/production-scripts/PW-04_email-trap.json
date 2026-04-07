@@ -1,0 +1,109 @@
+{
+  "id": "PW-04",
+  "title": "Stop Doing This — The Productivity Habit That's Actually Making You Slower",
+  "category": "focus_habits",
+  "channel": "ProductivityWorker",
+  "audience": "Office workers 25-40, reactive email checkers",
+  "tone": "Bold, evidence-based, slightly urgent",
+  "platform": ["YouTube", "TikTok"],
+  "format": "60-90 seconds, 16:9 and 9:16",
+  "status": "production_ready",
+
+  "concept": {
+    "hook": "Checking your email first thing in the morning feels productive. It's actually making you reactive all day.",
+    "story_arc": "Hook → The reactive trap → Cortisol effect → The First Hour Rule → CTA",
+    "emotion": "Mild alarm, then empowerment",
+    "duration_seconds": 76
+  },
+
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 5,
+      "duration": 5,
+      "prompt": "Early morning. Person's hand reaches for phone on nightstand. Screen lights up with red notification badges — 47 unread emails, Slack messages, calendar alerts. Eyes widen slightly. Person exhales and puts phone back down, conflicted.",
+      "camera": "[Tilt up] From phone screen glowing in the dark to person's conflicted face in morning light",
+      "narration": "Checking your email first thing in the morning feels productive. You're starting your day by clearing things, right? Wrong. It's actually making you reactive all day.",
+      "sfx": "Phone notification cascade sounds, tense ambient"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 5,
+      "time_end": 25,
+      "duration": 20,
+      "prompt": "Split screen — left: person starting work by opening email inbox (red alerts everywhere), looking overwhelmed. Right: same person starting work with a blank document open (white page), coffee steaming, calm morning focus. Label overlays on each side.",
+      "camera": "[Static split] Both panels side by side, comparison mode",
+      "narration": "Here's the trap. Email is designed to make you respond to other people's priorities. When you open your inbox first, you're handing over control of your attention before you've defined your own goals for the day. You wake up and immediately let everyone else's agenda run your morning.",
+      "sfx": "Inbox notification chaos on left, then silence on right"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 25,
+      "time_end": 45,
+      "duration": 20,
+      "prompt": "Medical-style animation: stress hormone cortisol glowing red inside a brain illustration. Red stress emails cause cortisol spikes shown as red pulses. Brain scan shows prefrontal cortex (creative thinking) dimming. Text overlay: 'Cortisol spike = reduced creative thinking for 2-4 hours'.",
+      "camera": "[Push in] Deep zoom into brain, cortisol pulses visible",
+      "narration": "The cortisol effect is real. Stressful messages first thing in the morning spike your cortisol — your primary stress hormone. Elevated cortisol reduces your prefrontal cortex activity for two to four hours. That's your creativity, your strategic thinking, your best problem-solving. Compromised before 9am by an email you didn't need to read yet.",
+      "sfx": "Medical alert beep, cortisol pulse heartbeat sound"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 45,
+      "time_end": 62,
+      "duration": 17,
+      "prompt": "Person at desk, first 60 minutes. Clock shows 7:30am. Screen shows blank document — they write 'TOP 3 TASKS FOR TODAY'. 60 minutes pass in 3-second timelapse as they type rapidly, produce work, cross things off. Then — 8:30am — they open email. Inbox is manageable.",
+      "camera": "[Tracking shot] Clock ticking, then confident typing flow",
+      "narration": "The First Hour Rule: protect your first 60 to 90 minutes for deep work. Do your most important task before you open your inbox. When you process email after your peak output is done, you handle it from a place of control — not panic. Your inbox becomes a tool you use, not a master that uses you.",
+      "sfx": "Keyboard typing rhythmically, clock ticking, then inbox open notification (gentle)"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 62,
+      "time_end": 72,
+      "duration": 10,
+      "prompt": "Phone face-down on desk, lid closed on laptop. Wide shot of calm, productive desk with morning sun. Phone is buried under a book — intentionally out of reach. Subscribe button animation.",
+      "camera": "[Pull out] Wide establishing shot of the distraction-free setup",
+      "narration": "You wouldn't let a stranger walk into your office and rearrange your desk. Stop letting their emails rearrange your day. Subscribe for more anti-habits that actually work.",
+      "sfx": "Soft ambient music swell, gentle bell"
+    }
+  ],
+
+  "audio": {
+    "narration": "Checking your email first thing in the morning feels productive. You're starting your day by clearing things, right? Wrong. It's actually making you reactive all day. Here's the trap. Email is designed to make you respond to other people's priorities. When you open your inbox first, you're handing over control of your attention before you've defined your own goals for the day. You wake up and immediately let everyone else's agenda run your morning. The cortisol effect is real. Stressful messages first thing in the morning spike your cortisol — your primary stress hormone. Elevated cortisol reduces your prefrontal cortex activity for two to four hours. That's your creativity, your strategic thinking, your best problem-solving. Compromised before 9am by an email you didn't need to read yet. The First Hour Rule: protect your first 60 to 90 minutes for deep work. Do your most important task before you open your inbox. When you process email after your peak output is done, you handle it from a place of control — not panic. Your inbox becomes a tool you use, not a master that uses you. You wouldn't let a stranger walk into your office and rearrange your desk. Stop letting their emails rearrange your day. Subscribe for more anti-habits that actually work.",
+    "narration_duration": 72,
+    "bg_music": "High-focus ambient electronic, minimal, 100 BPM",
+    "sfx": [
+      { "time": 2.0, "sound": "notification cascade", "volume": 0.6 },
+      { "time": 8.0, "sound": "inbox alert — tense", "volume": 0.5 },
+      { "time": 30.0, "sound": "cortisol heartbeat pulse", "volume": 0.4 },
+      { "time": 52.0, "sound": "keyboard typing — productive", "volume": 0.5 },
+      { "time": 65.0, "sound": "book thudding on phone", "volume": 0.4 }
+    ]
+  },
+
+  "hailuo_prompts": [
+    { "shot": 1, "prompt": "Early morning. Person's hand reaches for phone on nightstand. Screen lights up with red notification badges — 47 unread emails, Slack messages, calendar alerts. Eyes widen slightly. Person exhales and puts phone back down, conflicted. [Tilt up] From phone screen glowing in the dark to person's conflicted face in morning light" },
+    { "shot": 2, "prompt": "Split screen — left: person starting work by opening email inbox (red alerts everywhere), looking overwhelmed. Right: same person starting work with a blank document open (white page), coffee steaming, calm morning focus. Label overlays on each side. [Static split] Both panels side by side, comparison mode" },
+    { "shot": 3, "prompt": "Medical-style animation: stress hormone cortisol glowing red inside a brain illustration. Red stress emails cause cortisol spikes shown as red pulses. Brain scan shows prefrontal cortex (creative thinking) dimming. Text overlay: Cortisol spike equals reduced creative thinking for 2-4 hours. [Push in] Deep zoom into brain, cortisol pulses visible" },
+    { "shot": 4, "prompt": "Person at desk, first 60 minutes. Clock shows 7:30am. Screen shows blank document — they write TOP 3 TASKS FOR TODAY. 60 minutes pass in 3-second timelapse as they type rapidly, produce work, cross things off. Then — 8:30am — they open email. Inbox is manageable. [Tracking shot] Clock ticking, then confident typing flow" },
+    { "shot": 5, "prompt": "Phone face-down on desk, lid closed on laptop. Wide shot of calm, productive desk with morning sun. Phone is buried under a book — intentionally out of reach. Subscribe button animation. [Pull out] Wide establishing shot of the distraction-free setup" }
+  ],
+
+  "metadata": {
+    "youtube_title": "Stop Checking Email First Thing — It's Destroying Your Productivity (The First Hour Rule)",
+    "youtube_description": "Checking your email first thing in the morning feels productive. Science shows it's actually making you reactive, stressed, and less creative for the rest of the day. Here's the cortisol effect and the First Hour Rule that top performers use.\n\n📌 What you'll learn:\n- Why email-first mornings hand control to others\n- The cortisol spike effect and its 2-4 hour impact on creativity\n- The First Hour Rule: protect your first 90 minutes\n- How to process email from a place of control, not panic\n\n🔔 Subscribe for more anti-habits that actually work.",
+    "youtube_tags": ["email productivity", "focus", "morning routine", "cortisol", "deep work", "time management", "habits", "productivity tips"],
+    "tiktok_caption": "Stop checking email first thing in the morning 😱 Cortisol spike = 2-4 hours of reduced creativity BEFORE 9am. Do your most important task FIRST. #email #productivity #focus #morningroutine #habits",
+    "playlist": "Focus & Deep Work"
+  },
+
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 72,
+    "voice": "male_calm_professional (MiniMax speech-02-hd)",
+    "music_volume": 0.25,
+    "voice_volume": 1.0,
+    "aspect_ratio": "9:16 and 16:9"
+  }
+}

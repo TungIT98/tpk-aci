@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60" width="160" height="60">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&amp;display=swap');
+      .bg { fill: #1A2744; rx: 8; }
+      .wordmark { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 36px; fill: #C9A84C; letter-spacing: 2px; }
+    </style>
+  </defs>
+  <rect width="160" height="60" class="bg" rx="8"/>
+  <text x="80" y="42" text-anchor="middle" class="wordmark">TKP</text>
+</svg>

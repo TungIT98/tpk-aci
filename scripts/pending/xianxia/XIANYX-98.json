@@ -1,0 +1,76 @@
+﻿{
+  "id": "XIANYX-98",
+  "title": "Thanh Van Mon Episode 17: The Source of Corruption",
+  "category": "xianxia",
+  "channel": "Thanh Van Mon",
+  "series": "Thanh Van Mon",
+  "episode": 17,
+  "audience": "Fans of Chinese fantasy, cultivation/xianxia drama viewers, 18-35 demographic who enjoy uncovering deep conspiracies and ancient villain reveals",
+  "tone": "Dark revelation, conspiracy exposed, ancient evil revealed, dread and determination",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Silver Gate was corrupted from the outside — by something the kingdom had forgotten existed. And it was coming for her specifically.",
+    "story_arc": "Investigation begins → Ancient records found → The Shadow Scribe revealed → Connected to her bloodline → Gate opens for the source",
+    "emotion": "Investigation → Revelation → Horror → Connection understood → Dread",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the kingdom's ancient archive. Deep underground. Dust and cobwebs on shelves of crystal tablets. Our protagonist searches with the restored butterfly spirit as her guide. The tablet the spirit leads her to: ancient script. The protagonist translates slowly. The words: 'The Shadow Scribe. The one who writes corruption into butterfly bloodlines. Cursed three thousand years ago. Sealed beyond the Silver Gate.' Camera: wide shot — archive, crystal tablets, protagonist translating ancient script, butterfly guiding. 6 seconds.",
+      "camera": "Wide shot — ancient archive, crystal tablets, protagonist translating ancient script with butterfly guide, 6s",
+      "narration": "The corruption was not random. It was written. By something ancient. Something sealed.",
+      "sfx": "Archive echoes, dust falling, tablet scraping, her translating, butterfly wing flutter"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — she turns another tablet. Reads aloud: 'The Shadow Scribe cursed the butterfly bloodline — because a butterfly painter once wrote him out of existence. Erased his story from every book. Every record. He was written — out of the world.' She looks at the butterfly spirit beside her. 'The Shadow Scribe — wanted revenge on the butterfly bloodline that erased him.' The spirit nods slowly. 'And you — are the last butterfly painter.' Camera: close-up — translating the revenge story, understanding connecting, last butterfly painter revelation. 6 seconds.",
+      "camera": "Close-up — translating revenge story, connection understanding, last butterfly painter revelation, 6s",
+      "narration": "The Shadow Scribe was written out of existence — by a butterfly painter. Now he was erasing butterfly painters in return.",
+      "sfx": "Tablet turning, her translating, connection clicking, spirit nodding, wind in archive"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium — the Silver Gate behind them RUMBLES. The Queen arrives, breathless. 'The seal is breaking. He is pushing through.' Through the gate — visible now — a hand made of pure shadow. Ink-black. Writing something on the gate itself. Each shadow-character it writes — causes the gate to crack more. The protagonist's butterfly mark BURNS in response. Camera: medium — gate rumbling, shadow hand visible, writing on gate, mark burning on her arm. 6 seconds.",
+      "camera": "Medium — gate rumbling, shadow hand writing on gate, shadow characters causing cracks, mark burning, 6s",
+      "narration": "The Shadow Scribe was breaking through. Writing himself back into existence — using the gate as his canvas.",
+      "sfx": "Gate rumbling, shadow writing sound, stone cracking, mark burning, queen's gasp"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up extreme — the shadow hand writes a single character on the gate. The character is ancient, dark, full of malice. It reads: 'ERASURE.' As it solidifies — the protagonist GASPS. She knows this character. Her own ancestor wrote this character — to erase the Shadow Scribe. Now HE was writing it back. On HER bloodline. Camera: extreme close-up — shadow character 'ERASURE' solidifying, her gasp of recognition, it was her ancestor's own character being weaponized. 6 seconds.",
+      "camera": "Extreme close-up — shadow character 'ERASURE' forming, her gasp, ancestor's character weaponized against her, 6s",
+      "narration": "Her ancestor's own erasure character — rewritten by the one she erased. His revenge was perfect.",
+      "sfx": "Shadow character solidifying, ancient ink dripping, her gasp, heartbeat, gate cracking"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Medium — she looks at the Jade butterfly in her robes. Then at the Silver Gate. Then at the Queen. Speaks: 'I have to go through the gate. To end this at the source.' The Queen: 'If you go through — you may not come back. The Shadow Scribe's realm — erases those who enter.' She nods. 'Then I will paint my way back.' The Jade butterfly blazes. Camera: medium — her declaring she must enter the gate, queen warning, her resolve, jade blazing. 6 seconds.",
+      "camera": "Medium — declaring she must enter gate, queen warning, jade blazing, resolve set, 6s",
+      "narration": "She chose to walk into erasure itself. To end the Shadow Scribe — forever.",
+      "sfx": "Jade blazing, her steadying breath, gate cracking, queen's sorrowful nod, wind"
+    }
+  ],
+  "publishedAt": "2026-04-06T02:51:15.326Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625468444997127445"
+}

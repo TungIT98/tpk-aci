@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-071",
+  "title": "Dau Pha Thuong Khau Episode 11: The Broken Compass",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "His father's compass always pointed toward home. Now it points toward the palace — toward his father, alive, on the emperor's throne.",
+    "story_arc": "Compass anomaly discovered → Truth revealed by advisor → Journey to palace → Palace gates in sight → Dread at the gates",
+    "emotion": "Unease → Shock → Determination → Hope → Dread",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Close-up — a young man in dark midnight-blue Hanfu with silver thread embroidery kneels at a simple grave in a misty mountain cemetery. His father's grave. He holds an antique silver compass — the compass that always pointed toward home, toward his family. He places it gently on the grave. The needle TWITCHES. Rotates slowly. Then begins pointing — with violent certainty — toward the distant imperial palace. His hand trembles. Camera: close-up on compass needle rotating away from home toward palace. 6 seconds.",
+      "camera": "Close-up — compass needle rotating from grave toward distant palace, his trembling hand, 6s",
+      "narration": "His father's compass had always pointed home. Every morning for twenty years. Until today — when it pointed toward the palace. Toward his father.",
+      "sfx": "Needle twitching, compass mechanism clicking, distant wind, his sharp inhale"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he bursts into the advisor's study. Ancient maps, portraits of emperors line the walls. He slams the compass on the desk. 'My father has been dead for twenty years. Why does this point to the palace?' The advisor — old, grey, wise — looks at the compass. Then at him. 'Because your father,' he says quietly, 'is not dead. He sits on the throne.' Camera: medium, his shock, advisor's calm revelation. 6 seconds.",
+      "camera": "Two-shot — his shock, advisor's quiet revelation, 'your father sits on the throne', 6s",
+      "narration": "The advisor had served his father. Had watched him fall. And had lied — for twenty years. His father was not dead. He was emperor. He had been emperor all along.",
+      "sfx": "Door slamming, compass hitting desk, his heavy breathing, advisor's calm whisper, dark revelation strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide cinematic — he walks a mountain road toward the distant imperial city. Other sons travel the same road — reuniting with fathers, embracing at the gates. He walks alone. He watches them with hollow eyes. Twenty years of grief, ending in a reunion he still cannot believe. Camera: wide, him walking alone on a road filled with reunions, golden afternoon light. 6 seconds.",
+      "camera": "Wide — solo road journey through reuniting families, hollow-eyed protagonist alone, 6s",
+      "narration": "The road was filled with sons returning to fathers. He walked among them — the only one who did not know if he was going home, or to his death.",
+      "sfx": "Footsteps on dirt road, distant joyful reunions, wind, melancholic flute"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Extreme wide aerial at sunset — he crests the final hill. The imperial palace sprawls below in the golden hour light — vast, magnificent, terrifying. Thousands of red columns. A million lanterns beginning to light. And at the very center — the throne room. The compass needle points with violent certainty at its golden doors. He stands small against the vast palace. Camera: extreme wide aerial, palace from above, small lone figure on hill, compass in hand. 6 seconds.",
+      "camera": "Extreme wide aerial — vast palace below, small lone figure on hill, compass pointing at throne room, 6s",
+      "narration": "Twenty years of believing his father was dead. And now — he stood at the edge of the palace. Where his father supposedly took his last breath. Where the compass pointed.",
+      "sfx": "Wind howling, distant palace bells, his quiet breath, epic orchestral swell"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — he stands at the palace gates at dusk. Torchlight flickers. Imperial guards in ceremonial armor. Citizens streaming past. He is in commoner's clothes — small, overwhelmed, a nobody. Through the gates, through the courtyard, through the long corridor — at the end: the throne room door. A long shadow stretches from beneath it. A figure is already sitting on the throne. Camera: close-up on his face, eyes fixed on the throne room door, long imperial shadow stretching toward him. 6 seconds. End on his face.",
+      "camera": "Close-up — palace gates, throne room door with long shadow, figure already seated, his dread face, 6s",
+      "narration": "Someone was already on the throne. Someone who had been sitting there — for twenty years. His father? An imposter? Or something worse than either?",
+      "sfx": "Torchlight flickering, palace bells, distant throne room hum, his held breath, ominous strings"
+    }
+  ],
+  "audio": {
+    "narration": "His father's compass had always pointed home. Every morning for twenty years. Until today — when it pointed toward the palace. Toward his father. The advisor had served his father. Had watched him fall. And had lied — for twenty years. His father was not dead. He was emperor. He had been emperor all along. The road was filled with sons returning to fathers. He walked among them — the only one who did not know if he was going home, or to his death. Twenty years of believing his father was dead. And now — he stood at the edge of the palace. Where his father supposedly took his last breath. Where the compass pointed. Someone was already on the throne. Someone who had been sitting there — for twenty years. His father? An imposter? Or something worse than either?",
+    "narration_duration": 28,
+    "bg_music": "Dark Chinese palace orchestral, mystery theme, melancholic strings and guzheng, building tension 80 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Needle twitching",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Door slamming",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Footsteps on dirt road",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Wind howling",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Torchlight flickering",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Close-up — a young man in dark midnight-blue Hanfu with silver thread embroidery kneels at a simple grave in a misty mountain cemetery. His father's grave. He holds an antique silver compass — the compass that always pointed toward home, toward his family. He places it gently on the grave. The needle TWITCHES. Rotates slowly. Then begins pointing — with violent certainty — toward the distant imperial palace. His hand trembles. Camera: close-up on compass needle rotating away from home toward palace. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he bursts into the advisor's study. Ancient maps, portraits of emperors line the walls. He slams the compass on the desk. 'My father has been dead for twenty years. Why does this point to the palace?' The advisor — old, grey, wise — looks at the compass. Then at him. 'Because your father,' he says quietly, 'is not dead. He sits on the throne.' Camera: medium, his shock, advisor's calm revelation. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide cinematic — he walks a mountain road toward the distant imperial city. Other sons travel the same road — reuniting with fathers, embracing at the gates. He walks alone. He watches them with hollow eyes. Twenty years of grief, ending in a reunion he still cannot believe. Camera: wide, him walking alone on a road filled with reunions, golden afternoon light. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Extreme wide aerial at sunset — he crests the final hill. The imperial palace sprawls below in the golden hour light — vast, magnificent, terrifying. Thousands of red columns. A million lanterns beginning to light. And at the very center — the throne room. The compass needle points with violent certainty at its golden doors. He stands small against the vast palace. Camera: extreme wide aerial, palace from above, small lone figure on hill, compass in hand. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Close-up — he stands at the palace gates at dusk. Torchlight flickers. Imperial guards in ceremonial armor. Citizens streaming past. He is in commoner's clothes — small, overwhelmed, a nobody. Through the gates, through the courtyard, through the long corridor — at the end: the throne room door. A long shadow stretches from beneath it. A figure is already sitting on the throne. Camera: close-up on his face, eyes fixed on the throne room door, long imperial shadow stretching toward him. 6 seconds. End on his face."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Tập 11: La Bàn Phá Vỡ | Xianxia Việt Sub ⚔️🏯",
+    "youtube_description": "Episode 11 of Dau Pha Thuong Khau. His father's compass always pointed home — until it began pointing toward the imperial palace, toward a father he believed dead for twenty years. Now he stands at the palace gates, facing an impossible truth.\n\n⚔️ Dau Pha Thuong Khau — Original Chinese Fantasy Series\n📌 Follow for Episode 12\n#xianxia #dau pha thuong khau #palace intrigue #emperor #mystery #epic",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "palace intrigue",
+      "long lost father",
+      "compass",
+      "emperor throne",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "La bàn của cha luôn chỉ về nhà — giờ nó chỉ về HOÀNG CUNG, về người cha đáng lẽ đã chết 20 năm trước ⚔️🏯 Tập 11 DPTK #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Close-up — a young man in dark midnight-blue Hanfu with silver thread embroidery kneels at a simple grave in a misty mountain cemetery. His father's grave. He holds an antique silver compass — the compass that always pointed toward home, toward his family. He places it gently on the grave. The needle TWITCHES. Rotates slowly. Then begins pointing — with violent certainty — toward the distant imperial palace. His hand trembles. Camera: close-up on compass needle rotating away from home toward palace. 6 seconds. Shot 2: Medium shot — he bursts into the advisor's study. Ancient maps, portraits of emperors line the walls. He slams the compass on the desk. 'My father has been dead for twenty years. Why does this point to the palace?' The advisor — old, grey, wise — looks at the compass. Then at him. 'Because your father,' he says quietly, 'is not dead. He sits on the throne.' Camera: medium, his shock, advisor's calm revelation. 6 seconds. Shot 3: Wide cinematic — he walks a mountain road toward the distant imperial city. Other sons travel the same road — reuniting with fathers, embracing at the gates. He walks alone. He watches them with hollow eyes. Twenty years of grief, ending in a reunion he still cannot believe. Camera: wide, him walking alone on a road filled with reunions, golden afternoon light. 6 seconds. Shot 4: Extreme wide aerial at sunset — he crests the final hill. The imperial palace sprawls below in the golden hour light — vast, magnificent, terrifying. Thousands of red columns. A million lanterns beginning to light. And at the very center — the throne room. The compass needle points with violent certainty at its golden doors. He stands small against the vast palace. Camera: extreme wide aerial, palace from above, small lone figure on hill, compass in hand. 6 seconds. Shot 5: Close-up — he stands at the palace gates at dusk. Torchlight flickers. Imperial guards in ceremonial armor. Citizens streaming past. He is in commoner's clothes — small, overwhelmed, a nobody. Through the gates, through the courtyard, through the long corridor — at the end: the throne room door. A long shadow stretches from beneath it. A figure is already sitting on the throne. Camera: close-up on his face, eyes fixed on the throne room door, long imperial shadow stretching toward him. 6 seconds. End on his face.",
+  "visual_scene": "Close-up — a young man in dark midnight-blue Hanfu with silver thread embroidery kneels at a simple grave in a misty mountain cemetery. His father's grave. He holds an antique silver compass — the compass that always pointed toward home, toward his family. He places it gently on the grave. The needle TWITCHES. Rotates slowly. Then begins pointing — with violent certainty — toward the distant imperial palace. His hand trembles. Camera: close-up on compass needle rotating away from home toward palace. 6 seconds. Medium shot — he bursts into the advisor's study. Ancient maps, portraits of emperors line the walls. He slams the compass on the desk. 'My father has been dead for twenty years. Why does this point to the palace?' The advisor — old, grey, wise — looks at the compass. Then at him. 'Because your father,' he says quietly, 'is not dead. He sits on the throne.' Camera: medium, his shock, advisor's calm revelation. 6 seconds. Wide cinematic — he walks a mountain road toward the distant imperial city. Other sons travel the same road — reuniting with fathers, embracing at the gates. He walks alone. He watches them with hollow eyes. Twenty years of grief, ending in a reunion he still cannot believe. Camera: wide, him walking alone on a road filled with reunions, golden afternoon light. 6 seconds. Extreme wide aerial at sunset — he crests the final hill. The imperial palace sprawls below in the golden hour light — vast, magnificent, terrifying. Thousands of red columns. A million lanterns beginning to light. And at the very center — the throne room. The compass needle points with violent certainty at its golden doors. He stands small against the vast palace. Camera: extreme wide aerial, palace from above, small lone figure on hill, compass in hand. 6 seconds. Close-up — he stands at the palace gates at dusk. Torchlight flickers. Imperial guards in ceremonial armor. Citizens streaming past. He is in commoner's clothes — small, overwhelmed, a nobody. Through the gates, through the courtyard, through the long corridor — at the end: the throne room door. A long shadow stretches from beneath it. A figure is already sitting on the throne. Camera: close-up on his face, eyes fixed on the throne room door, long imperial shadow stretching toward him. 6 seconds. End on his face.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 11: The Broken Compass",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "palace intrigue",
+    "long lost father",
+    "compass",
+    "emperor throne",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-53",
+  "title": "Ha Tien Du Episode 3: The Inner Sect's Mockery",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 3,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Tense, humiliated, building anger, quiet defiance",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "They made him carry their water pails. He carried something far more dangerous.",
+    "story_arc": "Serving inner disciples → Public humiliation → Silent endurance → Eyes notice something → The dangerous smile",
+    "emotion": "Humiliation → Patience → Suppressed rage → Observation → Hidden smile",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide shot — the sect's main courtyard in daylight. Inner disciples in pristine white and gold robes practice sword forms in perfect unison. Beautiful, flowing movements. Our young man — Ha Tien Du — walks across the courtyard carrying two massive wooden water pails on a pole across his shoulders. His head is bowed. Disciples don't even look at him. Camera: wide shot establishing the beauty and order, then tracking his bowed figure crossing through. 6 seconds.",
+      "camera": "Wide tracking shot — beauty of inner disciples, then tracking him crossing, 6s",
+      "narration": "Every morning he carried water for the inner disciples. Every morning, they ignored him.",
+      "sfx": "Sword clash sounds, training shouts, disciples laughing, his footsteps on stone"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — a group of three inner disciples stop him in the courtyard. The leader, a handsome young man with an arrogant sneer, kicks one of the water pails. It spills. The disciples laugh. 'Worthless,' the leader spits. 'You couldn't cultivate even if you tried.' Others mock. Ha Tien Du says nothing. Just stares at the ground. Camera: medium shot, disciples mocking, his bowed head in the center. 6 seconds.",
+      "camera": "Medium — center on him being mocked, disciples surrounding him, 6s",
+      "narration": "Until one day, a young disciple accidentally knocked the pail. And he saw the secret.",
+      "sfx": "Water splashing, mocking laughter, his silence cutting through, heartbeat"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — the young disciple stares at Ha Tien Du's bare forearm. On it, barely visible in certain light: faint black veins. The young disciple's eyes widen with shock. He recognizes cultivation marks — but these are wrong, forbidden. Ha Tien Du quickly pulls his sleeve down. Their eyes meet. A silent understanding. Camera: close-up on the young disciple's shocked face, then the two men's eyes meeting. 6 seconds.",
+      "camera": "Close-up — shock on face, then eye contact between the two, 6s",
+      "narration": "A young disciple saw the black marks. And for the first time — someone was afraid.",
+      "sfx": "Sudden silence in courtyard, sharp inhale, distant wind, tension building"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium close-up — Ha Tien Du bends down to collect the spilled pail. The young disciple follows him with his eyes. Ha Tien Du, still kneeling, slowly turns his head. Makes brief eye contact with the young disciple. Then smiles. Not a happy smile. A knowing smile. The black energy faintly pulses under his sleeve. Camera: medium close-up, his knowing smile, dark energy flicker. 6 seconds.",
+      "camera": "Medium close-up — his dark knowing smile, black energy flicker, 6s",
+      "narration": "Not the smile of a servant. The smile of something awakening.",
+      "sfx": "Heartbeat, faint dark hum, wind, the smile hanging in the air"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Ha Tien Du lifts the heavy wooden pail pole onto his shoulders effortlessly — clearly different from before. He walks away through the courtyard, past the staring young disciple. The camera follows him from behind. In the background, the arrogant leader notices nothing. But the young disciple watches Ha Tien Du's back with growing fear and fascination. Camera: wide tracking shot following him from behind, young disciple watching. 6 seconds.",
+      "camera": "Wide tracking from behind — his powerful walk, young disciple's fearful gaze, 6s",
+      "narration": "The sect's greatest mistake was making him invisible. Now he was invisible on purpose.",
+      "sfx": "Footsteps, distant training sounds, building orchestral tension, silence at end"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-53.mp4",
+  "produced_at": "2026-04-05T14:00:52.895Z",
+  "publishedAt": "2026-04-06T01:20:03.019Z",
+  "tiktok_url": "/@fai20128/video/7625449525477510420"
+}

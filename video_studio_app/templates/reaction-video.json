@@ -1,0 +1,52 @@
+{
+  "name": "Reaction Video",
+  "description": "Split-screen or picture-in-picture reaction format with commentary overlaid. Subject: viral videos, movie clips, news events, or other people's content.",
+  "target_platform": "tiktok",
+  "voice_style": "expressive, reactive, authentic — gasp, laugh, and think aloud; genuine first-take energy",
+  "music_mood": "background: the source video audio plays naturally; overlay music only during commentary pauses",
+  "hashtag_suggestions": ["#react", "#reaction", "#fyp", "#viral", "#foryou", "#mustwatch", "#opinion", "#POV"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 3,
+      "narration_prompt": "Wait. Wait wait wait. Are you seeing this? Rewind. Rewind it again.",
+      "visual_prompt": "Person sitting in front of phone/computer, looking shocked, hand covering mouth, split-screen with video content in corner",
+      "camera_movement": "snap zoom on reaction face, split-screen composition with source content in PiP corner",
+      "lighting_setup": "ring light as key light on face, screen glow filling frame, slightly dim background to center reaction face",
+      "hailuo_style_note": "PiP/split-screen aesthetic is the core format; reaction face must be bright and clear against the dark background",
+      "transition": "snap_zoom"
+    },
+    {
+      "type": "content",
+      "duration_sec": 30,
+      "narration_prompt": "[Reacting throughout] — pointing at screen — Oh my god, no. No way. Did you — did you see what they just did?! Okay I need a second. Pause it. I need to process this.",
+      "visual_prompt": "Person pointing at PiP screen, laughing or jaw-dropping, scrolling comments visible, genuine shock/joy expressions",
+      "camera_movement": "medium close-up static on face, cuts to comment scroll insert, back to face reaction",
+      "lighting_setup": "ring light bright and even on face, screen glow as secondary fill, natural expression colors",
+      "hailuo_style_note": "Genuine expression is the content — bright ring light ensures face reads clearly at all times during reaction",
+      "transition": "commentary_overlay"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Here's the thing though — this is fake. I'm pretty sure this is staged. Look at the camera angle. But even if it's real — the reaction alone is worth the watch.",
+      "visual_prompt": "Person breaking down evidence, circling things on screen with finger, analytical expression returning, slight grin",
+      "camera_movement": "medium close-up, slight push-in on analytical beat, steady hold",
+      "lighting_setup": "slightly brighter/key light for analytical mode, slightly cooler tones, more serious energy",
+      "hailuo_style_note": "Analytical beat shift — subtle lighting shift from shock to thought signals the mode change without words",
+      "transition": "cut_to_analysis"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 7,
+      "narration_prompt": "Follow for more reactions — I do these every single day. Drop a comment below and tell me what video you want me to react to next.",
+      "visual_prompt": "Person waving at camera, smile, subscribe text overlay, duo-lens setup visible showing both reaction and source content",
+      "camera_movement": "medium close-up, warm friendly wave gesture, energetic finish",
+      "lighting_setup": "warm bright light on wave/finish, energetic warm tones",
+      "hailuo_style_note": "Energy bump on outro — subscriber acquisition moment; wave gesture adds personality",
+      "transition": "bounce_out"
+    }
+  ]
+}

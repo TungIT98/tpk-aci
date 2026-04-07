@@ -1,0 +1,25 @@
+{
+  "name": "@tkp/customer-service",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-powered customer service automation using MiniMax M2 and Qdrant",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "setup-qdrant": "tsx src/scripts/setup-qdrant.ts",
+    "ingest-kb": "tsx src/scripts/ingest-knowledge-base.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "@qdrant/js-client-rest": "^1.12.0",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.2"
+  }
+}

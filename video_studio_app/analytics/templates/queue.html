@@ -1,0 +1,139 @@
+{% extends "base.html" %}
+{% block title %}Queue Management{% endblock %}
+
+{% block content %}
+<div class="d-flex align-items-center justify-content-between mb-4">
+    <div>
+        <h2 class="mb-0" style="color:#e2e8f0; font-weight:800;">
+            <i class="bi bi-list-task text-purple me-2"></i>Queue Management
+        </h2>
+        <p class="text-muted mb-0" style="font-size:0.85rem;">
+            {{ total }} job{{ 's' if total != 1 else '' }} total
+        </p>
+    </div>
+    <div class="d-flex gap-2">
+        <!-- Filter pills -->
+        {% set statuses = [('all',None), ('pending','pending'), ('processing','processing'), ('done','done'), ('failed','failed')] %}
+        {% for label, val in statuses %}
+        <a href="/queue{% if val %}?status={{ val }}{% endif %}" class="btn btn-sm {% if (not val and not status_filter) or status_filter == val %}btn-primary{% else %}btn-outline-purple{% endif %}">
+            {{ label.capitalize() }}
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- ── Queue stats ─────────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+    {% for label, count, color in [
+        ('Pending', stats.pending, '#f59e0b'),
+        ('Processing', stats.processing, '#3b82f6'),
+        ('Completed', stats.done, '#10b981'),
+        ('Failed', stats.failed, '#ef4444'),
+    ] %}
+    <div class="col-6 col-md-3">
+        <div class="card p-3 text-center">
+            <div style="font-size:2rem; font-weight:800; color:{{ color }};">{{ count }}</div>
+            <div style="font-size:0.75rem; text-transform:uppercase; color:#64748b; letter-spacing:0.06em;">{{ label }}</div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- ── Jobs table ──────────────────────────────────────────────────────── -->
+<div class="card p-3">
+    {% if not jobs %}
+    <div class="text-center text-muted py-5">
+        <i class="bi bi-inbox" style="font-size:3rem; opacity:0.3;"></i>
+        <p class="mt-2 mb-0">No jobs found{{ ' with status "' + status_filter + '"' if status_filter else '' }}.</p>
+    </div>
+    {% else %}
+    <div class="table-responsive">
+        <table class="table align-middle mb-0" id="queueTable">
+            <thead>
+                <tr>
+                    <th>Job ID</th>
+                    <th>Template</th>
+                    <th>Platforms</th>
+                    <th>Status</th>
+                    <th>Priority</th>
+                    <th>Created</th>
+                    <th>Started</th>
+                    <th>Completed</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for job in jobs %}
+                <tr id="row-{{ job.job_id }}" class="{% if job.status == 'processing' %}table-active{% endif %}">
+                    <td>
+                        <span class="badge bg-dark">{{ job.job_id }}</span>
+                        {% if job.retry_count > 0 %}
+                        <span class="badge bg-warning text-dark ms-1" title="Retry {{ job.retry_count }}/{{ job.max_retries }}">↺{{ job.retry_count }}</span>
+                        {% endif %}
+                    </td>
+                    <td style="font-size:0.85rem;">{{ job.template }}</td>
+                    <td>
+                        {% for p in job.platforms %}
+                        <span class="badge badge-platform-{{ p }} mb-1">{{ p }}</span>
+                        {% endfor %}
+                    </td>
+                    <td>
+                        <span class="badge badge-status-{{ job.status }}">{{ job.status }}</span>
+                    </td>
+                    <td>
+                        {% if job.priority > 0 %}
+                        <span class="text-warning">▲{{ job.priority }}</span>
+                        {% elif job.priority < 0 %}
+                        <span class="text-muted">▼{{ job.priority|abs }}</span>
+                        {% else %}
+                        <span class="text-muted">—</span>
+                        {% endif %}
+                    </td>
+                    <td style="font-size:0.78rem; color:#64748b;">
+                        {% if job.created_at %}{{ job.created_at[:16] }}{% else %}—{% endif %}
+                    </td>
+                    <td style="font-size:0.78rem; color:#64748b;">
+                        {% if job.started_at %}{{ job.started_at[:16] }}{% else %}—{% endif %}
+                    </td>
+                    <td style="font-size:0.78rem; color:#64748b;">
+                        {% if job.completed_at %}{{ job.completed_at[:16] }}{% else %}—{% endif %}
+                    </td>
+                    <td>
+                        {% if job.status in ('pending', 'processing') %}
+                        <form method="POST" action="/queue/cancel/{{ job.job_id }}" style="display:inline;">
+                            <button type="submit" class="btn btn-sm btn-outline-danger"
+                                    onclick="return confirm('Cancel job {{ job.job_id }}?');"
+                                    title="Cancel job">
+                                <i class="bi bi-x-lg"></i>
+                            </button>
+                        </form>
+                        {% endif %}
+                        {% if job.status == 'failed' %}
+                        <form method="POST" action="/queue/retry/{{ job.job_id }}" style="display:inline;">
+                            <button type="submit" class="btn btn-sm btn-outline-success"
+                                    title="Retry failed job">
+                                <i class="bi bi-arrow-clockwise"></i>
+                            </button>
+                        </form>
+                        {% endif %}
+                        {% if job.error_message %}
+                        <button class="btn btn-sm btn-outline-secondary" title="{{ job.error_message }}">
+                            <i class="bi bi-exclamation-triangle text-warning"></i>
+                        </button>
+                        {% endif %}
+                    </td>
+                </tr>
+                {% if job.error_message %}
+                <tr style="background:rgba(239,68,68,0.05);">
+                    <td colspan="9" style="font-size:0.78rem; color:#ef4444; padding:0.25rem 1rem;">
+                        <i class="bi bi-exclamation-circle me-1"></i>{{ job.error_message }}
+                    </td>
+                </tr>
+                {% endif %}
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

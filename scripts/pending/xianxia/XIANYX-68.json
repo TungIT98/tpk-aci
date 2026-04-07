@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-68",
+  "title": "Trieu Tien Episode 18: The Mother's Blessing",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 18,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Spiritual blessing, mother's final gift, emotional climax, overwhelming power",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "Twenty years of sealed power — released in one moment of need.",
+    "story_arc": "Mother's spirit embraces Trieu Tien → Full power transferred → Her cultivation skyrockets → The army trembles → General yields",
+    "emotion": "Wonder → Embrace → Power explosion → Awe → Victory",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Close-up — Trieu Tien falls to her knees. Her mother's spirit wraps around her — like arms of light. She sobs openly. The spirit embraces her, strokes her hair. Mouths words she cannot hear — but understands. 'You were never alone.' The spirit places the blade of light in Trieu Tien's hand. It solidifies into real steel. Camera: close-up — spirit embracing her, sobbing, blade of light materializing in her hand. 6 seconds.",
+      "camera": "Close-up — spirit embracing, sobbing openly, blade of light materializing, 6s",
+      "narration": "Twenty years of waiting. Twenty years of sealed love. All released at once.",
+      "sfx": "Spirit embrace, her sobs, light solidifying, wind, heartbeat slowing"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — Trieu Tien stands. Completely transformed. Her crimson robe is now edged with pure white-gold light. Her hairpin blazes. Her blade burns with double fire — crimson and white combined. Her cultivation aura expands — visibly — faster than the naked eye can follow. The ground cracks beneath her feet. Every disciple on the sect wall gasps. Camera: medium — transformed Trieu Tien, blazing aura, ground cracking, everyone gasping. 6 seconds.",
+      "camera": "Medium — fully transformed, blazing aura, ground cracking, awe and power, 6s",
+      "narration": "She had absorbed twenty years of her mother's cultivation. In an instant.",
+      "sfx": "Aura explosion, stone cracking, gasps from crowd, energy humming, wind swirling"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide shot — the General drops to one knee. Not from a blow — from the sheer pressure of her aura. His soldiers behind him — some falling, some fleeing. The entire army is pushed back by pure spiritual pressure. Trieu Tien stands at the center — a pillar of crimson-gold fire. Trieu Huong watches from the sect gate — awestruck. Camera: wide shot — General on one knee, army pushed back, pillar of fire at center, Huong awestruck. 6 seconds.",
+      "camera": "Wide shot — General kneeling, army retreating, pillar of fire, awe, 6s",
+      "narration": "The army of a thousand — was brought to its knees by one woman ablaze.",
+      "sfx": "Spiritual pressure, soldiers falling, General's knee hitting stone, wind roaring, fire crackling"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium close-up — the General raises his head. His eyes are wet. He speaks: 'You have her fire.' He removes his armor piece by piece. Sets down his broadsword. 'This war — ends here. I will not raise arms against Bao Mai's daughter.' He bows his head. The army behind him — lowers their weapons. One by one. A thousand blades touching stone. Camera: medium — General removing armor, lowering weapon, army lowering weapons one by one, silence. 6 seconds.",
+      "camera": "Medium — General removing armor, bowing head, army lowering weapons one by one, peace, 6s",
+      "narration": "Twenty years of war — ended not with a death, but with a yielding.",
+      "sfx": "Armor pieces clattering, weapons touching stone one by one, silence spreading, wind dying"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Close-up — Trieu Tien's mother spirit fades. But as she goes — she smiles. Touches Trieu Tien's cheek one last time. Dissolves into light that settles on Trieu Tien's hairpin — now calm, glowing softly. Trieu Tien stands alone — powerful, changed, at peace. Looks at the kneeling General. Then at the now-peaceful army. Camera: close-up — mother's final touch, fading smile, light settling on hairpin, Trieu Tien at peace. 6 seconds.",
+      "camera": "Close-up — mother's final touch, fading, light settling on calm hairpin, peace, 6s",
+      "narration": "Her mother's final gift — not war. Not vengeance. Peace.",
+      "sfx": "Spirit fading, gentle light, her quiet sob, hairpin glowing softly, peaceful silence"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-68.mp4",
+  "produced_at": "2026-04-05T14:08:41.008Z",
+  "publishedAt": "2026-04-06T02:51:03.738Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625460316624801045"
+}

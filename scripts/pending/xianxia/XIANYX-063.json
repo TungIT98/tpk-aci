@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-063",
+  "title": "Trieu Tien Episode 13: The War Council of Bones",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 13,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The enemy had lost three thousand soldiers without a single death on her side. Now they planned something far worse — an attack on the thing she loved most.",
+    "story_arc": "Enemy council → New sinister plan → Information arrives → Desperate decision → She leaves the temple",
+    "emotion": "Dark confidence → Horror → Urgency → Determination → Journey begins",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme close-up — an underground war room lit by blue ghost-fire. Enemy generals sit around a table made of ancient WAR MONUMENTS — swords driven into skulls. The young commander traces the map: 'If we cannot defeat her blade, we take her heart.' He points to a village at the foot of the mountain. 'The orphanage. The children she secretly funds.' Camera: extreme close-up, generals' shocked faces, dark war table, chilling plan. 6 seconds.",
+      "camera": "Extreme close-up — war council of bones, 'take her heart' referring to orphanage plan, chilling evil, 6s",
+      "narration": "They had lost three thousand soldiers without killing a single enemy. So they chose a different target. Not her body. Her heart. The orphanage she had founded for war orphans.",
+      "sfx": "Ghost-fire crackling, dagger stabbing map, sinister whispers, dark strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — she receives a messenger dove. Reads the letter. Her face goes WHITE. The letter falls from her fingers. She reads it again. Her hands begin to shake. The letter: 'We know about the children. Come alone to the village at moonrise, or we start with the smallest one.' Camera: medium, white-faced shock, shaking hands, letter trembling, devastating news. 6 seconds.",
+      "camera": "Close-up — white-faced reading, shaking hands, letter falling, devastating information, 6s",
+      "narration": "She had built the orphanage in secret — funded it with her own inheritance. She had never told anyone. And now they were holding the children hostage. The children who had no one else in the world.",
+      "sfx": "Dove wing flutter, letter sliding, her sharp inhale, heartbeat sound, tension strings"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up — she makes the decision instantly. She will go. She begins packing: the Crimson Blade, a change of clothes, a small toy rabbit — something for the youngest child. Her hands are steady now. Completely calm. This is not recklessness. This is a mother protecting her children. Camera: close-up on her packing the toy rabbit, calm mother-warrior resolve. 6 seconds.",
+      "camera": "Close-up — packing blade and toy rabbit for youngest orphan, calm mother-warrior resolve, 6s",
+      "narration": "The children had called her Sister. She had called them her family. And no army in the world was going to make her abandon them — not now, not ever.",
+      "sfx": "Blade sliding into sheath, toy rabbit placed carefully, quiet breath, maternal resolve theme"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Wide shot — she leaves the temple at night. Snow begins to fall. She walks down the mountain path toward the village. No horse. No armor. Just the crimson robe, the blade, and the snow. Camera: wide cinematic, solo snow walk down mountain, lone crimson figure, snow falling, epic loneliness. 6 seconds.",
+      "camera": "Wide cinematic — solo snow walk down mountain at night, crimson figure, snow falling, epic loneliness, 6s",
+      "narration": "She walked into the snow not because she was certain she would survive — but because the children had already survived too much. Someone had to come for them. Tonight, that someone was her.",
+      "sfx": "Snow crunching, wind, distant children's voices in memory, epic lonely strings"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Medium shot — she enters the village. Every door is closed. No lights. The orphanage at the far end — dark, silent. She stops at the village center. Soldiers emerge from shadows — fifty of them. The young enemy commander steps forward. 'Welcome, Sword Saint.' She draws her blade. Camera: medium, fifty soldiers emerging, commander greeting, blade drawn in snow. 6 seconds.",
+      "camera": "Medium — village ambush, 50 soldiers, commander greeting, blade drawn in snow, 6s",
+      "narration": "Fifty soldiers. One commander. One hostage orphanage. And her — with a blade and a toy rabbit. She smiled. They had no idea.",
+      "sfx": "Soldiers emerging from shadows, blade drawn, snow falling louder, tense orchestral"
+    }
+  ],
+  "audio": {
+    "narration": "They had lost three thousand soldiers without killing a single enemy. So they chose a different target. Not her body. Her heart. The orphanage she had founded for war orphans. She had built the orphanage in secret — funded it with her own inheritance. She had never told anyone. And now they were holding the children hostage. The children who had no one else in the world. The children had called her Sister. She had called them her family. And no army in the world was going to make her abandon them — not now, not ever. She walked into the snow not because she was certain she would survive — but because the children had already survived too much. Someone had to come for them. Tonight, that someone was her. Fifty soldiers. One commander. One hostage orphanage. And her — with a blade and a toy rabbit. She smiled. They had no idea.",
+    "narration_duration": 28,
+    "bg_music": "Dark tension Chinese orchestral, ghost-fire theme, maternal protectiveness, snow ambience, building dread 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ghost-fire crackling",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Dove wing flutter",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Blade sliding into sheath",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Snow crunching",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Soldiers emerging from shadows",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme close-up — an underground war room lit by blue ghost-fire. Enemy generals sit around a table made of ancient WAR MONUMENTS — swords driven into skulls. The young commander traces the map: 'If we cannot defeat her blade, we take her heart.' He points to a village at the foot of the mountain. 'The orphanage. The children she secretly funds.' Camera: extreme close-up, generals' shocked faces, dark war table, chilling plan. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — she receives a messenger dove. Reads the letter. Her face goes WHITE. The letter falls from her fingers. She reads it again. Her hands begin to shake. The letter: 'We know about the children. Come alone to the village at moonrise, or we start with the smallest one.' Camera: medium, white-faced shock, shaking hands, letter trembling, devastating news. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Close-up — she makes the decision instantly. She will go. She begins packing: the Crimson Blade, a change of clothes, a small toy rabbit — something for the youngest child. Her hands are steady now. Completely calm. This is not recklessness. This is a mother protecting her children. Camera: close-up on her packing the toy rabbit, calm mother-warrior resolve. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Wide shot — she leaves the temple at night. Snow begins to fall. She walks down the mountain path toward the village. No horse. No armor. Just the crimson robe, the blade, and the snow. Camera: wide cinematic, solo snow walk down mountain, lone crimson figure, snow falling, epic loneliness. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Medium shot — she enters the village. Every door is closed. No lights. The orphanage at the far end — dark, silent. She stops at the village center. Soldiers emerge from shadows — fifty of them. The young enemy commander steps forward. 'Welcome, Sword Saint.' She draws her blade. Camera: medium, fifty soldiers emerging, commander greeting, blade drawn in snow. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 13: Hội Đồng Chiến Tranh Xương | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 13 of Trieu Tien. Unable to defeat her in battle, the enemy targets her heart — the orphanage she secretly founded for war orphans. She walks into a deadly trap to save them.\n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 14\n#xianxia #trieu tien #orphanage #hostage #snow battle #dark plan #epic",
+    "youtube_tags": [
+      "xianxia",
+      "trie u tien",
+      "orphanage",
+      "hostage",
+      "dark enemy plan",
+      "snow battle",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Kẻ thù không thể đánh bại cô bằng kiếm — giờ chúng nhắm vào TRÁI TIM: trại mồ côi cô âm thầm nuôi dưỡng ⚔️❄️ Tập 13 Trieu Tien #xianxia #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme close-up — an underground war room lit by blue ghost-fire. Enemy generals sit around a table made of ancient WAR MONUMENTS — swords driven into skulls. The young commander traces the map: 'If we cannot defeat her blade, we take her heart.' He points to a village at the foot of the mountain. 'The orphanage. The children she secretly funds.' Camera: extreme close-up, generals' shocked faces, dark war table, chilling plan. 6 seconds. Shot 2: Medium shot — she receives a messenger dove. Reads the letter. Her face goes WHITE. The letter falls from her fingers. She reads it again. Her hands begin to shake. The letter: 'We know about the children. Come alone to the village at moonrise, or we start with the smallest one.' Camera: medium, white-faced shock, shaking hands, letter trembling, devastating news. 6 seconds. Shot 3: Close-up — she makes the decision instantly. She will go. She begins packing: the Crimson Blade, a change of clothes, a small toy rabbit — something for the youngest child. Her hands are steady now. Completely calm. This is not recklessness. This is a mother protecting her children. Camera: close-up on her packing the toy rabbit, calm mother-warrior resolve. 6 seconds. Shot 4: Wide shot — she leaves the temple at night. Snow begins to fall. She walks down the mountain path toward the village. No horse. No armor. Just the crimson robe, the blade, and the snow. Camera: wide cinematic, solo snow walk down mountain, lone crimson figure, snow falling, epic loneliness. 6 seconds. Shot 5: Medium shot — she enters the village. Every door is closed. No lights. The orphanage at the far end — dark, silent. She stops at the village center. Soldiers emerge from shadows — fifty of them. The young enemy commander steps forward. 'Welcome, Sword Saint.' She draws her blade. Camera: medium, fifty soldiers emerging, commander greeting, blade drawn in snow. 6 seconds.",
+  "visual_scene": "Extreme close-up — an underground war room lit by blue ghost-fire. Enemy generals sit around a table made of ancient WAR MONUMENTS — swords driven into skulls. The young commander traces the map: 'If we cannot defeat her blade, we take her heart.' He points to a village at the foot of the mountain. 'The orphanage. The children she secretly funds.' Camera: extreme close-up, generals' shocked faces, dark war table, chilling plan. 6 seconds. Medium shot — she receives a messenger dove. Reads the letter. Her face goes WHITE. The letter falls from her fingers. She reads it again. Her hands begin to shake. The letter: 'We know about the children. Come alone to the village at moonrise, or we start with the smallest one.' Camera: medium, white-faced shock, shaking hands, letter trembling, devastating news. 6 seconds. Close-up — she makes the decision instantly. She will go. She begins packing: the Crimson Blade, a change of clothes, a small toy rabbit — something for the youngest child. Her hands are steady now. Completely calm. This is not recklessness. This is a mother protecting her children. Camera: close-up on her packing the toy rabbit, calm mother-warrior resolve. 6 seconds. Wide shot — she leaves the temple at night. Snow begins to fall. She walks down the mountain path toward the village. No horse. No armor. Just the crimson robe, the blade, and the snow. Camera: wide cinematic, solo snow walk down mountain, lone crimson figure, snow falling, epic loneliness. 6 seconds. Medium shot — she enters the village. Every door is closed. No lights. The orphanage at the far end — dark, silent. She stops at the village center. Soldiers emerge from shadows — fifty of them. The young enemy commander steps forward. 'Welcome, Sword Saint.' She draws her blade. Camera: medium, fifty soldiers emerging, commander greeting, blade drawn in snow. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Trieu Tien Episode 13: The War Council of Bones",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "trie u tien",
+    "orphanage",
+    "hostage",
+    "dark enemy plan",
+    "snow battle",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

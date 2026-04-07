@@ -1,0 +1,177 @@
+{
+  "id": "XIANYX-072",
+  "title": "Dau Pha Thuong Khau Episode 12: The Throne Room of Mirrors",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thuong Khau",
+  "episode": 12,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "A thousand mirrors. One truth. And a father who has been dead for twenty years — sitting on the emperor's throne.",
+    "story_arc": "Hall of mirrors → Emperor reveals himself → Mirrors shatter → Real father's fate → The usurper speaks",
+    "emotion": "Dread → Horror → Revelation → Grief → Cold fury",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide cinematic — he enters the throne room. Every wall is covered in mirrors — a thousand reflections of the same room. At the center: an empty throne on a raised dais. As he approaches, each mirror shows a different reflection of the room — some show him young, some old, some show the room empty, some show it filled with ghosts. All wrong. The emperor is not here yet. Camera: wide orbit through the hall of mirrors, his reflection multiplied a thousand times, eerie golden candlelight. 6 seconds.",
+      "camera": "Wide orbit — hall of mirrors, a thousand reflections, empty throne, eerie multiplicity, 6s",
+      "narration": "A thousand mirrors. A thousand truths. A thousand lies. And at the center — an empty throne that should have been his father's.",
+      "sfx": "Ancient palace echo, mirror resonance, his footsteps echoing, heartbeat, eerie ambience"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — the emperor enters through the golden doors behind the throne. He walks forward. Sits on the throne with absolute authority. He is tall, imposing, dressed in imperial gold and dragon robes. His face — his FACE — it resembles his father but wrong. Like a portrait painted by someone who had only heard descriptions. The emperor smiles. 'My son.' The voice is his father's — but the cadences are wrong. Cruelly wrong. Camera: extreme close-up on emperor's wrong-smiling face, his voice, the son frozen in horror. 6 seconds.",
+      "camera": "Extreme close-up — emperor sitting on throne, wrong-smiling face, 'My son', son frozen in horror, 6s",
+      "narration": "That was not his father's smile. His father had never smiled like that — like a wolf wearing a man's face. The emperor had stolen more than the throne.",
+      "sfx": "Throne room doors, imperial footsteps, heavy breathing, his shocked gasp, dark orchestral sting"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Extreme close-up — the mirrors begin to shatter. One by one, cascading across the hall. Each crack reveals a vision: his real father — younger, kind-faced — being dragged from the throne by soldiers. His mouth open in a scream. Blood on the throne room floor. His father being stabbed. His father dying in a cell. Twenty years of truth in a cascade of glass. Camera: extreme close-up, mirrors shattering in cascade, visions of real father's death revealed. 6 seconds.",
+      "camera": "Extreme close-up — cascading mirror shatter, visions of real father's murder, twenty years of truth revealed, 6s",
+      "narration": "Twenty years. Every mirror showed the same truth: his real father — the kind emperor — pulled from this very throne and killed in the room below. The man on the throne was an imposter.",
+      "sfx": "Glass shattering cascade, gasps, horrifying vision whoosh, mournful strings, his scream"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he falls to his knees in the center of the shattered mirror hall. Golden shards beneath him cut his knees. He looks up at the imposter emperor — still smiling, watching him bleed. 'Who was my father?' he asks, voice breaking. The emperor stands slowly. Walks down from the dais. 'Your father,' he says, 'was weak. And weakness on the throne is the greatest crime.' He touches the son's face with his real father's ring. Camera: close-up, imposter touching his face with father's ring, voice of the usurper speaking his father's name. 6 seconds.",
+      "camera": "Close-up — imposter emperor descends, touches his face with father's ring, 'weakness on the throne', 6s",
+      "narration": "The man had stolen his father's throne, worn his father's face, spoken with his father's voice — and called his father's kindness a weakness. There was no word for what he was. There was only revenge.",
+      "sfx": "Golden ring clink, his sob, boots on glass, imposter's cold voice, building dark orchestral"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body cinematic — he stands slowly. Glass falls from his robes. His face: no longer grief. Cold, absolute clarity. He picks up a shard of his father's mirror. Looks at the reflection — his own face, his father's jaw. 'My father,' he says quietly, 'was the emperor. And I am his son.' He drops the shard. The emperor's smile finally fades. Camera: full-body, cold clarity, broken glass, son's cold declaration, epic confrontation. 6 seconds.",
+      "camera": "Full-body cinematic — cold clarity rising, glass falling, 'I am my father's son', epic confrontation stance, 6s",
+      "narration": "Twenty years of grief transformed in an instant. He was not here to mourn. He was here to reclaim what was stolen. His throne. His name. His father's legacy.",
+      "sfx": "Glass dropping, his cold breath, silence, then epic rising orchestral"
+    }
+  ],
+  "audio": {
+    "narration": "A thousand mirrors. A thousand truths. A thousand lies. And at the center — an empty throne that should have been his father's. That was not his father's smile. His father had never smiled like that — like a wolf wearing a man's face. The emperor had stolen more than the throne. Twenty years. Every mirror showed the same truth: his real father — the kind emperor — pulled from this very throne and killed in the room below. The man on the throne was an imposter. The man had stolen his father's throne, worn his father's face, spoken with his father's voice — and called his father's kindness a weakness. There was no word for what he was. There was only revenge. Twenty years of grief transformed in an instant. He was not here to mourn. He was here to reclaim what was stolen. His throne. His name. His father's legacy.",
+    "narration_duration": 28,
+    "bg_music": "Dark palace mystery orchestral, mirror shattering theme, horror and cold fury, dramatic strings 85 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ancient palace echo",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Throne room doors",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Glass shattering cascade",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Golden ring clink",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Glass dropping",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide cinematic — he enters the throne room. Every wall is covered in mirrors — a thousand reflections of the same room. At the center: an empty throne on a raised dais. As he approaches, each mirror shows a different reflection of the room — some show him young, some old, some show the room empty, some show it filled with ghosts. All wrong. The emperor is not here yet. Camera: wide orbit through the hall of mirrors, his reflection multiplied a thousand times, eerie golden candlelight. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — the emperor enters through the golden doors behind the throne. He walks forward. Sits on the throne with absolute authority. He is tall, imposing, dressed in imperial gold and dragon robes. His face — his FACE — it resembles his father but wrong. Like a portrait painted by someone who had only heard descriptions. The emperor smiles. 'My son.' The voice is his father's — but the cadences are wrong. Cruelly wrong. Camera: extreme close-up on emperor's wrong-smiling face, his voice, the son frozen in horror. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Extreme close-up — the mirrors begin to shatter. One by one, cascading across the hall. Each crack reveals a vision: his real father — younger, kind-faced — being dragged from the throne by soldiers. His mouth open in a scream. Blood on the throne room floor. His father being stabbed. His father dying in a cell. Twenty years of truth in a cascade of glass. Camera: extreme close-up, mirrors shattering in cascade, visions of real father's death revealed. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — he falls to his knees in the center of the shattered mirror hall. Golden shards beneath him cut his knees. He looks up at the imposter emperor — still smiling, watching him bleed. 'Who was my father?' he asks, voice breaking. The emperor stands slowly. Walks down from the dais. 'Your father,' he says, 'was weak. And weakness on the throne is the greatest crime.' He touches the son's face with his real father's ring. Camera: close-up, imposter touching his face with father's ring, voice of the usurper speaking his father's name. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body cinematic — he stands slowly. Glass falls from his robes. His face: no longer grief. Cold, absolute clarity. He picks up a shard of his father's mirror. Looks at the reflection — his own face, his father's jaw. 'My father,' he says quietly, 'was the emperor. And I am his son.' He drops the shard. The emperor's smile finally fades. Camera: full-body, cold clarity, broken glass, son's cold declaration, epic confrontation. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Dau Pha Thuong Khau Tập 12: Thiên Đường Gương Phản | Xianxia Việt Sub ⚔️🏯",
+    "youtube_description": "Episode 12 of Dau Pha Thuong Khau. A thousand mirrors reveal the truth: his father died on this throne. The man sitting on it is an imposter. Twenty years of lies shatter in a cascade of glass.",
+    "youtube_tags": [
+      "xianxia",
+      "dau pha thuong khau",
+      "throne room of mirrors",
+      "usurper emperor",
+      "father revealed",
+      "palace intrigue",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Ngàn gương phản chiếu sự thật: cha anh ta CHẾT trên ngai vàng này. Kẻ ngồi trên đó là kẻ mạo danh. 20 năm lừa dối đổ vỡ trong một trận kính ⚔️🏯 Tập 12 DPTK #xianxia #cổtrang",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide cinematic — he enters the throne room. Every wall is covered in mirrors — a thousand reflections of the same room. At the center: an empty throne on a raised dais. As he approaches, each mirror shows a different reflection of the room — some show him young, some old, some show the room empty, some show it filled with ghosts. All wrong. The emperor is not here yet. Camera: wide orbit through the hall of mirrors, his reflection multiplied a thousand times, eerie golden candlelight. 6 seconds. Shot 2: Close-up — the emperor enters through the golden doors behind the throne. He walks forward. Sits on the throne with absolute authority. He is tall, imposing, dressed in imperial gold and dragon robes. His face — his FACE — it resembles his father but wrong. Like a portrait painted by someone who had only heard descriptions. The emperor smiles. 'My son.' The voice is his father's — but the cadences are wrong. Cruelly wrong. Camera: extreme close-up on emperor's wrong-smiling face, his voice, the son frozen in horror. 6 seconds. Shot 3: Extreme close-up — the mirrors begin to shatter. One by one, cascading across the hall. Each crack reveals a vision: his real father — younger, kind-faced — being dragged from the throne by soldiers. His mouth open in a scream. Blood on the throne room floor. His father being stabbed. His father dying in a cell. Twenty years of truth in a cascade of glass. Camera: extreme close-up, mirrors shattering in cascade, visions of real father's death revealed. 6 seconds. Shot 4: Close-up — he falls to his knees in the center of the shattered mirror hall. Golden shards beneath him cut his knees. He looks up at the imposter emperor — still smiling, watching him bleed. 'Who was my father?' he asks, voice breaking. The emperor stands slowly. Walks down from the dais. 'Your father,' he says, 'was weak. And weakness on the throne is the greatest crime.' He touches the son's face with his real father's ring. Camera: close-up, imposter touching his face with father's ring, voice of the usurper speaking his father's name. 6 seconds. Shot 5: Full-body cinematic — he stands slowly. Glass falls from his robes. His face: no longer grief. Cold, absolute clarity. He picks up a shard of his father's mirror. Looks at the reflection — his own face, his father's jaw. 'My father,' he says quietly, 'was the emperor. And I am his son.' He drops the shard. The emperor's smile finally fades. Camera: full-body, cold clarity, broken glass, son's cold declaration, epic confrontation. 6 seconds.",
+  "visual_scene": "Wide cinematic — he enters the throne room. Every wall is covered in mirrors — a thousand reflections of the same room. At the center: an empty throne on a raised dais. As he approaches, each mirror shows a different reflection of the room — some show him young, some old, some show the room empty, some show it filled with ghosts. All wrong. The emperor is not here yet. Camera: wide orbit through the hall of mirrors, his reflection multiplied a thousand times, eerie golden candlelight. 6 seconds. Close-up — the emperor enters through the golden doors behind the throne. He walks forward. Sits on the throne with absolute authority. He is tall, imposing, dressed in imperial gold and dragon robes. His face — his FACE — it resembles his father but wrong. Like a portrait painted by someone who had only heard descriptions. The emperor smiles. 'My son.' The voice is his father's — but the cadences are wrong. Cruelly wrong. Camera: extreme close-up on emperor's wrong-smiling face, his voice, the son frozen in horror. 6 seconds. Extreme close-up — the mirrors begin to shatter. One by one, cascading across the hall. Each crack reveals a vision: his real father — younger, kind-faced — being dragged from the throne by soldiers. His mouth open in a scream. Blood on the throne room floor. His father being stabbed. His father dying in a cell. Twenty years of truth in a cascade of glass. Camera: extreme close-up, mirrors shattering in cascade, visions of real father's death revealed. 6 seconds. Close-up — he falls to his knees in the center of the shattered mirror hall. Golden shards beneath him cut his knees. He looks up at the imposter emperor — still smiling, watching him bleed. 'Who was my father?' he asks, voice breaking. The emperor stands slowly. Walks down from the dais. 'Your father,' he says, 'was weak. And weakness on the throne is the greatest crime.' He touches the son's face with his real father's ring. Camera: close-up, imposter touching his face with father's ring, voice of the usurper speaking his father's name. 6 seconds. Full-body cinematic — he stands slowly. Glass falls from his robes. His face: no longer grief. Cold, absolute clarity. He picks up a shard of his father's mirror. Looks at the reflection — his own face, his father's jaw. 'My father,' he says quietly, 'was the emperor. And I am his son.' He drops the shard. The emperor's smile finally fades. Camera: full-body, cold clarity, broken glass, son's cold declaration, epic confrontation. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 12: The Throne Room of Mirrors",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "dau pha thuong khau",
+    "throne room of mirrors",
+    "usurper emperor",
+    "father revealed",
+    "palace intrigue",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-03-31",
+  "week": "2026-W13",
+  "trending": [
+    {
+      "rank": 1,
+      "topic": "Gen Z Job Market Crisis — Why New Grads Can't Get Hired",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#newgrad2026", "#CareerTok", "#jobmarket2026", "#genzcareer"],
+      "potential_views": "50M+",
+      "competition": "medium",
+      "content_pillar": "hot_girl_fitness"
+    },
+    {
+      "rank": 2,
+      "topic": "The 'Great Lock In' — Hyperfocus Productivity Trend",
+      "platform": "TikTok",
+      "hashtags": ["#deepwork", "#productivitytok", "#lockin", "#focusmode"],
+      "potential_views": "20M+",
+      "competition": "low",
+      "content_pillar": "tech_ai"
+    },
+    {
+      "rank": 3,
+      "topic": "Side Hustle Validation — What Actually Works in 2026",
+      "platform": "Reddit / TikTok",
+      "hashtags": ["#sidehustle2026", "#2026hustle", "#moneymindset", "#facelesstiktok"],
+      "potential_views": "30M+",
+      "competition": "high",
+      "content_pillar": "lifestyle"
+    },
+    {
+      "rank": 4,
+      "topic": "End of the 9-to-5 Workday — Future of Work 2026",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#futureofwork", "#9to5", "#gigeconomy", "#flexiblework"],
+      "potential_views": "15M+",
+      "competition": "low",
+      "content_pillar": "motivation"
+    },
+    {
+      "rank": 5,
+      "topic": "AI in Recruitment — Gen Z vs AI Hiring Tools",
+      "platform": "TikTok / LinkedIn",
+      "hashtags": ["#AIhiring", "#jobsearchtips", "#careeradvice", "#resume2026"],
+      "potential_views": "10M+",
+      "competition": "low",
+      "content_pillar": "tech_ai"
+    },
+    {
+      "rank": 6,
+      "topic": "Spring / April Reset — Q2 Productivity Surge",
+      "platform": "TikTok / YouTube",
+      "hashtags": ["#AprilReset", "#q2goals", "#springproductivity", "#newmonth"],
+      "potential_views": "25M+",
+      "competition": "medium",
+      "content_pillar": "trending_aesthetic"
+    },
+    {
+      "rank": 7,
+      "topic": "ROI Maxxing — Applying Investment Thinking to Career",
+      "platform": "TikTok / Twitter",
+      "hashtags": ["#roimaxxing", "#careerstrategy", "#genzfinance", "#skills"],
+      "potential_views": "8M+",
+      "competition": "low",
+      "content_pillar": "lifestyle"
+    },
+    {
+      "rank": 8,
+      "topic": "Work Bloat vs Lean Work — Doing Less, Achieving More",
+      "platform": "TikTok / LinkedIn",
+      "hashtags": ["#workbloat", "#leanwork", "#productivity", "#busyness"],
+      "potential_views": "10M+",
+      "competition": "low",
+      "content_pillar": "comedy"
+    },
+    {
+      "rank": 9,
+      "topic": "How to Get Noticed by Recruiters on LinkedIn 2026",
+      "platform": "LinkedIn / TikTok",
+      "hashtags": ["#LinkedInTips", "#jobsearch", "#personalbranding", "#recruiter"],
+      "potential_views": "12M+",
+      "competition": "medium",
+      "content_pillar": "hot_girl_fitness"
+    },
+    {
+      "rank": 10,
+      "topic": "April 1 Spring Aesthetic — Cottagecore to Soft Life",
+      "platform": "TikTok",
+      "hashtags": ["#softlife", "#cottagecore", "#springvibes", "#aesthetic"],
+      "potential_views": "40M+",
+      "competition": "high",
+      "content_pillar": "trending_aesthetic"
+    }
+  ],
+  "content_calendar": {
+    "Monday": "hot_girl_fitness",
+    "Tuesday": "tech_ai",
+    "Wednesday": "lifestyle",
+    "Thursday": "comedy",
+    "Friday": "motivation",
+    "Saturday": "movie_review",
+    "Sunday": "trending_aesthetic"
+  }
+}

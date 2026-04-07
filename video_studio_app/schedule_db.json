@@ -1,0 +1,109 @@
+{
+  "scheduled_videos": [
+    {
+      "scheduled_video_id": "sv_0001",
+      "video_id": "vid_001",
+      "platform": "linkedin",
+      "scheduled_datetime": "2026-03-26T01:58:58.773918+00:00",
+      "title": "5 Morning Habits That Changed My Life",
+      "upload_status": "posted",
+      "posted_at": "2026-03-23T16:58:58.773918+00:00",
+      "job_id": "job_0001",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    },
+    {
+      "scheduled_video_id": "sv_0002",
+      "video_id": "vid_002",
+      "platform": "instagram",
+      "scheduled_datetime": "2026-03-26T03:58:58.773918+00:00",
+      "title": "Gen Z Productivity Hacks 2026",
+      "upload_status": "posted",
+      "posted_at": "2026-03-23T16:58:58.773918+00:00",
+      "job_id": "job_0002",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    },
+    {
+      "scheduled_video_id": "sv_0003",
+      "video_id": "vid_003",
+      "platform": "instagram",
+      "scheduled_datetime": "2026-03-26T05:58:58.773918+00:00",
+      "title": "I Tried This For 30 Days — Results",
+      "upload_status": "scheduled",
+      "posted_at": null,
+      "job_id": "job_0003",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    },
+    {
+      "scheduled_video_id": "sv_0004",
+      "video_id": "vid_004",
+      "platform": "youtube",
+      "scheduled_datetime": "2026-03-26T07:58:58.773918+00:00",
+      "title": "How I Stay Focused (Real Tips)",
+      "upload_status": "scheduled",
+      "posted_at": null,
+      "job_id": "job_0004",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    },
+    {
+      "scheduled_video_id": "sv_0005",
+      "video_id": "vid_005",
+      "platform": "instagram",
+      "scheduled_datetime": "2026-03-27T09:58:58.773918+00:00",
+      "title": "My Morning Routine as a Remote Worker",
+      "upload_status": "scheduled",
+      "posted_at": null,
+      "job_id": "job_0005",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    },
+    {
+      "scheduled_video_id": "sv_0006",
+      "video_id": "vid_001",
+      "platform": "linkedin",
+      "scheduled_datetime": "2026-03-27T11:58:58.773918+00:00",
+      "title": "Weird Productivity Tricks That Work",
+      "upload_status": "scheduled",
+      "posted_at": null,
+      "job_id": "job_0006",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    },
+    {
+      "scheduled_video_id": "sv_0007",
+      "video_id": "vid_002",
+      "platform": "instagram",
+      "scheduled_datetime": "2026-03-26T17:58:58.773918+00:00",
+      "title": "Day in My Life: Software Engineer",
+      "upload_status": "cancelled",
+      "posted_at": null,
+      "job_id": "job_0007",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    },
+    {
+      "scheduled_video_id": "sv_0008",
+      "video_id": "vid_003",
+      "platform": "instagram",
+      "scheduled_datetime": "2026-03-26T19:58:58.773918+00:00",
+      "title": "Building a Second Brain: Full Guide",
+      "upload_status": "cancelled",
+      "posted_at": null,
+      "job_id": "job_0008",
+      "error_message": null,
+      "metadata": {},
+      "created_at": "2026-03-22T16:58:58.773918+00:00"
+    }
+  ],
+  "next_id": 9
+}

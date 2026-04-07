@@ -1,0 +1,30 @@
+{
+  "id": "TECH-12",
+  "category": "tech_ai",
+  "channel": "TikTok_Viral",
+  "title": "AI nào sẽ thay thế developer trong 2025? Câu trả lời không ai ngờ tới",
+  "script": "Mọi người nói AI sẽ thay thế developer. Nhưng sự thật là: AI không thay thế developer. Developer dùng AI thay thế developer KHÔNG dùng AI. Và đó mới là cuộc chơi thật sự. Năm 2025, không phải AI hay nhất thắng. Mà là developer biết dùng AI hay nhất thắng.",
+  "prompt_for_hailuo": "Robot arm writing code on holographic screen in futuristic lab [Close up robot arm writing]. Developer sitting at futuristic desk with AI interface glowing [Medium shot developer typing]. Holographic AI assistant appears beside developer [Wide shot with hologram]. Developer and AI working together on code [Split screen composition]. Futuristic minimalist office, blue and purple neon lighting, AI circuits glowing, cutting edge technology atmosphere, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "ai",
+    "coding",
+    "future",
+    "developer",
+    "tech",
+    "artificialintelligence",
+    "2025"
+  ],
+  "thumbnail_idea": "Robot and human coding side by side, futuristic blue light, dramatic tech atmosphere",
+  "visual_scene": "A futuristic high-tech laboratory with holographic displays and blue-purple neon lighting, a robotic arm with glowing circuits writing elegant code on a massive holographic screen. A developer in a modern minimalist office workspace sits at a sleek desk surrounded by multiple AI interface screens glowing softly. An AI holographic assistant — represented by ethereal blue light particles forming a human-like shape — appears beside the developer, pointing at code. The developer nods, types a command, and the AI generates entire blocks of code in real-time. The scene shifts to show developer and AI working in perfect synergy — the human providing direction and creativity, the AI executing with precision. Futuristic minimalist office with blue and purple neon lighting, AI circuits glowing throughout, holographic displays floating in air, cutting edge technology atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, warm yellow indoor lighting, casual home setting, gym or fitness setting, street scene, dark grimy atmosphere",
+  "specific_details": "A robotic arm with glowing blue circuits writing elegant code on a holographic display in a futuristic lab, a developer in modern tech attire (black turtleneck, minimal accessories) sitting at a sleek minimalist desk with multiple AI interface screens glowing, a holographic AI assistant made of blue light particles appearing beside the developer pointing at code, developer and AI working together with the human providing direction and the AI executing code, futuristic minimalist office with blue-purple neon lighting and holographic displays.",
+  "status": "published",
+  "created_by": "CEO",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-12.mp4",
+  "produced_at": "2026-03-31T01:56:04.748Z",
+  "produced_by": "ceo-gen-wave2",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Fitness/Workout",
+  "description": "High-energy workout guide with warm-up, main session, and cooldown structure. Motivational tone, timer overlays, and form callouts.",
+  "target_platform": "tiktok",
+  "voice_style": "motivational, authoritative but encouraging, athletic — like a trainer who pushes you but respects your limits",
+  "music_mood": "electronic workout beats, high-energy EDM, motivational pop",
+  "hashtag_suggestions": ["#workout", "#fitness", "#gymtok", "#fitnessmotivation", "#fit", "#homeworkout", "#fitcheck", "#gains"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 3,
+      "narration_prompt": "10-minute full-body workout — no equipment, no excuses. You have time. Do it with me.",
+      "visual_prompt": "Open floor space, workout clothes on, timer displayed on screen, person bouncing on heels ready to start, athletic pose",
+      "camera_movement": "medium close-up static, slight push-in on energy, confident athletic stance",
+      "lighting_setup": "bright gym-style overhead lighting, high contrast, energetic cool-white light with slight blue tint",
+      "hailuo_style_note": "High energy from frame one; athletic pose and timer overlay signal 'structured workout' credibility",
+      "transition": "fast_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Warm-up first — 60 seconds of jumping jacks, 30 seconds of arm circles, 30 seconds of hip circles. Get the blood moving.",
+      "visual_prompt": "Person doing jumping jacks, wide shot of room, close-up of face showing determination, timer overlay counting down",
+      "camera_movement": "wide shot for jumping jacks, cut to medium for arm circles, static wide for hip circles",
+      "lighting_setup": "bright overhead gym lighting, slight side fill to show muscle movement, high energy cool tones",
+      "hailuo_style_note": "Wide-to-medium cuts match the fast warm-up energy; timer overlay is expected for workout content",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Circuit one — 10 squats, 10 push-ups, 10 lunges each side. Rest 30 seconds between rounds. Three rounds total.",
+      "visual_prompt": "Squat form close-up, push-up form from side angle, lunge form from front, countdown timer on screen, sweat dripping",
+      "camera_movement": "side angle for push-ups (essential for form), front angle for squats and lunges, macro detail on sweat",
+      "lighting_setup": "side key light to reveal muscle definition clearly, slight lens flare for energy, sweat glint detail",
+      "hailuo_style_note": "Side angle for push-ups is non-negotiable — form visibility is credibility; sweat detail adds realism",
+      "transition": "crossfade"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Circuit two — plank hold 45 seconds, mountain climbers 30 seconds, burpees 10. You made it this far. Finish it.",
+      "visual_prompt": "Plank position held, mountain climber feet close-up, burpee jump, person breathing hard, clock ticking",
+      "camera_movement": "side angle for plank and mountain climbers, front close-up for burpee jump, macro on breathing hard face",
+      "lighting_setup": "dynamic lighting matching intensity: brighter for burpees, focused side light for plank hold",
+      "hailuo_style_note": "Hard breathing face close-up is the emotional peak — it signals 'I did this too' relatability",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 15,
+      "narration_prompt": "Cool down — stretch your hip flexors, hamstrings, and chest. Hold each stretch for 30 seconds. Breathing is key here.",
+      "visual_prompt": "Floor stretching positions, close-up of hamstring stretch, person breathing deeply, calm ambient feel",
+      "camera_movement": "smooth slow cuts between stretch positions, static hold during stretch, slow tilt to face",
+      "lighting_setup": "warmer softer lighting than main workout, calm blue tones, diffused overhead",
+      "hailuo_style_note": "Cool-down lighting shift from cool-intense to warm-calm signals the rhythm change subconsciously",
+      "transition": "slow_fade"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 7,
+      "narration_prompt": "You just did a full workout in 10 minutes. That counts. Drink water, eat protein, and go crush your day.",
+      "visual_prompt": "Person sitting on floor smiling, water bottle in hand, sweat on forehead, workout summary graphic with checkmarks",
+      "camera_movement": "medium close-up on seated person, slow push-in on smile, pull-back to show context",
+      "lighting_setup": "warm triumphant lighting, soft and welcoming, slight lens flare for victory feel",
+      "hailuo_style_note": "Victory moment — person on floor smiling is relatable and triumphant; water bottle detail signals post-workout authenticity",
+      "transition": "fade_out"
+    }
+  ]
+}

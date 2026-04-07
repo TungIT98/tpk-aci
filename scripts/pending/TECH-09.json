@@ -1,0 +1,30 @@
+{
+  "id": "TECH-09",
+  "category": "tech_ai",
+  "channel": "TechHub",
+  "title": "Điện thoại của bạn đang theo dõi bạn — 3 cài đặt cần tắt ngay hôm nay",
+  "script": "Điện thoại của bạn theo dõi vị trí 247 lần mỗi ngày. Nó ghi âm khi bạn không yêu cầu. Nó đọc tin nhắn để target quảng cáo. Nhưng 90% người dùng không biết 3 cài đặt này đang âm thầm xâm phạm quyền riêng tư. Tắt Location History trong Google Maps settings. Tắt Microphone access cho apps không cần. Và quan trọng nhất: tắt Ad Personalization hoàn toàn. Bảo mật không phải tùy chọn — đó là quyền của bạn.",
+  "prompt_for_hailuo": "Smartphone floating in dark space, hundreds of tiny glowing red eyes and surveillance cameras appearing on its surface [3D product shot rotation]. Eyes transforming into padlock symbols as user toggles settings [Close up on screen]. Digital privacy shield materializing around phone, glowing blue protective aura [Wide shot shield forming]. Phone floating serenely in clean white space after protection [Final serene shot]. Dark surveillance aesthetic transitioning to clean white safety, red warning lights transforming to calming blue, cyberpunk to minimalist contrast, 9:16 portrait.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "privacy",
+    "smartphone",
+    "security",
+    "tech",
+    "settings",
+    "data",
+    "tips"
+  ],
+  "thumbnail_idea": "Smartphone with hundreds of glowing red surveillance eyes, transforming to padlocks",
+  "visual_scene": "A smartphone floating in dark surveillance space, hundreds of tiny glowing red eyes and miniature surveillance cameras suddenly appearing on its glossy surface, blinking and watching — a horrifying visualization of constant tracking. 3D product shot rotates the phone slowly, revealing more eyes on the back and sides. Close up on the screen — the user toggles settings, and the red eyes begin transforming into glowing padlock symbols one by one. A digital privacy shield materializes around the phone, glowing vivid blue protective aura expanding outward. Wide shot captures the shield fully forming, the dark surveillance space dissolving into clean white safety. Final serene shot: the phone floats peacefully in clean minimalist white space, a single blue lock icon pulsing gently. Red warning aesthetic transitions to calming blue protection. Portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright daylight scene, sunny outdoor setting, warm cozy home interior, cartoon cute robot design",
+  "specific_details": "Smartphone floating in dark surveillance space with hundreds of tiny glowing red eyes and surveillance cameras on its surface, red eyes transforming into glowing padlock symbols as settings are toggled, digital blue privacy shield materializing around phone expanding outward, dark surveillance aesthetic transitioning to clean white safety space, cyberpunk to minimalist contrast, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:27:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\TECH-09.mp4",
+  "produced_at": "2026-03-30T16:17:21.027Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

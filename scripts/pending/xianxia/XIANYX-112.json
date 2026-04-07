@@ -1,0 +1,181 @@
+﻿{
+  "id": "XIANYX-112",
+  "title": "Ha Tien Du Episode 22: The Fire Trial",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 22,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "To prove himself worthy of the Water of Origin, Luân must face the Fire Trial — a path through flames that had consumed every challenger for a thousand years.",
+    "story_arc": "Fire trial announced → Entering the flame corridor → Memory of her sacrifice → Walking through fire unharmed → Trial passed",
+    "emotion": "Tension → Fear → Memory → Courage → Triumph",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing — the Fire Trial corridor. A thousand-meter passage of PURE LIVING FLAME — no walls, no floor, just fire stretching into infinity. Ancient dragon script on the ground marks the path. Dozens of burned bones lie at the entrance — previous challengers. Luân stands at the threshold. Camera: wide, pure flame corridor, burned bones, Luân at entrance, ominous fire roar. 6 seconds.",
+      "camera": "Wide — pure living flame corridor, burned bones at entrance, Luân at threshold, ominous fire roar, 6s",
+      "narration": "The Fire Trial. A thousand-meter corridor of pure living flame that had killed every challenger for a thousand years. The bones at the entrance were his only preview of what awaited him.",
+      "sfx": "Fire roaring, bones creaking, his sharp inhale, ominous drums"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Medium shot — he takes the first step. The flames immediately engulf him. But he does not burn. His body glows with celestial water light — the waterfall's blessing protecting him. He walks forward slowly, flames parting around him like water. Camera: medium, water-light aura vs living flame, slow walk forward, beautiful contrast. 6 seconds.",
+      "camera": "Medium — water-light aura walking through living flame, flames parting, Luân protected by celestial blessing, 6s",
+      "narration": "The waterfall's blessing rose to meet the fire — not to extinguish it, but to walk through it. She had prepared him for this. The celestial river remembered everything — including how to survive flame.",
+      "sfx": "Flames roaring then parting, water light humming, his steady footsteps, mystical whoosh"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Flashback close-up — mid-trial, the flames show him a vision. His mother — the water priestess — standing at this SAME trial a thousand years ago. She too walked through fire unharmed. Her voice: 'The fire cannot hurt what the water has claimed.' He keeps walking, strengthened by her memory. Camera: flashback close-up, mother's water-light form in flames, his strengthened expression, continued walk. 6 seconds.",
+      "camera": "Flashback — mother walking through same fire trial in vision, her water-light blessing, his strengthened expression, 6s",
+      "narration": "The fire showed him his mother — walking this same path a thousand years before him. The same blessing. The same water light. She had walked through fire so that he could do the same.",
+      "sfx": "Vision whoosh, mother's voice whisper, fire roaring, his renewed breath, emotional swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he reaches the center of the trial. The fire INTENSIFIES — a wall of white-hot flame blocking the exit. He raises both hands. The celestial water light becomes a SHIELD — transparent, blue-white, perfect. He walks forward. The fire cannot penetrate the shield. His expression: absolutely calm, tearful, transcendent. Camera: extreme close-up, water shield pushing through white-hot fire, tearful calm face. 6 seconds.",
+      "camera": "Extreme close-up — water shield pushing through white-hot fire wall, his tearful transcendent calm face, 6s",
+      "narration": "He walked through the final wall of fire with water as his shield and his mother's memory as his compass. The fire had no answer for a heart that had already been through worse.",
+      "sfx": "Fire wall cracking, water shield humming, single tear, fire roaring then silence"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — he exits the fire trial. Cool mist on the other side. His clothes are untouched — not a singe. The dragon king awaits, genuinely impressed. The Water of Origin floats freely now. Camera: wide, he emerges from fire trial pristine, dragon king bowing slightly, Water of Origin presented. 6 seconds.",
+      "camera": "Wide — emergence from fire trial pristine, dragon king bowing, Water of Origin presented, triumphant, 6s",
+      "narration": "He emerged from the Fire Trial not triumphant but grateful. Grateful for the mother who had prepared him. For the fire that had tested him. For the water that had never let him go.",
+      "sfx": "Mist settling, fire dying, dragon king bowing, water of origin humming, emotional orchestral finale"
+    }
+  ],
+  "audio": {
+    "narration": "The Fire Trial. A thousand-meter corridor of pure living flame that had killed every challenger for a thousand years. The bones at the entrance were his only preview of what awaited him. The waterfall's blessing rose to meet the fire — not to extinguish it, but to walk through it. She had prepared him for this. The celestial river remembered everything — including how to survive flame. The fire showed him his mother — walking this same path a thousand years before him. The same blessing. The same water light. She had walked through fire so that he could do the same. He walked through the final wall of fire with water as his shield and his mother's memory as his compass. The fire had no answer for a heart that had already been through worse. He emerged from the Fire Trial not triumphant but grateful. Grateful for the mother who had prepared him. For the fire that had tested him. For the water that had never let him go.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese orchestral, fire trial theme, mother's memory, water shield, triumphant and emotional 92 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Fire roaring",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Flames roaring then parting",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Vision whoosh",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Fire wall cracking",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Mist settling",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing — the Fire Trial corridor. A thousand-meter passage of PURE LIVING FLAME — no walls, no floor, just fire stretching into infinity. Ancient dragon script on the ground marks the path. Dozens of burned bones lie at the entrance — previous challengers. Luân stands at the threshold. Camera: wide, pure flame corridor, burned bones, Luân at entrance, ominous fire roar. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Medium shot — he takes the first step. The flames immediately engulf him. But he does not burn. His body glows with celestial water light — the waterfall's blessing protecting him. He walks forward slowly, flames parting around him like water. Camera: medium, water-light aura vs living flame, slow walk forward, beautiful contrast. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Flashback close-up — mid-trial, the flames show him a vision. His mother — the water priestess — standing at this SAME trial a thousand years ago. She too walked through fire unharmed. Her voice: 'The fire cannot hurt what the water has claimed.' He keeps walking, strengthened by her memory. Camera: flashback close-up, mother's water-light form in flames, his strengthened expression, continued walk. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — he reaches the center of the trial. The fire INTENSIFIES — a wall of white-hot flame blocking the exit. He raises both hands. The celestial water light becomes a SHIELD — transparent, blue-white, perfect. He walks forward. The fire cannot penetrate the shield. His expression: absolutely calm, tearful, transcendent. Camera: extreme close-up, water shield pushing through white-hot fire, tearful calm face. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — he exits the fire trial. Cool mist on the other side. His clothes are untouched — not a singe. The dragon king awaits, genuinely impressed. The Water of Origin floats freely now. Camera: wide, he emerges from fire trial pristine, dragon king bowing slightly, Water of Origin presented. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Tập 22: Thử Thách Lửa | Xianxia Việt Sub ⚔️🌊",
+    "youtube_description": "Episode 22 of Ha Tien Du. Luân must walk through a thousand-meter corridor of living flame to prove himself worthy of the Water of Origin. His mother's blessing protects him.\n\n🌊 Ha Tien Du — Original Chinese Fantasy Series\n📌 Follow for Episode 23\n#xianxia #ha tiendu #fire trial #dragon realm #luân #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "fire trial",
+      "dragon realm",
+      "luân",
+      "water shield",
+      "mother's blessing",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Anh phải đi qua hành lang ngàn mét lửa sống để chứng minh bản thân — và ánh sáng thủy triều thiêng của mẹ anh bảo vệ anh ⚔️🔥 Tập 22 Ha Tien Du #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing — the Fire Trial corridor. A thousand-meter passage of PURE LIVING FLAME — no walls, no floor, just fire stretching into infinity. Ancient dragon script on the ground marks the path. Dozens of burned bones lie at the entrance — previous challengers. Luân stands at the threshold. Camera: wide, pure flame corridor, burned bones, Luân at entrance, ominous fire roar. 6 seconds. Shot 2: Medium shot — he takes the first step. The flames immediately engulf him. But he does not burn. His body glows with celestial water light — the waterfall's blessing protecting him. He walks forward slowly, flames parting around him like water. Camera: medium, water-light aura vs living flame, slow walk forward, beautiful contrast. 6 seconds. Shot 3: Flashback close-up — mid-trial, the flames show him a vision. His mother — the water priestess — standing at this SAME trial a thousand years ago. She too walked through fire unharmed. Her voice: 'The fire cannot hurt what the water has claimed.' He keeps walking, strengthened by her memory. Camera: flashback close-up, mother's water-light form in flames, his strengthened expression, continued walk. 6 seconds. Shot 4: Close-up — he reaches the center of the trial. The fire INTENSIFIES — a wall of white-hot flame blocking the exit. He raises both hands. The celestial water light becomes a SHIELD — transparent, blue-white, perfect. He walks forward. The fire cannot penetrate the shield. His expression: absolutely calm, tearful, transcendent. Camera: extreme close-up, water shield pushing through white-hot fire, tearful calm face. 6 seconds. Shot 5: Wide cinematic — he exits the fire trial. Cool mist on the other side. His clothes are untouched — not a singe. The dragon king awaits, genuinely impressed. The Water of Origin floats freely now. Camera: wide, he emerges from fire trial pristine, dragon king bowing slightly, Water of Origin presented. 6 seconds.",
+  "visual_scene": "Wide establishing — the Fire Trial corridor. A thousand-meter passage of PURE LIVING FLAME — no walls, no floor, just fire stretching into infinity. Ancient dragon script on the ground marks the path. Dozens of burned bones lie at the entrance — previous challengers. Luân stands at the threshold. Camera: wide, pure flame corridor, burned bones, Luân at entrance, ominous fire roar. 6 seconds. Medium shot — he takes the first step. The flames immediately engulf him. But he does not burn. His body glows with celestial water light — the waterfall's blessing protecting him. He walks forward slowly, flames parting around him like water. Camera: medium, water-light aura vs living flame, slow walk forward, beautiful contrast. 6 seconds. Flashback close-up — mid-trial, the flames show him a vision. His mother — the water priestess — standing at this SAME trial a thousand years ago. She too walked through fire unharmed. Her voice: 'The fire cannot hurt what the water has claimed.' He keeps walking, strengthened by her memory. Camera: flashback close-up, mother's water-light form in flames, his strengthened expression, continued walk. 6 seconds. Close-up — he reaches the center of the trial. The fire INTENSIFIES — a wall of white-hot flame blocking the exit. He raises both hands. The celestial water light becomes a SHIELD — transparent, blue-white, perfect. He walks forward. The fire cannot penetrate the shield. His expression: absolutely calm, tearful, transcendent. Camera: extreme close-up, water shield pushing through white-hot fire, tearful calm face. 6 seconds. Wide cinematic — he exits the fire trial. Cool mist on the other side. His clothes are untouched — not a singe. The dragon king awaits, genuinely impressed. The Water of Origin floats freely now. Camera: wide, he emerges from fire trial pristine, dragon king bowing slightly, Water of Origin presented. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 22: The Fire Trial",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "fire trial",
+    "dragon realm",
+    "luân",
+    "water shield",
+    "mother's blessing",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-06T04:30:00Z",
+  "publishedAt": "2026-04-06T13:44:23.539Z",
+  "tiktok_url": "/@fai20128/video/7625641391170833685"
+}

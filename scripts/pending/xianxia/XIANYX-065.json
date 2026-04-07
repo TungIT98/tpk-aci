@@ -1,0 +1,179 @@
+{
+  "id": "XIANYX-065",
+  "title": "Trieu Tien Episode 15: The General's Daughter",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 15,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "He was the general who led the attack on her temple — and she had loved him once.",
+    "story_arc": "Ruins discovered → Old love surfaces → Past remembered → Confrontation at the ashes → Blade between hearts",
+    "emotion": "Sorrow → Memory → Longing → Rage → Tragedy",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide establishing at dusk — she stands in the ruins of the inner sword temple. Ash covers everything. Burned scrolls. Shattered ancestor tablets. She walks through the devastation in silence. Then she sees his bootprint in the ash — a general's rank boot, fresh. He had been here. Camera: wide, ruins, ash, her solitary walk through destruction, long shadow at dusk. 6 seconds.",
+      "camera": "Wide — temple ruins at dusk, ash, her solitary walk through devastation, fresh bootprint discovered, 6s",
+      "narration": "The temple had stood for three hundred years. He had burned it in a single night. And yet — the bootprint was not the print of a conqueror. It was the print of someone who had been here before.",
+      "sfx": "Ash shifting underfoot, wind through broken beams, distant crows, somber strings"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up flashback — a golden memory: they are young, barely sixteen. Training under the moon at the Moon Gate. He is teaching her the third form of the Sword Saint technique — correcting her stance from behind, his hands gentle on her arms. Her face shows concentration mixed with something softer. He says: 'You will surpass me someday.' Camera: warm golden flashback tone, close-up on hands correcting stance, young love in training. 6 seconds.",
+      "camera": "Close-up — golden flashback, young training at Moon Gate, his hands correcting her stance, first love, 6s",
+      "narration": "She had loved him. And he had loved her. That was why he had burned the temple at night — so no one would know he had once called her name in the dark.",
+      "sfx": "Bamboo wind, soft breathing, young laughter, gentle string melody"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Extreme close-up present — she holds a charred sword hilt. No blade — just the hilt he broke when he fled the temple three years ago. He did not take it as a trophy. He kept it because she had once held it. She places it against her chest. Camera: extreme close-up, charred hilt against her chest, her eyes reflecting fire, grief and rage. 6 seconds.",
+      "camera": "Extreme close-up — charred sword hilt against her chest, eyes reflecting fire, grief and rage, 6s",
+      "narration": "She had given him that sword on the night he left — not knowing he would return at the head of an army. She pressed the broken hilt to her heart. Some wounds never stop bleeding.",
+      "sfx": "Charred wood cracking, heartbeat, her breath, grief strings swelling"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he steps from the shadows of the ruined archway. He is older now, scarred, wearing the armor of a Crimson Sun General. He stops when he sees her. She turns. For one breath — just one — neither of them moves. Then she draws the Crimson Blade. He does not draw his. 'You burned it,' she says. 'Yes.' 'You led the army.' 'Yes.' 'WHY?' Camera: close-up, his scarred face, her trembling blade, devastating Q&A. 6 seconds.",
+      "camera": "Close-up — scarred General emerging from shadows, her trembling blade drawn, devastating 'Why?' confrontation, 6s",
+      "narration": "He did not defend himself. He did not raise his blade. He stood there and let her rage pour over him — because he knew. He deserved every word. And the only answer to her WHY — was a truth neither of them could bear.",
+      "sfx": "Blade drawn, wind stopping, his silence, her shaking breath, tension string"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — she drives the blade through his shoulder — THROUGH the shoulder, pinning him to the ancient stone wall. Not a killing blow. A wound that will scar. He gasps. She leans close, her face beside his, tears falling on his armor. 'That,' she whispers, 'is for the temple.' She twists. He screams. She removes the blade and lets him fall. She walks away. He bleeds on the temple stones. Camera: wide, her walking away into the ash and mist, him crumpled, blade left behind, final frame on her back. 6 seconds.",
+      "camera": "Wide — blade through shoulder to wall, scar wound, tears on armor, twist and scream, she walks away into mist, 6s",
+      "narration": "She could have killed him. She chose to let him live — scarred, bleeding, unable to ever again pretend he had not been the one. Some punishments cut deeper than any blade.",
+      "sfx": "Blade piercing flesh, his scream echoing, her footsteps walking away, wind in ruins, silence"
+    }
+  ],
+  "audio": {
+    "narration": "The temple had stood for three hundred years. He had burned it in a single night. And yet — the bootprint was not the print of a conqueror. It was the print of someone who had been here before. She had loved him. And he had loved her. That was why he had burned the temple at night — so no one would know he had once called her name in the dark. She had given him that sword on the night he left — not knowing he would return at the head of an army. She pressed the broken hilt to her heart. Some wounds never stop bleeding. He did not defend himself. He did not raise his blade. He stood there and let her rage pour over him — because he knew. He deserved every word. And the only answer to her WHY — was a truth neither of them could bear. She could have killed him. She chose to let him live — scarred, bleeding, unable to ever again pretend he had not been the one. Some punishments cut deeper than any blade.",
+    "narration_duration": 28,
+    "bg_music": "Tragic Chinese orchestral, shattered love theme, ash and ruin atmosphere, crimson blade, heartbreak 75 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ash shifting underfoot",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Bamboo wind",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Charred wood cracking",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Blade drawn",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Blade piercing flesh",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide establishing at dusk — she stands in the ruins of the inner sword temple. Ash covers everything. Burned scrolls. Shattered ancestor tablets. She walks through the devastation in silence. Then she sees his bootprint in the ash — a general's rank boot, fresh. He had been here. Camera: wide, ruins, ash, her solitary walk through destruction, long shadow at dusk. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up flashback — a golden memory: they are young, barely sixteen. Training under the moon at the Moon Gate. He is teaching her the third form of the Sword Saint technique — correcting her stance from behind, his hands gentle on her arms. Her face shows concentration mixed with something softer. He says: 'You will surpass me someday.' Camera: warm golden flashback tone, close-up on hands correcting stance, young love in training. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Extreme close-up present — she holds a charred sword hilt. No blade — just the hilt he broke when he fled the temple three years ago. He did not take it as a trophy. He kept it because she had once held it. She places it against her chest. Camera: extreme close-up, charred hilt against her chest, her eyes reflecting fire, grief and rage. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — he steps from the shadows of the ruined archway. He is older now, scarred, wearing the armor of a Crimson Sun General. He stops when he sees her. She turns. For one breath — just one — neither of them moves. Then she draws the Crimson Blade. He does not draw his. 'You burned it,' she says. 'Yes.' 'You led the army.' 'Yes.' 'WHY?' Camera: close-up, his scarred face, her trembling blade, devastating Q&A. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — she drives the blade through his shoulder — THROUGH the shoulder, pinning him to the ancient stone wall. Not a killing blow. A wound that will scar. He gasps. She leans close, her face beside his, tears falling on his armor. 'That,' she whispers, 'is for the temple.' She twists. He screams. She removes the blade and lets him fall. She walks away. He bleeds on the temple stones. Camera: wide, her walking away into the ash and mist, him crumpled, blade left behind, final frame on her back. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Trieu Tien Tập 15: Con Gái Tướng Quân | Xianxia Việt Sub ⚔️",
+    "youtube_description": "Episode 15 of Trieu Tien. She returns to the ruins of her temple — and discovers the general who burned it had once been the boy she loved. A blade through the shoulder. A scar that would never heal. Some pain cuts deeper than any death.\n\n🐉 Trieu Tien — Original Chinese Fantasy Series\n📌 Follow for Episode 16\n#xianxia #trieu tien #tragic romance #temple ruins #crimson blade #epic #chinese fantasy",
+    "youtube_tags": [
+      "xianxia",
+      "trie u tien",
+      "the general",
+      "temple ruins",
+      "love destroyed",
+      "crimson blade",
+      "tragic romance",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Anh ấy là tướng quân đốt đền của cô — và cô đã từng yêu anh ấy. Một nhát kiếm xuyên vai. Một vết sẹo không bao giờ lành ⚔️💔 Tập 15 Trieu Tien #xianxia #cổtrang",
+    "playlist": "Trieu Tien"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide establishing at dusk — she stands in the ruins of the inner sword temple. Ash covers everything. Burned scrolls. Shattered ancestor tablets. She walks through the devastation in silence. Then she sees his bootprint in the ash — a general's rank boot, fresh. He had been here. Camera: wide, ruins, ash, her solitary walk through destruction, long shadow at dusk. 6 seconds. Shot 2: Close-up flashback — a golden memory: they are young, barely sixteen. Training under the moon at the Moon Gate. He is teaching her the third form of the Sword Saint technique — correcting her stance from behind, his hands gentle on her arms. Her face shows concentration mixed with something softer. He says: 'You will surpass me someday.' Camera: warm golden flashback tone, close-up on hands correcting stance, young love in training. 6 seconds. Shot 3: Extreme close-up present — she holds a charred sword hilt. No blade — just the hilt he broke when he fled the temple three years ago. He did not take it as a trophy. He kept it because she had once held it. She places it against her chest. Camera: extreme close-up, charred hilt against her chest, her eyes reflecting fire, grief and rage. 6 seconds. Shot 4: Close-up — he steps from the shadows of the ruined archway. He is older now, scarred, wearing the armor of a Crimson Sun General. He stops when he sees her. She turns. For one breath — just one — neither of them moves. Then she draws the Crimson Blade. He does not draw his. 'You burned it,' she says. 'Yes.' 'You led the army.' 'Yes.' 'WHY?' Camera: close-up, his scarred face, her trembling blade, devastating Q&A. 6 seconds. Shot 5: Wide cinematic — she drives the blade through his shoulder — THROUGH the shoulder, pinning him to the ancient stone wall. Not a killing blow. A wound that will scar. He gasps. She leans close, her face beside his, tears falling on his armor. 'That,' she whispers, 'is for the temple.' She twists. He screams. She removes the blade and lets him fall. She walks away. He bleeds on the temple stones. Camera: wide, her walking away into the ash and mist, him crumpled, blade left behind, final frame on her back. 6 seconds.",
+  "visual_scene": "Wide establishing at dusk — she stands in the ruins of the inner sword temple. Ash covers everything. Burned scrolls. Shattered ancestor tablets. She walks through the devastation in silence. Then she sees his bootprint in the ash — a general's rank boot, fresh. He had been here. Camera: wide, ruins, ash, her solitary walk through destruction, long shadow at dusk. 6 seconds. Close-up flashback — a golden memory: they are young, barely sixteen. Training under the moon at the Moon Gate. He is teaching her the third form of the Sword Saint technique — correcting her stance from behind, his hands gentle on her arms. Her face shows concentration mixed with something softer. He says: 'You will surpass me someday.' Camera: warm golden flashback tone, close-up on hands correcting stance, young love in training. 6 seconds. Extreme close-up present — she holds a charred sword hilt. No blade — just the hilt he broke when he fled the temple three years ago. He did not take it as a trophy. He kept it because she had once held it. She places it against her chest. Camera: extreme close-up, charred hilt against her chest, her eyes reflecting fire, grief and rage. 6 seconds. Close-up — he steps from the shadows of the ruined archway. He is older now, scarred, wearing the armor of a Crimson Sun General. He stops when he sees her. She turns. For one breath — just one — neither of them moves. Then she draws the Crimson Blade. He does not draw his. 'You burned it,' she says. 'Yes.' 'You led the army.' 'Yes.' 'WHY?' Camera: close-up, his scarred face, her trembling blade, devastating Q&A. 6 seconds. Wide cinematic — she drives the blade through his shoulder — THROUGH the shoulder, pinning him to the ancient stone wall. Not a killing blow. A wound that will scar. He gasps. She leans close, her face beside his, tears falling on his armor. 'That,' she whispers, 'is for the temple.' She twists. He screams. She removes the blade and lets him fall. She walks away. He bleeds on the temple stones. Camera: wide, her walking away into the ash and mist, him crumpled, blade left behind, final frame on her back. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Trieu Tien Episode 15: The General's Daughter",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "trie u tien",
+    "the general",
+    "temple ruins",
+    "love destroyed",
+    "crimson blade",
+    "tragic romance",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z"
+}

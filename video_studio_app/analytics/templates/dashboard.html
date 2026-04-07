@@ -1,0 +1,401 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<!-- ── Page header ─────────────────────────────────────────────────────── -->
+<div class="d-flex align-items-center justify-content-between mb-4">
+    <div>
+        <h2 class="mb-0" style="color:#e2e8f0; font-weight:800;">
+            <i class="bi bi-grid-1x2 text-purple me-2"></i>Analytics Dashboard
+        </h2>
+        <p class="text-muted mb-0" style="font-size:0.85rem;">Video Studio v3.0 — real-time pipeline overview</p>
+    </div>
+    <a href="/export" class="btn btn-outline-purple btn-sm">
+        <i class="bi bi-download me-1"></i> Export
+    </a>
+</div>
+
+<!-- ── Stat cards row 1 ──────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+
+    <!-- Queue: Total -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number">{{ queue_stats.total }}</div>
+                    <div class="stat-label">Total Jobs</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(124,58,237,0.15);">
+                    <i class="bi bi-list-task" style="color:var(--brand-primary); font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Queue: Pending -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number" style="color:#f59e0b;">{{ queue_stats.pending }}</div>
+                    <div class="stat-label">Pending</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(245,158,11,0.15);">
+                    <i class="bi bi-hourglass-split" style="color:#f59e0b; font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Queue: Processing -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number" style="color:#3b82f6;">{{ queue_stats.processing }}</div>
+                    <div class="stat-label">Processing</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(59,130,246,0.15);">
+                    <i class="bi bi-gear-wide-connected" style="color:#3b82f6; font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Queue: Done -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number" style="color:#10b981;">{{ queue_stats.done }}</div>
+                    <div class="stat-label">Completed</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(16,185,129,0.15);">
+                    <i class="bi bi-check-circle" style="color:#10b981; font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ── Stat cards row 2 ──────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+
+    <!-- Videos: Total -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number">{{ video_stats.total }}</div>
+                    <div class="stat-label">Videos Created</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(168,85,247,0.15);">
+                    <i class="bi bi-film" style="color:#a855f7; font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Videos: Uploaded -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number" style="color:#10b981;">{{ video_stats.uploaded }}</div>
+                    <div class="stat-label">Uploaded</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(16,185,129,0.15);">
+                    <i class="bi bi-cloud-upload" style="color:#10b981; font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Total Views -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number" style="color:#38bdf8;">{{ "{:,}".format(video_stats.total_views) }}</div>
+                    <div class="stat-label">Total Views</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(56,189,248,0.15);">
+                    <i class="bi bi-eye" style="color:#38bdf8; font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Revenue -->
+    <div class="col-6 col-md-3">
+        <div class="card stat-card p-3">
+            <div class="d-flex align-items-start justify-content-between">
+                <div>
+                    <div class="stat-number" style="color:#fbbf24;">${{ "%.2f"|format(video_stats.total_revenue) }}</div>
+                    <div class="stat-label">Est. Revenue</div>
+                </div>
+                <div class="rounded-circle p-2" style="background:rgba(251,191,36,0.15);">
+                    <i class="bi bi-currency-dollar" style="color:#fbbf24; font-size:1.2rem;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ── Charts row ────────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+    <!-- Line chart: Views over time -->
+    <div class="col-lg-8">
+        <div class="card p-3 h-100">
+            <div class="section-header">Views Over Time (Last 7 Days)</div>
+            <div class="chart-container">
+                <canvas id="viewsLineChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pie chart: Video status breakdown -->
+    <div class="col-lg-4">
+        <div class="card p-3 h-100">
+            <div class="section-header">Video Status Breakdown</div>
+            <div class="chart-container">
+                <canvas id="videoStatusPie"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ── Charts row 2 ─────────────────────────────────────────────────── -->
+<div class="row g-3 mb-4">
+    <!-- Bar chart: Template usage -->
+    <div class="col-lg-6">
+        <div class="card p-3 h-100">
+            <div class="section-header">Template Usage</div>
+            <div class="chart-container">
+                <canvas id="templateBarChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Platform breakdown -->
+    <div class="col-lg-6">
+        <div class="card p-3 h-100">
+            <div class="section-header">Performance by Platform</div>
+            <div class="chart-container">
+                <canvas id="platformChart"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ── Tables row ────────────────────────────────────────────────────── -->
+<div class="row g-3">
+    <!-- Queue quick view -->
+    <div class="col-lg-6">
+        <div class="card p-3">
+            <div class="d-flex align-items-center justify-content-between mb-3">
+                <div class="section-header mb-0">Queue Quick View</div>
+                <a href="/queue" class="btn btn-outline-purple btn-sm">Manage Queue</a>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-sm align-middle mb-0">
+                    <thead>
+                        <tr>
+                            <th>Job</th><th>Template</th><th>Status</th><th>Priority</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% set active_jobs = [] %}
+                    {% for j in [] %}  {# populated via JS API #}
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div id="queueQuickView"><div class="text-muted text-center py-3">Loading...</div></div>
+        </div>
+    </div>
+
+    <!-- Upcoming scheduled uploads -->
+    <div class="col-lg-6">
+        <div class="card p-3">
+            <div class="d-flex align-items-center justify-content-between mb-3">
+                <div class="section-header mb-0">Upcoming Uploads</div>
+                <a href="/calendar" class="btn btn-outline-purple btn-sm">Calendar</a>
+            </div>
+            <div id="upcomingUploads"><div class="text-muted text-center py-3">Loading...</div></div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+// ── Views over time (line chart) ───────────────────────────────────────
+const viewsLineCtx = document.getElementById('viewsLineChart').getContext('2d');
+new Chart(viewsLineCtx, {
+    type: 'line',
+    data: {
+        labels: {{ weekly_labels|tojson }},
+        datasets: [{
+            label: 'Views',
+            data: {{ weekly_views|tojson }},
+            borderColor: '#7c3aed',
+            backgroundColor: 'rgba(124,58,237,0.1)',
+            fill: true,
+            tension: 0.4,
+            pointBackgroundColor: '#7c3aed',
+            pointRadius: 5,
+        }]
+    },
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { display: false } },
+        scales: {
+            x: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#64748b' } },
+            y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#64748b' } }
+        }
+    }
+});
+
+// ── Video status pie ─────────────────────────────────────────────────────
+const statusPieCtx = document.getElementById('videoStatusPie').getContext('2d');
+new Chart(statusPieCtx, {
+    type: 'doughnut',
+    data: {
+        labels: ['Uploaded', 'Draft', 'Rendered'],
+        datasets: [{
+            data: [{{ video_stats.uploaded }}, {{ video_stats.draft }}, {{ video_stats.rendered }}],
+            backgroundColor: ['#10b981', '#f59e0b', '#3b82f6'],
+            borderWidth: 0,
+        }]
+    },
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { position: 'bottom', labels: { color: '#94a3b8', padding: 16 } } }
+    }
+});
+
+// ── Template usage bar ───────────────────────────────────────────────────
+const templateStats = {{ template_stats|tojson }};
+const templateLabels = Object.keys(templateStats);
+const templateTotals = templateLabels.map(k => templateStats[k].total || 0);
+
+const templateBarCtx = document.getElementById('templateBarChart').getContext('2d');
+new Chart(templateBarCtx, {
+    type: 'bar',
+    data: {
+        labels: templateLabels,
+        datasets: [{
+            label: 'Jobs',
+            data: templateTotals,
+            backgroundColor: templateLabels.map((_, i) =>
+                `hsla(${260 + i * 30}, 70%, 55%, 0.7)`
+            ),
+            borderRadius: 6,
+        }]
+    },
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { display: false } },
+        scales: {
+            x: { grid: { display: false }, ticks: { color: '#64748b', font: { size: 10 } } },
+            y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#64748b' }, beginAtZero: true }
+        }
+    }
+});
+
+// ── Platform bar chart ──────────────────────────────────────────────────
+const byPlatform = {{ video_stats.by_platform|tojson }};
+const platformLabels = Object.keys(byPlatform);
+const platformViews = platformLabels.map(k => byPlatform[k].views || 0);
+
+const platformCtx = document.getElementById('platformChart').getContext('2d');
+new Chart(platformCtx, {
+    type: 'bar',
+    data: {
+        labels: platformLabels,
+        datasets: [{
+            label: 'Views',
+            data: platformViews,
+            backgroundColor: platformLabels.map(p => ({ youtube:'#ff0000', tiktok:'#ff0050', instagram:'#e1306c', linkedin:'#0a66c2' }[p] || '#7c3aed')),
+            borderRadius: 6,
+        }]
+    },
+    options: {
+        indexAxis: 'y',
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { display: false } },
+        scales: {
+            x: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#64748b' } },
+            y: { grid: { display: false }, ticks: { color: '#94a3b8' } }
+        }
+    }
+});
+
+// ── Queue quick view (AJAX) ──────────────────────────────────────────────
+(async () => {
+    try {
+        const resp = await fetch('/api/queue/jobs');
+        const data = await resp.json();
+        const jobs = (data.jobs || []).slice(0, 8);
+        if (!jobs.length) {
+            document.getElementById('queueQuickView').innerHTML =
+                '<div class="text-muted text-center py-3">No jobs in queue.</div>';
+            return;
+        }
+        const rows = jobs.map(j => `
+            <tr>
+                <td><span class="badge bg-dark">${j.job_id}</span></td>
+                <td style="font-size:0.8rem;">${j.template}</td>
+                <td><span class="badge badge-status-${j.status}">${j.status}</span></td>
+                <td><span class="text-muted">${j.priority}</span></td>
+            </tr>`).join('');
+        document.getElementById('queueQuickView').innerHTML =
+            `<table class="table table-sm align-middle mb-0">
+                <thead><tr><th>Job</th><th>Template</th><th>Status</th><th>Pri</th></tr></thead>
+                <tbody>${rows}</tbody>
+            </table>`;
+    } catch {
+        document.getElementById('queueQuickView').innerHTML =
+            '<div class="text-danger text-center py-2">Failed to load queue.</div>';
+    }
+})();
+
+// ── Upcoming uploads (AJAX) ──────────────────────────────────────────────
+(async () => {
+    try {
+        const resp = await fetch('/api/schedule');
+        const data = await resp.json();
+        const videos = (data.scheduled_videos || [])
+            .filter(sv => sv.upload_status === 'scheduled')
+            .slice(0, 6);
+        if (!videos.length) {
+            document.getElementById('upcomingUploads').innerHTML =
+                '<div class="text-muted text-center py-3">No upcoming uploads.</div>';
+            return;
+        }
+        const rows = videos.map(sv => `
+            <div class="d-flex align-items-center justify-content-between py-2" style="border-bottom:1px solid rgba(255,255,255,0.05);">
+                <div>
+                    <div style="font-size:0.85rem; color:#e2e8f0;">${sv.title || sv.video_id}</div>
+                    <div style="font-size:0.72rem; color:#64748b;">${sv.scheduled_datetime}</div>
+                </div>
+                <span class="badge badge-platform-${sv.platform}">${sv.platform}</span>
+            </div>`).join('');
+        document.getElementById('upcomingUploads').innerHTML = rows;
+    } catch {
+        document.getElementById('upcomingUploads').innerHTML =
+            '<div class="text-danger text-center py-2">Failed to load schedule.</div>';
+    }
+})();
+</script>
+{% endblock %}

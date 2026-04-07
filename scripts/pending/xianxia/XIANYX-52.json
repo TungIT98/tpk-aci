@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-52",
+  "title": "Ha Tien Du Episode 2: The Black Serpent's Touch",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 2,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Intense, secretive, painful transformation, determination",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The manual requires sacrifice — blood for every breakthrough.",
+    "story_arc": "Desperate training → First meridian opens → Pain beyond想象 → Black veins appear → Hidden strength",
+    "emotion": "Desperation → Agony → Shock → Acceptance → Dark power",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide shot — deep in a forest at night. The young man stands barefoot on a mossy boulder in a stream. His hands are cut, blood dripping onto the pages of the Black Serpent Manual. Rain pours down. He reads by a small fire's glow. Camera: extreme wide establishing shot, slow zoom in through the trees. 6 seconds.",
+      "camera": "Tracking zoom — extreme wide through forest to the solitary figure, 6s",
+      "narration": "For three months, he trained in secret. Every night. Every dawn.",
+      "sfx": "Rain on leaves, stream flowing, fire crackling, page turning"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — his face contorted in extreme pain. His hands are pressed against a tree trunk, fingers digging into bark. Dark veins begin to appear on his forearm — black, pulsing, spreading. He grits his teeth. Blood drips from his nose. His eyes flash with dark energy. Camera: close-up on face, then quick cut to black veins spreading up his arm. 6 seconds.",
+      "camera": "Close-up — face pain, then cut to black veins spreading, 6s",
+      "narration": "The Black Serpent path was not gentle. It demanded blood. It demanded pain.",
+      "sfx": "Bones cracking, intense breathing, dark wind howling, heartbeat intensifying"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium wide shot — he collapses onto the forest floor, gasping. Black veins pulse visibly on his skin, glowing faintly. His entire body shakes. He looks at his hands — trembling, but different. Stronger. Dark energy swirls around his palms. Camera: wide shot from above, looking down at his prone figure, dark energy visible. 6 seconds.",
+      "camera": "Bird's-eye wide shot — his collapsed body, dark energy rising, 6s",
+      "narration": "But when the pain faded — something awakened inside him. Something the sect had never seen.",
+      "sfx": "Breathing slowing, dark energy crackling, wind settling, mysterious hum"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — he raises one trembling hand toward the camera. Black energy spirals around his fingers — pure black, smoky, alive. His eyes glow faintly with dark power. His lips form a grim smile. He clenches his fist. The black energy solidifies into a serpentine shadow that coils once around his arm then dissipates. Camera: close-up extreme on hand with black energy, then his smiling face. 6 seconds.",
+      "camera": "Extreme close-up — black energy swirling, then his dark smile, 6s",
+      "narration": "One meridian opened. The sect called it worthless. They had no idea what it truly meant.",
+      "sfx": "Energy crackling, dark wind, his quiet laugh, serpent hiss"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — he stands in the forest clearing, now calm. Rain has stopped. The first light of dawn breaks through clouds, illuminating his figure from behind. His torn gray robe billows in a sudden wind. His back is straight. He looks toward the distant sect peaks. Camera: wide shot from behind, dawn light silhouette, looking toward the sect. 6 seconds.",
+      "camera": "Wide shot from behind — dawn silhouette, powerful stance, 6s",
+      "narration": "They thought they were discarding trash. They were forging a weapon.",
+      "sfx": "Wind rising, distant morning bells from the sect, dramatic orchestral swell"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-52.mp4",
+  "produced_at": "2026-04-05T14:00:36.316Z",
+  "publishedAt": "2026-04-06T01:18:36.950Z",
+  "tiktok_url": "/@fai20128/video/7625449170312154389"
+}

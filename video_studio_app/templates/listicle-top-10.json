@@ -1,0 +1,62 @@
+{
+  "name": "Listicle/Top 10",
+  "description": "Countdown-format list video with bold text callouts, beat-synced transitions, and satisfying number reveals. High entertainment value, high share rate.",
+  "target_platform": "tiktok",
+  "voice_style": "punchy, high-energy, confident — like delivering hot takes; short declarative sentences with pauses for text reveals",
+  "music_mood": "high-energy pop, electronic countdown beats, whoosh and ding sound design for number reveals",
+  "hashtag_suggestions": ["#top10", "#list", "#fyp", "#mustwatch", "#facts", "#truth", "#til", "#didyouknow"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 3,
+      "narration_prompt": "10 habits that will make you richer in 2026 — number 7 surprised me.",
+      "visual_prompt": "Bold text '10 HABITS TO GET RICH' appearing on screen, money aesthetic, person looking excited, countdown timer graphic",
+      "camera_movement": "static medium close-up, bold text overlay fills frame",
+      "lighting_setup": "bold dramatic key light, gold accent tones, high contrast for bold text legibility",
+      "hailuo_style_note": "Bold text reveal is the format hook — text should be large, brand-colored, and animated with energy; lighting should make text pop",
+      "transition": "whoosh_number_reveal"
+    },
+    {
+      "type": "content",
+      "duration_sec": 18,
+      "narration_prompt": "Number 10: Automate your savings. Set it to 20% of every deposit. You never see it, you never miss it.",
+      "visual_prompt": "Bank app being swiped, auto-transfer notification, savings balance growing, number '10' graphic overlay",
+      "camera_movement": "cut from person close-up to screen recording insert, beat-synced cut on number reveal",
+      "lighting_setup": "phone screen glow on face, clean and bright for financial app screens, slight green accent for money aesthetics",
+      "hailuo_style_note": "Beat-synced cuts on number reveals are the format rhythm; app screen inserts break monotony and add credibility",
+      "transition": "beat_drop_transition"
+    },
+    {
+      "type": "content",
+      "duration_sec": 18,
+      "narration_prompt": "Number 7 — the one that changed my net worth: negotiate every bill. Internet, insurance, phone. One 20-minute call saved me $3,400 last year.",
+      "visual_prompt": "Person on phone looking confident, bills and numbers on screen being crossed out, cash graphic, number '7' graphic overlay",
+      "camera_movement": "medium close-up, confident head tilt, beat-synced cut on '7', pull-back on $3,400 reveal",
+      "lighting_setup": "triumphant warm lighting, gold/green money accent tones, celebratory feel on dollar amount reveal",
+      "hailuo_style_note": "Number 7 is the hero beat — invest lighting energy on this entry; dollar amount reveal deserves slow push-in",
+      "transition": "beat_drop_transition"
+    },
+    {
+      "type": "content",
+      "duration_sec": 18,
+      "narration_prompt": "Number 1: Invest in yourself before anything else. Courses, skills, health. The highest-return asset you have is you.",
+      "visual_prompt": "Person reading a book, laptop with course screen, gym shot, number '1' graphic with glow effect, confident close-up",
+      "camera_movement": "medium close-up on final beat, number '1' animated reveal with glow, slow cinematic push-in",
+      "lighting_setup": "dramatic golden spotlight on number '1', warm triumphant tones, cinematic quality",
+      "hailuo_style_note": "Number 1 deserves cinematic treatment — slow push-in, golden glow, triumphant lighting; this is the peak",
+      "transition": "build_up_transition"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 5,
+      "narration_prompt": "Save this. Share it. Follow for more. And start with number 7 tonight — that's your homework.",
+      "visual_prompt": "Person pointing at camera, all 10 numbers appearing as mini-icons, 'SAVE THIS' text, finger pointing at viewer",
+      "camera_movement": "medium close-up, confident point-at-camera gesture",
+      "lighting_setup": "bright warm energetic light, inviting and action-oriented",
+      "hailuo_style_note": "Mini-icons of all 10 numbers in one frame is a save-worthy screenshot; CTA should feel like homework, not sales",
+      "transition": "screen_freeze"
+    }
+  ]
+}

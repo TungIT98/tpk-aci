@@ -1,0 +1,78 @@
+﻿{
+  "id": "XIANYX-69",
+  "title": "Trieu Tien Episode 19: The New Alliance",
+  "category": "xianxia",
+  "channel": "Trieu Tien",
+  "series": "Trieu Tien",
+  "episode": 19,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Diplomatic victory, unexpected alliance, healing old wounds, hope",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Crimson Sun General — proposed an alliance. Her mother's army, now hers.",
+    "story_arc": "General proposes alliance → Sect elders resist → Trieu Tien's argument → Treaty signed at altar → Dawn of new era",
+    "emotion": "Surprise → Resistance → Persuasion → Acceptance → Hope",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Medium shot — the sect's great hall. The General kneels before the Sect Master. A formal treaty scroll between them. 'I offer the Crimson Sun Army — ten thousand soldiers — to an alliance with the sect. Under Trieu Tien's command.' The elders murmur loudly. Trieu Tien stands to the side, still glowing faintly from her transformation. She looks at the Sect Master. Camera: medium — General kneeling, treaty scroll, elders murmuring, Trieu Tien standing glowing. 6 seconds.",
+      "camera": "Medium — formal kneeling, treaty scroll, elders murmuring, Trieu Tien glowing, 6s",
+      "narration": "Ten thousand soldiers. Her mother's army. Offered to her by the man who loved her mother.",
+      "sfx": "Treaty scroll unrolling, elders murmuring, wind through hall, heartbeat"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — an elder slams his hand on the table. 'An alliance with the army that burned our gates?' Another elder: 'This is madness!' The Sect Master looks at Trieu Tien. 'Your thoughts, Trieu Tien?' She steps forward. Speaks: 'My mother was the enemy. Until she chose love over war. This General carries the same war in him that she once did.' Camera: close-up — elders arguing, then Trieu Tien stepping forward, speaking with wisdom. 6 seconds.",
+      "camera": "Close-up — elder slamming table, Trieu Tien stepping forward, speaking with ancient wisdom, 6s",
+      "narration": "And Trieu Tien — spoke with the wisdom of both her parents.",
+      "sfx": "Hand slamming table, voices rising, silence falling as she speaks, her calm voice"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Close-up extreme — Trieu Tien looks at the General directly. 'My mother chose the sect. You lost everything because of that choice. But you are here — not for vengeance — for her memory.' The General's eyes glisten. She turns to the elders. 'Honor our enemy's love for my mother. Accept this alliance.' Trieu Huong steps forward beside her. 'I second this.' Camera: extreme close-up — Trieu Tien's eyes on General glistening, turning to elders, Huong stepping forward. 6 seconds.",
+      "camera": "Extreme close-up — General's glistening eyes, her calm authority, Huong stepping forward, 6s",
+      "narration": "She offered her mother's enemy — not defeat, but redemption.",
+      "sfx": "Her calm authoritative voice, General's sharp breath, footsteps, silence"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Medium shot — the Sect Master stands slowly. Walks to the treaty scroll. Picks up the brush. Writes his seal. The sound of the brush on paper — echoing in the silent hall. He hands the brush to Trieu Tien. She signs. Then the General signs. Three seals. The alliance is complete. Camera: medium shot — brush sounds, three seals on treaty, alliance completed. 6 seconds.",
+      "camera": "Medium — brush sounds on paper, three seals, alliance completed, dawn light, 6s",
+      "narration": "The treaty was sealed. And twenty years of war — ended with ink.",
+      "sfx": "Brush on paper, ink flowing, paper sealing, wind through open door, distant morning bells"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — the sword altar at dawn. Trieu Tien and Trieu Huong stand together. Their blades planted point-down in the altar stone. The General and Sect Master stand either side. Behind them — banners of both sect and Crimson Sun army flying together. The hairpins of both women catch the dawn light. Camera: wide shot — sword altar at dawn, two blades, all banners flying together, dawn light, new era. 6 seconds.",
+      "camera": "Wide shot — altar at dawn, dual blades planted, all banners together, dawn light, hope, 6s",
+      "narration": "The new era had begun. One sect. One army. Two daughters of the Sword Saint.",
+      "sfx": "Dawn light breaking, banners waving together, wind, triumphant orchestral swell, then peaceful silence"
+    }
+  ],
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\XIANYX-69.mp4",
+  "produced_at": "2026-04-05T14:09:18.024Z",
+  "publishedAt": "2026-04-06T01:42:05.108Z",
+  "tiktok_url": "/@fai20128/video/7625455213482151189"
+}

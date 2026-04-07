@@ -1,0 +1,179 @@
+﻿{
+  "id": "XIANYX-101",
+  "title": "Muc Than Ky Episode 11: The Ink That Bleeds",
+  "category": "xianxia",
+  "channel": "Muc Than Ky",
+  "series": "Muc Than Ky",
+  "episode": 11,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "His calligraphy has become prophecy. Every character he writes comes true. But one word he wrote as a child — in blood — is about to manifest.",
+    "story_arc": "Prophecy ink → Blood-written character found → Written word manifests → Dark childhood truth → Prophecy begins",
+    "emotion": "Tension → Dread → Wonder → Shock → Haunting resolve",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Wide cinematic shot — a vast imperial calligraphy studio at night. Hundreds of scrolls hang from the ceiling, each glowing with soft golden light. In the center: a young man in black scholar's robes sits at a massive desk of polished dark wood. A single lit candle illuminates his face. His brush hovers over a fresh scroll. As he writes, the CHARACTER LIFTS OFF THE PAGE — glowing gold, three-dimensional — and hovers in the air before dissolving into sparks. Camera: wide establishing, slow push in toward the glowing character dissolving. 6 seconds.",
+      "camera": "Push in — wide calligraphy studio to close-up on glowing character dissolving, 6s",
+      "narration": "In the Ink Master's chamber, words were not merely written. They were WARMD. Each character he painted took flight from the page — a prophecy made flesh.",
+      "sfx": "Brush on paper, golden energy hum, candle flicker, mystical whisper"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — his face. Sharp, intelligent eyes, a mouth set in grim determination. He lowers the brush and stares at what he has written. Text on screen: the character 'rain.' We watch through the window: black storm clouds RUSH from the scroll across the room to the sky outside, and rain immediately begins to fall — in perfect sync with the written character. He closes his eyes. Camera: close-up on his face, window reflection of rain, slow zoom in. 6 seconds.",
+      "camera": "Zoom in — close-up face to window showing synchronized rain falling as written character manifests, 6s",
+      "narration": "He wrote 'rain' and the sky obeyed. He wrote 'fire' and candles roared into infernos. But there was one word he had never dared to write again. The word he had painted in blood, as a child.",
+      "sfx": "Rain beginning to fall, ink dripping, heavy breath, storm building"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Extreme close-up — he reaches into a locked lacquer box. Inside: an ancient, yellowed scroll stained dark at the edges. We zoom in on the character written on it — a single word, written in BROWN CRUSTED BLOOD. The character is partially obscured. He stares at it, trembling. Camera: macro close-up on the blood character, slow push in as the character seems to pulse with dark energy. 6 seconds.",
+      "camera": "Push in — macro on blood-stained character in lacquer box, 6s",
+      "narration": "In that box lay the one word he had written in childhood blood. The word that had haunted him for twenty years. And it had just appeared — word for word — in the empire's latest imperial decree.",
+      "sfx": "Box opening, ancient paper crinkle, his sharp intake of breath, ominous heartbeat"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Flashback / wide shot — we see him as a seven-year-old boy kneeling in this very room. His mother's hand guides his brush. Her voice: 'Write it. Write your destiny.' The boy, crying, dips his finger in blood from a wound and writes a character on the wall. The character BURNS into the wall. The mother screams. Camera: wide flashback shot, warm candlelight, child's trembling hand writing blood character, then the wall igniting. 6 seconds.",
+      "camera": "Wide — flashback, child writing blood character on wall, wall igniting, mother screaming, 6s",
+      "narration": "She had made him write it. His mother. The one person he trusted most. She had dipped his bleeding finger in blood and made him paint the word that would seal his fate. And now, twenty years later — the decree had been issued.",
+      "sfx": "Child crying, mother's command whisper, blood sizzle, wall igniting, woman's scream"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Full-body dramatic shot — he stands in the candlelit studio, the blood scroll now open on his desk. The decree text matches the blood character exactly. Outside, imperial guards' torches approach. He picks up his brush. His expression shifts from horror to cold resolve. Camera: full-body at desk, torchlight flickering, he grips the brush with absolute determination, slow cinematic push in. 6 seconds.",
+      "camera": "Push in — full body at desk with brush to cold determined face, torchlight approaching, 6s",
+      "narration": "The word was 'war.' His mother had made him write it in blood when he was seven. And now the emperor had declared it. He could rewrite it — or he could let the prophecy fulfill itself. He raised his brush. The war would begin.",
+      "sfx": "Torch approach footsteps, brush lifted, ink dripping, epic xianxia orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "In the Ink Master's chamber, words were not merely written. They were WARMD. Each character he painted took flight from the page — a prophecy made flesh. He wrote 'rain' and the sky obeyed. He wrote 'fire' and candles roared into infernos. But there was one word he had never dared to write again. The word he had painted in blood, as a child. In that box lay the one word he had written in childhood blood. The word that had haunted him for twenty years. And it had just appeared — word for word — in the empire's latest imperial decree. She had made him write it. His mother. The one person he trusted most. She had dipped his bleeding finger in blood and made him paint the word that would seal his fate. And now, twenty years later — the decree had been issued. The word was 'war.' His mother had made him write it in blood when he was seven. And now the emperor had declared it. He could rewrite it — or he could let the prophecy fulfill itself. He raised his brush. The war would begin.",
+    "narration_duration": 28,
+    "bg_music": "Dark mystical Chinese orchestral, ink dripping atmosphere, prophecy tension, brush and paper, ominous 72 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Brush on paper",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Rain beginning to fall",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Box opening",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Child crying",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Torch approach footsteps",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Wide cinematic shot — a vast imperial calligraphy studio at night. Hundreds of scrolls hang from the ceiling, each glowing with soft golden light. In the center: a young man in black scholar's robes sits at a massive desk of polished dark wood. A single lit candle illuminates his face. His brush hovers over a fresh scroll. As he writes, the CHARACTER LIFTS OFF THE PAGE — glowing gold, three-dimensional — and hovers in the air before dissolving into sparks. Camera: wide establishing, slow push in toward the glowing character dissolving. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Close-up — his face. Sharp, intelligent eyes, a mouth set in grim determination. He lowers the brush and stares at what he has written. Text on screen: the character 'rain.' We watch through the window: black storm clouds RUSH from the scroll across the room to the sky outside, and rain immediately begins to fall — in perfect sync with the written character. He closes his eyes. Camera: close-up on his face, window reflection of rain, slow zoom in. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Extreme close-up — he reaches into a locked lacquer box. Inside: an ancient, yellowed scroll stained dark at the edges. We zoom in on the character written on it — a single word, written in BROWN CRUSTED BLOOD. The character is partially obscured. He stares at it, trembling. Camera: macro close-up on the blood character, slow push in as the character seems to pulse with dark energy. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Flashback / wide shot — we see him as a seven-year-old boy kneeling in this very room. His mother's hand guides his brush. Her voice: 'Write it. Write your destiny.' The boy, crying, dips his finger in blood from a wound and writes a character on the wall. The character BURNS into the wall. The mother screams. Camera: wide flashback shot, warm candlelight, child's trembling hand writing blood character, then the wall igniting. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Full-body dramatic shot — he stands in the candlelit studio, the blood scroll now open on his desk. The decree text matches the blood character exactly. Outside, imperial guards' torches approach. He picks up his brush. His expression shifts from horror to cold resolve. Camera: full-body at desk, torchlight flickering, he grips the brush with absolute determination, slow cinematic push in. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Muc Than Ky Tập 11: Mực Huyết | Xianxia Việt Sub ⚔️🖌️",
+    "youtube_description": "Episode 11 of Muc Than Ky. His calligraphy manifests reality — every word he writes becomes prophecy. But one word he wrote in childhood blood is about to come true. The word was 'war.' And the emperor just declared it.\n\n🖌️ Muc Than Ky — Original Chinese Fantasy Series\n📌 Follow for Episode 12 — The Scroll of the Last Emperor\n#xianxia #muc than ky #calligraphy #prophecy #ink magic #epic #chinese fantasy",
+    "youtube_tags": [
+      "xianxia",
+      "muc than ky",
+      "calligraphy prophecy",
+      "blood character",
+      "ink magic",
+      "written word manifests",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": " Anh viết CHỮ là CHÂN. Một chữ 'chiến tranh' viết bằng máu lúc 7 tuổi — giờ đây hoàng đế tuyên chiến ⚔️🖌️ Tập 11 Muc Than Ky | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Muc Than Ky"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Wide cinematic shot — a vast imperial calligraphy studio at night. Hundreds of scrolls hang from the ceiling, each glowing with soft golden light. In the center: a young man in black scholar's robes sits at a massive desk of polished dark wood. A single lit candle illuminates his face. His brush hovers over a fresh scroll. As he writes, the CHARACTER LIFTS OFF THE PAGE — glowing gold, three-dimensional — and hovers in the air before dissolving into sparks. Camera: wide establishing, slow push in toward the glowing character dissolving. 6 seconds. Shot 2: Close-up — his face. Sharp, intelligent eyes, a mouth set in grim determination. He lowers the brush and stares at what he has written. Text on screen: the character 'rain.' We watch through the window: black storm clouds RUSH from the scroll across the room to the sky outside, and rain immediately begins to fall — in perfect sync with the written character. He closes his eyes. Camera: close-up on his face, window reflection of rain, slow zoom in. 6 seconds. Shot 3: Extreme close-up — he reaches into a locked lacquer box. Inside: an ancient, yellowed scroll stained dark at the edges. We zoom in on the character written on it — a single word, written in BROWN CRUSTED BLOOD. The character is partially obscured. He stares at it, trembling. Camera: macro close-up on the blood character, slow push in as the character seems to pulse with dark energy. 6 seconds. Shot 4: Flashback / wide shot — we see him as a seven-year-old boy kneeling in this very room. His mother's hand guides his brush. Her voice: 'Write it. Write your destiny.' The boy, crying, dips his finger in blood from a wound and writes a character on the wall. The character BURNS into the wall. The mother screams. Camera: wide flashback shot, warm candlelight, child's trembling hand writing blood character, then the wall igniting. 6 seconds. Shot 5: Full-body dramatic shot — he stands in the candlelit studio, the blood scroll now open on his desk. The decree text matches the blood character exactly. Outside, imperial guards' torches approach. He picks up his brush. His expression shifts from horror to cold resolve. Camera: full-body at desk, torchlight flickering, he grips the brush with absolute determination, slow cinematic push in. 6 seconds.",
+  "visual_scene": "Wide cinematic shot — a vast imperial calligraphy studio at night. Hundreds of scrolls hang from the ceiling, each glowing with soft golden light. In the center: a young man in black scholar's robes sits at a massive desk of polished dark wood. A single lit candle illuminates his face. His brush hovers over a fresh scroll. As he writes, the CHARACTER LIFTS OFF THE PAGE — glowing gold, three-dimensional — and hovers in the air before dissolving into sparks. Camera: wide establishing, slow push in toward the glowing character dissolving. 6 seconds. Close-up — his face. Sharp, intelligent eyes, a mouth set in grim determination. He lowers the brush and stares at what he has written. Text on screen: the character 'rain.' We watch through the window: black storm clouds RUSH from the scroll across the room to the sky outside, and rain immediately begins to fall — in perfect sync with the written character. He closes his eyes. Camera: close-up on his face, window reflection of rain, slow zoom in. 6 seconds. Extreme close-up — he reaches into a locked lacquer box. Inside: an ancient, yellowed scroll stained dark at the edges. We zoom in on the character written on it — a single word, written in BROWN CRUSTED BLOOD. The character is partially obscured. He stares at it, trembling. Camera: macro close-up on the blood character, slow push in as the character seems to pulse with dark energy. 6 seconds. Flashback / wide shot — we see him as a seven-year-old boy kneeling in this very room. His mother's hand guides his brush. Her voice: 'Write it. Write your destiny.' The boy, crying, dips his finger in blood from a wound and writes a character on the wall. The character BURNS into the wall. The mother screams. Camera: wide flashback shot, warm candlelight, child's trembling hand writing blood character, then the wall igniting. 6 seconds. Full-body dramatic shot — he stands in the candlelit studio, the blood scroll now open on his desk. The decree text matches the blood character exactly. Outside, imperial guards' torches approach. He picks up his brush. His expression shifts from horror to cold resolve. Camera: full-body at desk, torchlight flickering, he grips the brush with absolute determination, slow cinematic push in. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Muc Than Ky Episode 11: The Ink That Bleeds",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "muc than ky",
+    "calligraphy prophecy",
+    "blood character",
+    "ink magic",
+    "written word manifests",
+    "chinese fantasy"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-05T12:30:00Z",
+  "publishedAt": "2026-04-06T02:37:26.604Z",
+  "tiktok_url": "/@fai20128/video/7625469512145571092"
+}

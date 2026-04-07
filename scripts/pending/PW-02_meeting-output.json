@@ -1,0 +1,158 @@
+﻿{
+  "id": "PW-02",
+  "title": "Why Your Morning Meeting is Destroying Your Afternoon Output",
+  "category": "deep_work",
+  "channel": "ProductivityWorker",
+  "audience": "Office workers 25-40, meeting-heavy schedules",
+  "tone": "Calm authority, evidence-based",
+  "platform": [
+    "YouTube",
+    "TikTok"
+  ],
+  "format": "60-90 seconds, 16:9 and 9:16",
+  "status": "published",
+  "concept": {
+    "hook": "Your 9am meeting isn't just stealing an hour — it's killing your entire afternoon's best thinking.",
+    "story_arc": "Hook → Science of attention residue → The math on stacked meetings → The fix → CTA",
+    "emotion": "Concern, then relief and empowerment",
+    "duration_seconds": 80
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 4,
+      "duration": 4,
+      "prompt": "Person sitting at office desk, calendar open on laptop screen showing 9am meeting block glowing red. Person looks at clock, sighs, closes laptop. Defeated but resigned expression.",
+      "camera": "[Push in] Close-up on calendar screen, then face",
+      "narration": "Your 9am meeting isn't just stealing an hour — it's killing your entire afternoon's best thinking.",
+      "sfx": "Calendar notification ping, soft sigh"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 4,
+      "time_end": 20,
+      "duration": 16,
+      "prompt": "Clean whiteboard animation style. Brain illustration with arrows showing 'task switching'. Left side: meeting topic. Right side: original work. A ghost image of the first task stays attached to brain even when person switches. Glowing red '40%' label appears.",
+      "camera": "[Static] Animation-style whiteboard framing",
+      "narration": "Scientists call it 'attention residue.' When you switch from a meeting back to your work, part of your brain is still back in that meeting room. Studies show this reduces your cognitive performance on the new task by up to 40 percent. Every switch leaves a residue.",
+      "sfx": "Brain scan ambient hum, digital data sound"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 20,
+      "time_end": 40,
+      "duration": 20,
+      "prompt": "Calendar view on screen showing three back-to-back meetings: 9am, 11am, 2pm. After each meeting, fragmented work blocks appear — small scattered blocks labeled 'recovery time'. Arrow pointing to 5pm with a question mark over it.",
+      "camera": "[Tilt up] Calendar view, scrolling up to show the full day collapse",
+      "narration": "Three consecutive meetings seem like three hours. But in reality, after each one, your brain needs 15 to 20 minutes to fully switch back. Three meetings — that's potentially two to three hours of fragmented, low-quality output. Your best afternoon thinking? Gone before it started.",
+      "sfx": "Clock ticking, meeting notification sounds stacking"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 40,
+      "time_end": 58,
+      "duration": 18,
+      "prompt": "Calendar view transforming: meetings in the morning, then a solid 90-minute green block labeled 'FOCUS BLOCK' in bold. Same person at desk wearing noise-canceling headphones, in flow state, typing rapidly and confidently. Coffee untouched, completely absorbed.",
+      "camera": "[Push in] Calendar transforms, then focus in on person's confident expression",
+      "narration": "The fix is deceptively simple. After every meeting, block 90 minutes of protected focus time. Not 30 minutes. Not an hour. 90 — to match your ultradian rhythm. Treat it like a standing calendar appointment that no one is allowed to book over. Your best thinking happens there.",
+      "sfx": "Soft transition swoosh, keyboard typing rhythmically"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 58,
+      "time_end": 72,
+      "duration": 14,
+      "prompt": "Person walks to whiteboard and writes: 'Does this meeting have a clear output? If not, decline.' They nod confidently, erase it, and smile. Clean office, afternoon light. Subscribe button appears.",
+      "camera": "[Pull out] Wide shot showing the empowered office setup",
+      "narration": "Your calendar is a productivity tool, not a to-do list. Before accepting any meeting, ask: does this have a clear output? If the answer is no, decline with grace. Your best work needs that protection. More insights on how top performers protect their time — subscribe.",
+      "sfx": "Marker on whiteboard sound, subtle music swell"
+    }
+  ],
+  "audio": {
+    "narration": "Your 9am meeting isn't just stealing an hour — it's killing your entire afternoon's best thinking. Scientists call it 'attention residue.' When you switch from a meeting back to your work, part of your brain is still back in that meeting room. Studies show this reduces your cognitive performance on the new task by up to 40 percent. Every switch leaves a residue. Three consecutive meetings seem like three hours. But in reality, after each one, your brain needs 15 to 20 minutes to fully switch back. Three meetings — that's potentially two to three hours of fragmented, low-quality output. Your best afternoon thinking? Gone before it started. The fix is deceptively simple. After every meeting, block 90 minutes of protected focus time. Not 30 minutes. Not an hour. 90 — to match your ultradian rhythm. Treat it like a standing calendar appointment that no one is allowed to book over. Your best thinking happens there. Your calendar is a productivity tool, not a to-do list. Before accepting any meeting, ask: does this have a clear output? If the answer is no, decline with grace. Your best work needs that protection. More insights on how top performers protect their time — subscribe.",
+    "narration_duration": 72,
+    "bg_music": "Clean lo-fi productivity beat, subtle keyboard undertones, 90 BPM",
+    "sfx": [
+      {
+        "time": 3,
+        "sound": "calendar notification ping",
+        "volume": 0.5
+      },
+      {
+        "time": 15,
+        "sound": "brain data processing tone",
+        "volume": 0.3
+      },
+      {
+        "time": 25,
+        "sound": "clock ticking",
+        "volume": 0.2
+      },
+      {
+        "time": 55,
+        "sound": "whiteboard marker writing",
+        "volume": 0.6
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Person sitting at office desk, calendar open on laptop screen showing 9am meeting block glowing red. Person looks at clock, sighs, closes laptop. Defeated but resigned expression. [Push in] Close-up on calendar screen, then face"
+    },
+    {
+      "shot": 2,
+      "prompt": "Clean whiteboard animation style. Brain illustration with arrows showing task switching. Left side: meeting topic. Right side: original work. A ghost image of the first task stays attached to brain even when person switches. Glowing red 40% label appears. [Static] Animation-style whiteboard framing"
+    },
+    {
+      "shot": 3,
+      "prompt": "Calendar view on screen showing three back-to-back meetings: 9am, 11am, 2pm. After each meeting, fragmented work blocks appear — small scattered blocks labeled recovery time. Arrow pointing to 5pm with a question mark over it. [Tilt up] Calendar view, scrolling up to show the full day collapse"
+    },
+    {
+      "shot": 4,
+      "prompt": "Calendar view transforming: meetings in the morning, then a solid 90-minute green block labeled FOCUS BLOCK in bold. Same person at desk wearing noise-canceling headphones, in flow state, typing rapidly and confidently. Coffee untouched, completely absorbed. [Push in] Calendar transforms, then focus in on person's confident expression"
+    },
+    {
+      "shot": 5,
+      "prompt": "Person walks to whiteboard and writes: Does this meeting have a clear output? If not, decline. They nod confidently, erase it, and smile. Clean office, afternoon light. Subscribe button appears. [Pull out] Wide shot showing the empowered office setup"
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Why Your Morning Meeting is Killing Your Afternoon Output (Science of Attention Residue)",
+    "youtube_description": "Your 9am meeting isn't just stealing an hour — it's killing your entire afternoon's best thinking. In this video, I explain the science of 'attention residue' and the 90-minute fix that top performers use to protect their best thinking time.\n\n📌 What you'll learn:\n- The science of attention residue and task switching costs\n- Why 3 back-to-back meetings can cost you 2-3 hours of quality work\n- The 90-minute focus block strategy\n- How to decline meetings with no clear output\n\n⏱️ Timestamps:\n00:00 — Hook\n00:04 — Attention residue explained\n00:20 — The math on stacked meetings\n00:40 — The 90-minute focus block fix\n00:58 — CTA\n\n🔔 Subscribe for more deep work strategies.",
+    "youtube_tags": [
+      "deep work",
+      "meetings",
+      "productivity",
+      "focus",
+      "calendar management",
+      "attention",
+      "cal Newport",
+      "time blocking"
+    ],
+    "tiktok_caption": "Your 9am meeting isn't stealing 1 hour — it's killing your ENTIRE afternoon's best thinking 😱 Science of attention residue + the 90-min fix 👇 #productivity #deepwork #focus #meetings #timemanagement",
+    "playlist": "Deep Work & Focus"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 72,
+    "voice": "male_calm_professional (MiniMax speech-02-hd)",
+    "music_volume": 0.25,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 and 16:9"
+  },
+  "moved_to_pending": "2026-03-30T11:44:08.580Z",
+  "prompt_for_hailuo": "Person sitting at office desk, calendar open on laptop screen showing 9am meeting block glowing red. Person looks at clock, sighs, closes laptop. Defeated but resigned expression. [Push in] Close-up on calendar screen, then face. | Clean whiteboard animation style. Brain illustration with arrows showing task switching. Ghost image of first task stays attached to brain. Glowing red 40 percent label appears. [Static] Animation-style whiteboard framing. | Calendar view on screen showing three back-to-back meetings: 9am, 11am, 2pm. Fragmented work blocks appear after each meeting — small scattered blocks labeled recovery time. Arrow pointing to 5pm with question mark. [Tilt up] Calendar view, scrolling up to show the full day collapse. | Calendar view transforming: meetings in morning, then solid 90-minute green block labeled FOCUS BLOCK. Same person at desk wearing noise-canceling headphones, in flow state, typing rapidly and confidently. [Push in] Calendar transforms, then focus in on person's confident expression. | Person walks to whiteboard and writes: Does this meeting have a clear output? If not, decline. They nod confidently, erase it, and smile. Clean office, afternoon light. Subscribe button appears. [Pull out] Wide shot showing the empowered office setup.",
+  "visual_scene": "A professional modern office environment with clean white walls, a large whiteboard, and afternoon light streaming through windows. A person sits at a professional desk with a laptop open showing a calendar application — a red glowing meeting block labeled 9am visible on screen, the person looking at the clock with a resigned sigh before closing the laptop. Later scenes show animated whiteboard diagrams with brain illustrations, a calendar view transforming from fragmented red meeting blocks to a solid green protected focus block, and the same person confidently writing on a whiteboard with affirmation text, nodding with conviction. Clean, authoritative, scientific atmosphere. Portrait 9:16 vertical framing.",
+  "specific_details": "A professional in their late 20s to early 30s sitting at a modern office desk with laptop open showing a Google Calendar or Outlook view with a bright red 9am meeting block highlighted, looking at a wall clock with a tired resigned sigh before closing the laptop — clean professional office with afternoon golden light, white walls with a whiteboard in frame, then later confidently writing 'Does this meeting have a clear output?' on the whiteboard with a dry-erase marker and nodding with conviction, portrait 9:16 framing throughout.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions beyond production overlays, logos or watermarks, still or static frame, landscape orientation, dark night atmosphere, overly casual or messy office environment",
+  "thumbnail_idea": "Person looking at red meeting block on calendar with worried expression — 'Your 9am meeting is killing your afternoon' text overlay",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "video_path": "output/videos/PW-02.mp4",
+  "produced_at": "2026-03-31T04:20:21Z",
+  "qc_status": null,
+  "publishedAt": "2026-04-05T09:12:30.334Z",
+  "tiktok_url": "/@fai20128/video/7625200365893340436"
+}

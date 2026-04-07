@@ -1,0 +1,113 @@
+{
+  "name": "TKP SD Fallback Pipeline",
+  "nodes": [
+    {
+      "id": "webhook-trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [200, 300],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "sd-fallback",
+        "responseMode": "lastNode",
+        "options": {}
+      }
+    },
+    {
+      "id": "parse-request",
+      "name": "Parse Request",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 1,
+      "position": [450, 300],
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "prompt", "value": "={{ $json.body.prompt }}" },
+            { "name": "aspect_ratio", "value": "={{ $json.body.aspect_ratio || '16:9' }}" }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "sd-img2img",
+      "name": "SD img2img (Base Image)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [700, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.SD_WEBUI_URL }}/sdapi/v1/img2img",
+        "sendHeaders": true,
+        "headerParameters": { "parameters": [{ "name": "Content-Type", "value": "application/json" }] },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            { "name": "prompt", "value": "={{ $json.prompt }}" },
+            { "name": "width", "value": "={{ $json.aspect_ratio === '9:16' ? 720 : 1280 }}" },
+            { "name": "height", "value": "={{ $json.aspect_ratio === '9:16' ? 1280 : 720 }}" },
+            { "name": "steps", "value": 20 },
+            { "name": "cfg_scale", "value": 7.5 },
+            { "name": "sampler_name", "value": "Euler a" }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "save-frames",
+      "name": "Save Motion Frames",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 1,
+      "position": [950, 300],
+      "parameters": {
+        "jsCode": "// Save 3 frames for Ken Burns FFmpeg animation\nconst result = $input.first().json;\nconst base64 = result.images[0];\nconst { writeFileSync, mkdirSync } = require('fs');\nconst path = require('path');\n\nconst dir = '/tmp/tkp_sd_fallback';\nmkdirSync(dir, { recursive: true });\n\n// Save all 3 frames with slight seed variations\nfor (let i = 0; i < 3; i++) {\n  const frameData = i === 0 ? base64 : result.images[i] || base64;\n  writeFileSync(path.join(dir, `frame_${i}.png`), Buffer.from(frameData, 'base64'));\n}\n\nreturn { json: { frame_dir: dir, count: 3, seed: result.parameters?.seed } };"
+      }
+    },
+    {
+      "id": "ffmpeg-animate",
+      "name": "FFmpeg Ken Burns Animation",
+      "type": "n8n-nodes-base.nodeExecute",
+      "typeVersion": 1,
+      "position": [1200, 300],
+      "parameters": {
+        "command": "ffmpeg",
+        "args": "-loop 1 -i /tmp/tkp_sd_fallback/frame_0.png -loop 1 -i /tmp/tkp_sd_fallback/frame_1.png -loop 1 -i /tmp/tkp_sd_fallback/frame_2.png -filter_complex \"[0:v]scale={{ $json.aspect_ratio === '9:16' ? 720 : 1280 }}:{{ $json.aspect_ratio === '9:16' ? 1280 : 720 }},zoompan=z='min(zoom+0.001,1.02)':s={{ $json.aspect_ratio === '9:16' ? 720 : 1280 }}x{{ $json.aspect_ratio === '9:16' ? 1280 : 720 }}:d=60,fade=t=out:st=1.5:d=1.5:alpha=0[intro];[1:v]scale={{ $json.aspect_ratio === '9:16' ? 720 : 1280 }}:{{ $json.aspect_ratio === '9:16' ? 1280 : 720 }},zoompan=z='min(zoom+0.001,1.0)':s={{ $json.aspect_ratio === '9:16' ? 720 : 1280 }}x{{ $json.aspect_ratio === '9:16' ? 1280 : 720 }}:d=90,fade=t=out:st=2:d=1.5:alpha=0[main];[2:v]scale={{ $json.aspect_ratio === '9:16' ? 720 : 1280 }}:{{ $json.aspect_ratio === '9:16' ? 1280 : 720 }},zoompan=z='min(zoom+0.001,1.02)':s={{ $json.aspect_ratio === '9:16' ? 720 : 1280 }}x{{ $json.aspect_ratio === '9:16' ? 1280 : 720 }}:d=60,fade=t=in:st=0:d=1.5[out];[intro][main][out]concat=n=3:v=1:a=0[aout]\" -map \"[aout]\" -c:v libx264 -preset fast -pix_fmt yuv420p -y /tmp/tkp_sd_fallback/output.mp4"
+      }
+    },
+    {
+      "id": "respond-success",
+      "name": "Return Success",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1450, 300],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { \"video_path\": \"/tmp/tkp_sd_fallback/output.mp4\", \"method\": \"sd_ffmpeg\", \"prompt\": $('Parse Request').first().json.prompt } }}"
+      }
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [[{ "node": "Parse Request", "type": "main", "index": 0 }]]
+    },
+    "Parse Request": {
+      "main": [[{ "node": "SD img2img (Base Image)", "type": "main", "index": 0 }]]
+    },
+    "SD img2img (Base Image)": {
+      "main": [[{ "node": "Save Motion Frames", "type": "main", "index": 0 }]]
+    },
+    "Save Motion Frames": {
+      "main": [[{ "node": "FFmpeg Ken Burns Animation", "type": "main", "index": 0 }]]
+    },
+    "FFmpeg Ken Burns Animation": {
+      "main": [[{ "node": "Return Success", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": ["TKP", "video", "fallback", "stable-diffusion"]
+}

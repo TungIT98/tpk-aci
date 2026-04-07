@@ -1,0 +1,29 @@
+{
+  "id": "PW-15",
+  "category": "productivity",
+  "channel": "Productivity Worker",
+  "title": "Deep Work vs. Shallow Work: The 4-Hour Rule That Triples Output",
+  "script": "Cal Newport coined the term deep work: cognitively demanding tasks performed in a state of distraction-free concentration. Most people's workday is destroyed by shallow work — checking messages, attending meetings, filing paperwork — that feels productive but creates almost no real value. The fix: block your first 4 hours of the day for deep work only. No meetings. No messages. Just your most important project. Bill Gates did this. Tim Ferriss does this. Research shows your cognitive capacity is highest in the morning. Guard that time like your career depends on it — because it does.",
+  "prompt_for_hailuo": "Clock showing 6AM with coffee cup, person walks to desk [Time-lapse sunrise]. Phone face-down, door closed, 'DEEP WORK' sign visible [Static setup shot]. Person types rapidly on laptop, intense focus, no distractions [Medium shot, slow motion]. Screen fills with completed work: documents, code, designs [Montage of output]. Person closes laptop, looks at clock: 10AM, 3 hours of real work done [Close-up on satisfied face then wide shot]. Warm morning home office, sunrise light through window, productivity atmosphere, cinematic, portrait 9:16.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "deep work",
+    "focus",
+    "productivity",
+    "time management",
+    "cal newport",
+    "knowledge work"
+  ],
+  "thumbnail_idea": "Person in spotlight surrounded by darkness (shallow work), clock showing 4 hours blocked, 'TRIBLES OUTPUT' overlay",
+  "visual_scene": "A cozy home office at dawn, warm sunrise light flooding through a large window behind the desk. A professional sits down at their desk, deliberately places their phone face-down, and closes the door. A handwritten 'DEEP WORK — DO NOT DISTURB' sign is taped to the door window. They put on noise-canceling headphones, open their laptop, and enter a state of intense, focused concentration. The scene shifts to a rapid montage: screens filling with completed documents, code lines appearing, designs taking shape. Their expression is one of calm flow state. They close the laptop with a satisfied exhale and glance at the clock — only 3 hours have passed but the output is enormous. Sunrise-lit home office, cinematic feel, portrait 9:16.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, harsh fluorescent office lighting, open-plan noisy office, dark moody lighting, chaotic messy workspace",
+  "specific_details": "Professional at a clean home office desk at dawn, placing phone face-down and closing a door with a 'DEEP WORK — DO NOT DISTURB' sign, putting on headphones and typing intensely on a laptop, screens filling with completed work in a montage, closing laptop with a satisfied expression and glancing at the clock, warm sunrise light, cozy productivity atmosphere, portrait 9:16.",
+  "status": "produced",
+  "published_at": "2026-03-30T13:50:00Z",
+  "created_by": "Content Director",
+  "created_at": "2026-03-29T10:10:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\PW-15.mp4",
+  "produced_at": "2026-03-31T04:39:37.295Z",
+  "qc_status": null
+}

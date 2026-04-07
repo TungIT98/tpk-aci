@@ -1,0 +1,154 @@
+﻿{
+  "id": "XIANYX-76",
+  "title": "Dau Pha Thuong Khau Episode 16: The Fire Transformation",
+  "category": "xianxia",
+  "channel": "Dau Pha Thuong Khau",
+  "series": "Dau Pha Thương Khung",
+  "episode": 16,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic",
+  "tone": "Danger and survival, desperate struggle, breakthrough, new power revealed",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "published",
+  "concept": {
+    "hook": "The Skyfire Pill was destroying him from within — fire burning through meridians faster than he could control. Xiao Yan's body was at its limit. One minute. He had one minute to survive.",
+    "story_arc": "Fire burns through meridians → Body at breaking point → Xiao Yan's意志 (will) channels the Flame Emperor's technique → Survival through pure will → New level reached → His eyes OPEN with doubled power",
+    "emotion": "Pain → Desperation → Will vs fire → Survival → Breakthrough → Triumph",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme close-up — Xiao Yan's FACE in agony. Orange fire visible under his skin — meridians blazing like hot coals. He screams. His body convulses. His hands claw at the floor. Camera: extreme close-up — fire visible under skin, convulsion, agony scream, meridians blazing through body. 6 seconds.",
+      "camera": "Extreme close-up — fire visible under skin, convulsion, agony scream, meridians blazing through body, 6s",
+      "narration": "The Skyfire Pill was stronger than his meridians. In thirty seconds — his body would be nothing but ash.",
+      "sfx": "Agony scream, fire roaring through body, meridians burning, body convulsing, desperate breathing"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Close-up — Xiao Yan's hand slams on the floor. His father's voice echoes in his mind: 'Fire follows the will.' The Flame Emperor's technique activates — Ninefold Burning Heaven — First Fold — guides the fire THROUGH the meridians instead of destroying them. Camera: close-up — hand slamming floor, flashback of father's teaching, technique activation with blue flame pattern. 6 seconds.",
+      "camera": "Close-up — hand slamming floor, father's voice flashback, Ninefold Burning Heaven technique activating, blue flame pattern, 6s",
+      "narration": "His father's voice. 'Fire follows the will.' The Flame Emperor's technique activated — guiding the fire through his meridians instead of destroying them.",
+      "sfx": "Father's voice echoing, technique activation, blue flame pattern forming, fire being guided, his determined breathing"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Medium shot — the transformation completes. Blue and orange flames merge — creating a new color: deep violet-blue. Xiao Yan's presence DOUBLES. His Dou Shi aura becomes Dou Wang aura. He stands, changed. Camera: medium — violet-blue flame transformation, aura doubling from Dou Shi to Dou Wang, Xiao Yan standing transformed. 6 seconds.",
+      "camera": "Medium — violet-blue flame transformation, Dou Wang aura, Xiao Yan standing transformed, powerful, 6s",
+      "narration": "The flames merged. Blue of the Flame Emperor. Orange of the Skyfire Pill. Created together — a new fire. His cultivation — jumped two levels in one night.",
+      "sfx": "Flame merging, aura explosion, cultivation breakthrough, power doubling, triumphant orchestral swell"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — outside the room. Elder Hai Kun's subordinates arrive — three of them with blades drawn. 'Kill him while the pill is destroying him!' They burst into the room. Camera: close-up — three assassins bursting through door, blades drawn, murder in their eyes, room door exploding. 6 seconds.",
+      "camera": "Close-up — three assassins bursting through door, blades drawn, murder in their eyes, room door exploding, 6s",
+      "narration": "Three assassins. The elder had sent them. They burst through the door — blades ready to kill the废物 while he was helpless.",
+      "sfx": "Door exploding, assassins' battle cry, blades unsheathing, footsteps, murder intent"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide shot — Xiao Yan TURNS. His violet-blue flame ERUPTS. All three assassins are BLOWN BACK simultaneously. They crash through the wall. Xiao Yan: 'I survived the Skyfire Pill.' His eyes glow violet-blue. 'Now you can die.' Camera: wide — violet-blue flame eruption, all three assassins blown back through wall, Xiao Yan's glowing eyes, devastation. 6 seconds.",
+      "camera": "Wide — violet-blue flame eruption, three assassins blown back through wall, Xiao Yan's glowing eyes, 6s",
+      "narration": "The assassins hit the wall. Xiao Yan stood in the flames — no longer Dou Shi. Dou Wang. Two levels above where he started. And now — he was angry.",
+      "sfx": "Flame eruption, assassins crashing, wall exploding, Xiao Yan's cold voice, battle music swell, power roar"
+    }
+  ],
+  "audio": {
+    "narration": "The Skyfire Pill was stronger than his meridians. In thirty seconds — his body would be nothing but ash. His father's voice. 'Fire follows the will.' The Flame Emperor's technique activated — guiding the fire through his meridians instead of destroying them. The flames merged. Blue of the Flame Emperor. Orange of the Skyfire Pill. Created together — a new fire. His cultivation — jumped two levels in one night. Three assassins. The elder had sent them. They burst through the door — blades ready to kill the废物 while he was helpless. The assassins hit the wall. Xiao Yan stood in the flames — no longer Dou Shi. Dou Wang. Two levels above where he started. And now — he was angry.",
+    "narration_duration": 28,
+    "bg_music": "Epic battle orchestral, fire transformation survival, power awakening, assassin attack, furious strike 105 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Agony scream, fire roaring",
+        "volume": 0.6
+      },
+      {
+        "time": 6,
+        "sound": "Technique activation, father's voice",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Aura explosion, breakthrough",
+        "volume": 0.6
+      },
+      {
+        "time": 18,
+        "sound": "Door exploding, assassins bursting",
+        "volume": 0.6
+      },
+      {
+        "time": 24,
+        "sound": "Flame eruption, assassins crashing, cold fury",
+        "volume": 0.7
+      }
+    ]
+  },
+  "metadata": {
+    "youtube_title": "Đấu Phá Thương Khung Tập 16: Hỏa Đồ Thân | Xianxia Việt Sub 🔥⚔️",
+    "youtube_description": "Episode 16 of Đấu Phá Thương Khung. The Skyfire Pill threatens to destroy Xiao Yan's body — fire burning through meridians faster than he can control. Using his father's wisdom and the Flame Emperor's technique, he survives and merges the fires into something new. Then three assassins arrive. Dou Wang Xiao Yan greets them with violet-blue fire.",
+    "youtube_tags": [
+      "xianxia",
+      "đấu phá thương khung",
+      "fire transformation",
+      "Dou Wang Xiao Yan",
+      "skyfire pill",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "Thiên Hỏa Đan sắp thiêu rụi cơ thể! Hắn dùng lời cha và CỬU TRỌNG HỎA THIÊN để sống sót! Lửa xanh + cam = TÍM. 3 sát thủ xông vào... bị Thoát Vương Xiao Yan thдуi bốn phương 🔥 Tập 16",
+    "playlist": "Dau Pha Thuong Khau"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "visual_scene": "Fire meridians blazing, father's voice flashback, violet-blue flame transformation, three assassins bursting in, flame eruption wiping them out",
+  "specific_details": {
+    "subject": "Xiao Yan: black robes, fire visible under skin during agony, then violet-blue flame surrounding body, glowing violet-blue eyes. Three assassins: black robes, blades drawn, masked.",
+    "outfit_exact": "Xiao Yan: black robes, fire burning through skin during transformation (orange lines visible), then violet-blue flame circling body after breakthrough, Dou Wang aura. Assassins: black assassin robes, straight dao blades.",
+    "setting_details": "Fire cultivation room with stone floor and walls, fire spirit formation glowing on walls, destroyed wall at climax, dramatic violet-blue lighting",
+    "face_expression": "Xiao Yan: agony → determination → cold fury. Assassins: murder intent → shock → fear",
+    "body_movement": "Xiao Yan: convulsing on floor → hand slamming → standing in flames → flame eruption toward assassins. Assassins: bursting in → blown back → crashing through wall",
+    "camera": "Extreme close-up on agony, close-up technique activation, medium transformation, close-up assassins bursting, wide flame eruption"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation",
+  "thumbnail_idea": "Dramatic scene from Dau Pha Thuong Khau Episode 16: Violet-blue flame — Xiao Yan Dou Wang transformation",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "đấu phá thương khung",
+    "fire transformation",
+    "Dou Wang Xiao Yan",
+    "skyfire pill",
+    "chinese fantasy"
+  ],
+  "created_by": "CEO",
+  "created_at": "2026-04-05T15:50:00Z",
+  "publishedAt": "2026-04-06T02:51:03.743Z",
+  "tiktok_url": "https://www.tiktok.com/@fai20128/video/7625462471561612565"
+}

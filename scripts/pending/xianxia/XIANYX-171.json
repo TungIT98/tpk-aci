@@ -1,0 +1,182 @@
+﻿{
+  "id": "XIANYX-171",
+  "title": "Ha Tien Du Episode 31: The Celestial Gate",
+  "category": "xianxia",
+  "channel": "Ha Tien Du",
+  "series": "Ha Tien Du",
+  "episode": 31,
+  "audience": "Fans of Chinese fantasy, wuxia/xianxia drama viewers, 18-35 demographic who enjoy epic visual storytelling",
+  "tone": "Heroic, melancholic, epic, cinematic, emotionally charged",
+  "platform": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "format": "30 seconds, 9:16 vertical",
+  "status": "pending",
+  "concept": {
+    "hook": "The celestial gate had been sealed since the first gods. Tonight, Luân carried the fire mark, ice mastery, and Water of Origin — and opened it alone.",
+    "story_arc": "Gate discovered → Three elements combined → Gate opens → Celestial realm → Awe",
+    "emotion": "Wonder → Awe → Tension → Danger → Determination",
+    "duration_seconds": 30
+  },
+  "shots": [
+    {
+      "shot_number": 1,
+      "time_start": 0,
+      "time_end": 6,
+      "duration": 6,
+      "prompt": "Extreme wide aerial — the celestial lake at midnight. The water glows with ancient blue-gold light. A massive circular portal — carved with dragon script — rises from the lake bed and breaks the surface. Through it: a breathtaking underwater DRAGON REALM of coral palaces, floating islands, and dragons swimming through luminous water. Camera: extreme wide aerial, portal rising from depths, slow orbit showing the dragon world within. 6 seconds.",
+      "camera": "Orbit — extreme wide aerial, dragon realm portal rising from lake, dragon world visible within, 6s",
+      "narration": "Beneath the celestial lake, a gate to the dragon realm had been hidden for three thousand years. And tonight — it opened.",
+      "sfx": "Ancient portal cracking open, water imploding, dragon roar distant, epic orchestral swell"
+    },
+    {
+      "shot_number": 2,
+      "time_start": 6,
+      "time_end": 12,
+      "duration": 6,
+      "prompt": "Wide cinematic — Luân dives into the portal. He descends through the portal tunnel — surrounded by swirling dragon script characters that illuminate his face. His expression: fearless, awed, determined. The tunnel is warm, ancient, alive. Camera: wide, his descent through glowing dragon script tunnel, characters orbiting him. 6 seconds.",
+      "camera": "Wide — descent through glowing dragon script tunnel, Luân's awed face illuminated by ancient characters, 6s",
+      "narration": "He had trained his whole life for this moment. The dragon realm. The place where water was alive and ancient power slept in coral palaces.",
+      "sfx": "Tunnel rushing, dragon script humming, his calm breath, mystical whoosh"
+    },
+    {
+      "shot_number": 3,
+      "time_start": 12,
+      "time_end": 18,
+      "duration": 6,
+      "prompt": "Wide establishing — the dragon realm interior. Massive. A palace of living coral, bioluminescent, with dragons — not European but eastern serpentine — swimming through the halls. Ancient dragon kings in human form sit on coral thrones. Luân emerges from the portal at the center of their court. Every dragon eye turns to him. Camera: wide establishing, coral throne room, hundreds of dragons turning to face him. 6 seconds.",
+      "camera": "Wide — coral throne room, hundreds of eastern dragons turning to face him, Luân alone at center, 6s",
+      "narration": "He emerged from the portal into the court of dragon kings — and every ancient eye turned toward the mortal who had dared to enter uninvited.",
+      "sfx": "Dragon court murmur, coral structure creaking, ancient dragon breathing, tension strings"
+    },
+    {
+      "shot_number": 4,
+      "time_start": 18,
+      "time_end": 24,
+      "duration": 6,
+      "prompt": "Close-up — a dragon king rises. Massive, ancient, scaled, with a crown of living coral. His voice echoes through the realm: 'No mortal has entered our court in three thousand years. State your purpose.' Luân stands his ground. 'I seek the water of origin — to save my world.' The dragons murmur. Camera: close-up on dragon king's ancient face, then Luân's determined reply. 6 seconds.",
+      "camera": "Close-up — ancient dragon king rising, 'state your purpose' demand, Luân's determined reply, 6s",
+      "narration": "No mortal had ever requested the Water of Origin. To ask was to invite war. To leave without it — was to watch his world drown.",
+      "sfx": "Dragon king rising, coral crown cracking, deep bass rumble, his calm voice echo"
+    },
+    {
+      "shot_number": 5,
+      "time_start": 24,
+      "time_end": 30,
+      "duration": 6,
+      "prompt": "Wide cinematic — the dragon king smiles. He raises one claw and a vial of liquid starlight rises from the deepest coral. 'You are either very brave or very foolish, Luân of the waterfall.' He extends it toward him. 'Prove which.' Camera: wide, the Water of Origin in glowing vial, dragon king's knowing smile, Luân reaching for destiny. 6 seconds.",
+      "camera": "Wide — Water of Origin in glowing vial extended, dragon king's knowing smile, Luân reaching, 6s",
+      "narration": "He extended his hand toward the Water of Origin — the most powerful substance in the dragon realm. Either he was the bravest mortal who had ever lived — or the most foolish.",
+      "sfx": "Water of Origin humming, coral cracking, dragon king laugh, epic orchestral swell"
+    }
+  ],
+  "audio": {
+    "narration": "Beneath the celestial lake, a gate to the dragon realm had been hidden for three thousand years. And tonight — it opened. He had trained his whole life for this moment. The dragon realm. The place where water was alive and ancient power slept in coral palaces. He emerged from the portal into the court of dragon kings — and every ancient eye turned toward the mortal who had dared to enter uninvited. No mortal had ever requested the Water of Origin. To ask was to invite war. To leave without it — was to watch his world drown. He extended his hand toward the Water of Origin — the most powerful substance in the dragon realm. Either he was the bravest mortal who had ever lived — or the most foolish.",
+    "narration_duration": 28,
+    "bg_music": "Epic Chinese orchestral, dragon realm theme, coral palace atmosphere, ancient power, mystical 90 BPM",
+    "sfx": [
+      {
+        "time": 0,
+        "sound": "Ancient portal cracking open",
+        "volume": 0.5
+      },
+      {
+        "time": 6,
+        "sound": "Tunnel rushing",
+        "volume": 0.5
+      },
+      {
+        "time": 12,
+        "sound": "Dragon court murmur",
+        "volume": 0.5
+      },
+      {
+        "time": 18,
+        "sound": "Dragon king rising",
+        "volume": 0.5
+      },
+      {
+        "time": 24,
+        "sound": "Water of Origin humming",
+        "volume": 0.5
+      }
+    ]
+  },
+  "hailuo_prompts": [
+    {
+      "shot": 1,
+      "prompt": "Extreme wide aerial — the celestial lake at midnight. The water glows with ancient blue-gold light. A massive circular portal — carved with dragon script — rises from the lake bed and breaks the surface. Through it: a breathtaking underwater DRAGON REALM of coral palaces, floating islands, and dragons swimming through luminous water. Camera: extreme wide aerial, portal rising from depths, slow orbit showing the dragon world within. 6 seconds."
+    },
+    {
+      "shot": 2,
+      "prompt": "Wide cinematic — Luân dives into the portal. He descends through the portal tunnel — surrounded by swirling dragon script characters that illuminate his face. His expression: fearless, awed, determined. The tunnel is warm, ancient, alive. Camera: wide, his descent through glowing dragon script tunnel, characters orbiting him. 6 seconds."
+    },
+    {
+      "shot": 3,
+      "prompt": "Wide establishing — the dragon realm interior. Massive. A palace of living coral, bioluminescent, with dragons — not European but eastern serpentine — swimming through the halls. Ancient dragon kings in human form sit on coral thrones. Luân emerges from the portal at the center of their court. Every dragon eye turns to him. Camera: wide establishing, coral throne room, hundreds of dragons turning to face him. 6 seconds."
+    },
+    {
+      "shot": 4,
+      "prompt": "Close-up — a dragon king rises. Massive, ancient, scaled, with a crown of living coral. His voice echoes through the realm: 'No mortal has entered our court in three thousand years. State your purpose.' Luân stands his ground. 'I seek the water of origin — to save my world.' The dragons murmur. Camera: close-up on dragon king's ancient face, then Luân's determined reply. 6 seconds."
+    },
+    {
+      "shot": 5,
+      "prompt": "Wide cinematic — the dragon king smiles. He raises one claw and a vial of liquid starlight rises from the deepest coral. 'You are either very brave or very foolish, Luân of the waterfall.' He extends it toward him. 'Prove which.' Camera: wide, the Water of Origin in glowing vial, dragon king's knowing smile, Luân reaching for destiny. 6 seconds."
+    }
+  ],
+  "metadata": {
+    "youtube_title": "Ha Tien Du Episode 31: The Celestial Gate | Xianxia Việt Sub ⚔️🔥",
+    "youtube_description": "Ha Tien Du Episode 31: The Celestial Gate. The celestial gate had been sealed since the first gods. Tonight, Luân carried the fire mark, ice mastery, and Water of Origin — and opened it alone.\n\n📌 Follow for next episode\n#xianxia #chinesefantasy #hatiendu #epic",
+    "youtube_tags": [
+      "xianxia",
+      "ha tien du",
+      "dragon realm",
+      "luân",
+      "water of origin",
+      "dragon king",
+      "epic",
+      "chinese fantasy"
+    ],
+    "tiktok_caption": "The celestial gate had been sealed since the first gods. Tonight, Luân carried the fire mark, ice mastery, and Water of Origin — and opened it alone. ⚔️🔥 Ha Tien Du Episode 31: The Celestial Gate | Xianxia Việt Sub #xianxia #cổtrang",
+    "playlist": "Ha Tien Du"
+  },
+  "production_notes": {
+    "shot_count": 5,
+    "total_duration_seconds": 30,
+    "voice": "female_poetic_deep (MiniMax speech-02-hd, speed 1.0, slight reverb)",
+    "music_volume": 0.35,
+    "voice_volume": 1,
+    "aspect_ratio": "9:16 vertical only"
+  },
+  "prompt_for_hailuo": "Shot 1: Extreme wide aerial — the celestial lake at midnight. The water glows with ancient blue-gold light. A massive circular portal — carved with dragon script — rises from the lake bed and breaks the surface. Through it: a breathtaking underwater DRAGON REALM of coral palaces, floating islands, and dragons swimming through luminous water. Camera: extreme wide aerial, portal rising from depths, slow orbit showing the dragon world within. 6 seconds. Shot 2: Wide cinematic — Luân dives into the portal. He descends through the portal tunnel — surrounded by swirling dragon script characters that illuminate his face. His expression: fearless, awed, determined. The tunnel is warm, ancient, alive. Camera: wide, his descent through glowing dragon script tunnel, characters orbiting him. 6 seconds. Shot 3: Wide establishing — the dragon realm interior. Massive. A palace of living coral, bioluminescent, with dragons — not European but eastern serpentine — swimming through the halls. Ancient dragon kings in human form sit on coral thrones. Luân emerges from the portal at the center of their court. Every dragon eye turns to him. Camera: wide establishing, coral throne room, hundreds of dragons turning to face him. 6 seconds. Shot 4: Close-up — a dragon king rises. Massive, ancient, scaled, with a crown of living coral. His voice echoes through the realm: 'No mortal has entered our court in three thousand years. State your purpose.' Luân stands his ground. 'I seek the water of origin — to save my world.' The dragons murmur. Camera: close-up on dragon king's ancient face, then Luân's determined reply. 6 seconds. Shot 5: Wide cinematic — the dragon king smiles. He raises one claw and a vial of liquid starlight rises from the deepest coral. 'You are either very brave or very foolish, Luân of the waterfall.' He extends it toward him. 'Prove which.' Camera: wide, the Water of Origin in glowing vial, dragon king's knowing smile, Luân reaching for destiny. 6 seconds.",
+  "visual_scene": "Extreme wide aerial — the celestial lake at midnight. The water glows with ancient blue-gold light. A massive circular portal — carved with dragon script — rises from the lake bed and breaks the surface. Through it: a breathtaking underwater DRAGON REALM of coral palaces, floating islands, and dragons swimming through luminous water. Camera: extreme wide aerial, portal rising from depths, slow orbit showing the dragon world within. 6 seconds. Wide cinematic — Luân dives into the portal. He descends through the portal tunnel — surrounded by swirling dragon script characters that illuminate his face. His expression: fearless, awed, determined. The tunnel is warm, ancient, alive. Camera: wide, his descent through glowing dragon script tunnel, characters orbiting him. 6 seconds. Wide establishing — the dragon realm interior. Massive. A palace of living coral, bioluminescent, with dragons — not European but eastern serpentine — swimming through the halls. Ancient dragon kings in human form sit on coral thrones. Luân emerges from the portal at the center of their court. Every dragon eye turns to him. Camera: wide establishing, coral throne room, hundreds of dragons turning to face him. 6 seconds. Close-up — a dragon king rises. Massive, ancient, scaled, with a crown of living coral. His voice echoes through the realm: 'No mortal has entered our court in three thousand years. State your purpose.' Luân stands his ground. 'I seek the water of origin — to save my world.' The dragons murmur. Camera: close-up on dragon king's ancient face, then Luân's determined reply. 6 seconds. Wide cinematic — the dragon king smiles. He raises one claw and a vial of liquid starlight rises from the deepest coral. 'You are either very brave or very foolish, Luân of the waterfall.' He extends it toward him. 'Prove which.' Camera: wide, the Water of Origin in glowing vial, dragon king's knowing smile, Luân reaching for destiny. 6 seconds.",
+  "specific_details": {
+    "subject": "Beautiful young woman, 18-22 years old, oval face, fair porcelain skin, high cheekbones, graceful features with a mix of fragility and inner steel",
+    "outfit_exact": "Flowing Hanfu with gold embroidery patterns on hems and sleeves, wide sleeves, high waist sash, silk fabric. Ornate hairpiece crowning long black hair in an elaborate updo",
+    "setting_details": "Ancient Chinese fantasy setting, misty mountains, temple courtyards, dramatic lighting",
+    "face_expression": "Varied by shot — serene, determined, sorrowful, fierce as appropriate",
+    "body_movement": "Graceful martial arts movements, ceremonial gestures, emotional expressions",
+    "camera": "Cinematic camera movements per scene — push-ins, pans, dramatic close-ups"
+  },
+  "negative_prompt": "anime or cartoon style, illustrated characters, distorted hands or fingers, blurry or low resolution, text overlays or captions, logos or watermarks, modern clothing, wrong hair color, western fantasy, bright daylight midday, modern buildings, plastic-looking skin, dead eyes, stiff pose, landscape orientation, no mist or atmosphere, wrong cultural elements",
+  "thumbnail_idea": "Dramatic scene from Ha Tien Du Episode 21: The Dragon Realm Gate",
+  "duration_seconds": 30,
+  "resolution": "1080x1920",
+  "fps": 24,
+  "tags": [
+    "xianxia",
+    "ha tien du",
+    "dragon realm",
+    "luân",
+    "water of origin",
+    "dragon king",
+    "epic",
+    "chinese fantasy",
+    "goal9"
+  ],
+  "created_by": "Content Director",
+  "created_at": "2026-04-07T06:45:00Z",
+  "publishedAt": "2026-04-06T13:42:59.418Z",
+  "tiktok_url": "/@fai20128/video/7625641023003184405"
+}

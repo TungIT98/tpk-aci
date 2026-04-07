@@ -1,0 +1,62 @@
+{
+  "name": "Cooking/Food Tutorial",
+  "description": "Fast-paced, satisfying cooking tutorial with step-by-step cooking shots and text callouts. Perfect for meal prep, recipes, and food hacks.",
+  "target_platform": "tiktok",
+  "voice_style": "casual, conversational, encouraging — like cooking with a friend who knows their stuff",
+  "music_mood": "acoustic cooking beats, upbeat kitchen jazz, cook-along background music",
+  "hashtag_suggestions": ["#foodtiktok", "#cooking", "#recipe", "#mealprep", "#foodie", "#homecooking", "#foodtok", "#easyrecipes"],
+  "hailuo_model": "MiniMax-Hailuo-2.3",
+  "hailuo_quality_preset": "HD-720P",
+  "scene_sequence": [
+    {
+      "type": "intro",
+      "duration_sec": 3,
+      "narration_prompt": "This 15-minute recipe will save you $200 a month on takeout — and it's genuinely delicious.",
+      "visual_prompt": "Ingredients laid out on clean marble countertop, overhead shot, text overlay '15 min | $3/serving | Vegan', knife and cutting board ready",
+      "camera_movement": "static overhead shot with slight push-in, overhead angle for full ingredient spread",
+      "lighting_setup": "bright overhead kitchen light, white marble reflecting light evenly, clean white aesthetic, slight warm tint on ingredients",
+      "hailuo_style_note": "Overhead ingredient spread is the gold standard food prep shot; clean marble surface reflects light beautifully",
+      "transition": "pop_in"
+    },
+    {
+      "type": "content",
+      "duration_sec": 15,
+      "narration_prompt": "First: chop your aromatics — onion, garlic, ginger. The secret is a rough chop, not precise. We're not running a restaurant.",
+      "visual_prompt": "Hands chopping vegetables on board, knife moving fast, close-up of cutting board, steam rising from pan in background",
+      "camera_movement": "overhead static on cutting board, macro close-up on knife detail, steady overhead",
+      "lighting_setup": "overhead shadowless lighting on cutting board, slight side fill, warm wood tones of cutting board",
+      "hailuo_style_note": "Overhead cutting shot is ASMR-satisfying; knife detail close-up adds premium production feel",
+      "transition": "jump_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 15,
+      "narration_prompt": "Get your pan hot first — 30 seconds before oil. Add oil, then garlic. You want to hear that sizzle, not silence.",
+      "visual_prompt": "Pan heating on stove, oil being poured, garlic hitting pan with sizzle, close-up of oil shimmering",
+      "camera_movement": "side angle medium shot of pan, macro close-up on oil shimmer, cut back to medium",
+      "lighting_setup": "stovetop overhead light, side key for oil sheen, steam rising with backlight, golden oil shimmer detail",
+      "hailuo_style_note": "Oil shimmer detail shot is a proven engagement hook; side lighting shows the shimmer texture clearly",
+      "transition": "match_cut"
+    },
+    {
+      "type": "content",
+      "duration_sec": 20,
+      "narration_prompt": "Toss everything in. Stir. Walk away for 10 minutes — don't touch it. This is the hardest part of cooking: doing nothing.",
+      "visual_prompt": "Ingredients combined in pan, wooden spoon stirring, timer being set, person stepping back from stove, steam rising",
+      "camera_movement": "medium side shot of stir, match cut to person stepping back, steam time-lapse overlay option",
+      "lighting_setup": "warm stovetop ambient light, steam backlit, cozy warm kitchen tones throughout",
+      "hailuo_style_note": "Walking-away moment has comedic timing value; steam rising in warm light creates cozy food content aesthetic",
+      "transition": "time_lapse"
+    },
+    {
+      "type": "outro",
+      "duration_sec": 7,
+      "narration_prompt": "Plate it up. That smell? That's the smell of never ordering takeout again. Follow for more recipes that actually fit your life.",
+      "visual_prompt": "Final plated dish being garnished, close-up of texture and color, person picking up fork, text overlay with ingredient list",
+      "camera_movement": "slow cinematic tilt down from overhead plating shot to texture close-up, final medium close-up of person tasting",
+      "lighting_setup": "warm dramatic overhead light on food, dark background, golden food tones, macro depth on texture",
+      "hailuo_style_note": "Plating shot deserves the most lighting investment — dark background with single warm overhead light is magazine quality",
+      "transition": "slow_zoom"
+    }
+  ]
+}

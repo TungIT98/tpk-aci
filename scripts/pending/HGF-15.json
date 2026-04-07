@@ -1,0 +1,32 @@
+{
+  "id": "HGF-15",
+  "category": "hot_girl_fitness",
+  "channel": "HotGirlFitness",
+  "title": "Không đủ thời gian tập gym? Đây là lịch tập 20 phút cho người bận rộn",
+  "script": "Bạn nghĩ tập gym cần 2 tiếng? Sai. Bài tập Tabata: 20 phút, đốt 400 calorie. Cấu trúc: 20 giây tập hết sức, 10 giây nghỉ, lặp 8 lần cho mỗi bài. Bài 1: Burpees. Bài 2: Mountain Climbers. Bài 3: Jump Squats. Bài 4: High Knees. Tổng cộng: 20 phút. Không cần máy. Không cần phòng gym. Không cần thời gian. Nghiên cứu từ British Journal of Sports Medicine: Tabata training đốt mỡ nhiều hơn 60% so với steady-state cardio cùng thời gian. Bạn có 20 phút. Mỗi ngày.",
+  "prompt_for_hailuo": "Busy professional woman in casual work clothes checking watch anxiously, clock showing 9PM [Close up stressed face]. Same woman doing Tabata workout in small apartment living room in sportswear, 20-second burst mode [High energy action shot]. Timer split into 8 rounds: 20sec WORK / 10sec REST appearing per round [Animated circular timer]. 4 exercises appearing as icons: burpees, mountain climbers, jump squats, high knees [Icon animation montage]. Calorie counter: '400 cal burned in 20 min' appearing dramatically [Digital display]. After workout: girl collapsed on yoga mat, victorious exhausted smile, muscles glowing [Medium shot]. Small cozy apartment, evening warm lighting, inspiring empowering atmosphere, cinematic portrait 9:16.",
+  "duration_seconds": 10,
+  "resolution": "1080P",
+  "tags": [
+    "hot_girl",
+    "fitness",
+    "busy",
+    "tabata",
+    "20_minutes",
+    "home_workout",
+    "no_gym",
+    "cardio",
+    "vietnam"
+  ],
+  "thumbnail_idea": "Busy woman checking watch then doing intense 20-min Tabata in tiny apartment",
+  "visual_scene": "A cozy small Vietnamese apartment living room in warm evening light at 9PM: a busy professional woman in casual work clothes glancing at her wristwatch with a stressed and anxious expression — she only has 20 minutes before she needs to sleep for tomorrow's early meeting. Cut to the same woman now transformed in bright sportswear performing an intense Tabata workout in her small living room with furniture pushed aside: explosive burpees in 20-second all-out burst mode, gasping for breath, determined expression; then high knees at maximum intensity; then jump squats with full explosive power; then mountain climbers at racing speed. An animated circular timer appears showing 8 rounds of 20sec WORK / 10sec REST with each round ticking down in dramatic typography. A digital calorie counter dramatically displays the number climbing to 400 calories burned in just 20 minutes. Final shot: the girl collapsed on her yoga mat after finishing, an exhausted but deeply victorious smile on her face with a subtle muscle汗 glistening on her arms, looking at the clock showing she still has plenty of time before sleep. Warm cozy apartment evening lighting, inspiring and empowering atmosphere, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, bright sunny morning, large commercial gym, expensive equipment visible, outdoor setting, beach",
+  "specific_details": "Cozy small apartment living room in warm evening light, busy professional woman in casual work clothes stressed checking watch at 9PM, same woman in bright sportswear doing intense Tabata in small living room: explosive burpees 20-sec all-out burst, high knees max intensity, jump squats full explosive power, mountain climbers racing speed, animated circular 8-round timer 20sec WORK 10sec REST ticking dramatically, digital calorie counter climbing to 400 calories in 20 minutes, final collapsed victorious exhausted smile on yoga mat with time still remaining before sleep, warm cozy apartment evening light, portrait 9:16.",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-30T15:44:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\HGF-15.mp4",
+  "produced_at": "2026-03-30T16:22:27.929Z",
+  "publishedAt": "2026-04-01T18:12:24.311Z",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364"
+}

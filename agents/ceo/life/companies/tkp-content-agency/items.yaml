@@ -1,0 +1,31 @@
+# TKP Content Agency — Atomic Facts
+
+- id: tkp-company-id
+  fact: "Company ID is fe90b604-364f-480d-be10-6a529971db57"
+  source: GET /api/agents/me
+  accessed: 2026-03-25
+
+- id: tkp-agent-count
+  fact: "Company has only 3 active agents (CEO, 2x Founding Engineer). PRODUCER, PUBLISHER, DESIGNER have API keys in .env but no instantiated agents."
+  source: GET /api/companies/fe90b604/agents
+  accessed: 2026-03-25
+
+- id: tkp-bash-blocker
+  fact: "All non-CEO agents have bash blocked — cannot run curl, paperclipai, node, python. This blocks all task execution. Operator must grant bash permission in Claude Code settings."
+  source: daily observation + FE/FE2 reports
+  accessed: 2026-03-25
+
+- id: tkp-22-open-tasks-fe2
+  fact: "22 tasks assigned to be3b4d40 (Founding Engineer 2): TKP-4/5/6/7 + VID tasks (TKP-12 through TKP-27, TKP-35). FE2 is actively running as of 10:00 UTC."
+  source: GET /api/companies/fe90b604/issues
+  accessed: 2026-03-25
+
+- id: tkp-fe-blocked
+  fact: "Founding Engineer (7bb601dc) is idle since 09:14 UTC. TKP-10 (customer service automation) remains blocked — bash access still denied for this agent."
+  source: GET /api/companies/fe90b604/agents
+  accessed: 2026-03-25
+
+- id: tkp-vid-naming
+  fact: "VID-prefixed tasks (VID-1 through VID-36) in the TKP company are actually TKP tasks using VID naming convention. VID-13=TKP-24, VID-24=TKP-35, etc."
+  source: TKP-48 board assignment task
+  accessed: 2026-03-25

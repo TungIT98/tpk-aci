@@ -1,0 +1,95 @@
+ffmpeg version 2025-12-01-git-7043522fe0-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-cairo --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-openal --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      60. 19.101 / 60. 19.101
+  libavcodec     62. 21.100 / 62. 21.100
+  libavformat    62.  6.103 / 62.  6.103
+  libavdevice    62.  2.100 / 62.  2.100
+  libavfilter    11. 10.101 / 11. 10.101
+  libswscale      9.  3.100 /  9.  3.100
+  libswresample   6.  2.100 /  6.  2.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot1_scaled.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.6.103
+  Duration: 00:00:06.00, start: 0.000000, bitrate: 5612 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 5605 kb/s, SAR 10240:10239 DAR 1920:3413, 50 fps, 50 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc62.21.100 libx264
+      timecode        : 21:57:26:40
+  Stream #0:1[0x2](eng): Data: none (tmcd / 0x64636D74), 0 kb/s
+    Metadata:
+      handler_name    : VideoHandler
+      timecode        : 21:57:26:40
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot2_scaled.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    date            : 2024/03/01 00:45:12
+    encoder         : Lavf62.6.103
+  Duration: 00:00:06.00, start: 0.000000, bitrate: 2816 kb/s
+  Stream #1:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 2812 kb/s, SAR 10240:10239 DAR 1920:3413, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc62.21.100 libx264
+Input #2, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot3_scaled.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.6.103
+  Duration: 00:00:06.00, start: 0.000000, bitrate: 1902 kb/s
+  Stream #2:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt709/smpte170m, progressive), 1080x1920, 1896 kb/s, 50 fps, 50 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : VideoHandle
+      encoder         : Lavc62.21.100 libx264
+Input #3, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot4_scaled.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.6.103
+  Duration: 00:00:06.00, start: 0.000000, bitrate: 2913 kb/s
+  Stream #3:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920, 2910 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+    Metadata:
+      handler_name    : L-SMASH Video Handler
+      encoder         : Lavc62.21.100 libx264
+Input #4, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\PC\.paperclip\instances\default\workspaces\TKP_ACI\output_topic\tmp\XIANYX-34\shot5_scaled.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.6.103
+  Duration: 00:00:06.01, start: 0.000000, bitrate: 7050 kb/s
+  Stream #4:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 7046 kb/s, SAR 10240:10239 DAR 1920:3413, 29.97 fps, 29.97 tbr, 30k tbn (default)
+    Metadata:
+      handler_name    : Core Media Video
+      encoder         : Lavc62.21.100 libx264
+      timecode        : 00:00:00:00
+  Stream #4:1[0x2](eng): Data: none (tmcd / 0x64636D74), 0 kb/s
+    Metadata:
+      handler_name    : Core Media Video
+      timecode        : 00:00:00:00
+Stream mapping:
+  Stream #0:0 (h264) -> concat
+  Stream #1:0 (h264) -> concat
+  Stream #2:0 (h264) -> concat
+  Stream #3:0 (h264) -> concat
+  Stream #4:0 (h264) -> concat
+  concat:out:v0 -> Stream #0:0 (libx264)
+Press [q] to stop, [?] for help
+[Parsed_concat_0 @ 000001ede378ffc0] Input link in0:v0 parameters (size 1080x1920, SAR 0:1) do not match the corresponding output link in0:v0 parameters (1080x1920, SAR 10240:10239)
+[Parsed_concat_0 @ 000001ede378ffc0] Failed to configure output pad on Parsed_concat_0
+[fc#0 @ 000001ede2b37e80] Error reinitializing filters!
+[fc#0 @ 000001ede2b37e80] Task finished with error code: -22 (Invalid argument)
+[fc#0 @ 000001ede2b37e80] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001ede2b6df40] [enc:libx264 @ 000001ede2bf9340] Could not open encoder before EOF
+[vost#0:0/libx264 @ 000001ede2b6df40] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 000001ede2b6df40] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 000001ede2b6dc40] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:00.18    
+Conversion failed!

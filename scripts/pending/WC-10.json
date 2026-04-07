@@ -1,0 +1,31 @@
+{
+  "id": "WC-10",
+  "channel": "World Cup",
+  "title": "The Penalty Shootout is Killing Me 😰⚽",
+  "script": "One kick decides everything. The whole world is watching. The striker walks to the spot. Your heart is in your throat. Silence. The wind stops. The striker runs. And then — GOAL. You scream so loud your neighbors call. Or — saved. The heartbreak is physical. Penalty shootouts take years off your life. And we keep watching. Every single time. Because this is what football does to you.",
+  "prompt_for_hailuo": "Young woman with long brown hair, clutching her face in both hands, watching intently as a striker approaches the penalty spot [Push in on her intensely focused face, eyes wide, mouth slightly open]. She collapses forward in pure relief as the ball hits the net — she screams with hands thrown up [Tracking shot following her explosive reaction]. Second clip: Goalkeeper dives — she throws both fists in the air in triumph [Wide shot of her at the bar area of stadium, arms raised, roaring]. Stadium packed with tense fans behind her, penalty spot lit in dramatic spotlight, slow motion feel, blue and white jersey, cinematic stadium night lighting, 9:16 portrait.",
+  "duration_seconds": 6,
+  "resolution": "1080P",
+  "tags": [
+    "worldcup",
+    "football",
+    "penalty",
+    "shootout",
+    "tension",
+    "drama",
+    "soccer"
+  ],
+  "thumbnail_idea": "Woman with face in both hands, intense expression, penalty spot lit in background, stadium filled behind her",
+  "visual_scene": "A packed World Cup stadium at night, penalty spot lit in dramatic white spotlight against the dark pitch, tense silent atmosphere, slow motion tension. Young woman with long brown hair sitting or standing in the stadium bar area surrounded by tense fans gripping the railing, clutching her face in both hands watching intently as the striker approaches the penalty spot, eyes wide, mouth slightly open. Then she collapses forward in pure relief as the ball hits the net — screaming with hands thrown up in triumph. Next moment: goalkeeper dives the wrong way, she throws both fists in the air roaring, arms raised high, blue and white jersey visible, stadium crowd erupting behind her, portrait 9:16 framing.",
+  "negative_prompt": "generic anime or cartoon style, animated or illustrated characters, distorted hands or fingers, blurry or low resolution output, text overlays or captions, logos or watermarks, still or static frame, landscape orientation, daylight scene, muted desaturated colors, happy celebration mood, empty stadium seats",
+  "status": "published",
+  "created_by": "Content Director",
+  "created_at": "2026-03-27T13:30:00Z",
+  "published_at": "2026-03-29T00:00:00Z",
+  "video_path": "C:\\Users\\PC\\.paperclip\\instances\\default\\workspaces\\TKP_ACI\\output_topic\\videos\\WC-10.mp4",
+  "youtube_url": "https://youtube.com/shorts/ZvPUSUX17rc",
+  "tiktok_url": "https://www.tiktok.com/@thanhtungtran364",
+  "produced_at": "2026-03-30T14:25:00Z",
+  "specific_details": "Young woman with long brown hair tied back with a scrunchie wearing her national team jersey sitting on the edge of her couch gripping a cushion with white knuckles, eyes wide and locked on the penalty spot on the pitch in a packed World Cup stadium at night dramatically lit with the penalty spot illuminated in intense white spotlight against the dark surrounding pitch creating stark contrast, tens of thousands of silent fans surrounding her in the living room all frozen in absolute tension, close-up on her face showing visible physical stress — jaw clenched, breath held, knuckles white on the cushion — as the striker begins the run-up in ultra slow motion, set in a packed World Cup stadium at night with penalty spot lit in dramatic white spotlight against dark pitch and ultra slow motion tension atmosphere, portrait 9:16 framing.",
+  "publishedAt": "2026-04-01T18:12:24.311Z"
+}
