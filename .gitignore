@@ -1,0 +1,94 @@
+# ===================
+# CREDENTIALS & SECRETS - NEVER COMMIT
+# ===================
+.env
+.env.*
+.env.local
+*.pem
+*.key
+credentials.json
+
+# MCP config (contains API tokens)
+.mcp.json
+
+# Session files (contain auth tokens)
+.hailuo-session*
+.tiktok-session*
+.youtube-session*
+facebook-session*
+linkedin-session*
+
+# ===================
+# LARGE MEDIA FILES
+# ===================
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Audio files
+*.mp3
+*.wav
+*.m4a
+*.ogg
+
+# Images (screenshots, thumbnails - too large)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+!assets/*.png
+!assets/*.jpg
+
+# ===================
+# DEPENDENCIES & BUILDS
+# ===================
+node_modules/
+package-lock.json
+npm-debug.log*
+
+.next/
+out/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# ===================
+# LOGS & TEMP
+# ===================
+*.log
+logs/
+*.sqlite
+*.db
+nul
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude (local settings)
+.claude/
+
+# ===================
+# KEEP THESE
+# ===================
+# Keep structure folders
+agents/
+assets/
+content/
+scripts/
+series/
+output/
+projects/
